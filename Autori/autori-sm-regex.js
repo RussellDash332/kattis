@@ -1,0 +1,1 @@
+print(readline().match(/[A-Z]/g).join(''));
