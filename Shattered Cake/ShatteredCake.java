@@ -10,9 +10,7 @@ public class ShatteredCake {
         int area = 0;
         for (int i = 0; i < n; i++) {
             String[] nums = sc.readLine().split(" ");
-            int a = Integer.parseInt(nums[0]);
-            int b = Integer.parseInt(nums[1]);
-            area += a*b;
+            area += Integer.parseInt(nums[0])*Integer.parseInt(nums[1]);
         }
         writer.println(area/w);
         writer.flush();
