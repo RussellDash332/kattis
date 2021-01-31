@@ -7,17 +7,18 @@ public class Skener {
         PrintWriter writer = new PrintWriter(System.out);
         String[] nums = sc.readLine().split(" ");
         int r = Integer.parseInt(nums[0]);
-        int c = Integer.parseInt(nums[1]);
         int zr = Integer.parseInt(nums[2]);
         int zc = Integer.parseInt(nums[3]);
         for (int i = 0; i < r; i++){
             String row = sc.readLine();
-            String zrow = "";
-            for (int j = 0; j < c; j++) {
-                zrow += row.substring(j,j+1).repeat(zc);
-            }
             for (int k = 0; k < zr; k++) {
-                writer.println(zrow);
+                for (int j = 0; j < row.length(); j++) {
+                    String sub = row.substring(j,j+1);
+                    for (int m = 0; m < zc; m++) {
+                        writer.print(sub);
+                }
+            }
+            writer.println();   
             }
         }
         writer.flush();

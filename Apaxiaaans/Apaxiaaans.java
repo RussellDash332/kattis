@@ -6,10 +6,11 @@ public class Apaxiaaans {
         BufferedReader sc = new BufferedReader(inp);
         PrintWriter writer = new PrintWriter(System.out);
         String name = sc.readLine();
-        String result = name.substring(0,1);
+        String result = Character.toString(name.charAt(0));
         for (int i = 1; i < name.length(); i++) {
-            if (!result.substring(result.length()-1,result.length()).equals(name.substring(i,i+1))) {
-                result += name.substring(i,i+1);
+            char test = name.charAt(i);
+            if (!(result.charAt(result.length()-1)==test)) {
+                result += test;
             }
         }
         writer.println(result);
