@@ -6,14 +6,14 @@ public class Apaxiaaans {
         BufferedReader sc = new BufferedReader(inp);
         PrintWriter writer = new PrintWriter(System.out);
         String name = sc.readLine();
-        String result = Character.toString(name.charAt(0));
-        for (int i = 1; i < name.length(); i++) {
+        char previous = ' ';
+        for (int i = 0; i < name.length(); i++) {
             char test = name.charAt(i);
-            if (!(result.charAt(result.length()-1)==test)) {
-                result += test;
+            if (!(previous == test)) {
+                writer.print(test);
             }
+            previous = test;
         }
-        writer.println(result);
         writer.flush();
     }
 }
