@@ -7,8 +7,11 @@ public class Template {
         BufferedReader sc = new BufferedReader(inp);
         PrintWriter writer = new PrintWriter(System.out);
         
+        // frequently used formats
         int queries = Integer.parseInt(sc.readLine()); // usually the number of test cases
-        
+        String[] line = sc.readLine().split(" ");
+        int n = Integer.parseInt(line[0]);
+
         // code here
 
         writer.flush();
