@@ -1,5 +1,5 @@
 import java.io.*;
-import java.util.*; // only if using List ADT
+import java.util.*; // only if using sequence ADTs, like lists/maps
 
 public class Template {
     public static void main(String[] args) throws IOException {
