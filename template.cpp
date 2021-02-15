@@ -1,6 +1,7 @@
 #include <iostream>
 #include <math.h> // for math functions
 #include <string> // for string functions
+#include <sstream> // for stringstream
 #include <algorithm> // for finding functions
 #include <stack> // for stack implementations
 #include <set> // for set implementations
