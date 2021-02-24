@@ -8,7 +8,7 @@ public class Template { // always change the name of the public class!
         PrintWriter writer = new PrintWriter(System.out);
         
         int n = Integer.parseInt(sc.readLine());
-        while (n--) { // one time use of n, e.g. number of test cases
+        while (n-- > 0) { // one time use of n, e.g. number of test cases
             String[] line = sc.readLine().split(" ");
             int k = Integer.parseInt(line[0]);
             String p = line[1];
