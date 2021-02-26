@@ -11,8 +11,7 @@ using namespace std;
 
 int main()
 {
-    int n;
-    int ans;
+    int n, ans;
     cin >> n;
 
     while (n--) {
