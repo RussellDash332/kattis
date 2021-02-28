@@ -7,6 +7,8 @@
 #include <set> // for set implementations
 #include <map> // for map implementations
 #include <vector> // for vector implementations
+#include <utility> // for pair implementations
+#include <iomanip> // for precision in cout
 using namespace std;
 
 int main()
