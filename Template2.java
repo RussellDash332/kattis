@@ -16,14 +16,6 @@ public class Template { // always change the name of the public class!
             bufferPointer = bytesRead = 0;
         }
  
-        public Reader(String file_name) throws IOException
-        {
-            din = new DataInputStream(
-                new FileInputStream(file_name));
-            buffer = new byte[BUFFER_SIZE];
-            bufferPointer = bytesRead = 0;
-        }
- 
         public String readLine() throws IOException
         {
             byte[] buf = new byte[64]; // line length
@@ -116,13 +108,6 @@ public class Template { // always change the name of the public class!
             if (bufferPointer == bytesRead)
                 fillBuffer();
             return buffer[bufferPointer++];
-        }
- 
-        public void close() throws IOException
-        {
-            if (din == null)
-                return;
-            din.close();
         }
     }
     
