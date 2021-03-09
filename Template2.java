@@ -47,7 +47,6 @@ public class Template { // always change the name of the public class!
             do {
                 ret = ret * 10 + c - '0';
             } while ((c = read()) >= '0' && c <= '9');
- 
             if (neg)
                 return -ret;
             return ret;
@@ -79,17 +78,14 @@ public class Template { // always change the name of the public class!
             boolean neg = (c == '-');
             if (neg)
                 c = read();
- 
             do {
                 ret = ret * 10 + c - '0';
             } while ((c = read()) >= '0' && c <= '9');
- 
             if (c == '.') {
                 while ((c = read()) >= '0' && c <= '9') {
                     ret += (c - '0') / (div *= 10);
                 }
             }
-
             if (neg)
                 return -ret;
             return ret;
