@@ -8,14 +8,14 @@ public class Template { // always change the name of the public class!
         private DataInputStream din;
         private byte[] buffer;
         private int bufferPointer, bytesRead;
- 
+
         public Reader()
         {
             din = new DataInputStream(System.in);
             buffer = new byte[BUFFER_SIZE];
             bufferPointer = bytesRead = 0;
         }
- 
+
         public String readLine() throws IOException
         {
             byte[] buf = new byte[64]; // line length
@@ -33,7 +33,7 @@ public class Template { // always change the name of the public class!
             }
             return new String(buf, 0, cnt);
         }
- 
+
         public int nextInt() throws IOException
         {
             int ret = 0;
@@ -52,7 +52,7 @@ public class Template { // always change the name of the public class!
                 return -ret;
             return ret;
         }
- 
+
         public long nextLong() throws IOException
         {
             long ret = 0;
@@ -69,7 +69,7 @@ public class Template { // always change the name of the public class!
                 return -ret;
             return ret;
         }
- 
+
         public double nextDouble() throws IOException
         {
             double ret = 0, div = 1;
@@ -89,12 +89,12 @@ public class Template { // always change the name of the public class!
                     ret += (c - '0') / (div *= 10);
                 }
             }
- 
+
             if (neg)
                 return -ret;
             return ret;
         }
- 
+
         private void fillBuffer() throws IOException
         {
             bytesRead = din.read(buffer, bufferPointer = 0,
@@ -102,7 +102,7 @@ public class Template { // always change the name of the public class!
             if (bytesRead == -1)
                 buffer[0] = -1;
         }
- 
+
         private byte read() throws IOException
         {
             if (bufferPointer == bytesRead)
