@@ -15,23 +15,6 @@ public class Template { // always change the name of the public class!
             bufferPointer = bytesRead = 0;
         }
 
-        public String readLine() throws IOException {
-            byte[] buf = new byte[64]; // line length
-            int cnt = 0, c;
-            while ((c = read()) != -1) {
-                if (c == '\n') {
-                    if (cnt != 0) {
-                        break;
-                    }
-                    else {
-                        continue;
-                    }
-                }
-                buf[cnt++] = (byte)c;
-            }
-            return new String(buf, 0, cnt);
-        }
-
         public int nextInt() throws IOException {
             int ret = 0;
             byte c = read();
@@ -84,6 +67,40 @@ public class Template { // always change the name of the public class!
             if (neg)
                 return -ret;
             return ret;
+        }
+
+        public String readWord() throws IOException {
+            byte[] buf = new byte[64]; // line length
+            int cnt = 0, c;
+            while ((c = read()) != -1) {
+                if (c == '\n' || c == ' ') {
+                    if (cnt != 0) {
+                        break;
+                    }
+                    else {
+                        continue;
+                    }
+                }
+                buf[cnt++] = (byte)c;
+            }
+            return new String(buf, 0, cnt);
+        }
+
+        public String readLine() throws IOException {
+            byte[] buf = new byte[64]; // line length
+            int cnt = 0, c;
+            while ((c = read()) != -1) {
+                if (c == '\n') {
+                    if (cnt != 0) {
+                        break;
+                    }
+                    else {
+                        continue;
+                    }
+                }
+                buf[cnt++] = (byte)c;
+            }
+            return new String(buf, 0, cnt);
         }
 
         private void fillBuffer() throws IOException {
