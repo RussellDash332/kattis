@@ -12,3 +12,5 @@ This repository is basically a tidier documentation of all my submissions to [Ka
     + [**template.cpp**](https://github.com/RussellDash332/kattis/tree/main/templates/template.cpp) is a much better and faster version than [**template-old.cpp**](https://github.com/RussellDash332/kattis/tree/main/templates/template-old.cpp). I will use the former from now on.
 
 That's all for now. 😊
+
+<img alt="C" src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/> <img alt="Ruby" src="https://img.shields.io/badge/ruby-%23CC342D.svg?&style=for-the-badge&logo=ruby&logoColor=white"/> <img alt="Kotlin" src="https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white"/> <img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
