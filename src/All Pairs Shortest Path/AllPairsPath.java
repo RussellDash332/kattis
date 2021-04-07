@@ -69,14 +69,14 @@ public class AllPairsPath {
             while (q-- > 0) {
                 int sp = graph.D[sc.nextInt()][sc.nextInt()];
                 if (sp == INF)
-                    System.out.println("Impossible");
+                    writer.println("Impossible");
                 else if (sp == -INF)
-                    System.out.println("-Infinity");
+                    writer.println("-Infinity");
                 else
-                    System.out.println(sp);
+                    writer.println(sp);
             }
 
-            System.out.println();
+            writer.println();
         }
     }
 }
