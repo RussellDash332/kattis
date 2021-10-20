@@ -1,6 +1,6 @@
-n, m = list(map(int, input().split(" ")))
-t = sorted(list(map(int, input().split(" "))))
-l = sorted(list(map(int, input().split(" "))))
+n, m = list(map(int, input().split()))
+t = sorted(list(map(int, input().split())))
+l = sorted(list(map(int, input().split())))
 
 ans = 0
 i, j = 0, 0
