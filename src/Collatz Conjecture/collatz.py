@@ -14,7 +14,7 @@ def collatz_distance(n):
 
 import sys
 for line in sys.stdin:
-    a,b = list(map(int,line.split(" ")))
+    a,b = list(map(int,line.split()))
     if a == 0 and b == 0:
         break
 

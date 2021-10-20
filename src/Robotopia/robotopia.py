@@ -6,7 +6,7 @@ def gcd(a,b):
     return a
 
 for line in sys.stdin:
-    r = line.split(" ")
+    r = line.split()
     if len(r) == 6:
         a,d,b,e,c,f = list(map(int,r))
 
