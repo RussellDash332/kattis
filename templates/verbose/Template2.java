@@ -3,6 +3,23 @@ import java.io.*;
 import java.util.*; // only if using sequence ADTs, like lists/maps
 
 public class Template { // always change the name of the public class!
+    public static void main(String[] args) throws IOException {
+        Reader sc = new Reader();
+        PrintWriter writer = new PrintWriter(System.out);
+        
+        int n = sc.nextInt();
+        while (n-- > 0) { // one time use of n, e.g. number of test cases
+            int k = sc.nextInt();
+            String p = sc.readLine();
+        }
+
+        // code here
+
+        writer.print();
+        writer.println();
+        writer.flush();
+    }
+
     static class Reader {
         final private int BUFFER_SIZE = 1 << 16;
         private DataInputStream din;
@@ -115,20 +132,5 @@ public class Template { // always change the name of the public class!
                 fillBuffer();
             return buffer[bufferPointer++];
         }
-    }
-    
-    public static void main(String[] args) throws IOException {
-        Reader sc = new Reader();
-        PrintWriter writer = new PrintWriter(System.out);
-        
-        int n = sc.nextInt();
-        while (n-- > 0) { // one time use of n, e.g. number of test cases
-            int k = sc.nextInt();
-            String p = sc.readLine();
-        }
-
-        // code here
-
-        writer.flush();
     }
 }
