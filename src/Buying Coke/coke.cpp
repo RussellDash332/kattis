@@ -53,7 +53,7 @@ int main() {
     cin >> q;
     while (q--) {
         cin >> b >> n1 >> n5 >> n10;
-        cout << dp(b, n5, n10, n1 + 5*n5 + 10*n10) << endl;
+        cout << dp(b, n5, n10, n1 + 5*n5 + 10*n10) << '\n';
     }
 
     return 0;

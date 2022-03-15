@@ -19,6 +19,11 @@ using pii = pair<int, int>;
 int main() {
     ios_base::sync_with_stdio(false); 
     cin.tie(NULL);
+    cout.tie(NULL);
+    
+    int q;
+    cin >> q;
+    cout << '\n';
 
     return 0;
 }
