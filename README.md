@@ -1,7 +1,7 @@
 # Kattis Solutions
 ![Visitors](https://count.getloli.com/get/@RussellDash332)
 
-## Total problems solved: 804
+## Total problems solved: 812
 
 This repository is basically a tidier documentation of all my submissions to [Kattis](https://open.kattis.com/).
 
