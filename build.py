@@ -1,9 +1,6 @@
-import os, requests
-
-use_requests = False
+import os
 
 file_whitelist = {'bnn_accuracy.py'}
-
 image_src = 'https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/' # hey this a credit!
 image_mapper = {
     'py':   'python',
