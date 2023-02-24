@@ -1,7 +1,7 @@
 # Kattis Solutions
 ![Visitors](https://count.getloli.com/get/@RussellDash332)
 
-## Total problems solved: 941
+## Total problems solved: 944
 
 Note that the table below is auto-generated. There might be slight inaccuracies.
 
@@ -349,6 +349,7 @@ Note that the table below is auto-generated. There might be slight inaccuracies.
 |[Get to Work](https://open.kattis.com/problems/gettowork)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Get%20to%20Work/gettowork.py)|
 |[Getting Gold](https://open.kattis.com/problems/gold)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Getting%20Gold/gold.py)|
 |[Ghost Leg](https://open.kattis.com/problems/ghostleg)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Ghost%20Leg/ghostleg.py)|
+|[Glasses Foggy, Mom's Spaghetti](https://open.kattis.com/problems/glassesfoggymomsspaghetti)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Glasses%20Foggy,%20Mom's%20Spaghetti/glassesfoggymomsspaghetti.py)|
 |[GlitchBot](https://open.kattis.com/problems/glitchbot)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/GlitchBot/glitchbot.py)|
 |[Goat Rope](https://open.kattis.com/problems/goatrope)|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Goat%20Rope/goatrope.cpp)|
 |[Goldbach's Conjecture](https://open.kattis.com/problems/goldbach2)|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Goldbach's%20Conjecture/goldbach2.cpp)|
@@ -439,6 +440,7 @@ Note that the table below is auto-generated. There might be slight inaccuracies.
 |[Jack-O'-Lantern Juxtaposition](https://open.kattis.com/problems/jackolanternjuxtaposition)|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Jack-O'-Lantern%20Juxtaposition/jackolanternjuxtaposition.cpp)|
 |[Jackpot](https://open.kattis.com/problems/jackpot)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Jackpot/jackpot.py)|
 |[Janitor Troubles](https://open.kattis.com/problems/janitortroubles)|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Janitor%20Troubles/janitortroubles.cpp)|
+|[Jazz It Up!](https://open.kattis.com/problems/jazzitup)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Jazz%20It%20Up!/jazzitup.py)|
 |[Jewelry Box](https://open.kattis.com/problems/jewelrybox)|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Jewelry%20Box/jewelrybox.cpp)|
 |[Job Expenses](https://open.kattis.com/problems/jobexpenses)|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Job%20Expenses/jobexpenses.cpp)|
 |[Jogging Trails](https://open.kattis.com/problems/joggingtrails)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Jogging%20Trails/joggingtrails.py)|
@@ -828,6 +830,7 @@ Note that the table below is auto-generated. There might be slight inaccuracies.
 |[Tima goes to Xentopia](https://open.kattis.com/problems/xentopia)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Tima%20goes%20to%20Xentopia/xentopia.py)|
 |[Time Travelling Temperatures](https://open.kattis.com/problems/temperature)|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Time%20Travelling%20Temperatures/temperature.cpp)|
 |[Timebomb](https://open.kattis.com/problems/timebomb)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Timebomb/timebomb.py)|
+|[Title Cost](https://open.kattis.com/problems/titlecost)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Title%20Cost/titlecost.py)|
 |[ToLower](https://open.kattis.com/problems/tolower)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/ToLower/tolower.py)|
 |[Torn to Pieces](https://open.kattis.com/problems/torn2pieces)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Torn%20to%20Pieces/torn2pieces.py)|
 |[Touchscreen Keyboard](https://open.kattis.com/problems/touchscreenkeyboard)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Touchscreen%20Keyboard/touchscreenkeyboard.py)|
