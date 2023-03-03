@@ -1,7 +1,7 @@
 # Kattis Solutions
 ![Visitors](https://count.getloli.com/get/@RussellDash332)
 
-## Total problems solved: 949
+## Total problems solved: 950
 
 Note that the table below is auto-generated. There might be slight inaccuracies.
 
@@ -518,6 +518,7 @@ Note that the table below is auto-generated. There might be slight inaccuracies.
 |[Math Homework](https://open.kattis.com/problems/mathhomework)|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Math%20Homework/mathhomework.cpp)|
 |[Math Worksheet](https://open.kattis.com/problems/mathworksheet)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Math%20Worksheet/mathworksheet.py)|
 |[Matrix Inverse](https://open.kattis.com/problems/matrix)|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Matrix%20Inverse/matrix.cpp)|
+|[Max Arithmetic Subsequence](https://open.kattis.com/problems/maxarithmeticsubsequence)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Max%20Arithmetic%20Subsequence/maxarithmeticsubsequence.py)|
 |[Maximum Flow](https://open.kattis.com/problems/maxflow)|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Maximum%20Flow/maxflow.cpp)|
 |[Maximum Rent](https://open.kattis.com/problems/maximumrent)|[![java](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/java/java_24x24.png)](src/Maximum%20Rent/MaximumRent.java)[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Maximum%20Rent/maximumrent.py)|
 |[Mega Inversions](https://open.kattis.com/problems/megainversions)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Mega%20Inversions/megainversions.py)|
