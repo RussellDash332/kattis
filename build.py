@@ -29,6 +29,9 @@ for path, dirs, files in os.walk('src'):
         if ext in image_mapper: hyps.append(f"[![{ext}]({get_image(ext)})]({ori_path}/{file})")
         if not has_cpp and ext == 'cpp': has_cpp = file
         if not has_py and file not in file_whitelist and ext == 'py': has_py = file
+
+    if path == '99 Problems (2)': has_py = has_cpp = '99problems2'
+
     if has_py or has_cpp: url = f"https://open.kattis.com/problems/{(has_py or has_cpp).split('.')[0]}"
     else: url = f"https://open.kattis.com/search?q={path.replace(' ','%20')}"
     
