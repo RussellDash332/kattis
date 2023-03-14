@@ -1,7 +1,7 @@
 # Kattis Solutions
 ![Visitors](https://count.getloli.com/get/@RussellDash332)
 
-## Total problems solved: 950
+## Total problems solved: 953
 
 Note that the table below is auto-generated. There might be slight inaccuracies.
 
@@ -380,6 +380,7 @@ Note that the table below is auto-generated. There might be slight inaccuracies.
 |[Han](https://open.kattis.com/search?q=Han)|[![java](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/java/java_24x24.png)](src/Han/Han.java)|
 |[Hanging Out on the Terrace](https://open.kattis.com/problems/hangingout)|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Hanging%20Out%20on%20the%20Terrace/hangingout.cpp)|
 |[Hangman](https://open.kattis.com/problems/hangman)|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Hangman/hangman.cpp)|
+|[Happy Happy Prime Prime](https://open.kattis.com/problems/happyprime)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Happy%20Happy%20Prime%20Prime/happyprime.py)|
 |[Hard Drive](https://open.kattis.com/problems/harddrive)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Hard%20Drive/harddrive.py)|
 |[Hardware](https://open.kattis.com/problems/hardware)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Hardware/hardware.py)|
 |[Harshad Numbers](https://open.kattis.com/problems/harshadnumbers)|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Harshad%20Numbers/harshadnumbers.cpp)|
@@ -413,6 +414,7 @@ Note that the table below is auto-generated. There might be slight inaccuracies.
 |[Hurricane Danger!](https://open.kattis.com/problems/hurricanedanger)|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Hurricane%20Danger!/hurricanedanger.cpp)|
 |[Hydra's Heads](https://open.kattis.com/problems/hydrasheads)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Hydra's%20Heads/hydrasheads.py)|
 |[I Hate The Number Nine](https://open.kattis.com/problems/nine)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/I%20Hate%20The%20Number%20Nine/nine.py)|
+|[I Repeat Myself I Repeat Myself I Repeat](https://open.kattis.com/problems/irepeatmyself)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/I%20Repeat%20Myself%20I%20Repeat%20Myself%20I%20Repeat/irepeatmyself.py)|
 |[I've Been Everywhere, Man](https://open.kattis.com/problems/everywhere)|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/I've%20Been%20Everywhere,%20Man/everywhere.cpp)|
 |[ICPC Awards](https://open.kattis.com/problems/icpcawards)|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/ICPC%20Awards/icpcawards.cpp)[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/ICPC%20Awards/icpcawards.py)|
 |[ICPC Tutorial](https://open.kattis.com/problems/tutorial)|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/ICPC%20Tutorial/tutorial.cpp)|
@@ -553,6 +555,7 @@ Note that the table below is auto-generated. There might be slight inaccuracies.
 |[Mult!](https://open.kattis.com/problems/mult)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Mult!/mult.py)|
 |[Multi-Class Binary Neural Network for Handwritten Digits](https://open.kattis.com/problems/mnist10class)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Multi-Class%20Binary%20Neural%20Network%20for%20Handwritten%20Digits/bnn_accuracy.py)[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Multi-Class%20Binary%20Neural%20Network%20for%20Handwritten%20Digits/mnist10class.py)|
 |[Multigram](https://open.kattis.com/problems/multigram)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Multigram/multigram.py)|
+|[Multiplication Table](https://open.kattis.com/problems/multtable)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Multiplication%20Table/multtable.py)|
 |[Musical Notation](https://open.kattis.com/problems/musicalnotation)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Musical%20Notation/musicalnotation.py)|
 |[Musical Scales](https://open.kattis.com/problems/musicalscales)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Musical%20Scales/musicalscales.py)|
 |[Mårten's Theorem](https://open.kattis.com/problems/more10)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Mårten's%20Theorem/more10.py)|
