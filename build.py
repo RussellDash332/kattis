@@ -41,8 +41,11 @@ for path, dirs, files in os.walk('src'):
     else:
         contents.append(f"|[{path}]({url})|{''.join(hyps).replace(' ','%20')}|\n")
 
-lines = open('README.md', 'r').readlines()[:6] + ['\n']
+HIDDEN = 18
+lines = open('README.md', 'r').readlines()[:3]
 with open('README.md', 'w+') as f:
     for line in lines: f.write(line)
+    f.write(f'## Total problems solved: {len(contents) + HIDDEN}\n\n')
+    f.write(f'Note that the table below is auto-generated. There might be slight inaccuracies.\n\n')
     f.write('|Problem Name|Languages|\n|:---|:---|\n')
     for content in sorted(contents): f.write(content)
