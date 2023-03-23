@@ -1,7 +1,7 @@
 # Kattis Solutions
 ![Visitors](https://count.getloli.com/get/@RussellDash332)
 
-## Total problems solved: 957
+## Total problems solved: 959
 
 Note that the table below is auto-generated. There might be slight inaccuracies.
 
@@ -26,6 +26,7 @@ Note that the table below is auto-generated. There might be slight inaccuracies.
 |[A Real Challenge](https://open.kattis.com/problems/areal)|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/A%20Real%20Challenge/areal.cpp)|
 |[A Vicious Pikeman (Easy)](https://open.kattis.com/problems/pikemaneasy)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/A%20Vicious%20Pikeman%20(Easy)/pikemaneasy.py)|
 |[A+B Problem](https://open.kattis.com/problems/aplusb)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/A+B%20Problem/aplusb.py)|
+|[A1 Paper](https://open.kattis.com/problems/a1paper)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/A1%20Paper/a1paper.py)|
 |[ABC](https://open.kattis.com/problems/abc)|[![java](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/java/java_24x24.png)](src/ABC/ABC.java)[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/ABC/abc.cpp)|
 |[ACM Contest Scoring](https://open.kattis.com/problems/acm)|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/ACM%20Contest%20Scoring/acm.cpp)|
 |[ASCII Addition](https://open.kattis.com/problems/asciiaddition)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/ASCII%20Addition/asciiaddition.py)|
@@ -146,6 +147,7 @@ Note that the table below is auto-generated. There might be slight inaccuracies.
 |[Bus](https://open.kattis.com/problems/bus)|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Bus/bus.cpp)|
 |[Button Bashing](https://open.kattis.com/problems/buttonbashing)|[![java](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/java/java_24x24.png)](src/Button%20Bashing/ButtonBashing.java)[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Button%20Bashing/buttonbashing.py)|
 |[Buying Coke](https://open.kattis.com/problems/coke)|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Buying%20Coke/coke.cpp)|
+|[CD](https://open.kattis.com/problems/cd)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/CD/cd.py)|
 |[CPR Number](https://open.kattis.com/problems/cprnummer)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/CPR%20Number/cprnummer.py)|
 |[Cakey McCakeFace](https://open.kattis.com/problems/cakeymccakeface)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Cakey%20McCakeFace/cakeymccakeface.py)|
 |[Calculating Dart Scores](https://open.kattis.com/problems/calculatingdartscores)|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Calculating%20Dart%20Scores/calculatingdartscores.cpp)|
