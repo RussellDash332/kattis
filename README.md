@@ -1,7 +1,7 @@
 # Kattis Solutions
 ![Visitors](https://count.getloli.com/get/@RussellDash332)
 
-## Total problems solved: 959
+## Total problems solved: 961
 
 Note that the table below is auto-generated. There might be slight inaccuracies.
 
@@ -110,6 +110,7 @@ Note that the table below is auto-generated. There might be slight inaccuracies.
 |[Binary Heap](https://open.kattis.com/problems/heap)|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Binary%20Heap/heap.cpp)|
 |[Birds on a Wire](https://open.kattis.com/problems/birds)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Birds%20on%20a%20Wire/birds.py)|
 |[Birthday Memorization](https://open.kattis.com/problems/fodelsedagsmemorisering)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Birthday%20Memorization/fodelsedagsmemorisering.py)|
+|[Birthday Paradox](https://open.kattis.com/problems/birthdayparadox)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Birthday%20Paradox/birthdayparadox.py)|
 |[Bishops](https://open.kattis.com/problems/bishops)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Bishops/bishops.py)|
 |[Bit by Bit](https://open.kattis.com/problems/bitbybit)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Bit%20by%20Bit/bitbybit.py)|
 |[Black Friday](https://open.kattis.com/problems/blackfriday)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Black%20Friday/blackfriday.py)|
@@ -191,6 +192,7 @@ Note that the table below is auto-generated. There might be slight inaccuracies.
 |[Collatz Conjecture (2)](https://open.kattis.com/problems/collatzconjecture)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Collatz%20Conjecture%20(2)/collatzconjecture.py)|
 |[Collatz Conjecture](https://open.kattis.com/problems/collatz)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Collatz%20Conjecture/collatz.py)|
 |[Colorland](https://open.kattis.com/problems/colorland)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Colorland/colorland.py)|
+|[Common Factors](https://open.kattis.com/problems/commonfactors)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Common%20Factors/commonfactors.py)|
 |[Completing the Square](https://open.kattis.com/problems/completingthesquare)|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Completing%20the%20Square/completingthesquare.cpp)|
 |[Compound Words](https://open.kattis.com/problems/compoundwords)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Compound%20Words/compoundwords.py)|
 |[Conga Line](https://open.kattis.com/problems/congaline)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Conga%20Line/congaline.py)|
