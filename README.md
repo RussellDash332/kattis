@@ -1,7 +1,7 @@
 # Kattis Solutions
 ![Visitors](https://count.getloli.com/get/@RussellDash332)
 
-## Total problems solved: 973
+## Total problems solved: 977
 
 Note that the table below is auto-generated. There might be slight inaccuracies.
 
@@ -244,6 +244,7 @@ Note that the table below is auto-generated. There might be slight inaccuracies.
 |[Datum](https://open.kattis.com/problems/datum)|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Datum/datum.cpp)|
 |[Death Knight Hero](https://open.kattis.com/problems/deathknight)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Death%20Knight%20Hero/deathknight.py)|
 |[Deathstar](https://open.kattis.com/problems/deathstar)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Deathstar/deathstar.py)|
+|[Debugging](https://open.kattis.com/problems/debugging)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Debugging/debugging.py)|
 |[Deceptive Dice](https://open.kattis.com/problems/deceptivedice)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Deceptive%20Dice/deceptivedice.py)|
 |[Deduplicating Files](https://open.kattis.com/problems/deduplicatingfiles)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Deduplicating%20Files/deduplicatingfiles.py)|
 |[Dejavu](https://open.kattis.com/problems/dejavu)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Dejavu/dejavu.py)|
@@ -465,6 +466,7 @@ Note that the table below is auto-generated. There might be slight inaccuracies.
 |[Inquiry I](https://open.kattis.com/problems/inquiryi)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Inquiry%20I/inquiryi.py)|
 |[Integer Division](https://open.kattis.com/problems/integerdivision)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Integer%20Division/integerdivision.py)|
 |[Integer Lists](https://open.kattis.com/search?q=Integer%20Lists)|[![java](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/java/java_24x24.png)](src/Integer%20Lists/IntegerLists.java)|
+|[Intelligence Infection](https://open.kattis.com/problems/intelligenceinfection)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Intelligence%20Infection/intelligenceinfection.py)|
 |[Interesting Integers](https://open.kattis.com/problems/interestingintegers)|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Interesting%20Integers/interestingintegers.cpp)|
 |[Intergalactic Bidding](https://open.kattis.com/problems/intergalacticbidding)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Intergalactic%20Bidding/intergalacticbidding.py)|
 |[Intergalactic Mortgage](https://open.kattis.com/problems/mortgage)|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Intergalactic%20Mortgage/mortgage.cpp)|
@@ -638,6 +640,7 @@ Note that the table below is auto-generated. There might be slight inaccuracies.
 |[Out of Sorts](https://open.kattis.com/problems/outofsorts)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Out%20of%20Sorts/outofsorts.py)|
 |[OvalWatch](https://open.kattis.com/problems/ovalwatch)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/OvalWatch/ovalwatch.py)|
 |[Overdraft](https://open.kattis.com/problems/overdraft)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Overdraft/overdraft.py)|
+|[Pachinko Probability](https://open.kattis.com/problems/pachinkoprobability)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Pachinko%20Probability/pachinkoprobability.py)|
 |[Pachyderm Peanut Packing](https://open.kattis.com/problems/pachydermpeanutpacking)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Pachyderm%20Peanut%20Packing/pachydermpeanutpacking.py)|
 |[Paper Snowflakes](https://open.kattis.com/problems/papersnowflakes)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Paper%20Snowflakes/papersnowflakes.py)|
 |[Paradox With Averages (Hard)](https://open.kattis.com/problems/averageshard)|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Paradox%20With%20Averages%20(Hard)/averageshard.cpp)|
@@ -777,6 +780,7 @@ Note that the table below is auto-generated. There might be slight inaccuracies.
 |[Shopping List (Easy)](https://open.kattis.com/problems/shoppinglisteasy)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Shopping%20List%20(Easy)/shoppinglisteasy.py)[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Shopping%20List%20(Easy)/shoppinglisteasy2.py)[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Shopping%20List%20(Easy)/shoppinglisteasy3.py)|
 |[Shopping List](https://open.kattis.com/problems/shoppinglist)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Shopping%20List/shoppinglist.py)|
 |[Shopping Malls](https://open.kattis.com/problems/shoppingmalls)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Shopping%20Malls/shoppingmalls.py)|
+|[Short Sell](https://open.kattis.com/problems/shortsell)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Short%20Sell/shortsell.py)|
 |[Sibice](https://open.kattis.com/problems/sibice)|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Sibice/sibice.cpp)|
 |[Sideways Sorting](https://open.kattis.com/problems/sidewayssorting)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Sideways%20Sorting/sidewayssorting.py)|
 |[Sierpiński Circumference](https://open.kattis.com/problems/triangle)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Sierpiński%20Circumference/triangle.py)|
