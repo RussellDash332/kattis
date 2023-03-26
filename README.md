@@ -1,7 +1,7 @@
 # Kattis Solutions
 ![Visitors](https://count.getloli.com/get/@RussellDash332)
 
-## Total problems solved: 977
+## Total problems solved: 979
 
 Note that the table below is auto-generated. There might be slight inaccuracies.
 
@@ -403,6 +403,7 @@ Note that the table below is auto-generated. There might be slight inaccuracies.
 |[Grid](https://open.kattis.com/problems/grid)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Grid/grid.py)|
 |[Growling Gears](https://open.kattis.com/problems/growlinggears)|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Growling%20Gears/growlinggears.cpp)|
 |[Guess The Number](https://open.kattis.com/problems/guess)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Guess%20The%20Number/guess.py)|
+|[Guessing Camels](https://open.kattis.com/problems/camels)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Guessing%20Camels/camels.py)|
 |[Guessing Game](https://open.kattis.com/problems/guessinggame)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Guessing%20Game/guessinggame.py)|
 |[Hailstone Sequences](https://open.kattis.com/problems/hailstone2)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Hailstone%20Sequences/hailstone2.py)|
 |[Half a Cookie](https://open.kattis.com/problems/halfacookie)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Half%20a%20Cookie/halfacookie.py)|
@@ -488,6 +489,7 @@ Note that the table below is auto-generated. There might be slight inaccuracies.
 |[Jackpot](https://open.kattis.com/problems/jackpot)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Jackpot/jackpot.py)|
 |[Janitor Troubles](https://open.kattis.com/problems/janitortroubles)|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Janitor%20Troubles/janitortroubles.cpp)|
 |[Jazz It Up!](https://open.kattis.com/problems/jazzitup)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Jazz%20It%20Up!/jazzitup.py)|
+|[Jelly Raid](https://open.kattis.com/problems/jellyraid)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Jelly%20Raid/jellyraid.py)|
 |[Jewelry Box](https://open.kattis.com/problems/jewelrybox)|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Jewelry%20Box/jewelrybox.cpp)|
 |[Job Expenses](https://open.kattis.com/problems/jobexpenses)|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Job%20Expenses/jobexpenses.cpp)|
 |[Jogging Trails](https://open.kattis.com/problems/joggingtrails)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Jogging%20Trails/joggingtrails.py)|
