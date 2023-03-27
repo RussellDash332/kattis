@@ -1,7 +1,7 @@
 # Kattis Solutions
 ![Visitors](https://count.getloli.com/get/@RussellDash332)
 
-## Total problems solved: 979
+## Total problems solved: 982
 
 Note that the table below is auto-generated. There might be slight inaccuracies.
 
@@ -41,6 +41,7 @@ Note that the table below is auto-generated. There might be slight inaccuracies.
 |[Add 'Em Up!](https://open.kattis.com/problems/addemup)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Add%20'Em%20Up!/addemup.py)|
 |[Add Two Numbers](https://open.kattis.com/problems/addtwonumbers)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Add%20Two%20Numbers/addtwonumbers.py)|
 |[Adding Words](https://open.kattis.com/problems/addingwords)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Adding%20Words/addingwords.py)|
+|[Adjoin The Networks](https://open.kattis.com/problems/adjoin)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Adjoin%20The%20Networks/adjoin.py)|
 |[Ads](https://open.kattis.com/problems/ads)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Ads/ads.py)[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Ads/ads2.py)|
 |[Agamemnon's Odyssey](https://open.kattis.com/problems/agamemnonsodyssey)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Agamemnon's%20Odyssey/agamemnonsodyssey.py)|
 |[Air Conditioned Minions](https://open.kattis.com/problems/airconditioned)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Air%20Conditioned%20Minions/airconditioned.py)|
@@ -348,6 +349,7 @@ Note that the table below is auto-generated. There might be slight inaccuracies.
 |[Flag Quiz](https://open.kattis.com/problems/flagquiz)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Flag%20Quiz/flagquiz.py)|
 |[Fleecing the Raffle](https://open.kattis.com/problems/raffle)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Fleecing%20the%20Raffle/raffle.py)|
 |[Flexible Spaces](https://open.kattis.com/problems/flexible)|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Flexible%20Spaces/flexible.cpp)|
+|[Flight Planning](https://open.kattis.com/problems/flight)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Flight%20Planning/flight.py)|
 |[Flip Flow](https://open.kattis.com/problems/flipflow)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Flip%20Flow/flipflow.py)|
 |[Floor Plan](https://open.kattis.com/problems/floorplan)|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Floor%20Plan/floorplan.cpp)[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Floor%20Plan/floorplan.py)|
 |[Flow Layout](https://open.kattis.com/problems/flowlayout)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Flow%20Layout/flowlayout.py)|
@@ -731,6 +733,7 @@ Note that the table below is auto-generated. There might be slight inaccuracies.
 |[Rational Arithmetic](https://open.kattis.com/problems/rationalarithmetic)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Rational%20Arithmetic/rationalarithmetic.py)|
 |[Rational Ratio](https://open.kattis.com/problems/rationalratio)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Rational%20Ratio/rationalratio.py)|
 |[Reachable Roads](https://open.kattis.com/search?q=Reachable%20Roads)|[![java](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/java/java_24x24.png)](src/Reachable%20Roads/ReachableRoads.java)[![java](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/java/java_24x24.png)](src/Reachable%20Roads/ReachableRoads2.java)|
+|[Reactivity Series](https://open.kattis.com/problems/reactivity)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Reactivity%20Series/reactivity.py)|
 |[Recount](https://open.kattis.com/problems/recount)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Recount/recount.py)|
 |[Rectangle Area](https://open.kattis.com/problems/rectanglearea)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Rectangle%20Area/rectanglearea.py)|
 |[Red Blue Spanning Tree](https://open.kattis.com/problems/redbluetree)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Red%20Blue%20Spanning%20Tree/redbluetree.py)|
