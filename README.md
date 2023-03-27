@@ -1,7 +1,7 @@
 # Kattis Solutions
 ![Visitors](https://count.getloli.com/get/@RussellDash332)
 
-## Total problems solved: 982
+## Total problems solved: 984
 
 Note that the table below is auto-generated. There might be slight inaccuracies.
 
@@ -913,6 +913,7 @@ Note that the table below is auto-generated. There might be slight inaccuracies.
 |[Transit Woes](https://open.kattis.com/problems/transitwoes)|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Transit%20Woes/transitwoes.cpp)|
 |[Transportation Planning](https://open.kattis.com/problems/transportationplanning)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Transportation%20Planning/transportationplanning.py)|
 |[Travel the Skies](https://open.kattis.com/search?q=Travel%20the%20Skies)|[![java](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/java/java_24x24.png)](src/Travel%20the%20Skies/TravelTheSkies.java)|
+|[Travelling Salesperson 2D](https://open.kattis.com/problems/tsp)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Travelling%20Salesperson%202D/tsp.py)|
 |[Tree Insertion](https://open.kattis.com/problems/treeinsertion)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Tree%20Insertion/treeinsertion.py)|
 |[Tri](https://open.kattis.com/problems/tri)|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Tri/tri.cpp)|
 |[Triangle Area](https://open.kattis.com/problems/triarea)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Triangle%20Area/triarea.py)|
@@ -945,6 +946,7 @@ Note that the table below is auto-generated. There might be slight inaccuracies.
 |[Video Speedup](https://open.kattis.com/problems/videospeedup)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Video%20Speedup/videospeedup.py)|
 |[Virtual Friends](https://open.kattis.com/search?q=Virtual%20Friends)|[![java](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/java/java_24x24.png)](src/Virtual%20Friends/VirtualFriends.java)|
 |[Virus Replication](https://open.kattis.com/problems/virus)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Virus%20Replication/virus.py)|
+|[VisuAlgo Online Quiz](https://open.kattis.com/problems/visualgo)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/VisuAlgo%20Online%20Quiz/visualgo.py)|
 |[Volim](https://open.kattis.com/problems/volim)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Volim/volim.py)|
 |[WERTYU](https://open.kattis.com/problems/wertyu)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/WERTYU/wertyu.py)|
 |[Watchdog](https://open.kattis.com/problems/watchdog)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Watchdog/watchdog.py)|
