@@ -1,7 +1,7 @@
 # Kattis Solutions
 ![Visitors](https://count.getloli.com/get/@RussellDash332)
 
-## Total problems solved: 1000
+## Total problems solved: 1001
 
 Note that the table below is auto-generated. There might be slight inaccuracies.
 
@@ -306,6 +306,7 @@ Note that the table below is auto-generated. There might be slight inaccuracies.
 |[Entertainment Box](https://open.kattis.com/search?q=Entertainment%20Box)|[![java](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/java/java_24x24.png)](src/Entertainment%20Box/EntertainmentBox.java)|
 |[EpigDanceOff](https://open.kattis.com/problems/epigdanceoff)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/EpigDanceOff/epigdanceoff.py)|
 |[Equations](https://open.kattis.com/problems/equations)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Equations/equations.py)|
+|[Equivalent Exchange](https://open.kattis.com/problems/equivalentexchange)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Equivalent%20Exchange/equivalentexchange.py)|
 |[Erase Securely](https://open.kattis.com/problems/erase)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Erase%20Securely/erase.py)|
 |[Escape Wall Maria](https://open.kattis.com/problems/escapewallmaria)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Escape%20Wall%20Maria/escapewallmaria.py)|
 |[Espresso!](https://open.kattis.com/problems/espresso)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Espresso!/espresso.py)|
