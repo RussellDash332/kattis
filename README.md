@@ -1,7 +1,7 @@
 # Kattis Solutions
 ![Visitors](https://count.getloli.com/get/@RussellDash332)
 
-## Total problems solved: 1011
+## Total problems solved: 1014
 
 Note that the table below is auto-generated. There might be slight inaccuracies.
 
@@ -374,6 +374,7 @@ Note that the table below is auto-generated. There might be slight inaccuracies.
 |[Free Food](https://open.kattis.com/problems/freefood)|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Free%20Food/freefood.cpp)|
 |[Free Weights](https://open.kattis.com/problems/freeweights)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Free%20Weights/freeweights.py)|
 |[Friday the 13th](https://open.kattis.com/problems/friday)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Friday%20the%2013th/friday.py)|
+|[Froggie](https://open.kattis.com/problems/froggie)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Froggie/froggie.py)|
 |[Frosh Week (1)](https://open.kattis.com/problems/froshweek)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Frosh%20Week%20(1)/froshweek.py)|
 |[Frosh Week (2)](https://open.kattis.com/problems/froshweek2)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Frosh%20Week%20(2)/froshweek2.py)|
 |[Frosting on the Cake](https://open.kattis.com/problems/frosting)|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Frosting%20on%20the%20Cake/frosting.cpp)|
@@ -878,6 +879,7 @@ Note that the table below is auto-generated. There might be slight inaccuracies.
 |[Sun and Moon](https://open.kattis.com/problems/sunandmoon)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Sun%20and%20Moon/sunandmoon.py)|
 |[Supercomputer](https://open.kattis.com/problems/supercomputer)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Supercomputer/supercomputer.py)|
 |[Svada](https://open.kattis.com/problems/svada)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Svada/svada.py)|
+|[Svemir](https://open.kattis.com/problems/svemir)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Svemir/svemir.py)|
 |[Swap to Sort](https://open.kattis.com/search?q=Swap%20to%20Sort)|[![java](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/java/java_24x24.png)](src/Swap%20to%20Sort/SwapToSort.java)|
 |[Symmetric Order](https://open.kattis.com/problems/symmetricorder)|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Symmetric%20Order/symmetricorder.cpp)|
 |[Synchronizing Lists](https://open.kattis.com/problems/synchronizinglists)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Synchronizing%20Lists/synchronizinglists.py)|
@@ -938,6 +940,7 @@ Note that the table below is auto-generated. There might be slight inaccuracies.
 |[Transportation Planning](https://open.kattis.com/problems/transportationplanning)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Transportation%20Planning/transportationplanning.py)|
 |[Travel the Skies](https://open.kattis.com/search?q=Travel%20the%20Skies)|[![java](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/java/java_24x24.png)](src/Travel%20the%20Skies/TravelTheSkies.java)|
 |[Travelling Salesperson 2D](https://open.kattis.com/problems/tsp)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Travelling%20Salesperson%202D/tsp.py)|
+|[Treasure Hunt](https://open.kattis.com/problems/treasurehunt)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Treasure%20Hunt/treasurehunt.py)|
 |[Tree Insertion](https://open.kattis.com/problems/treeinsertion)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Tree%20Insertion/treeinsertion.py)|
 |[Treehouses](https://open.kattis.com/problems/treehouses)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Treehouses/treehouses.py)|
 |[Tri](https://open.kattis.com/problems/tri)|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Tri/tri.cpp)|
