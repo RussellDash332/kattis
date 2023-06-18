@@ -1,7 +1,7 @@
 # Kattis Solutions
 ![Visitors](https://count.getloli.com/get/@RussellDash332)
 
-## Total problems solved: 1029
+## Total problems solved: 1030
 
 Note that the table below is auto-generated. There might be slight inaccuracies.
 
@@ -788,6 +788,7 @@ Note that the table below is auto-generated. There might be slight inaccuracies.
 |[Run-Length Encoding, Run!](https://open.kattis.com/problems/runlengthencodingrun)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Run-Length%20Encoding,%20Run!/runlengthencodingrun.py)|
 |[Running MoM](https://open.kattis.com/search?q=Running%20MoM)|[![java](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/java/java_24x24.png)](src/Running%20MoM/RunningMoM.java)|
 |[SETI](https://open.kattis.com/problems/seti)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/SETI/seti.py)|
+|[SG Coin](https://open.kattis.com/problems/sgcoin)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/SG%20Coin/sgcoin.py)|
 |[SMIL](https://open.kattis.com/problems/smil)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/SMIL/smil.py)|
 |[Sacred Texts](https://open.kattis.com/problems/sacredtexts)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Sacred%20Texts/sacredtexts.py)|
 |[Sailing Friends](https://open.kattis.com/problems/sailingfriends)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Sailing%20Friends/sailingfriends.py)|
