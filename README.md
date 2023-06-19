@@ -1,7 +1,7 @@
 # Kattis Solutions
 ![Visitors](https://count.getloli.com/get/@RussellDash332)
 
-## Total problems solved: 1030
+## Total problems solved: 1031
 
 Note that the table below is auto-generated. There might be slight inaccuracies.
 
@@ -263,6 +263,7 @@ Note that the table below is auto-generated. There might be slight inaccuracies.
 |[Dice Betting](https://open.kattis.com/problems/dicebetting)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Dice%20Betting/dicebetting.py)|
 |[Dice Cup](https://open.kattis.com/problems/dicecup)|[![java](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/java/java_24x24.png)](src/Dice%20Cup/DiceCup.java)[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Dice%20Cup/dicecup.cpp)|
 |[Dice Game](https://open.kattis.com/problems/dicegame)|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Dice%20Game/dicegame.cpp)|
+|[Dictionary Compression](https://open.kattis.com/problems/comp)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Dictionary%20Compression/comp.py)[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Dictionary%20Compression/dictionary.py)|
 |[Different Distances](https://open.kattis.com/problems/differentdistances)|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Different%20Distances/differentdistances.cpp)|
 |[Digi Comp II](https://open.kattis.com/problems/digicomp2)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Digi%20Comp%20II/digicomp2.py)|
 |[Digit Product](https://open.kattis.com/problems/sifferprodukt)|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Digit%20Product/sifferprodukt.cpp)|
