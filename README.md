@@ -1,7 +1,7 @@
 # Kattis Solutions
 ![Visitors](https://count.getloli.com/get/@RussellDash332)
 
-## Total problems solved: 1116
+## Total problems solved: 1123
 
 Note that the table below is auto-generated. There might be slight inaccuracies.
 
@@ -77,6 +77,7 @@ Note that the table below is auto-generated. There might be slight inaccuracies.
 |[Another Candies](https://open.kattis.com/problems/anothercandies)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Another%20Candies/anothercandies.py)|
 |[Another Dice Game](https://open.kattis.com/problems/anotherdice)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Another%20Dice%20Game/anotherdice.py)|
 |[Antenna Analysis](https://open.kattis.com/problems/antennaanalysis)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Antenna%20Analysis/antennaanalysis.py)|
+|[Antiarihmetic](https://open.kattis.com/problems/antiarithmetic)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Antiarihmetic/antiarithmetic.py)|
 |[Ants](https://open.kattis.com/problems/ants)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Ants/ants.py)|
 |[Apaxiaaaaaaaaaaaans!](https://open.kattis.com/problems/apaxiaaans)|[![java](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/java/java_24x24.png)](src/Apaxiaaaaaaaaaaaans!/Apaxiaaans.java)[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Apaxiaaaaaaaaaaaans!/apaxiaaans.py)|
 |[Arbitrage](https://open.kattis.com/problems/arbitrage)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Arbitrage/arbitrage.py)|
@@ -245,6 +246,8 @@ Note that the table below is auto-generated. There might be slight inaccuracies.
 |[Contingency Planning](https://open.kattis.com/problems/contingencyplanning)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Contingency%20Planning/contingencyplanning.py)|
 |[Continuous Median](https://open.kattis.com/search?q=Continuous%20Median)|[![java](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/java/java_24x24.png)](src/Continuous%20Median/ContinuousMedian.java)|
 |[Conversation Log](https://open.kattis.com/problems/conversationlog)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Conversation%20Log/conversationlog.py)|
+|[Convex Hull (1)](https://open.kattis.com/problems/convexhull)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Convex%20Hull%20(1)/convexhull.py)|
+|[Convex Hull (2)](https://open.kattis.com/problems/convexhull2)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Convex%20Hull%20(2)/convexhull2.py)|
 |[Convex Polygon Area](https://open.kattis.com/problems/convexpolygonarea)|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Convex%20Polygon%20Area/convexpolygonarea.cpp)|
 |[Cookie Selection](https://open.kattis.com/search?q=Cookie%20Selection)|[![java](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/java/java_24x24.png)](src/Cookie%20Selection/CookieSelection.java)|
 |[Cooking Water](https://open.kattis.com/problems/cookingwater)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Cooking%20Water/cookingwater.py)|
@@ -272,6 +275,7 @@ Note that the table below is auto-generated. There might be slight inaccuracies.
 |[DRM Messages](https://open.kattis.com/problems/drmmessages)|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/DRM%20Messages/drmmessages.cpp)|
 |[Dacey the Dice](https://open.kattis.com/problems/daceydice)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Dacey%20the%20Dice/daceydice.py)|
 |[Damaged Equation](https://open.kattis.com/problems/damagedequation)|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Damaged%20Equation/damagedequation.cpp)|
+|[Dart Scoring](https://open.kattis.com/problems/dartscoring)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Dart%20Scoring/dartscoring.py)|
 |[Das Blinkenlights](https://open.kattis.com/problems/dasblinkenlights)|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Das%20Blinkenlights/dasblinkenlights.cpp)|
 |[Datum](https://open.kattis.com/problems/datum)|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Datum/datum.cpp)|
 |[Death Knight Hero](https://open.kattis.com/problems/deathknight)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Death%20Knight%20Hero/deathknight.py)|
@@ -597,6 +601,7 @@ Note that the table below is auto-generated. There might be slight inaccuracies.
 |[Lamps](https://open.kattis.com/problems/lamps)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Lamps/lamps.py)|
 |[Laptop Sticker](https://open.kattis.com/problems/laptopsticker)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Laptop%20Sticker/laptopsticker.py)|
 |[Laptop Stickers](https://open.kattis.com/problems/laptopstickers)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Laptop%20Stickers/laptopstickers.py)|
+|[Largest Triangle](https://open.kattis.com/problems/largesttriangle)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Largest%20Triangle/largesttriangle.py)|
 |[Last Factorial Digit](https://open.kattis.com/problems/lastfactorialdigit)|[![java](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/java/java_24x24.png)](src/Last%20Factorial%20Digit/LastFactorialDigit.java)[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Last%20Factorial%20Digit/lastfactorialdigit.py)|
 |[Last Minute](https://open.kattis.com/problems/lastminute)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Last%20Minute/lastminute.py)|
 |[Lawn Mower](https://open.kattis.com/problems/lawnmower)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Lawn%20Mower/lawnmower.py)|
@@ -853,6 +858,7 @@ Note that the table below is auto-generated. There might be slight inaccuracies.
 |[Riječi](https://open.kattis.com/problems/rijeci)|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Riječi/rijeci.cpp)|
 |[Roaming Romans](https://open.kattis.com/problems/romans)|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Roaming%20Romans/romans.cpp)|
 |[Robert Hood](https://open.kattis.com/problems/roberthood)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Robert%20Hood/roberthood.py)|
+|[Robot Protection](https://open.kattis.com/problems/robotprotection)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Robot%20Protection/robotprotection.py)|
 |[Robot Turtles](https://open.kattis.com/problems/robotturtles)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Robot%20Turtles/robotturtles.py)|
 |[Robotopia](https://open.kattis.com/problems/robotopia)|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Robotopia/robotopia.cpp)[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Robotopia/robotopia.py)|
 |[Robots on a Grid](https://open.kattis.com/problems/robotsonagrid)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Robots%20on%20a%20Grid/robotsonagrid.py)|
@@ -968,6 +974,7 @@ Note that the table below is auto-generated. There might be slight inaccuracies.
 |[Sums](https://open.kattis.com/problems/consecutivesums)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Sums/consecutivesums.py)|
 |[Sun and Moon](https://open.kattis.com/problems/sunandmoon)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Sun%20and%20Moon/sunandmoon.py)|
 |[Supercomputer](https://open.kattis.com/problems/supercomputer)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Supercomputer/supercomputer.py)|
+|[Superdoku](https://open.kattis.com/problems/superdoku)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Superdoku/superdoku.py)|
 |[Svada](https://open.kattis.com/problems/svada)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Svada/svada.py)|
 |[Svemir](https://open.kattis.com/problems/svemir)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Svemir/svemir.py)|
 |[Swap to Sort](https://open.kattis.com/search?q=Swap%20to%20Sort)|[![java](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/java/java_24x24.png)](src/Swap%20to%20Sort/SwapToSort.java)|
