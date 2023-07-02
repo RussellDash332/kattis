@@ -1,7 +1,7 @@
 # Kattis Solutions
 ![Visitors](https://count.getloli.com/get/@RussellDash332)
 
-## Total problems solved: 1149
+## Total problems solved: 1150
 
 Note that the table below is auto-generated. There might be slight inaccuracies.
 
@@ -410,6 +410,7 @@ Note that the table below is auto-generated. There might be slight inaccuracies.
 |[Flexible Spaces](https://open.kattis.com/problems/flexible)|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Flexible%20Spaces/flexible.cpp)|
 |[Flight Planning](https://open.kattis.com/problems/flight)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Flight%20Planning/flight.py)|
 |[Flip Flow](https://open.kattis.com/problems/flipflow)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Flip%20Flow/flipflow.py)|
+|[Flipping Cards](https://open.kattis.com/problems/flippingcards)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Flipping%20Cards/flippingcards.py)|
 |[Floor Plan](https://open.kattis.com/problems/floorplan)|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Floor%20Plan/floorplan.cpp)[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Floor%20Plan/floorplan.py)|
 |[Flow Layout](https://open.kattis.com/problems/flowlayout)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Flow%20Layout/flowlayout.py)|
 |[Flowery Trails](https://open.kattis.com/search?q=Flowery%20Trails)|[![java](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/java/java_24x24.png)](src/Flowery%20Trails/FloweryTrails.java)|
