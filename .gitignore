@@ -10,3 +10,5 @@ Secret/
 input
 output
 test
+*.class
+__pycache__/
