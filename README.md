@@ -1,7 +1,7 @@
 # Kattis Solutions
 ![Visitors](https://count.getloli.com/get/@RussellDash332)
 
-## Total problems solved: 1199
+## Total problems solved: 1200
 
 Note that the table below is auto-generated. There might be slight inaccuracies.
 
@@ -131,6 +131,7 @@ Note that the table below is auto-generated. There might be slight inaccuracies.
 |[Big Data](https://open.kattis.com/problems/data)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Big%20Data/data.py)|
 |[Big Truck](https://open.kattis.com/problems/bigtruck)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Big%20Truck/bigtruck.py)|
 |[Bijele](https://open.kattis.com/problems/bijele)|[![java](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/java/java_24x24.png)](src/Bijele/Bijele.java)[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Bijele/bijele.cpp)|
+|[Bilateral Projects](https://open.kattis.com/problems/bilateral)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Bilateral%20Projects/bilateral.py)|
 |[Billiard](https://open.kattis.com/search?q=Billiard)|[![java](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/java/java_24x24.png)](src/Billiard/Billiard.java)|
 |[Binary Heap](https://open.kattis.com/problems/heap)|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Binary%20Heap/heap.cpp)|
 |[Binary search tree](https://open.kattis.com/search?q=Binary%20search%20tree)|[![java](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/java/java_24x24.png)](src/Binary%20search%20tree/BST.java)[![java](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/java/java_24x24.png)](src/Binary%20search%20tree/BST2.java)|
