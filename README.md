@@ -1,7 +1,7 @@
 # Kattis Solutions
 ![Visitors](https://count.getloli.com/get/@RussellDash332)
 
-## Total problems solved: 1200
+## Total problems solved: 1204
 
 Note that the table below is auto-generated. There might be slight inaccuracies.
 
@@ -204,6 +204,7 @@ Note that the table below is auto-generated. There might be slight inaccuracies.
 |[Catalan Numbers](https://open.kattis.com/problems/catalan)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Catalan%20Numbers/catalan.py)|
 |[Catalan Square](https://open.kattis.com/problems/catalansquare)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Catalan%20Square/catalansquare.py)|
 |[Catching Noodles](https://open.kattis.com/problems/catchingnoodles)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Catching%20Noodles/catchingnoodles.py)|
+|[Catenyms](https://open.kattis.com/problems/catenyms)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Catenyms/catenyms.py)|
 |[Ceiling Function](https://open.kattis.com/problems/ceiling)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Ceiling%20Function/ceiling.py)|
 |[Cetiri](https://open.kattis.com/problems/cetiri)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Cetiri/cetiri.py)|
 |[Cetvrta](https://open.kattis.com/problems/cetvrta)|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Cetvrta/cetvrta.cpp)|
@@ -492,6 +493,7 @@ Note that the table below is auto-generated. There might be slight inaccuracies.
 |[Grid](https://open.kattis.com/problems/grid)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Grid/grid.py)|
 |[Growling Gears](https://open.kattis.com/problems/growlinggears)|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Growling%20Gears/growlinggears.cpp)|
 |[Guess The Number](https://open.kattis.com/problems/guess)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Guess%20The%20Number/guess.py)|
+|[Guess the Numbers](https://open.kattis.com/problems/guessthenumbers)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Guess%20the%20Numbers/guessthenumbers.py)|
 |[Guessing Camels](https://open.kattis.com/problems/camels)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Guessing%20Camels/camels.py)|
 |[Guessing Game](https://open.kattis.com/problems/guessinggame)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Guessing%20Game/guessinggame.py)|
 |[Hailstone Sequences](https://open.kattis.com/problems/hailstone2)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Hailstone%20Sequences/hailstone2.py)|
@@ -753,6 +755,7 @@ Note that the table below is auto-generated. There might be slight inaccuracies.
 |[No Thanks!](https://open.kattis.com/problems/nothanks)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/No%20Thanks!/nothanks.py)|
 |[No Trees But Flowers](https://open.kattis.com/problems/flowers)|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/No%20Trees%20But%20Flowers/flowers.cpp)|
 |[Non-Prime Factors](https://open.kattis.com/problems/nonprimefactors)|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Non-Prime%20Factors/nonprimefactors.cpp)|
+|[Non-negative Partial Sums](https://open.kattis.com/problems/nonnegpartsums)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Non-negative%20Partial%20Sums/nonnegpartsums.py)|
 |[Noonerized Spumbers](https://open.kattis.com/problems/noonerizedspumbers)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Noonerized%20Spumbers/noonerizedspumbers.py)|
 |[Number Fun](https://open.kattis.com/problems/numberfun)|[![java](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/java/java_24x24.png)](src/Number%20Fun/NumberFun.java)[![java](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/java/java_24x24.png)](src/Number%20Fun/NumberFun2.java)[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Number%20Fun/numberfun.py)|
 |[Number Trick](https://open.kattis.com/problems/trick)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Number%20Trick/trick.py)|
@@ -908,6 +911,7 @@ Note that the table below is auto-generated. There might be slight inaccuracies.
 |[Relatives](https://open.kattis.com/problems/relatives)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Relatives/relatives.py)|
 |[Relocation](https://open.kattis.com/problems/relocation)|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Relocation/relocation.cpp)|
 |[Remainder Reminder](https://open.kattis.com/problems/remainderreminder)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Remainder%20Reminder/remainderreminder.py)|
+|[Remoteland](https://open.kattis.com/problems/remoteland)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Remoteland/remoteland.py)|
 |[Repeating Decimal](https://open.kattis.com/problems/repeatingdecimal)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Repeating%20Decimal/repeatingdecimal.py)|
 |[Reseto](https://open.kattis.com/problems/reseto)|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Reseto/reseto.cpp)|
 |[Restaurant Opening](https://open.kattis.com/problems/restaurantopening)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Restaurant%20Opening/restaurantopening.py)|
