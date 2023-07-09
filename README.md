@@ -1,7 +1,7 @@
 # Kattis Solutions
 ![Visitors](https://count.getloli.com/get/@RussellDash332)
 
-## Total problems solved: 1204
+## Total problems solved: 1206
 
 Note that the table below is auto-generated. There might be slight inaccuracies.
 
@@ -10,6 +10,7 @@ Note that the table below is auto-generated. There might be slight inaccuracies.
 |[#includescoring](https://open.kattis.com/problems/includescoring)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/#includescoring/includescoring.py)|
 |[(More) Multiplication](https://open.kattis.com/problems/multiplication)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/(More)%20Multiplication/multiplication.py)|
 |[(un)Fair Play](https://open.kattis.com/problems/unfairplay)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/(un)Fair%20Play/unfairplay.py)|
+|[0-1 Sequences](https://open.kattis.com/problems/sequences)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/0-1%20Sequences/sequences.py)|
 |[1-D Frogger (Easy)](https://open.kattis.com/problems/1dfroggereasy)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/1-D%20Frogger%20(Easy)/1dfroggereasy.py)|
 |[1-D Frogger (Hard)](https://open.kattis.com/problems/1dfroggerhard)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/1-D%20Frogger%20(Hard)/1dfroggerhard.py)|
 |[2048](https://open.kattis.com/problems/2048)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/2048/2048.py)[![java](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/java/java_24x24.png)](src/2048/TwoK48.java)|
@@ -45,6 +46,7 @@ Note that the table below is auto-generated. There might be slight inaccuracies.
 |[Abridged Reading](https://open.kattis.com/problems/abridgedreading)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Abridged%20Reading/abridgedreading.py)|
 |[Absolutely Symmetric](https://open.kattis.com/problems/absolutelysymmetric)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Absolutely%20Symmetric/absolutelysymmetric.py)|
 |[Absurdistan Roads III](https://open.kattis.com/problems/absurdistan3)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Absurdistan%20Roads%20III/absurdistan3.py)|
+|[Absurdistan Roads II](https://open.kattis.com/problems/absurdistan2)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Absurdistan%20Roads%20II/absurdistan2.py)[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Absurdistan%20Roads%20II/absurdistan2_hc.py)|
 |[Accounting](https://open.kattis.com/problems/bokforing)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Accounting/bokforing.py)|
 |[Add 'Em Up!](https://open.kattis.com/problems/addemup)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Add%20'Em%20Up!/addemup.py)|
 |[Add Two Numbers](https://open.kattis.com/problems/addtwonumbers)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Add%20Two%20Numbers/addtwonumbers.py)|
