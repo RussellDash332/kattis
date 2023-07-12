@@ -1,7 +1,7 @@
 # Kattis Solutions
 ![Visitors](https://count.getloli.com/get/@RussellDash332)
 
-## Total problems solved: 1216
+## Total problems solved: 1229
 
 Note that the table below is auto-generated. There might be slight inaccuracies.
 
@@ -83,6 +83,7 @@ Note that the table below is auto-generated. There might be slight inaccuracies.
 |[Antiarihmetic](https://open.kattis.com/problems/antiarithmetic)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Antiarihmetic/antiarithmetic.py)|
 |[Ants](https://open.kattis.com/problems/ants)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Ants/ants.py)|
 |[Apaxiaaaaaaaaaaaans!](https://open.kattis.com/problems/apaxiaaans)|[![java](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/java/java_24x24.png)](src/Apaxiaaaaaaaaaaaans!/Apaxiaaans.java)[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Apaxiaaaaaaaaaaaans!/apaxiaaans.py)|
+|[Aqueduct Construction](https://open.kattis.com/problems/aqueducts)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Aqueduct%20Construction/aqueducts.py)|
 |[Arbitrage](https://open.kattis.com/problems/arbitrage)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Arbitrage/arbitrage.py)|
 |[Architecture](https://open.kattis.com/problems/architecture)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Architecture/architecture.py)|
 |[Arctic Network](https://open.kattis.com/search?q=Arctic%20Network)|[![java](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/java/java_24x24.png)](src/Arctic%20Network/ArcticNetwork.java)|
@@ -143,6 +144,7 @@ Note that the table below is auto-generated. There might be slight inaccuracies.
 |[Birthday Paradox](https://open.kattis.com/problems/birthdayparadox)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Birthday%20Paradox/birthdayparadox.py)|
 |[Bishops](https://open.kattis.com/problems/bishops)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Bishops/bishops.py)|
 |[Bit by Bit](https://open.kattis.com/problems/bitbybit)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Bit%20by%20Bit/bitbybit.py)|
+|[BizzFuzz](https://open.kattis.com/problems/bizzfuzz)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/BizzFuzz/bizzfuzz.py)|
 |[Black Friday](https://open.kattis.com/problems/blackfriday)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Black%20Friday/blackfriday.py)|
 |[Black Out](https://open.kattis.com/problems/blackout)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Black%20Out/blackout.py)|
 |[Blackboard Numbers](https://open.kattis.com/problems/primes2)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Blackboard%20Numbers/primes2.py)|
@@ -157,6 +159,7 @@ Note that the table below is auto-generated. There might be slight inaccuracies.
 |[Book Club](https://open.kattis.com/problems/bookclub)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Book%20Club/bookclub.py)|
 |[Booking a Room](https://open.kattis.com/problems/bookingaroom)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Booking%20a%20Room/bookingaroom.py)|
 |[Bootstrapping Number](https://open.kattis.com/problems/bootstrappingnumber)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Bootstrapping%20Number/bootstrappingnumber.py)|
+|[Borders](https://open.kattis.com/problems/borders)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Borders/borders.py)|
 |[Boss Battle](https://open.kattis.com/problems/bossbattle)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Boss%20Battle/bossbattle.py)|
 |[Bounding Box](https://open.kattis.com/problems/boundingbox)|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Bounding%20Box/boundingbox.cpp)|
 |[Bounding Robots](https://open.kattis.com/problems/boundingrobots)|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Bounding%20Robots/boundingrobots.cpp)|
@@ -181,6 +184,7 @@ Note that the table below is auto-generated. There might be slight inaccuracies.
 |[Buka](https://open.kattis.com/problems/buka)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Buka/buka.py)|
 |[Bumped!](https://open.kattis.com/problems/bumped)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Bumped!/bumped.py)|
 |[Bungee Builder](https://open.kattis.com/problems/bungeebuilder)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Bungee%20Builder/bungeebuilder.py)|
+|[Bungee Jumping](https://open.kattis.com/problems/bungeejumping)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Bungee%20Jumping/bungeejumping.py)|
 |[Bus Numbers (1)](https://open.kattis.com/search?q=Bus%20Numbers%20(1))|[![java](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/java/java_24x24.png)](src/Bus%20Numbers%20(1)/BusNumbers.java)|
 |[Bus Numbers (2)](https://open.kattis.com/problems/busnumbers2)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Bus%20Numbers%20(2)/busnumbers2.py)|
 |[Bus](https://open.kattis.com/problems/bus)|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Bus/bus.cpp)|
@@ -425,7 +429,7 @@ Note that the table below is auto-generated. There might be slight inaccuracies.
 |[Fire!](https://open.kattis.com/search?q=Fire!)|[![java](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/java/java_24x24.png)](src/Fire!/Fire.java)|
 |[Fire](https://open.kattis.com/search?q=Fire)|[![java](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/java/java_24x24.png)](src/Fire/Fire2.java)|
 |[Fishmongers](https://open.kattis.com/problems/fishmongers)|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Fishmongers/fishmongers.cpp)|
-|[Fizz Buzz (3)](https://open.kattis.com/problems/fizzbuzz3)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Fizz%20Buzz%20(3)/fizzbuzz3.py)|
+|[Fizz Buzz](https://open.kattis.com/problems/fizzbuzz3)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Fizz%20Buzz/fizzbuzz3.py)|
 |[FizzBuzz (1)](https://open.kattis.com/problems/fizzbuzz)|[![java](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/java/java_24x24.png)](src/FizzBuzz%20(1)/FizzBuzz.java)[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/FizzBuzz%20(1)/fizzbuzz.py)|
 |[FizzBuzz (2)](https://open.kattis.com/problems/fizzbuzz2)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/FizzBuzz%20(2)/fizzbuzz2.py)|
 |[Flag Quiz](https://open.kattis.com/problems/flagquiz)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Flag%20Quiz/flagquiz.py)|
@@ -656,6 +660,7 @@ Note that the table below is auto-generated. There might be slight inaccuracies.
 |[Lektira](https://open.kattis.com/problems/lektira)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Lektira/lektira.py)|
 |[Lemonade Trade](https://open.kattis.com/problems/lemonadetrade)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Lemonade%20Trade/lemonadetrade.py)|
 |[Less vs. Fewer](https://open.kattis.com/problems/lessvsfewer)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Less%20vs.%20Fewer/lessvsfewer.py)|
+|[Lexicography](https://open.kattis.com/problems/lexicography)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Lexicography/lexicography.py)|
 |[License to Launch](https://open.kattis.com/problems/licensetolaunch)|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/License%20to%20Launch/licensetolaunch.cpp)[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/License%20to%20Launch/licensetolaunch2.cpp)|
 |[Limited Correspondence](https://open.kattis.com/problems/correspondence)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Limited%20Correspondence/correspondence.py)|
 |[Line Segment Distance](https://open.kattis.com/problems/segmentdistance)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Line%20Segment%20Distance/segmentdistance.py)|
@@ -669,6 +674,7 @@ Note that the table below is auto-generated. There might be slight inaccuracies.
 |[Locust Locus](https://open.kattis.com/problems/locustlocus)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Locust%20Locus/locustlocus.py)|
 |[Logic Functions](https://open.kattis.com/problems/logicfunctions)|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Logic%20Functions/logicfunctions.cpp)|
 |[Logo 2](https://open.kattis.com/problems/logo2)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Logo%202/logo2.py)|
+|[Longest Common Substring](https://open.kattis.com/problems/longestcommonsubstring)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Longest%20Common%20Substring/longestcommonsubstring.py)|
 |[Longest Increasing Subsequence](https://open.kattis.com/problems/longincsubseq)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Longest%20Increasing%20Subsequence/longincsubseq.py)|
 |[Longest Prime Sum](https://open.kattis.com/problems/longestprimesum)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Longest%20Prime%20Sum/longestprimesum.py)|
 |[Longest path in a DAG](https://open.kattis.com/problems/longestpathinadag)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Longest%20path%20in%20a%20DAG/longestpathinadag.py)|
@@ -770,6 +776,8 @@ Note that the table below is auto-generated. There might be slight inaccuracies.
 |[Non-negative Partial Sums](https://open.kattis.com/problems/nonnegpartsums)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Non-negative%20Partial%20Sums/nonnegpartsums.py)|
 |[Noonerized Spumbers](https://open.kattis.com/problems/noonerizedspumbers)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Noonerized%20Spumbers/noonerizedspumbers.py)|
 |[Number Fun](https://open.kattis.com/problems/numberfun)|[![java](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/java/java_24x24.png)](src/Number%20Fun/NumberFun.java)[![java](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/java/java_24x24.png)](src/Number%20Fun/NumberFun2.java)[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Number%20Fun/numberfun.py)|
+|[Number Sets (Hard)](https://open.kattis.com/problems/numbersetshard)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Number%20Sets%20(Hard)/numbersetshard.py)|
+|[Number Sets](https://open.kattis.com/problems/numbersetseasy)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Number%20Sets/numbersetseasy.py)|
 |[Number Trick](https://open.kattis.com/problems/trick)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Number%20Trick/trick.py)|
 |[Numbers On a Tree](https://open.kattis.com/problems/numbertree)|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Numbers%20On%20a%20Tree/numbertree.cpp)|
 |[Ocean Currents](https://open.kattis.com/problems/oceancurrents)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Ocean%20Currents/oceancurrents.py)|
@@ -868,6 +876,7 @@ Note that the table below is auto-generated. There might be slight inaccuracies.
 |[Primality](https://open.kattis.com/problems/primality)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Primality/primality.py)|
 |[Primary Arithmetic](https://open.kattis.com/problems/primaryarithmetic)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Primary%20Arithmetic/primaryarithmetic.py)|
 |[Primary Register](https://open.kattis.com/problems/register)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Primary%20Register/register.py)|
+|[Primary X-Subfactor Series](https://open.kattis.com/problems/pxs)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Primary%20X-Subfactor%20Series/pxs.py)|
 |[Prime Count](https://open.kattis.com/problems/primecount)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Prime%20Count/primecount.py)|
 |[Prime Path](https://open.kattis.com/problems/primepath)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Prime%20Path/primepath.py)|
 |[Prime Reduction](https://open.kattis.com/problems/primereduction)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Prime%20Reduction/primereduction.py)|
@@ -909,6 +918,7 @@ Note that the table below is auto-generated. There might be slight inaccuracies.
 |[Railroad](https://open.kattis.com/problems/railroad2)|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Railroad/railroad2.cpp)|
 |[Rainbow Road Race](https://open.kattis.com/problems/rainbowroadrace)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Rainbow%20Road%20Race/rainbowroadrace.py)|
 |[Raising the Bar](https://open.kattis.com/problems/raisingthebar)|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Raising%20the%20Bar/raisingthebar.cpp)|
+|[Random Digital Exponentiation](https://open.kattis.com/problems/randomdigitalexponentiation)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Random%20Digital%20Exponentiation/randomdigitalexponentiation.py)|
 |[Rating Problems](https://open.kattis.com/problems/ratingproblems)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Rating%20Problems/ratingproblems.py)|
 |[Rational Arithmetic](https://open.kattis.com/problems/rationalarithmetic)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Rational%20Arithmetic/rationalarithmetic.py)|
 |[Rational Ratio](https://open.kattis.com/problems/rationalratio)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Rational%20Ratio/rationalratio.py)|
@@ -1059,6 +1069,7 @@ Note that the table below is auto-generated. There might be slight inaccuracies.
 |[Sun and Moon](https://open.kattis.com/problems/sunandmoon)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Sun%20and%20Moon/sunandmoon.py)|
 |[Supercomputer](https://open.kattis.com/problems/supercomputer)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Supercomputer/supercomputer.py)|
 |[Superdoku](https://open.kattis.com/problems/superdoku)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Superdoku/superdoku.py)|
+|[Suspension Bridges](https://open.kattis.com/problems/suspensionbridges)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Suspension%20Bridges/suspensionbridges.py)|
 |[Svada](https://open.kattis.com/problems/svada)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Svada/svada.py)|
 |[Svemir](https://open.kattis.com/problems/svemir)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Svemir/svemir.py)|
 |[Swap to Sort](https://open.kattis.com/search?q=Swap%20to%20Sort)|[![java](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/java/java_24x24.png)](src/Swap%20to%20Sort/SwapToSort.java)|
@@ -1188,6 +1199,7 @@ Note that the table below is auto-generated. There might be slight inaccuracies.
 |[Widget Tree](https://open.kattis.com/problems/widgettree)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Widget%20Tree/widgettree.py)|
 |[Wimbledon](https://open.kattis.com/problems/wimbledon)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Wimbledon/wimbledon.py)|
 |[Wizard of Odds](https://open.kattis.com/problems/wizardofodds)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Wizard%20of%20Odds/wizardofodds.py)|
+|[Word Cloud](https://open.kattis.com/problems/wordcloud)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Word%20Cloud/wordcloud.py)|
 |[Wordle with Friends](https://open.kattis.com/problems/wordlewithfriends)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Wordle%20with%20Friends/wordlewithfriends.py)|
 |[Words for Numbers](https://open.kattis.com/problems/wordsfornumbers)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Words%20for%20Numbers/wordsfornumbers.py)|
 |[Work Reduction](https://open.kattis.com/problems/workreduction)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Work%20Reduction/workreduction.py)|
@@ -1196,6 +1208,7 @@ Note that the table below is auto-generated. There might be slight inaccuracies.
 |[Yin and Yang Stones](https://open.kattis.com/problems/yinyangstones)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Yin%20and%20Yang%20Stones/yinyangstones.py)|
 |[Yoda](https://open.kattis.com/problems/yoda)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Yoda/yoda.py)|
 |[You Be the Judge!](https://open.kattis.com/problems/youbethejudge)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/You%20Be%20the%20Judge!/youbethejudge.py)|
+|[You be The Judge, Again](https://open.kattis.com/problems/youbethejudge2)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/You%20be%20The%20Judge,%20Again/youbethejudge2.py)|
 |[Zadaca](https://open.kattis.com/problems/zadaca)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Zadaca/zadaca.py)|
 |[Zamka](https://open.kattis.com/problems/zamka)|[![java](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/java/java_24x24.png)](src/Zamka/Zamka.java)[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Zamka/zamka.cpp)|
 |[Zbrka](https://open.kattis.com/problems/zbrka)|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Zbrka/zbrka.cpp)|
