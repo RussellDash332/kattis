@@ -1,7 +1,7 @@
 # Kattis Solutions
 ![Visitors](https://count.getloli.com/get/@RussellDash332)
 
-## Total problems solved: 1229
+## Total problems solved: 1232
 
 Note that the table below is auto-generated. There might be slight inaccuracies.
 
@@ -833,6 +833,7 @@ Note that the table below is auto-generated. There might be slight inaccuracies.
 |[Perfect Pth Powers](https://open.kattis.com/problems/perfectpowers)|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Perfect%20Pth%20Powers/perfectpowers.cpp)|
 |[Perica](https://open.kattis.com/problems/perica)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Perica/perica.py)|
 |[Periodic Strings](https://open.kattis.com/problems/periodicstrings)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Periodic%20Strings/periodicstrings.py)|
+|[Perket](https://open.kattis.com/problems/perket)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Perket/perket.py)|
 |[Permutation Code](https://open.kattis.com/problems/permcode)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Permutation%20Code/permcode.py)|
 |[Permutation Descent Counts](https://open.kattis.com/problems/permutationdescent)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Permutation%20Descent%20Counts/permutationdescent.py)|
 |[Permuted Arithmetic Sequence](https://open.kattis.com/problems/permutedarithmeticsequence)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Permuted%20Arithmetic%20Sequence/permutedarithmeticsequence.py)|
@@ -878,6 +879,7 @@ Note that the table below is auto-generated. There might be slight inaccuracies.
 |[Primary Register](https://open.kattis.com/problems/register)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Primary%20Register/register.py)|
 |[Primary X-Subfactor Series](https://open.kattis.com/problems/pxs)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Primary%20X-Subfactor%20Series/pxs.py)|
 |[Prime Count](https://open.kattis.com/problems/primecount)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Prime%20Count/primecount.py)|
+|[Prime Matrix](https://open.kattis.com/problems/primematrix)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Prime%20Matrix/primematrix.py)|
 |[Prime Path](https://open.kattis.com/problems/primepath)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Prime%20Path/primepath.py)|
 |[Prime Reduction](https://open.kattis.com/problems/primereduction)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Prime%20Reduction/primereduction.py)|
 |[Prime Sieve](https://open.kattis.com/problems/primesieve)|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Prime%20Sieve/primesieve.cpp)[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Prime%20Sieve/primesieve2.cpp)|
@@ -976,6 +978,7 @@ Note that the table below is auto-generated. There might be slight inaccuracies.
 |[Sequential Manufacturing](https://open.kattis.com/problems/sequentialmanufacturing)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Sequential%20Manufacturing/sequentialmanufacturing.py)|
 |[Server](https://open.kattis.com/problems/server)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Server/server.py)|
 |[Set!](https://open.kattis.com/problems/set)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Set!/set.py)|
+|[Setnja](https://open.kattis.com/problems/setnja)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Setnja/setnja.py)|
 |[Settlers of Catan](https://open.kattis.com/problems/settlers2)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Settlers%20of%20Catan/settlers2.py)|
 |[Seven Wonders](https://open.kattis.com/problems/sevenwonders)|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Seven%20Wonders/sevenwonders.cpp)|
 |[Shattered Cake](https://open.kattis.com/problems/shatteredcake)|[![java](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/java/java_24x24.png)](src/Shattered%20Cake/ShatteredCake.java)[![java](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/java/java_24x24.png)](src/Shattered%20Cake/ShatteredCake2.java)[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Shattered%20Cake/shatteredcake.cpp)[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Shattered%20Cake/shatteredcake.py)[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Shattered%20Cake/shatteredcake2.cpp)|
