@@ -1,1 +1,3 @@
 *.ipynb -linguist-detectable
+template/ -linguist-detectable
+build.py -linguist-detectable
