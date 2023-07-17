@@ -1,7 +1,7 @@
 # Kattis Solutions
 ![Visitors](https://count.getloli.com/get/@RussellDash332)
 
-## Total problems solved: 1262
+## Total problems solved: 1263
 
 Note that the table below is auto-generated. There might be slight inaccuracies.
 
@@ -211,6 +211,7 @@ Note that the table below is auto-generated. There might be slight inaccuracies.
 |[Candle Box](https://open.kattis.com/problems/candlebox)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Candle%20Box/candlebox.py)|
 |[Candy Distribution](https://open.kattis.com/problems/candydistribution)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Candy%20Distribution/candydistribution.py)|
 |[Candy Division](https://open.kattis.com/problems/candydivision)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Candy%20Division/candydivision.py)|
+|[Cantina of Babel](https://open.kattis.com/problems/cantinaofbabel)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Cantina%20of%20Babel/cantinaofbabel.py)|
 |[Cantor](https://open.kattis.com/problems/cantor)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Cantor/cantor.py)|
 |[Canvas Line](https://open.kattis.com/problems/canvasline)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Canvas%20Line/canvasline.py)|
 |[Canvas Painting](https://open.kattis.com/problems/canvas)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Canvas%20Painting/canvas.py)|
