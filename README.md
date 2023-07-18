@@ -1,7 +1,7 @@
 # Kattis Solutions
 ![Visitors](https://count.getloli.com/get/@RussellDash332)
 
-## Total problems solved: 1270
+## Total problems solved: 1272
 
 Note that the table below is auto-generated. There might be slight inaccuracies.
 
@@ -412,6 +412,7 @@ Note that the table below is auto-generated. There might be slight inaccuracies.
 |[Exam](https://open.kattis.com/problems/exam)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Exam/exam.py)|
 |[Exits in Excess](https://open.kattis.com/problems/exitsinexcess)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Exits%20in%20Excess/exitsinexcess.py)|
 |[Expected Earnings](https://open.kattis.com/problems/expectedearnings)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Expected%20Earnings/expectedearnings.py)|
+|[Exploding Batteries](https://open.kattis.com/problems/batteries)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Exploding%20Batteries/batteries.py)|
 |[Exploding CPU](https://open.kattis.com/problems/cpu)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Exploding%20CPU/cpu.py)|
 |[Explosion Exploit](https://open.kattis.com/problems/explosion)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Explosion%20Exploit/explosion.py)|
 |[Exponial](https://open.kattis.com/problems/exponial)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Exponial/exponial.py)|
@@ -901,6 +902,7 @@ Note that the table below is auto-generated. There might be slight inaccuracies.
 |[Positive Divisors](https://open.kattis.com/problems/positivedivisors)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Positive%20Divisors/positivedivisors.py)|
 |[Postal Delivery](https://open.kattis.com/problems/delivery)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Postal%20Delivery/delivery.py)|
 |[Pot](https://open.kattis.com/problems/pot)|[![java](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/java/java_24x24.png)](src/Pot/Pot.java)[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Pot/pot.py)|
+|[Power Eggs](https://open.kattis.com/problems/powereggs)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Power%20Eggs/powereggs.py)|
 |[Powers and Modulus](https://open.kattis.com/problems/powers)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Powers%20and%20Modulus/powers.py)|
 |[Powers of 2 (Easy)](https://open.kattis.com/problems/powersof2easy)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Powers%20of%202%20(Easy)/powersof2easy.py)|
 |[Preludes](https://open.kattis.com/problems/chopin)|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Preludes/chopin.cpp)|
