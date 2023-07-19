@@ -1,7 +1,7 @@
 # Kattis Solutions
 ![Visitors](https://count.getloli.com/get/@RussellDash332)
 
-## Total problems solved: 1272
+## Total problems solved: 1274
 
 Note that the table below is auto-generated. There might be slight inaccuracies.
 
@@ -774,6 +774,8 @@ Note that the table below is auto-generated. There might be slight inaccuracies.
 |[Most Difficult](https://open.kattis.com/problems/mostdifficult)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Most%20Difficult/mostdifficult.py)|
 |[Movie Collection](https://open.kattis.com/problems/moviecollection)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Movie%20Collection/moviecollection.py)|
 |[MrCodeFormatGrader](https://open.kattis.com/problems/mrcodeformatgrader)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/MrCodeFormatGrader/mrcodeformatgrader.py)|
+|[Mravi (1)](https://open.kattis.com/problems/mravi)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Mravi%20(1)/mravi.py)|
+|[Mravi (2)](https://open.kattis.com/problems/mravihard)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Mravi%20(2)/mravihard.py)|
 |[Muddy Hike](https://open.kattis.com/search?q=Muddy%20Hike)|[![java](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/java/java_24x24.png)](src/Muddy%20Hike/MuddyHike.java)|
 |[Mult!](https://open.kattis.com/problems/mult)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Mult!/mult.py)|
 |[Multi-Class Binary Neural Network for Handwritten Digits](https://open.kattis.com/problems/mnist10class)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Multi-Class%20Binary%20Neural%20Network%20for%20Handwritten%20Digits/bnn_accuracy.py)[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Multi-Class%20Binary%20Neural%20Network%20for%20Handwritten%20Digits/mnist10class.py)|
