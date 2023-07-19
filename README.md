@@ -1,7 +1,7 @@
 # Kattis Solutions
 ![Visitors](https://count.getloli.com/get/@RussellDash332)
 
-## Total problems solved: 1274
+## Total problems solved: 1275
 
 Note that the table below is auto-generated. There might be slight inaccuracies.
 
@@ -598,7 +598,8 @@ Note that the table below is auto-generated. There might be slight inaccuracies.
 |[Imperial Measurement](https://open.kattis.com/problems/measurement)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Imperial%20Measurement/measurement.py)|
 |[Import Spaghetti](https://open.kattis.com/problems/importspaghetti)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Import%20Spaghetti/importspaghetti.py)|
 |[Incognito](https://open.kattis.com/problems/incognito)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Incognito/incognito.py)|
-|[Inflation](https://open.kattis.com/problems/inflation)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Inflation/inflation.py)|
+|[Inflation (1)](https://open.kattis.com/problems/inflation)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Inflation%20(1)/inflation.py)|
+|[Inflation (2)](https://open.kattis.com/problems/inflation2)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Inflation%20(2)/inflation2.py)|
 |[Inquiry I](https://open.kattis.com/problems/inquiryi)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Inquiry%20I/inquiryi.py)|
 |[Integer Division](https://open.kattis.com/problems/integerdivision)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Integer%20Division/integerdivision.py)|
 |[Integer Lists](https://open.kattis.com/search?q=Integer%20Lists)|[![java](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/java/java_24x24.png)](src/Integer%20Lists/IntegerLists.java)|
