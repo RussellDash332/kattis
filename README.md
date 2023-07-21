@@ -1,7 +1,7 @@
 # Kattis Solutions
 ![Visitors](https://count.getloli.com/get/@RussellDash332)
 
-## Total problems solved: 1290
+## Total problems solved: 1291
 
 Note that the table below is auto-generated. There might be slight inaccuracies.
 
@@ -249,6 +249,7 @@ Note that the table below is auto-generated. There might be slight inaccuracies.
 |[Classrooms](https://open.kattis.com/search?q=Classrooms)|[![java](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/java/java_24x24.png)](src/Classrooms/Classrooms.java)|
 |[Climbing Worm](https://open.kattis.com/problems/climbingworm)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Climbing%20Worm/climbingworm.py)|
 |[Clinic](https://open.kattis.com/problems/clinic)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Clinic/clinic.py)|
+|[Closeness Queries](https://open.kattis.com/problems/closenessqueries)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Closeness%20Queries/closenessqueries.py)|
 |[Closest Pair (Uniform)](https://open.kattis.com/problems/closestpair1)|[![java](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/java/java_24x24.png)](src/Closest%20Pair%20(Uniform)/ClosestPair1.java)[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Closest%20Pair%20(Uniform)/closestpair1.py)|
 |[Closest Pair](https://open.kattis.com/search?q=Closest%20Pair)|[![java](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/java/java_24x24.png)](src/Closest%20Pair/ClosestPair2.java)|
 |[Closest Sums](https://open.kattis.com/problems/closestsums)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Closest%20Sums/closestsums.py)|
