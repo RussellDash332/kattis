@@ -1,0 +1,1 @@
+s=input();f=s.count;k=f('?')/2;print(sum(ord(e)%14%3*(i+1)for i,e in enumerate(s))-(f('H')+k)**2-k/2)
