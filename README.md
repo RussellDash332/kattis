@@ -1,7 +1,7 @@
 # Kattis Solutions
 ![Visitors](https://count.getloli.com/get/@RussellDash332)
 
-## Total problems solved: 1339
+## Total problems solved: 1342
 
 Note that the table below is auto-generated. There might be slight inaccuracies.
 
@@ -293,6 +293,7 @@ Note that the table below is auto-generated. There might be slight inaccuracies.
 |[Contact Tracing](https://open.kattis.com/problems/contacttracing)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Contact%20Tracing/contacttracing.py)|
 |[Contest Struggles](https://open.kattis.com/problems/conteststruggles)|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Contest%20Struggles/conteststruggles.cpp)|
 |[Contingency Planning](https://open.kattis.com/problems/contingencyplanning)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Contingency%20Planning/contingencyplanning.py)|
+|[Continued Fraction](https://open.kattis.com/problems/fraction)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Continued%20Fraction/fraction.py)|
 |[Continuous Median](https://open.kattis.com/search?q=Continuous%20Median)|[![java](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/java/java_24x24.png)](src/Continuous%20Median/ContinuousMedian.java)|
 |[Conversation Log](https://open.kattis.com/problems/conversationlog)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Conversation%20Log/conversationlog.py)|
 |[Convex Hull (1)](https://open.kattis.com/problems/convexhull)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Convex%20Hull%20(1)/convexhull.py)|
@@ -334,6 +335,7 @@ Note that the table below is auto-generated. There might be slight inaccuracies.
 |[Das Blinkenlights](https://open.kattis.com/problems/dasblinkenlights)|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Das%20Blinkenlights/dasblinkenlights.cpp)|
 |[Datum](https://open.kattis.com/problems/datum)|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Datum/datum.cpp)|
 |[Daylight Saving Time](https://open.kattis.com/problems/dst)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Daylight%20Saving%20Time/dst.py)|
+|[Dead Fraction](https://open.kattis.com/problems/deadfraction)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Dead%20Fraction/deadfraction.py)|
 |[Death Knight Hero](https://open.kattis.com/problems/deathknight)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Death%20Knight%20Hero/deathknight.py)|
 |[Deathstar](https://open.kattis.com/problems/deathstar)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Deathstar/deathstar.py)|
 |[Debugging](https://open.kattis.com/problems/debugging)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Debugging/debugging.py)|
@@ -1215,6 +1217,7 @@ Note that the table below is auto-generated. There might be slight inaccuracies.
 |[The Sound of Silence](https://open.kattis.com/problems/sound)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/The%20Sound%20of%20Silence/sound.py)|
 |[The Stock Market](https://open.kattis.com/problems/borsen)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/The%20Stock%20Market/borsen.py)|
 |[The Weight Of Words](https://open.kattis.com/problems/weightofwords)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/The%20Weight%20Of%20Words/weightofwords.py)|
+|[Thermostat Trouble](https://open.kattis.com/problems/thermostat)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Thermostat%20Trouble/thermostat.py)|
 |[Thesaurus](https://open.kattis.com/problems/thesaurus)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Thesaurus/thesaurus.py)|
 |[This Ain't Your Grandpa's Checkerboard](https://open.kattis.com/problems/thisaintyourgrandpascheckerboard)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/This%20Ain't%20Your%20Grandpa's%20Checkerboard/thisaintyourgrandpascheckerboard.py)|
 |[Thore's self-esteem](https://open.kattis.com/problems/thore)|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Thore's%20self-esteem/thore.py)|
