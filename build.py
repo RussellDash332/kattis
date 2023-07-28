@@ -12,7 +12,8 @@ image_mapper = {
     'java': 'java',
     'kt':   'kotlin',
     'php':  'php',
-    'rb':   'ruby'
+    'rb':   'ruby',
+    'js':   'javascript'
 }
 get_image = lambda e,s=24: f'{image_src}{image_mapper[e]}/{image_mapper[e]}_{s}x{s}.png'
 
