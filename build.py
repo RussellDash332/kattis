@@ -23,23 +23,25 @@ for path, dirs, files in os.walk('src'):
     elif len(path) == 3 and path[1] == '.nus': path, nus = path[2], True
     else: continue
     hyps = []
-    has_py = has_cpp = False
+    has_py = has_cpp = False; has_java = []
     for file in sorted(files):
         ext = file.split('.')[-1]
         if ext in image_mapper: hyps.append(f"[![{ext}]({get_image(ext)})]({ori_path}/{file})")
         if not has_cpp and ext == 'cpp': has_cpp = file
+        if not has_java and ext == 'java': has_java.append(file.lower())
         if not has_py and file not in file_whitelist and ext == 'py': has_py = file
 
-    if path == '99 Problems (2)': has_py = has_cpp = '99problems2'
+    has_java = min(has_java) if has_java else []
+    if path == '99 Problems (2)': has_py = has_cpp = has_java = '99problems2'
 
-    if has_py or has_cpp: url = f"https://open.kattis.com/problems/{(has_py or has_cpp).split('.')[0]}"
-    else: url = f"https://open.kattis.com/search?q={path.replace(' ','%20')}"
-    
+    pid = (has_py or has_cpp or has_java).split('.')[0]
+    url = f"https://open.kattis.com/problems/{pid}"
+
     if nus:
         url = url.replace('open.kattis.com', 'nus.kattis.com').replace('problems/', 'problems/nus.')
-        contents.append(f"|[[NUS] {path}]({url})|{''.join(hyps).replace(' ','%20')}|\n")
+        contents.append(f"|[[NUS] {path}]({url})| nus.{pid} |{''.join(hyps).replace(' ','%20')}|\n")
     else:
-        contents.append(f"|[{path}]({url})|{''.join(hyps).replace(' ','%20')}|\n")
+        contents.append(f"|[{path}]({url})| {pid} |{''.join(hyps).replace(' ','%20')}|\n")
 
 HIDDEN = 19
 lines = open('README.md', 'r').readlines()[:3]
@@ -47,5 +49,5 @@ with open('README.md', 'w+') as f:
     for line in lines: f.write(line)
     f.write(f'## Total problems solved: {len(contents) + HIDDEN}\n\n')
     f.write(f'Note that the table below is auto-generated. There might be slight inaccuracies.\n\n')
-    f.write('|Problem Name|Languages|\n|:---|:---|\n')
-    for content in sorted(contents): f.write(content)
+    f.write('|Problem Name|Problem ID|Languages|\n|:---|:---|:---|\n')
+    for content in sorted(contents, key=str.lower): f.write(content)
