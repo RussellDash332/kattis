@@ -1,7 +1,7 @@
 # Kattis Solutions
 ![Visitors](https://count.getloli.com/get/@RussellDash332)
 
-## Total problems solved: 1391
+## Total problems solved: 1393
 
 Note that the table below is auto-generated. There might be slight inaccuracies.
 
@@ -47,7 +47,7 @@ Note that the table below is auto-generated. There might be slight inaccuracies.
 |[Absolutely Symmetric](https://open.kattis.com/problems/absolutelysymmetric)| absolutelysymmetric |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Absolutely%20Symmetric/absolutelysymmetric.py)|
 |[Absurdistan Roads II](https://open.kattis.com/problems/absurdistan2)| absurdistan2 |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Absurdistan%20Roads%20II/absurdistan2.py)[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Absurdistan%20Roads%20II/absurdistan2_hc.py)|
 |[Absurdistan Roads III](https://open.kattis.com/problems/absurdistan3)| absurdistan3 |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Absurdistan%20Roads%20III/absurdistan3.py)|
-|[Access Denied](https://open.kattis.com/problems/accessdenied)| accessdenied |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Access%20Denied/accessdenied.py)[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Access%20Denied/testing_tool.py)|
+|[Access Denied](https://open.kattis.com/problems/accessdenied)| accessdenied |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Access%20Denied/accessdenied.py)|
 |[Accounting](https://open.kattis.com/problems/bokforing)| bokforing |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Accounting/bokforing.py)|
 |[ACM Contest Scoring](https://open.kattis.com/problems/acm)| acm |[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/ACM%20Contest%20Scoring/acm.cpp)|
 |[Add 'Em Up!](https://open.kattis.com/problems/addemup)| addemup |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Add%20'Em%20Up!/addemup.py)|
@@ -373,6 +373,7 @@ Note that the table below is auto-generated. There might be slight inaccuracies.
 |[Digits](https://open.kattis.com/problems/digits)| digits |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Digits/digits.py)|
 |[Dirty Driving](https://open.kattis.com/problems/dirtydriving)| dirtydriving |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Dirty%20Driving/dirtydriving.py)|
 |[Disastrous Doubling](https://open.kattis.com/problems/disastrousdoubling)| disastrousdoubling |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Disastrous%20Doubling/disastrousdoubling.py)|
+|[Disastrous Downfall](https://open.kattis.com/problems/downfall)| downfall |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Disastrous%20Downfall/downfall.py)|
 |[Disastrous Downtime](https://open.kattis.com/problems/downtime)| downtime |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Disastrous%20Downtime/downtime.py)|
 |[Disc District](https://open.kattis.com/problems/discdistrict)| discdistrict |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Disc%20District/discdistrict.py)|
 |[Distance](https://open.kattis.com/problems/distance)| distance |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Distance/distance.py)|
@@ -859,7 +860,7 @@ Note that the table below is auto-generated. There might be slight inaccuracies.
 |[MrCodeFormatGrader](https://open.kattis.com/problems/mrcodeformatgrader)| mrcodeformatgrader |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/MrCodeFormatGrader/mrcodeformatgrader.py)|
 |[Muddy Hike](https://open.kattis.com/problems/muddyhike)| muddyhike |[![java](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/java/java_24x24.png)](src/Muddy%20Hike/MuddyHike.java)|
 |[Mult!](https://open.kattis.com/problems/mult)| mult |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Mult!/mult.py)|
-|[Multi-Class Binary Neural Network for Handwritten Digits](https://open.kattis.com/problems/mnist10class)| mnist10class |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Multi-Class%20Binary%20Neural%20Network%20for%20Handwritten%20Digits/bnn_accuracy.py)[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Multi-Class%20Binary%20Neural%20Network%20for%20Handwritten%20Digits/mnist10class.py)|
+|[Multi-Class Binary Neural Network for Handwritten Digits](https://open.kattis.com/problems/mnist10class)| mnist10class |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Multi-Class%20Binary%20Neural%20Network%20for%20Handwritten%20Digits/mnist10class.py)|
 |[Multigram](https://open.kattis.com/problems/multigram)| multigram |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Multigram/multigram.py)|
 |[Multiplication Table](https://open.kattis.com/problems/multtable)| multtable |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Multiplication%20Table/multtable.py)|
 |[Mumble Rap](https://open.kattis.com/problems/mumblerap)| mumblerap |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Mumble%20Rap/mumblerap.py)|
@@ -1319,7 +1320,7 @@ Note that the table below is auto-generated. There might be slight inaccuracies.
 |[Turbo](https://open.kattis.com/problems/turbo)| turbo |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Turbo/turbo.py)|
 |[Turn It Up!](https://open.kattis.com/problems/skruop)| skruop |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Turn%20It%20Up!/skruop.py)|
 |[Turtle Master](https://open.kattis.com/problems/turtlemaster)| turtlemaster |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Turtle%20Master/turtlemaster.py)|
-|[Two-Class Binary Neural Network for Handwritten Digits](https://open.kattis.com/problems/mnist2class)| mnist2class |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Two-Class%20Binary%20Neural%20Network%20for%20Handwritten%20Digits/bnn_accuracy.py)[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Two-Class%20Binary%20Neural%20Network%20for%20Handwritten%20Digits/mnist2class.py)|
+|[Two-Class Binary Neural Network for Handwritten Digits](https://open.kattis.com/problems/mnist2class)| mnist2class |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Two-Class%20Binary%20Neural%20Network%20for%20Handwritten%20Digits/mnist2class.py)|
 |[Two-sum](https://open.kattis.com/problems/twosum)| twosum |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Two-sum/twosum.py)|
 |[Ultimate Binary Watch](https://open.kattis.com/problems/ultimatebinarywatch)| ultimatebinarywatch |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Ultimate%20Binary%20Watch/ultimatebinarywatch.py)|
 |[Ultra-QuickSort](https://open.kattis.com/problems/ultraquicksort)| ultraquicksort |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Ultra-QuickSort/ultraquicksort.py)|
@@ -1332,6 +1333,7 @@ Note that the table below is auto-generated. There might be slight inaccuracies.
 |[Unlock Pattern](https://open.kattis.com/problems/unlockpattern)| unlockpattern |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Unlock%20Pattern/unlockpattern.py)|
 |[Using Digits](https://open.kattis.com/problems/usingdigits)| usingdigits |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Using%20Digits/usingdigits.py)|
 |[UTF-8](https://open.kattis.com/problems/utf8)| utf8 |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/UTF-8/utf8.py)|
+|[Uuu](https://open.kattis.com/problems/uuu)| uuu |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Uuu/uuu.py)|
 |[Vaccine Efficacy](https://open.kattis.com/problems/vaccineefficacy)| vaccineefficacy |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Vaccine%20Efficacy/vaccineefficacy.py)|
 |[Vacuumba](https://open.kattis.com/problems/vacuumba)| vacuumba |[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Vacuumba/vacuumba.cpp)|
 |[Variable Arithmetic](https://open.kattis.com/problems/variablearithmetic)| variablearithmetic |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Variable%20Arithmetic/variablearithmetic.py)|

@@ -1,6 +1,6 @@
 import os
 
-file_whitelist = {'bnn_accuracy.py', 'testing_tool.py'}
+file_whitelist = {'bnn_accuracy.py', 'testing_tool.py', 'unununion_find.py'}
 image_src = 'https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/' # hey this a credit!
 image_mapper = {
     'py':   'python',
@@ -27,7 +27,7 @@ for path, dirs, files in os.walk('src'):
     has_py = has_cpp = False; has_java = []
     for file in sorted(files):
         ext = file.split('.')[-1]
-        if ext in image_mapper: hyps.append(f"[![{ext}]({get_image(ext)})]({ori_path}/{file})")
+        if ext in image_mapper and file not in file_whitelist: hyps.append(f"[![{ext}]({get_image(ext)})]({ori_path}/{file})")
         if not has_cpp and ext == 'cpp': has_cpp = file
         if not has_java and ext == 'java': has_java.append(file.lower())
         if not has_py and file not in file_whitelist and ext == 'py': has_py = file
