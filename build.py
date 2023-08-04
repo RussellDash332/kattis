@@ -44,7 +44,7 @@ for path, dirs, files in os.walk('src'):
     else:
         contents.append(f"|[{path}]({url})| {pid} |{''.join(hyps).replace(' ','%20')}|\n")
 
-HIDDEN = 19
+HIDDEN = 19 + 6
 lines = open('README.md', 'r').readlines()[:3]
 with open('README.md', 'w+') as f:
     for line in lines: f.write(line)

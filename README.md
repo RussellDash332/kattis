@@ -1,7 +1,7 @@
 # Kattis Solutions
 ![Visitors](https://count.getloli.com/get/@RussellDash332)
 
-## Total problems solved: 1393
+## Total problems solved: 1401
 
 Note that the table below is auto-generated. There might be slight inaccuracies.
 
@@ -180,6 +180,7 @@ Note that the table below is auto-generated. There might be slight inaccuracies.
 |[Boiling Vegetables](https://open.kattis.com/problems/vegetables)| vegetables |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Boiling%20Vegetables/vegetables.py)|
 |[Book Circle](https://open.kattis.com/problems/bookcircle)| bookcircle |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Book%20Circle/bookcircle.py)|
 |[Book Club](https://open.kattis.com/problems/bookclub)| bookclub |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Book%20Club/bookclub.py)|
+|[Book Shelves](https://open.kattis.com/problems/bokhyllor)| bokhyllor |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Book%20Shelves/bokhyllor.py)|
 |[Booking a Room](https://open.kattis.com/problems/bookingaroom)| bookingaroom |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Booking%20a%20Room/bookingaroom.py)|
 |[Bootstrapping Number](https://open.kattis.com/problems/bootstrappingnumber)| bootstrappingnumber |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Bootstrapping%20Number/bootstrappingnumber.py)|
 |[Borders](https://open.kattis.com/problems/borders)| borders |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Borders/borders.py)|
@@ -457,6 +458,7 @@ Note that the table below is auto-generated. There might be slight inaccuracies.
 |[Exam Redistribution](https://open.kattis.com/problems/redistribution)| redistribution |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Exam%20Redistribution/redistribution.py)|
 |[Exam](https://open.kattis.com/problems/exam)| exam |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Exam/exam.py)|
 |[Exits in Excess](https://open.kattis.com/problems/exitsinexcess)| exitsinexcess |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Exits%20in%20Excess/exitsinexcess.py)|
+|[Exoplanet Lighthouse](https://open.kattis.com/problems/exoplanetlighthouse)| exoplanetlighthouse |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Exoplanet%20Lighthouse/exoplanetlighthouse.py)|
 |[Expected Earnings](https://open.kattis.com/problems/expectedearnings)| expectedearnings |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Expected%20Earnings/expectedearnings.py)|
 |[Exploding Batteries](https://open.kattis.com/problems/batteries)| batteries |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Exploding%20Batteries/batteries.py)|
 |[Exploding CPU](https://open.kattis.com/problems/cpu)| cpu |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Exploding%20CPU/cpu.py)|
