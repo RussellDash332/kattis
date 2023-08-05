@@ -40,9 +40,9 @@ for path, dirs, files in os.walk('src'):
 
     if nus:
         url = url.replace('open.kattis.com', 'nus.kattis.com').replace('problems/', 'problems/nus.')
-        contents.append(f"|[[NUS] {path}]({url})| nus.{pid} |{''.join(hyps).replace(' ','%20')}|\n")
+        contents.append([f'!nus.{pid}', f"|[[NUS] {path}]({url})| nus.{pid} |{''.join(hyps).replace(' ','%20')}|\n"]) # NUS-exclusive problems first
     else:
-        contents.append(f"|[{path}]({url})| {pid} |{''.join(hyps).replace(' ','%20')}|\n")
+        contents.append([pid, f"|[{path}]({url})| {pid} |{''.join(hyps).replace(' ','%20')}|\n"])
 
 HIDDEN = 19 + 6
 lines = open('README.md', 'r').readlines()[:3]
@@ -51,4 +51,4 @@ with open('README.md', 'w+') as f:
     f.write(f'## Total problems solved: {len(contents) + HIDDEN}\n\n')
     f.write(f'Note that the table below is auto-generated. There might be slight inaccuracies.\n\n')
     f.write('|Problem Name|Problem ID|Languages|\n|:---|:---|:---|\n')
-    for content in sorted(contents, key=str.lower): f.write(content)
+    for key, content in sorted(contents): f.write(content)
