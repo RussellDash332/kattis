@@ -1,7 +1,7 @@
 # Kattis Solutions
 ![Visitors](https://count.getloli.com/get/@RussellDash332)
 
-## Total problems solved: 1420
+## Total problems solved: 1421
 
 Note that the table below is auto-generated. There might be slight inaccuracies.
 
@@ -907,6 +907,7 @@ Note that the table below is auto-generated. There might be slight inaccuracies.
 |[Noonerized Spumbers](https://open.kattis.com/problems/noonerizedspumbers)| noonerizedspumbers |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Noonerized%20Spumbers/noonerizedspumbers.py)|
 |[NOP](https://open.kattis.com/problems/nop)| nop |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/NOP/nop.py)|
 |[Norma](https://open.kattis.com/problems/norma)| norma |[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Norma/norma.cpp)|
+|[Not Amused](https://open.kattis.com/problems/notamused)| notamused |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Not%20Amused/notamused.py)|
 |[No Thanks!](https://open.kattis.com/problems/nothanks)| nothanks |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/No%20Thanks!/nothanks.py)|
 |[N-Puzzle](https://open.kattis.com/problems/npuzzle)| npuzzle |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/N-Puzzle/npuzzle.py)|
 |[N-sum](https://open.kattis.com/problems/nsum)| nsum |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/N-sum/nsum.py)|
