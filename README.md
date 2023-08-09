@@ -1,7 +1,7 @@
 # Kattis Solutions
 ![Visitors](https://count.getloli.com/get/@RussellDash332)
 
-## Total problems solved: 1478
+## Total problems solved: 1482
 
 Note that the table below is auto-generated. There might be slight inaccuracies.
 
@@ -852,6 +852,7 @@ Note that the table below is auto-generated. There might be slight inaccuracies.
 |[Mars Window](https://open.kattis.com/problems/marswindow)| marswindow |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Mars%20Window/marswindow.py)|
 |[Mårten's DFS](https://open.kattis.com/problems/martensdfs)| martensdfs |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Mårten's%20DFS/martensdfs.py)|
 |[Massive Card Game](https://open.kattis.com/problems/massivecardgame)| massivecardgame |[![java](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/java/java_24x24.png)](src/Massive%20Card%20Game/MassiveCardGame.java)|
+|[Mastering Mastermind](https://open.kattis.com/problems/mastermind)| mastermind |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Mastering%20Mastermind/mastermind.py)|
 |[Matchsticks](https://open.kattis.com/problems/matchsticks)| matchsticks |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Matchsticks/matchsticks.py)|
 |[Mathemagicians](https://open.kattis.com/problems/mathemagicians)| mathemagicians |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Mathemagicians/mathemagicians.py)|
 |[Math Homework](https://open.kattis.com/problems/mathhomework)| mathhomework |[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Math%20Homework/mathhomework.cpp)|
@@ -1023,6 +1024,7 @@ Note that the table below is auto-generated. There might be slight inaccuracies.
 |[Pig Latin](https://open.kattis.com/problems/piglatin)| piglatin |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Pig%20Latin/piglatin.py)|
 |[A Vicious Pikeman (Easy)](https://open.kattis.com/problems/pikemaneasy)| pikemaneasy |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/A%20Vicious%20Pikeman%20(Easy)/pikemaneasy.py)|
 |[Pivot](https://open.kattis.com/problems/pivot)| pivot |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Pivot/pivot.py)|
+|[Pizza Delivery](https://open.kattis.com/problems/pizza)| pizza |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Pizza%20Delivery/pizza.py)|
 |[Pizza Crust](https://open.kattis.com/problems/pizzacrust2)| pizzacrust2 |[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Pizza%20Crust/pizzacrust2.cpp)|
 |[Pizza Hawaii](https://open.kattis.com/problems/pizzahawaii)| pizzahawaii |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Pizza%20Hawaii/pizzahawaii.py)|
 |[Planetaris](https://open.kattis.com/problems/planetaris)| planetaris |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Planetaris/planetaris.py)|
@@ -1346,6 +1348,7 @@ Note that the table below is auto-generated. There might be slight inaccuracies.
 |[Tic Tac Toe (2)](https://open.kattis.com/problems/tictactoe2)| tictactoe2 |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Tic%20Tac%20Toe%20(2)/tictactoe2.py)|
 |[Tight words](https://open.kattis.com/problems/tight)| tight |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Tight%20words/tight.py)|
 |[Tildes](https://open.kattis.com/problems/tildes)| tildes |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Tildes/tildes.py)|
+|[Tile Cutting](https://open.kattis.com/problems/tilecutting)| tilecutting |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Tile%20Cutting/tilecutting.py)|
 |[Timebomb](https://open.kattis.com/problems/timebomb)| timebomb |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Timebomb/timebomb.py)|
 |[Stuck In A Time Loop](https://open.kattis.com/problems/timeloop)| timeloop |[![java](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/java/java_24x24.png)](src/Stuck%20In%20A%20Time%20Loop/TimeLoop.java)[![js](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/javascript/javascript_24x24.png)](src/Stuck%20In%20A%20Time%20Loop/timeloop-node.js)[![js](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/javascript/javascript_24x24.png)](src/Stuck%20In%20A%20Time%20Loop/timeloop-sm.js)[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Stuck%20In%20A%20Time%20Loop/timeloop.py)|
 |[Timing](https://open.kattis.com/problems/timing)| timing |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Timing/timing.py)|
