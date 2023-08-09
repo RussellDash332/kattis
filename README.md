@@ -1,7 +1,7 @@
 # Kattis Solutions
 ![Visitors](https://count.getloli.com/get/@RussellDash332)
 
-## Total problems solved: 1475
+## Total problems solved: 1478
 
 Note that the table below is auto-generated. There might be slight inaccuracies.
 
@@ -38,6 +38,7 @@ Note that the table below is auto-generated. There might be slight inaccuracies.
 |[Adding Words](https://open.kattis.com/problems/addingwords)| addingwords |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Adding%20Words/addingwords.py)|
 |[Add Two Numbers](https://open.kattis.com/problems/addtwonumbers)| addtwonumbers |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Add%20Two%20Numbers/addtwonumbers.py)|
 |[Adjoin The Networks](https://open.kattis.com/problems/adjoin)| adjoin |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Adjoin%20The%20Networks/adjoin.py)|
+|[Adolescent Architecture](https://open.kattis.com/problems/adolescentarchitecture)| adolescentarchitecture |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Adolescent%20Architecture/adolescentarchitecture.py)|
 |[Ads](https://open.kattis.com/problems/ads)| ads |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Ads/ads.py)[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Ads/ads2.py)|
 |[Agamemnon's Odyssey](https://open.kattis.com/problems/agamemnonsodyssey)| agamemnonsodyssey |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Agamemnon's%20Odyssey/agamemnonsodyssey.py)|
 |[Air Conditioned Minions](https://open.kattis.com/problems/airconditioned)| airconditioned |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Air%20Conditioned%20Minions/airconditioned.py)|
@@ -539,6 +540,7 @@ Note that the table below is auto-generated. There might be slight inaccuracies.
 |[Floor Plan](https://open.kattis.com/problems/floorplan)| floorplan |[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Floor%20Plan/floorplan.cpp)[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Floor%20Plan/floorplan.py)|
 |[No Trees But Flowers](https://open.kattis.com/problems/flowers)| flowers |[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/No%20Trees%20But%20Flowers/flowers.cpp)|
 |[Flowery Trails](https://open.kattis.com/problems/flowerytrails)| flowerytrails |[![java](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/java/java_24x24.png)](src/Flowery%20Trails/FloweryTrails.java)|
+|[Flow Free](https://open.kattis.com/problems/flowfree)| flowfree |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Flow%20Free/flowfree.py)|
 |[Flow Layout](https://open.kattis.com/problems/flowlayout)| flowlayout |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Flow%20Layout/flowlayout.py)|
 |[Flow Shop](https://open.kattis.com/problems/flowshop)| flowshop |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Flow%20Shop/flowshop.py)|
 |[Fluortanten](https://open.kattis.com/problems/fluortanten)| fluortanten |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Fluortanten/fluortanten.py)|
@@ -1060,6 +1062,7 @@ Note that the table below is auto-generated. There might be slight inaccuracies.
 |[Blackboard Numbers](https://open.kattis.com/problems/primes2)| primes2 |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Blackboard%20Numbers/primes2.py)|
 |[Prime Sieve](https://open.kattis.com/problems/primesieve)| primesieve |[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Prime%20Sieve/primesieve.cpp)[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Prime%20Sieve/primesieve2.cpp)|
 |[Saving Princess Peach](https://open.kattis.com/problems/princesspeach)| princesspeach |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Saving%20Princess%20Peach/princesspeach.py)|
+|[Prinova](https://open.kattis.com/problems/prinova)| prinova |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Prinova/prinova.py)|
 |[Printing Costs](https://open.kattis.com/problems/printingcosts)| printingcosts |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Printing%20Costs/printingcosts.py)|
 |[Pripreme](https://open.kattis.com/problems/pripreme)| pripreme |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Pripreme/pripreme.py)|
 |[Problem Classification](https://open.kattis.com/problems/problemclassification)| problemclassification |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Problem%20Classification/problemclassification.py)|
