@@ -1,7 +1,7 @@
 # Kattis Solutions
 ![Visitors](https://count.getloli.com/get/@RussellDash332)
 
-## Total problems solved: 1489
+## Total problems solved: 1491
 
 Note that the table below is auto-generated. There might be slight inaccuracies.
 
@@ -26,6 +26,7 @@ Note that the table below is auto-generated. There might be slight inaccuracies.
 |[Above Average](https://open.kattis.com/problems/aboveaverage)| aboveaverage |[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Above%20Average/aboveaverage.cpp)|
 |[Abridged Reading](https://open.kattis.com/problems/abridgedreading)| abridgedreading |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Abridged%20Reading/abridgedreading.py)|
 |[Absolutely Symmetric](https://open.kattis.com/problems/absolutelysymmetric)| absolutelysymmetric |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Absolutely%20Symmetric/absolutelysymmetric.py)|
+|[Abstract Art](https://open.kattis.com/problems/abstractart)| abstractart |[![java](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/java/java_24x24.png)](src/Abstract%20Art/AbstractArt.java)|
 |[Abstract Painting](https://open.kattis.com/problems/abstractpainting)| abstractpainting |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Abstract%20Painting/abstractpainting.py)|
 |[Absurdistan Roads II](https://open.kattis.com/problems/absurdistan2)| absurdistan2 |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Absurdistan%20Roads%20II/absurdistan2.py)[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Absurdistan%20Roads%20II/absurdistan2_hc.py)|
 |[Absurdistan Roads III](https://open.kattis.com/problems/absurdistan3)| absurdistan3 |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Absurdistan%20Roads%20III/absurdistan3.py)|
@@ -1236,6 +1237,7 @@ Note that the table below is auto-generated. There might be slight inaccuracies.
 |[Graduation](https://open.kattis.com/problems/skolavslutningen)| skolavslutningen |[![java](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/java/java_24x24.png)](src/Graduation/Skolavslutningen.java)|
 |[Turn It Up!](https://open.kattis.com/problems/skruop)| skruop |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Turn%20It%20Up!/skruop.py)|
 |[Sky Islands](https://open.kattis.com/problems/skyislands)| skyislands |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Sky%20Islands/skyislands.py)|
+|[Skyline](https://open.kattis.com/problems/skyline)| skyline |[![java](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/java/java_24x24.png)](src/Skyline/Skyline.java)|
 |[Slatkisi](https://open.kattis.com/problems/slatkisi)| slatkisi |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Slatkisi/slatkisi.py)|
 |[Slikar](https://open.kattis.com/problems/slikar)| slikar |[![java](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/java/java_24x24.png)](src/Slikar/Slikar.java)|
 |[Slow Leak](https://open.kattis.com/problems/slowleak)| slowleak |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Slow%20Leak/slowleak.py)|
