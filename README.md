@@ -1,7 +1,7 @@
 # Kattis Solutions
 ![Visitors](https://count.getloli.com/get/@RussellDash332)
 
-## Total problems solved: 1507
+## Total problems solved: 1511
 
 Note that the table below is auto-generated. There might be slight inaccuracies.
 
@@ -289,6 +289,7 @@ Note that the table below is auto-generated. There might be slight inaccuracies.
 |[Closing The Loop](https://open.kattis.com/problems/closingtheloop)| closingtheloop |[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Closing%20The%20Loop/closingtheloop.cpp)[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Closing%20The%20Loop/closingtheloop2.cpp)|
 |[Coast Length](https://open.kattis.com/problems/coast)| coast |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Coast%20Length/coast.py)|
 |[A Furious Cocktail](https://open.kattis.com/problems/cocktail)| cocktail |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/A%20Furious%20Cocktail/cocktail.py)|
+|[Cocoa Coalition](https://open.kattis.com/problems/cocoacoalition)| cocoacoalition |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Cocoa%20Coalition/cocoacoalition.py)|
 |[Code Cleanups](https://open.kattis.com/problems/codecleanups)| codecleanups |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Code%20Cleanups/codecleanups.py)|
 |[Code Guessing](https://open.kattis.com/problems/codeguessing)| codeguessing |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Code%20Guessing/codeguessing.py)|
 |[Code Names](https://open.kattis.com/problems/codenames)| codenames |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Code%20Names/codenames.py)|
@@ -561,6 +562,7 @@ Note that the table below is auto-generated. There might be slight inaccuracies.
 |[Flying Safely](https://open.kattis.com/problems/flyingsafely)| flyingsafely |[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Flying%20Safely/flyingsafely.cpp)|
 |[Birthday Memorization](https://open.kattis.com/problems/fodelsedagsmemorisering)| fodelsedagsmemorisering |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Birthday%20Memorization/fodelsedagsmemorisering.py)|
 |[Fountain](https://open.kattis.com/problems/fontan)| fontan |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Fountain/fontan.py)|
+|[Fooling Around](https://open.kattis.com/problems/foolingaround)| foolingaround |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Fooling%20Around/foolingaround.py)|
 |[Forced Choice](https://open.kattis.com/problems/forcedchoice)| forcedchoice |[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Forced%20Choice/forcedchoice.cpp)|
 |[Forest Fruits](https://open.kattis.com/problems/forestfruits)| forestfruits |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Forest%20Fruits/forestfruits.py)|
 |[Forests](https://open.kattis.com/problems/forests)| forests |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Forests/forests.py)|
@@ -1073,6 +1075,7 @@ Note that the table below is auto-generated. There might be slight inaccuracies.
 |[Powers and Modulus](https://open.kattis.com/problems/powers)| powers |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Powers%20and%20Modulus/powers.py)|
 |[Powers of 2 (Easy)](https://open.kattis.com/problems/powersof2easy)| powersof2easy |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Powers%20of%202%20(Easy)/powersof2easy.py)|
 |[Prerequisites](https://open.kattis.com/problems/prerequisites)| prerequisites |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Prerequisites/prerequisites.py)|
+|[Pretty Good Cube Root](https://open.kattis.com/problems/prettygoodcuberoot)| prettygoodcuberoot |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Pretty%20Good%20Cube%20Root/prettygoodcuberoot.py)|
 |[Primality](https://open.kattis.com/problems/primality)| primality |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Primality/primality.py)|
 |[Primal Representation](https://open.kattis.com/problems/primalrepresentation)| primalrepresentation |[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Primal%20Representation/primalrepresentation.cpp)|
 |[Primary Arithmetic](https://open.kattis.com/problems/primaryarithmetic)| primaryarithmetic |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Primary%20Arithmetic/primaryarithmetic.py)|
@@ -1450,6 +1453,7 @@ Note that the table below is auto-generated. There might be slight inaccuracies.
 |[Volim](https://open.kattis.com/problems/volim)| volim |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Volim/volim.py)|
 |[Popular Vote](https://open.kattis.com/problems/vote)| vote |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Popular%20Vote/vote.py)|
 |[A Walk Through The Forest](https://open.kattis.com/problems/walkforest)| walkforest |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/A%20Walk%20Through%20The%20Forest/walkforest.py)|
+|[Lifting Walls](https://open.kattis.com/problems/walls)| walls |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Lifting%20Walls/walls.py)|
 |[Warehouse](https://open.kattis.com/problems/warehouse)| warehouse |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Warehouse/warehouse.py)|
 |[Watchdog](https://open.kattis.com/problems/watchdog)| watchdog |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Watchdog/watchdog.py)|
 |[The Weight Of Words](https://open.kattis.com/problems/weightofwords)| weightofwords |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/The%20Weight%20Of%20Words/weightofwords.py)|
