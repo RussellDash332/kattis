@@ -35,7 +35,7 @@ for path, dirs, files in os.walk('src'):
     has_java = min(has_java) if has_java else []
     if path == '99 Problems (2)': has_py = has_cpp = has_java = '99problems2'
 
-    pid = (has_py or has_cpp or has_java).split('.')[0]
+    pid = (has_py or has_cpp or has_java).split('.')[0].split('-')[0] # another split to handle /autori
     url = f"https://open.kattis.com/problems/{pid}"
 
     if nus:
