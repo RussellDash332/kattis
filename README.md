@@ -1,7 +1,7 @@
 # Kattis Solutions
 ![Visitors](https://count.getloli.com/get/@RussellDash332)
 
-## Total problems solved: 1622
+## Total problems solved: 1624
 
 Note that the table below is auto-generated. There might be slight inaccuracies.
 
@@ -127,6 +127,7 @@ Note that the table below is auto-generated. There might be slight inaccuracies.
 |[Babylonian Numbers](https://open.kattis.com/problems/babylonian)| babylonian |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Babylonian%20Numbers/babylonian.py)|
 |[Baby Panda](https://open.kattis.com/problems/babypanda)| babypanda |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Baby%20Panda/babypanda.py)|
 |[Bachet's Game](https://open.kattis.com/problems/bachetsgame)| bachetsgame |[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Bachet's%20Game/bachetsgame.cpp)|
+|[Backpack Buddies](https://open.kattis.com/problems/backpackbuddies)| backpackbuddies |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Backpack%20Buddies/backpackbuddies.py)|
 |[Backspace](https://open.kattis.com/problems/backspace)| backspace |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Backspace/backspace.py)|
 |[Bacon, Eggs, and Spam](https://open.kattis.com/problems/baconeggsandspam)| baconeggsandspam |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Bacon,%20Eggs,%20and%20Spam/baconeggsandspam.py)|
 |[Bag of Tiles](https://open.kattis.com/problems/bagoftiles)| bagoftiles |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Bag%20of%20Tiles/bagoftiles.py)|
@@ -1507,6 +1508,7 @@ Note that the table below is auto-generated. There might be slight inaccuracies.
 |[Triangles](https://open.kattis.com/problems/triangles)| triangles |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Triangles/triangles.py)|
 |[Triangle Area](https://open.kattis.com/problems/triarea)| triarea |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Triangle%20Area/triarea.py)|
 |[Number Trick](https://open.kattis.com/problems/trick)| trick |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Number%20Trick/trick.py)|
+|[Trick or Treat](https://open.kattis.com/problems/tricktreat)| tricktreat |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Trick%20or%20Treat/tricktreat.py)|
 |[Tricky Factoring](https://open.kattis.com/problems/trickyfactoring)| trickyfactoring |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Tricky%20Factoring/trickyfactoring.py)|
 |[Trik](https://open.kattis.com/problems/trik)| trik |[![java](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/java/java_24x24.png)](src/Trik/Trik.java)|
 |[Triangle Trilemma](https://open.kattis.com/problems/trilemma)| trilemma |[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Triangle%20Trilemma/trilemma.cpp)|
