@@ -1,7 +1,7 @@
 # Kattis Solutions
 ![Visitors](https://count.getloli.com/get/@RussellDash332)
 
-## Total problems solved: 1624
+## Total problems solved: 1629
 
 Note that the table below is auto-generated. There might be slight inaccuracies.
 
@@ -163,6 +163,7 @@ Note that the table below is auto-generated. There might be slight inaccuracies.
 |[Betting](https://open.kattis.com/problems/betting)| betting |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Betting/betting.py)|
 |[Hey, Better Bettor](https://open.kattis.com/problems/bettor)| bettor |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Hey,%20Better%20Bettor/bettor.py)|
 |[Biggest Slice](https://open.kattis.com/problems/biggest)| biggest |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Biggest%20Slice/biggest.py)|
+|[The Biggest Triangle](https://open.kattis.com/problems/biggesttriangle)| biggesttriangle |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/The%20Biggest%20Triangle/biggesttriangle.py)|
 |[Big Truck](https://open.kattis.com/problems/bigtruck)| bigtruck |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Big%20Truck/bigtruck.py)|
 |[Bijele](https://open.kattis.com/problems/bijele)| bijele |[![java](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/java/java_24x24.png)](src/Bijele/Bijele.java)[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Bijele/bijele.cpp)|
 |[Bike Gears](https://open.kattis.com/problems/bikegears)| bikegears |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Bike%20Gears/bikegears.py)|
@@ -660,6 +661,7 @@ Note that the table below is auto-generated. There might be slight inaccuracies.
 |[Goldbach's Conjecture](https://open.kattis.com/problems/goldbach2)| goldbach2 |[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Goldbach's%20Conjecture/goldbach2.cpp)|
 |[Golf Bot](https://open.kattis.com/problems/golfbot)| golfbot |[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Golf%20Bot/golfbot.cpp)|
 |[Good Coalition](https://open.kattis.com/problems/goodcoalition)| goodcoalition |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Good%20Coalition/goodcoalition.py)|
+|[Good Morning!](https://open.kattis.com/problems/goodmorning)| goodmorning |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Good%20Morning!/goodmorning.py)|
 |[Goofy Geometry](https://open.kattis.com/problems/goofy)| goofy |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Goofy%20Geometry/goofy.py)|
 |[Gopher II](https://open.kattis.com/problems/gopher2)| gopher2 |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Gopher%20II/gopher2.py)|
 |[The Gourmet](https://open.kattis.com/problems/gourmeten)| gourmeten |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/The%20Gourmet/gourmeten.py)|
@@ -1055,6 +1057,7 @@ Note that the table below is auto-generated. There might be slight inaccuracies.
 |[One Chicken Per Person!](https://open.kattis.com/problems/onechicken)| onechicken |[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/One%20Chicken%20Per%20Person!/onechicken.cpp)|
 |[Ones](https://open.kattis.com/problems/ones)| ones |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Ones/ones.py)|
 |[Keeping On Track](https://open.kattis.com/problems/ontrack)| ontrack |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Keeping%20On%20Track/ontrack.py)|
+|[Open Source](https://open.kattis.com/problems/opensource)| opensource |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Open%20Source/opensource.py)|
 |[First Orchard](https://open.kattis.com/problems/orchard)| orchard |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/First%20Orchard/orchard.py)|
 |[Orderly Class](https://open.kattis.com/problems/orderlyclass)| orderlyclass |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Orderly%20Class/orderlyclass.py)|
 |[Restaurant Orders](https://open.kattis.com/problems/orders)| orders |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Restaurant%20Orders/orders.py)|
@@ -1499,6 +1502,7 @@ Note that the table below is auto-generated. There might be slight inaccuracies.
 |[Transportation Planning](https://open.kattis.com/problems/transportationplanning)| transportationplanning |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Transportation%20Planning/transportationplanning.py)|
 |[Travel the Skies](https://open.kattis.com/problems/traveltheskies)| traveltheskies |[![java](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/java/java_24x24.png)](src/Travel%20the%20Skies/TravelTheSkies.java)|
 |[Treasure Hunt (2)](https://open.kattis.com/problems/treasure)| treasure |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Treasure%20Hunt%20(2)/treasure.py)|
+|[Treasure Diving](https://open.kattis.com/problems/treasurediving)| treasurediving |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Treasure%20Diving/treasurediving.py)|
 |[Treasure Hunt (1)](https://open.kattis.com/problems/treasurehunt)| treasurehunt |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Treasure%20Hunt%20(1)/treasurehunt.py)|
 |[Treehouses](https://open.kattis.com/problems/treehouses)| treehouses |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Treehouses/treehouses.py)|
 |[Tree Insertion](https://open.kattis.com/problems/treeinsertion)| treeinsertion |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Tree%20Insertion/treeinsertion.py)|
