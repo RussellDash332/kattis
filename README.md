@@ -1,7 +1,7 @@
 # Kattis Solutions
 ![Visitors](https://count.getloli.com/get/@RussellDash332)
 
-## Total problems solved: 1629
+## Total problems solved: 1632
 
 Note that the table below is auto-generated. There might be slight inaccuracies.
 
@@ -589,6 +589,7 @@ Note that the table below is auto-generated. There might be slight inaccuracies.
 |[Flag Quiz](https://open.kattis.com/problems/flagquiz)| flagquiz |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Flag%20Quiz/flagquiz.py)|
 |[Flexible Spaces](https://open.kattis.com/problems/flexible)| flexible |[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Flexible%20Spaces/flexible.cpp)|
 |[Flight Planning](https://open.kattis.com/problems/flight)| flight |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Flight%20Planning/flight.py)|
+|[Flip Five](https://open.kattis.com/problems/flipfive)| flipfive |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Flip%20Five/flipfive.py)|
 |[Flip Flow](https://open.kattis.com/problems/flipflow)| flipflow |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Flip%20Flow/flipflow.py)|
 |[Flipping Cards](https://open.kattis.com/problems/flippingcards)| flippingcards |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Flipping%20Cards/flippingcards.py)|
 |[Flipping Patties](https://open.kattis.com/problems/flippingpatties)| flippingpatties |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Flipping%20Patties/flippingpatties.py)|
@@ -753,6 +754,7 @@ Note that the table below is auto-generated. There might be slight inaccuracies.
 |[ICPC Team Selection](https://open.kattis.com/problems/icpcteamselection)| icpcteamselection |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/ICPC%20Team%20Selection/icpcteamselection.py)|
 |[Ignore the Garbage](https://open.kattis.com/problems/ignore)| ignore |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Ignore%20the%20Garbage/ignore.py)|
 |[Iks](https://open.kattis.com/problems/iks)| iks |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Iks/iks.py)|
+|[Illiteracy](https://open.kattis.com/problems/illiteracy)| illiteracy |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Illiteracy/illiteracy.py)|
 |[Illuminati Spotti](https://open.kattis.com/problems/illuminatispotti)| illuminatispotti |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Illuminati%20Spotti/illuminatispotti.py)|
 |[Image Decoding](https://open.kattis.com/problems/imagedecoding)| imagedecoding |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Image%20Decoding/imagedecoding.py)|
 |[Image Processing](https://open.kattis.com/problems/imageprocessing)| imageprocessing |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Image%20Processing/imageprocessing.py)|
@@ -1390,6 +1392,7 @@ Note that the table below is auto-generated. There might be slight inaccuracies.
 |[Square Peg in a Round Hole](https://open.kattis.com/problems/squarepegs)| squarepegs |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Square%20Peg%20in%20a%20Round%20Hole/squarepegs.py)|
 |[Squawk Virus](https://open.kattis.com/problems/squawk)| squawk |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Squawk%20Virus/squawk.py)|
 |[Srednji](https://open.kattis.com/problems/srednji)| srednji |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Srednji/srednji.py)|
+|[Sretan](https://open.kattis.com/problems/sretan)| sretan |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Sretan/sretan.py)|
 |[Stack Construction](https://open.kattis.com/problems/stack)| stack |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Stack%20Construction/stack.py)|
 |[Stamp Combinations](https://open.kattis.com/problems/stampcombinations)| stampcombinations |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Stamp%20Combinations/stampcombinations.py)|
 |[Biased Standings](https://open.kattis.com/problems/standings)| standings |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Biased%20Standings/standings.py)|
