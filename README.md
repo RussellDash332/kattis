@@ -1,7 +1,7 @@
 # Kattis Solutions
 ![Visitors](https://count.getloli.com/get/@RussellDash332)
 
-## Total problems solved: 1632
+## Total problems solved: 1636
 
 Note that the table below is auto-generated. There might be slight inaccuracies.
 
@@ -755,6 +755,7 @@ Note that the table below is auto-generated. There might be slight inaccuracies.
 |[Ignore the Garbage](https://open.kattis.com/problems/ignore)| ignore |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Ignore%20the%20Garbage/ignore.py)|
 |[Iks](https://open.kattis.com/problems/iks)| iks |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Iks/iks.py)|
 |[Illiteracy](https://open.kattis.com/problems/illiteracy)| illiteracy |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Illiteracy/illiteracy.py)|
+|[Illumination](https://open.kattis.com/problems/illumination)| illumination |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Illumination/illumination.py)|
 |[Illuminati Spotti](https://open.kattis.com/problems/illuminatispotti)| illuminatispotti |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Illuminati%20Spotti/illuminatispotti.py)|
 |[Image Decoding](https://open.kattis.com/problems/imagedecoding)| imagedecoding |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Image%20Decoding/imagedecoding.py)|
 |[Image Processing](https://open.kattis.com/problems/imageprocessing)| imageprocessing |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Image%20Processing/imageprocessing.py)|
