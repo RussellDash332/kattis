@@ -1,7 +1,7 @@
 # Kattis Solutions
 ![Visitors](https://count.getloli.com/get/@RussellDash332)
 
-## Total problems solved: 1641
+## Total problems solved: 1644
 
 Note that the table below is auto-generated. There might be slight inaccuracies.
 
@@ -178,6 +178,7 @@ Note that the table below is auto-generated. There might be slight inaccuracies.
 |[Birthday Paradox](https://open.kattis.com/problems/birthdayparadox)| birthdayparadox |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Birthday%20Paradox/birthdayparadox.py)|
 |[Bishops](https://open.kattis.com/problems/bishops)| bishops |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Bishops/bishops.py)|
 |[Bit by Bit](https://open.kattis.com/problems/bitbybit)| bitbybit |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Bit%20by%20Bit/bitbybit.py)|
+|[Bitmask](https://open.kattis.com/problems/bitmask)| bitmask |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Bitmask/bitmask.py)|
 |[Bits](https://open.kattis.com/problems/bits)| bits |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Bits/bits.py)|
 |[BizzFuzz](https://open.kattis.com/problems/bizzfuzz)| bizzfuzz |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/BizzFuzz/bizzfuzz.py)|
 |[Black Friday](https://open.kattis.com/problems/blackfriday)| blackfriday |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Black%20Friday/blackfriday.py)|
@@ -1350,6 +1351,7 @@ Note that the table below is auto-generated. There might be slight inaccuracies.
 |[Skener](https://open.kattis.com/problems/skener)| skener |[![java](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/java/java_24x24.png)](src/Skener/Skener.java)[![js](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/javascript/javascript_24x24.png)](src/Skener/skener.js)[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Skener/skener.py)|
 |[Skocimis](https://open.kattis.com/problems/skocimis)| skocimis |[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Skocimis/skocimis.cpp)|
 |[Graduation](https://open.kattis.com/problems/skolavslutningen)| skolavslutningen |[![java](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/java/java_24x24.png)](src/Graduation/Skolavslutningen.java)|
+|[Going to School](https://open.kattis.com/problems/skolvagen)| skolvagen |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Going%20to%20School/skolvagen.py)|
 |[Turn It Up!](https://open.kattis.com/problems/skruop)| skruop |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Turn%20It%20Up!/skruop.py)|
 |[Sky Islands](https://open.kattis.com/problems/skyislands)| skyislands |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Sky%20Islands/skyislands.py)|
 |[Skyline](https://open.kattis.com/problems/skyline)| skyline |[![java](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/java/java_24x24.png)](src/Skyline/Skyline.java)|
@@ -1504,6 +1506,7 @@ Note that the table below is auto-generated. There might be slight inaccuracies.
 |[Train Boarding](https://open.kattis.com/problems/trainboarding)| trainboarding |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Train%20Boarding/trainboarding.py)|
 |[Train Passengers](https://open.kattis.com/problems/trainpassengers)| trainpassengers |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Train%20Passengers/trainpassengers.py)|
 |[Train Sorting](https://open.kattis.com/problems/trainsorting)| trainsorting |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Train%20Sorting/trainsorting.py)|
+|[Train Timetables](https://open.kattis.com/problems/traintimetables)| traintimetables |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Train%20Timetables/traintimetables.py)|
 |[Tram](https://open.kattis.com/problems/tram)| tram |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Tram/tram.py)|
 |[Transit Woes](https://open.kattis.com/problems/transitwoes)| transitwoes |[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Transit%20Woes/transitwoes.cpp)|
 |[Transportation Planning](https://open.kattis.com/problems/transportationplanning)| transportationplanning |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Transportation%20Planning/transportationplanning.py)|
