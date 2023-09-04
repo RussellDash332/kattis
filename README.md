@@ -1,7 +1,7 @@
 # Kattis Solutions
 ![Visitors](https://count.getloli.com/get/@RussellDash332)
 
-## Total problems solved: 1660
+## Total problems solved: 1668
 
 Note that the table below is auto-generated. There might be slight inaccuracies.
 
@@ -183,6 +183,7 @@ Note that the table below is auto-generated. There might be slight inaccuracies.
 |[Bit by Bit](https://open.kattis.com/problems/bitbybit)| bitbybit |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Bit%20by%20Bit/bitbybit.py)|
 |[Bitmask](https://open.kattis.com/problems/bitmask)| bitmask |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Bitmask/bitmask.py)|
 |[Bits](https://open.kattis.com/problems/bits)| bits |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Bits/bits.py)|
+|[Bits Equalizer](https://open.kattis.com/problems/bitsequalizer)| bitsequalizer |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Bits%20Equalizer/bitsequalizer.py)|
 |[BizzFuzz](https://open.kattis.com/problems/bizzfuzz)| bizzfuzz |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/BizzFuzz/bizzfuzz.py)|
 |[Black Friday](https://open.kattis.com/problems/blackfriday)| blackfriday |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Black%20Friday/blackfriday.py)|
 |[Black Out](https://open.kattis.com/problems/blackout)| blackout |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Black%20Out/blackout.py)|
@@ -380,6 +381,7 @@ Note that the table below is auto-generated. There might be slight inaccuracies.
 |[Couple Competition](https://open.kattis.com/problems/couplecompetition)| couplecompetition |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Couple%20Competition/couplecompetition.py)|
 |[Course Scheduling](https://open.kattis.com/problems/coursescheduling)| coursescheduling |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Course%20Scheduling/coursescheduling.py)|
 |[Cowboy Checkers](https://open.kattis.com/problems/cowboycheckers)| cowboycheckers |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Cowboy%20Checkers/cowboycheckers.py)|
+|[Cow Crane](https://open.kattis.com/problems/cowcrane)| cowcrane |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Cow%20Crane/cowcrane.py)|
 |[CPR Number](https://open.kattis.com/problems/cprnummer)| cprnummer |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/CPR%20Number/cprnummer.py)|
 |[Exploding CPU](https://open.kattis.com/problems/cpu)| cpu |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Exploding%20CPU/cpu.py)|
 |[Cracker Barrel Game](https://open.kattis.com/problems/crackerbarrel)| crackerbarrel |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Cracker%20Barrel%20Game/crackerbarrel.py)|
@@ -532,6 +534,7 @@ Note that the table below is auto-generated. There might be slight inaccuracies.
 |[Eulerian Graphs 2](https://open.kattis.com/problems/eulerian2)| eulerian2 |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Eulerian%20Graphs%202/eulerian2.py)|
 |[Eulerian Path](https://open.kattis.com/problems/eulerianpath)| eulerianpath |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Eulerian%20Path/eulerianpath.py)|
 |[Euler's Number](https://open.kattis.com/problems/eulersnumber)| eulersnumber |[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Euler's%20Number/eulersnumber.cpp)|
+|[European Trip](https://open.kattis.com/problems/europeantrip)| europeantrip |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/European%20Trip/europeantrip.py)|
 |[Evening Out 1](https://open.kattis.com/problems/eveningout1)| eveningout1 |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Evening%20Out%201/eveningout1.py)|
 |[Evening Out 2](https://open.kattis.com/problems/eveningout2)| eveningout2 |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Evening%20Out%202/eveningout2.py)|
 |[EvenOdd](https://open.kattis.com/problems/evenodd)| evenodd |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/EvenOdd/evenodd.py)|
@@ -1018,6 +1021,7 @@ Note that the table below is auto-generated. There might be slight inaccuracies.
 |[Music Your Way](https://open.kattis.com/problems/musicyourway)| musicyourway |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Music%20Your%20Way/musicyourway.py)|
 |[Muzicari](https://open.kattis.com/problems/muzicari)| muzicari |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Muzicari/muzicari.py)|
 |[Minimum Weighted Vertex Cover](https://open.kattis.com/problems/mwvc)| mwvc |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Minimum%20Weighted%20Vertex%20Cover/mwvc.py)|
+|[Mylla](https://open.kattis.com/problems/mylla2)| mylla2 |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Mylla/mylla2.py)|
 |[Name Generation](https://open.kattis.com/problems/namegeneration)| namegeneration |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Name%20Generation/namegeneration.py)|
 |[Name That Permutation](https://open.kattis.com/problems/namethatpermutation)| namethatpermutation |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Name%20That%20Permutation/namethatpermutation.py)|
 |[Nasty Hacks](https://open.kattis.com/problems/nastyhacks)| nastyhacks |[![java](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/java/java_24x24.png)](src/Nasty%20Hacks/NastyHacks.java)|
@@ -1491,6 +1495,7 @@ Note that the table below is auto-generated. There might be slight inaccuracies.
 |[Tic Tac Toe (1)](https://open.kattis.com/problems/tictactoe)| tictactoe |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Tic%20Tac%20Toe%20(1)/tictactoe.py)|
 |[Tic Tac Toe (2)](https://open.kattis.com/problems/tictactoe2)| tictactoe2 |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Tic%20Tac%20Toe%20(2)/tictactoe2.py)|
 |[Tight words](https://open.kattis.com/problems/tight)| tight |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Tight%20words/tight.py)|
+|[Tight-Fit Sudoku](https://open.kattis.com/problems/tightfitsudoku)| tightfitsudoku |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Tight-Fit%20Sudoku/tightfitsudoku.py)|
 |[Tildes](https://open.kattis.com/problems/tildes)| tildes |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Tildes/tildes.py)|
 |[Tile Cutting](https://open.kattis.com/problems/tilecutting)| tilecutting |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Tile%20Cutting/tilecutting.py)|
 |[Timebomb](https://open.kattis.com/problems/timebomb)| timebomb |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Timebomb/timebomb.py)|
@@ -1583,6 +1588,7 @@ Note that the table below is auto-generated. There might be slight inaccuracies.
 |[Virus Replication](https://open.kattis.com/problems/virus)| virus |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Virus%20Replication/virus.py)|
 |[VisuAlgo Online Quiz](https://open.kattis.com/problems/visualgo)| visualgo |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/VisuAlgo%20Online%20Quiz/visualgo.py)|
 |[Volim](https://open.kattis.com/problems/volim)| volim |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Volim/volim.py)|
+|[Count von Walken's Fence](https://open.kattis.com/problems/vonwalken)| vonwalken |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Count%20von%20Walken's%20Fence/vonwalken.py)|
 |[Popular Vote](https://open.kattis.com/problems/vote)| vote |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Popular%20Vote/vote.py)|
 |[A Walk Through The Forest](https://open.kattis.com/problems/walkforest)| walkforest |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/A%20Walk%20Through%20The%20Forest/walkforest.py)|
 |[Trapezoid Walkway](https://open.kattis.com/problems/walkway)| walkway |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Trapezoid%20Walkway/walkway.py)|
