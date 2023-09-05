@@ -1,9 +1,11 @@
 import java.io.*;
 import java.util.*;
 
-public class Template {
+public class TemplateBR {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-        PrintWriter writer = new PrintWriter(System.out);
+        PrintWriter pw = new PrintWriter(System.out);
+        int N = Integer.parseInt(br.readLine());
+        pw.flush();
     }
 }
