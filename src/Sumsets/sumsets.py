@@ -1,5 +1,6 @@
 import sys; input = sys.stdin.readline
-N = int(input()); A = sorted(int(input()) for _ in range(N)); H = {}
+from array import *
+N = int(input()); A = array('i', sorted(int(input()) for _ in range(N))); H = {}
 for i in range(N-1):
     a = A[i]
     for j in range(i+1, N-1):
