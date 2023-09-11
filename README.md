@@ -1,7 +1,7 @@
 # Kattis Solutions
 ![Visitors](https://count.getloli.com/get/@RussellDash332)
 
-## Total problems solved: 1731
+## Total problems solved: 1741
 
 Note that the table below is auto-generated. There might be slight inaccuracies.
 
@@ -718,6 +718,7 @@ Note that the table below is auto-generated. There might be slight inaccuracies.
 |[I Can Guess the Data Structure!](https://open.kattis.com/problems/guessthedatastructure)| guessthedatastructure |[![java](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/java/java_24x24.png)](src/I%20Can%20Guess%20the%20Data%20Structure!/GuessTheDataStructure.java)|
 |[Guess The Digits](https://open.kattis.com/problems/guessthedigits)| guessthedigits |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Guess%20The%20Digits/guessthedigits.py)|
 |[Guess the Numbers](https://open.kattis.com/problems/guessthenumbers)| guessthenumbers |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Guess%20the%20Numbers/guessthenumbers.py)|
+|[Gym Leader's Territory](https://open.kattis.com/problems/gymleadersterritory)| gymleadersterritory |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Gym%20Leader's%20Territory/gymleadersterritory.py)|
 |[Watch Out For Those Hailstones!](https://open.kattis.com/problems/hailstone)| hailstone |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Watch%20Out%20For%20Those%20Hailstones!/hailstone.py)|
 |[Hailstone Sequences](https://open.kattis.com/problems/hailstone2)| hailstone2 |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Hailstone%20Sequences/hailstone2.py)|
 |[Half a Cookie](https://open.kattis.com/problems/halfacookie)| halfacookie |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Half%20a%20Cookie/halfacookie.py)|
@@ -792,6 +793,7 @@ Note that the table below is auto-generated. There might be slight inaccuracies.
 |[Imperfect GPS](https://open.kattis.com/problems/imperfectgps)| imperfectgps |[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Imperfect%20GPS/imperfectgps.cpp)|
 |[Implementation Irregularities](https://open.kattis.com/problems/implementationirregularities)| implementationirregularities |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Implementation%20Irregularities/implementationirregularities.py)|
 |[Import Spaghetti](https://open.kattis.com/problems/importspaghetti)| importspaghetti |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Import%20Spaghetti/importspaghetti.py)|
+|[Mission Improbable](https://open.kattis.com/problems/improbable)| improbable |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Mission%20Improbable/improbable.py)|
 |[#includescoring](https://open.kattis.com/problems/includescoring)| includescoring |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/#includescoring/includescoring.py)|
 |[Incognito](https://open.kattis.com/problems/incognito)| incognito |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Incognito/incognito.py)|
 |[Increasing Subsequence](https://open.kattis.com/problems/increasingsubsequence)| increasingsubsequence |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Increasing%20Subsequence/increasingsubsequence.py)|
@@ -1452,6 +1454,7 @@ Note that the table below is auto-generated. There might be slight inaccuracies.
 |[Square Peg](https://open.kattis.com/problems/squarepeg)| squarepeg |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Square%20Peg/squarepeg.py)|
 |[Square Peg in a Round Hole](https://open.kattis.com/problems/squarepegs)| squarepegs |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Square%20Peg%20in%20a%20Round%20Hole/squarepegs.py)|
 |[Squawk Virus](https://open.kattis.com/problems/squawk)| squawk |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Squawk%20Virus/squawk.py)|
+|[Squirdle](https://open.kattis.com/problems/squirdle)| squirdle |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Squirdle/squirdle.py)|
 |[Srednji](https://open.kattis.com/problems/srednji)| srednji |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Srednji/srednji.py)|
 |[Sretan](https://open.kattis.com/problems/sretan)| sretan |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Sretan/sretan.py)|
 |[Stack Construction](https://open.kattis.com/problems/stack)| stack |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Stack%20Construction/stack.py)|
@@ -1612,6 +1615,8 @@ Note that the table below is auto-generated. There might be slight inaccuracies.
 |[University Zoning](https://open.kattis.com/problems/universityzoning)| universityzoning |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/University%20Zoning/universityzoning.py)|
 |[Unlock Pattern](https://open.kattis.com/problems/unlockpattern)| unlockpattern |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Unlock%20Pattern/unlockpattern.py)|
 |[Unlock Pattern II](https://open.kattis.com/problems/unlockpattern2)| unlockpattern2 |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Unlock%20Pattern%20II/unlockpattern2.py)|
+|[Unown Code](https://open.kattis.com/problems/unowncode)| unowncode |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Unown%20Code/unowncode.py)|
+|[Unown Code (Easy)](https://open.kattis.com/problems/unowncodeeasy)| unowncodeeasy |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Unown%20Code%20(Easy)/unowncodeeasy.py)|
 |[Unusual Darts](https://open.kattis.com/problems/unusualdarts)| unusualdarts |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Unusual%20Darts/unusualdarts.py)|
 |[Arrangement](https://open.kattis.com/problems/upprodun)| upprodun |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Arrangement/upprodun.py)|
 |[Urban Design](https://open.kattis.com/problems/urbandesign)| urbandesign |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Urban%20Design/urbandesign.py)|
