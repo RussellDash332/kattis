@@ -1,7 +1,7 @@
 # Kattis Solutions
 ![Visitors](https://count.getloli.com/get/@RussellDash332)
 
-## Total problems solved: 1783
+## Total problems solved: 1790
 
 Note that the table below is auto-generated. There might be slight inaccuracies.
 
@@ -242,6 +242,7 @@ Note that the table below is auto-generated. There might be slight inaccuracies.
 |[Buggy Robot (1)](https://open.kattis.com/problems/buggyrobot)| buggyrobot |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Buggy%20Robot%20(1)/buggyrobot.py)|
 |[Buggy Robot (2)](https://open.kattis.com/problems/buggyrobot2)| buggyrobot2 |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Buggy%20Robot%20(2)/buggyrobot2.py)|
 |[Build Dependencies](https://open.kattis.com/problems/builddeps)| builddeps |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Build%20Dependencies/builddeps.py)|
+|[Building Boundaries](https://open.kattis.com/problems/buildingboundaries)| buildingboundaries |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Building%20Boundaries/buildingboundaries.py)|
 |[Building Highways](https://open.kattis.com/problems/buildinghighways)| buildinghighways |[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Building%20Highways/buildinghighways.cpp)[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Building%20Highways/buildinghighways.py)|
 |[Buka](https://open.kattis.com/problems/buka)| buka |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Buka/buka.py)|
 |[Bumped!](https://open.kattis.com/problems/bumped)| bumped |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Bumped!/bumped.py)|
@@ -597,6 +598,7 @@ Note that the table below is auto-generated. There might be slight inaccuracies.
 |[Faulty Robot](https://open.kattis.com/problems/faultyrobot)| faultyrobot |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Faulty%20Robot/faultyrobot.py)|
 |[A Favourable Ending](https://open.kattis.com/problems/favourable)| favourable |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/A%20Favourable%20Ending/favourable.py)|
 |[FBI Universal Control Numbers](https://open.kattis.com/problems/fbiuniversal)| fbiuniversal |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/FBI%20Universal%20Control%20Numbers/fbiuniversal.py)|
+|[Fence Bowling](https://open.kattis.com/problems/fencebowling)| fencebowling |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Fence%20Bowling/fencebowling.py)|
 |[Fend Off Titan](https://open.kattis.com/problems/fendofftitan)| fendofftitan |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Fend%20Off%20Titan/fendofftitan.py)|
 |[Fenwick Tree](https://open.kattis.com/problems/fenwick)| fenwick |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Fenwick%20Tree/fenwick.py)|
 |[Ferry Loading III](https://open.kattis.com/problems/ferryloading3)| ferryloading3 |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Ferry%20Loading%20III/ferryloading3.py)|
@@ -610,12 +612,14 @@ Note that the table below is auto-generated. There might be slight inaccuracies.
 |[Fifty Shades of Pink](https://open.kattis.com/problems/fiftyshades)| fiftyshades |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Fifty%20Shades%20of%20Pink/fiftyshades.py)|
 |[Filip](https://open.kattis.com/problems/filip)| filip |[![java](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/java/java_24x24.png)](src/Filip/Filip.java)[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Filip/filip.cpp)[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Filip/filip.py)|
 |[Final Exam](https://open.kattis.com/problems/finalexam2)| finalexam2 |[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Final%20Exam/finalexam2.cpp)|
+|[Financial Planning](https://open.kattis.com/problems/financialplanning)| financialplanning |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Financial%20Planning/financialplanning.py)|
 |[Finding an A](https://open.kattis.com/problems/findingana)| findingana |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Finding%20an%20A/findingana.py)|
 |[Finding Lines](https://open.kattis.com/problems/findinglines)| findinglines |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Finding%20Lines/findinglines.py)|
 |[Find my Family](https://open.kattis.com/problems/findmyfamily)| findmyfamily |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Find%20my%20Family/findmyfamily.py)|
 |[Find The Root](https://open.kattis.com/problems/findtheroot)| findtheroot |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Find%20The%20Root/findtheroot.py)|
 |[Fire](https://open.kattis.com/problems/fire2)| fire2 |[![java](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/java/java_24x24.png)](src/Fire/Fire2.java)|
 |[Fire!](https://open.kattis.com/problems/fire3)| fire3 |[![java](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/java/java_24x24.png)](src/Fire!/Fire3.java)|
+|[Firefly](https://open.kattis.com/problems/firefly)| firefly |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Firefly/firefly.py)|
 |[Firetrucks Are Red](https://open.kattis.com/problems/firetrucksarered)| firetrucksarered |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Firetrucks%20Are%20Red/firetrucksarered.py)|
 |[Fishmongers](https://open.kattis.com/problems/fishmongers)| fishmongers |[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Fishmongers/fishmongers.cpp)|
 |[FizzBuzz (1)](https://open.kattis.com/problems/fizzbuzz)| fizzbuzz |[![java](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/java/java_24x24.png)](src/FizzBuzz%20(1)/FizzBuzz.java)[![js](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/javascript/javascript_24x24.png)](src/FizzBuzz%20(1)/fizzbuzz.js)[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/FizzBuzz%20(1)/fizzbuzz.py)|
@@ -1438,12 +1442,14 @@ Note that the table below is auto-generated. There might be slight inaccuracies.
 |[Sith](https://open.kattis.com/problems/sith)| sith |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Sith/sith.py)|
 |[Sjecista](https://open.kattis.com/problems/sjecista)| sjecista |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Sjecista/sjecista.py)|
 |[Skener](https://open.kattis.com/problems/skener)| skener |[![java](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/java/java_24x24.png)](src/Skener/Skener.java)[![js](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/javascript/javascript_24x24.png)](src/Skener/skener.js)[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Skener/skener.py)|
+|[Ski Jumping](https://open.kattis.com/problems/skijumping)| skijumping |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Ski%20Jumping/skijumping.py)|
 |[Skocimis](https://open.kattis.com/problems/skocimis)| skocimis |[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Skocimis/skocimis.cpp)|
 |[Graduation](https://open.kattis.com/problems/skolavslutningen)| skolavslutningen |[![java](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/java/java_24x24.png)](src/Graduation/Skolavslutningen.java)|
 |[Going to School](https://open.kattis.com/problems/skolvagen)| skolvagen |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Going%20to%20School/skolvagen.py)|
 |[Turn It Up!](https://open.kattis.com/problems/skruop)| skruop |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Turn%20It%20Up!/skruop.py)|
 |[Sky Islands](https://open.kattis.com/problems/skyislands)| skyislands |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Sky%20Islands/skyislands.py)|
 |[Skyline](https://open.kattis.com/problems/skyline)| skyline |[![java](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/java/java_24x24.png)](src/Skyline/Skyline.java)|
+|[Slalom 2](https://open.kattis.com/problems/slalom2)| slalom2 |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Slalom%202/slalom2.py)|
 |[Slatkisi](https://open.kattis.com/problems/slatkisi)| slatkisi |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Slatkisi/slatkisi.py)|
 |[Sliding Tiles](https://open.kattis.com/problems/slidingtiles)| slidingtiles |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Sliding%20Tiles/slidingtiles.py)|
 |[Slikar](https://open.kattis.com/problems/slikar)| slikar |[![java](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/java/java_24x24.png)](src/Slikar/Slikar.java)|
@@ -1489,6 +1495,7 @@ Note that the table below is auto-generated. There might be slight inaccuracies.
 |[Splat](https://open.kattis.com/problems/splat)| splat |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Splat/splat.py)|
 |[Spritt](https://open.kattis.com/problems/spritt)| spritt |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Spritt/spritt.py)|
 |[Sprocket Science](https://open.kattis.com/problems/sprocketscience)| sprocketscience |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Sprocket%20Science/sprocketscience.py)|
+|[Square Deal](https://open.kattis.com/problems/squaredeal)| squaredeal |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Square%20Deal/squaredeal.py)|
 |[Square Peg](https://open.kattis.com/problems/squarepeg)| squarepeg |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Square%20Peg/squarepeg.py)|
 |[Square Peg in a Round Hole](https://open.kattis.com/problems/squarepegs)| squarepegs |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Square%20Peg%20in%20a%20Round%20Hole/squarepegs.py)|
 |[Squawk Virus](https://open.kattis.com/problems/squawk)| squawk |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Squawk%20Virus/squawk.py)|
