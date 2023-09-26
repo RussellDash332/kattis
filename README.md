@@ -1,7 +1,7 @@
 # Kattis Solutions
 ![Visitors](https://count.getloli.com/get/@RussellDash332)
 
-## Total problems solved: 1790
+## Total problems solved: 1792
 
 Note that the table below is auto-generated. There might be slight inaccuracies.
 
@@ -823,6 +823,7 @@ Note that the table below is auto-generated. There might be slight inaccuracies.
 |[In Flagrante Delicto](https://open.kattis.com/problems/inflagrantedelicto)| inflagrantedelicto |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/In%20Flagrante%20Delicto/inflagrantedelicto.py)|
 |[Inflation (1)](https://open.kattis.com/problems/inflation)| inflation |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Inflation%20(1)/inflation.py)|
 |[Inflation (2)](https://open.kattis.com/problems/inflation2)| inflation2 |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Inflation%20(2)/inflation2.py)|
+|[Inheritance](https://open.kattis.com/problems/inheritance)| inheritance |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Inheritance/inheritance.py)|
 |[Inquiry I](https://open.kattis.com/problems/inquiryi)| inquiryi |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Inquiry%20I/inquiryi.py)|
 |[Inspecting Illumination](https://open.kattis.com/problems/inspectingillumination)| inspectingillumination |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Inspecting%20Illumination/inspectingillumination.py)|
 |[Integer Division](https://open.kattis.com/problems/integerdivision)| integerdivision |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Integer%20Division/integerdivision.py)|
@@ -1268,6 +1269,7 @@ Note that the table below is auto-generated. There might be slight inaccuracies.
 |[Pseudoprime numbers](https://open.kattis.com/problems/pseudoprime)| pseudoprime |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Pseudoprime%20numbers/pseudoprime.py)|
 |[Ptice](https://open.kattis.com/problems/ptice)| ptice |[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Ptice/ptice.cpp)|
 |[Pulling Their Weight](https://open.kattis.com/problems/pullingtheirweight)| pullingtheirweight |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Pulling%20Their%20Weight/pullingtheirweight.py)|
+|[Pulverizing Pancake](https://open.kattis.com/problems/pulverizingpancake)| pulverizingpancake |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Pulverizing%20Pancake/pulverizingpancake.py)|
 |[Pumpkin Patch](https://open.kattis.com/problems/pumpkinpatch)| pumpkinpatch |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Pumpkin%20Patch/pumpkinpatch.py)|
 |[Purple Rain](https://open.kattis.com/problems/purplerain)| purplerain |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Purple%20Rain/purplerain.py)|
 |[Putovanje](https://open.kattis.com/problems/putovanje)| putovanje |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Putovanje/putovanje.py)|
