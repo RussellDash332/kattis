@@ -1,7 +1,7 @@
 # Kattis Solutions
 ![Visitors](https://count.getloli.com/get/@RussellDash332)
 
-## Total problems solved: 1792
+## Total problems solved: 1793
 
 Note that the table below is auto-generated. There might be slight inaccuracies.
 
