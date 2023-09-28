@@ -1,7 +1,7 @@
 # Kattis Solutions
 ![Visitors](https://count.getloli.com/get/@RussellDash332)
 
-## Total problems solved: 1797
+## Total problems solved: 1800
 
 Note that the table below is auto-generated. There might be slight inaccuracies.
 
@@ -902,6 +902,7 @@ Note that the table below is auto-generated. There might be slight inaccuracies.
 |[King of the Waves](https://open.kattis.com/problems/kingofthewaves)| kingofthewaves |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/King%20of%20the%20Waves/kingofthewaves.py)|
 |[King's Colors](https://open.kattis.com/problems/kingscolors)| kingscolors |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/King's%20Colors/kingscolors.py)|
 |[K-Inversions](https://open.kattis.com/problems/kinversion)| kinversion |[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/K-Inversions/kinversion.cpp)|
+|[Kitchen Measurements](https://open.kattis.com/problems/kitchen)| kitchen |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Kitchen%20Measurements/kitchen.py)|
 |[Kitten on a Tree](https://open.kattis.com/problems/kitten)| kitten |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Kitten%20on%20a%20Tree/kitten.py)|
 |[Kleptography](https://open.kattis.com/problems/kleptography)| kleptography |[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Kleptography/kleptography.cpp)|
 |[The Clock](https://open.kattis.com/problems/klockan2)| klockan2 |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/The%20Clock/klockan2.py)|
@@ -1400,6 +1401,7 @@ Note that the table below is auto-generated. There might be slight inaccuracies.
 |[Line Segment Distance](https://open.kattis.com/problems/segmentdistance)| segmentdistance |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Line%20Segment%20Distance/segmentdistance.py)|
 |[Line Segment Intersection](https://open.kattis.com/problems/segmentintersection)| segmentintersection |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Line%20Segment%20Intersection/segmentintersection.py)|
 |[Select Group](https://open.kattis.com/problems/selectgroup)| selectgroup |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Select%20Group/selectgroup.py)|
+|[Self-Similar Strings](https://open.kattis.com/problems/selfsimilarstrings)| selfsimilarstrings |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Self-Similar%20Strings/selfsimilarstrings.py)|
 |[Selling Land](https://open.kattis.com/problems/sellingland)| sellingland |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Selling%20Land/sellingland.py)|
 |[Semafori](https://open.kattis.com/problems/semafori)| semafori |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Semafori/semafori.py)|
 |[Sentry Robots](https://open.kattis.com/problems/sentryrobots)| sentryrobots |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Sentry%20Robots/sentryrobots.py)|
@@ -1625,6 +1627,7 @@ Note that the table below is auto-generated. There might be slight inaccuracies.
 |[Train Timetables](https://open.kattis.com/problems/traintimetables)| traintimetables |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Train%20Timetables/traintimetables.py)|
 |[Tram](https://open.kattis.com/problems/tram)| tram |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Tram/tram.py)|
 |[Transit Woes](https://open.kattis.com/problems/transitwoes)| transitwoes |[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Transit%20Woes/transitwoes.cpp)|
+|[Transportation Delegation](https://open.kattis.com/problems/transportation)| transportation |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Transportation%20Delegation/transportation.py)|
 |[Transportation Planning](https://open.kattis.com/problems/transportationplanning)| transportationplanning |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Transportation%20Planning/transportationplanning.py)|
 |[Travel the Skies](https://open.kattis.com/problems/traveltheskies)| traveltheskies |[![java](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/java/java_24x24.png)](src/Travel%20the%20Skies/TravelTheSkies.java)|
 |[Treasure Hunt (2)](https://open.kattis.com/problems/treasure)| treasure |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Treasure%20Hunt%20(2)/treasure.py)|

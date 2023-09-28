@@ -1,16 +1,17 @@
 import sys
 from heapq import *
+from array import *
 
 MOD, L = 10**9 + 7, 10**7 + 3
 v, e = map(int, input().split())
-g = [[] for _ in range(v)]
+g = [array('q') for _ in range(v)]
 
 for l in sys.stdin:
     a, b, w = map(int, l.split())
     g[a].append(b*L+w), g[b].append(a*L+w)
 
 def dijkstra(s):
-    D = [1e18]*v
+    D = array('q', [10**18]*v)
     D[s], p, pq = 0, [0]*v, [s]
     p[s] = 1
     while pq:
