@@ -1499,8 +1499,8 @@ Note that the table below is auto-generated. There might be slight inaccuracies.
 |[Speedrun](https://open.kattis.com/problems/speedrun)| speedrun |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Speedrun/speedrun.py)|
 |[Speedrunning](https://open.kattis.com/problems/speedrunning)| speedrunning |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Speedrunning/speedrunning.py)|
 |[Speedy Escape](https://open.kattis.com/problems/speedyescape)| speedyescape |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Speedy%20Escape/speedyescape.py)|
+|[Sperhling](https://open.kattis.com/problems/spehrling)| spehrling |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Sperhling/spehrling.py)|
 |[Spelling Bee](https://open.kattis.com/problems/spellingbee)| spellingbee |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Spelling%20Bee/spellingbee.py)|
-|[Sperhling](https://open.kattis.com/problems/sperhling)| sperhling |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Sperhling/sperhling.py)|
 |[Prime Spiral](https://open.kattis.com/problems/spiral)| spiral |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Prime%20Spiral/spiral.py)|
 |[Splat](https://open.kattis.com/problems/splat)| splat |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Splat/splat.py)|
 |[Spritt](https://open.kattis.com/problems/spritt)| spritt |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Spritt/spritt.py)|
