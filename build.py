@@ -1,6 +1,6 @@
 import os
 
-file_whitelist = {'bnn_accuracy.py', 'testing_tool.py', 'unununion_find.py'}
+file_whitelist = {'bnn_accuracy.py', 'testing_tool.py', 'unununion_find.py', 'comp.py'}
 image_src = 'https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/' # hey this a credit!
 image_mapper = {
     'py':   'python',
