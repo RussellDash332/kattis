@@ -2,6 +2,8 @@
 
 #define INF INT_MAX
 #define pb push_back
+#pragma GCC optimize("Ofast,unroll-loops")
+#pragma GCC target("avx,avx2,fma")
 
 using namespace std;
 using ll = long long;

@@ -3,6 +3,9 @@
 #define pb push_back
 #define ub upper_bound
 #define lb lower_bound
+#pragma GCC optimize("Ofast,unroll-loops")
+#pragma GCC target("avx,avx2,fma")
+#pragma GCC target("sse,sse2,sse3,ssse3,sse4,popcnt,abm,mmx,bmi,bmi2,lzcnt")
 using namespace std;
 using ll = long long;
 using vi = vector<int>;
