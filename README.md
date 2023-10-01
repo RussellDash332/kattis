@@ -1,7 +1,7 @@
 # Kattis Solutions
 ![Visitors](https://count.getloli.com/get/@RussellDash332)
 
-## Total problems solved: 1816
+## Total problems solved: 1817
 
 Note that the table below is auto-generated. There might be slight inaccuracies.
 
@@ -579,6 +579,7 @@ Note that the table below is auto-generated. There might be slight inaccuracies.
 |[Exits in Excess](https://open.kattis.com/problems/exitsinexcess)| exitsinexcess |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Exits%20in%20Excess/exitsinexcess.py)|
 |[Exoplanet Lighthouse](https://open.kattis.com/problems/exoplanetlighthouse)| exoplanetlighthouse |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Exoplanet%20Lighthouse/exoplanetlighthouse.py)|
 |[Expected Earnings](https://open.kattis.com/problems/expectedearnings)| expectedearnings |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Expected%20Earnings/expectedearnings.py)|
+|[Expeditious Cubing](https://open.kattis.com/problems/expeditiouscubing)| expeditiouscubing |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Expeditious%20Cubing/expeditiouscubing.py)|
 |[Explosion Exploit](https://open.kattis.com/problems/explosion)| explosion |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Explosion%20Exploit/explosion.py)|
 |[Exponial](https://open.kattis.com/problems/exponial)| exponial |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Exponial/exponial.py)|
 |[Eye of Sauron](https://open.kattis.com/problems/eyeofsauron)| eyeofsauron |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Eye%20of%20Sauron/eyeofsauron.py)|
