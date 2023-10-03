@@ -1,7 +1,7 @@
 # Kattis Solutions
 ![Visitors](https://count.getloli.com/get/@RussellDash332)
 
-## Total problems solved: 1824
+## Total problems solved: 1826
 
 Note that the table below is auto-generated. There might be slight inaccuracies.
 
@@ -1172,6 +1172,7 @@ Note that the table below is auto-generated. There might be slight inaccuracies.
 |[The Owl and the Fox](https://open.kattis.com/problems/owlandfox)| owlandfox |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/The%20Owl%20and%20the%20Fox/owlandfox.py)|
 |[Pachinko Probability](https://open.kattis.com/problems/pachinkoprobability)| pachinkoprobability |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Pachinko%20Probability/pachinkoprobability.py)|
 |[Pachyderm Peanut Packing](https://open.kattis.com/problems/pachydermpeanutpacking)| pachydermpeanutpacking |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Pachyderm%20Peanut%20Packing/pachydermpeanutpacking.py)|
+|[Paintball](https://open.kattis.com/problems/paintball)| paintball |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Paintball/paintball.py)|
 |[Pairing Socks](https://open.kattis.com/problems/pairingsocks)| pairingsocks |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Pairing%20Socks/pairingsocks.py)|
 |[Packagemanager](https://open.kattis.com/problems/pakethanterare)| pakethanterare |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Packagemanager/pakethanterare.py)|
 |[Panda Chess](https://open.kattis.com/problems/pandachess)| pandachess |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Panda%20Chess/pandachess.py)|
@@ -1732,6 +1733,7 @@ Note that the table below is auto-generated. There might be slight inaccuracies.
 |[A Walk Through The Forest](https://open.kattis.com/problems/walkforest)| walkforest |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/A%20Walk%20Through%20The%20Forest/walkforest.py)|
 |[Trapezoid Walkway](https://open.kattis.com/problems/walkway)| walkway |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Trapezoid%20Walkway/walkway.py)|
 |[Lifting Walls](https://open.kattis.com/problems/walls)| walls |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Lifting%20Walls/walls.py)|
+|[Walrus Weights](https://open.kattis.com/problems/walrusweights)| walrusweights |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Walrus%20Weights/walrusweights.py)|
 |[Warehouse](https://open.kattis.com/problems/warehouse)| warehouse |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Warehouse/warehouse.py)|
 |[War on Weather](https://open.kattis.com/problems/waronweather)| waronweather |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/War%20on%20Weather/waronweather.py)|
 |[Watchdog](https://open.kattis.com/problems/watchdog)| watchdog |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Watchdog/watchdog.py)|
