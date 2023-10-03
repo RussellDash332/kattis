@@ -1,7 +1,7 @@
 # Kattis Solutions
 ![Visitors](https://count.getloli.com/get/@RussellDash332)
 
-## Total problems solved: 1826
+## Total problems solved: 1827
 
 Note that the table below is auto-generated. There might be slight inaccuracies.
 
@@ -1672,6 +1672,7 @@ Note that the table below is auto-generated. There might be slight inaccuracies.
 |[Trik](https://open.kattis.com/problems/trik)| trik |[![java](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/java/java_24x24.png)](src/Trik/Trik.java)|
 |[Triangle Trilemma](https://open.kattis.com/problems/trilemma)| trilemma |[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Triangle%20Trilemma/trilemma.cpp)|
 |[Triolingo Push](https://open.kattis.com/problems/triolingopush)| triolingopush |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Triolingo%20Push/triolingopush.py)|
+|[The Trip](https://open.kattis.com/problems/trip)| trip |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/The%20Trip/trip.py)|
 |[Triple Texting](https://open.kattis.com/problems/tripletexting)| tripletexting |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Triple%20Texting/tripletexting.py)|
 |[Trip Odometer](https://open.kattis.com/problems/tripodometer)| tripodometer |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Trip%20Odometer/tripodometer.py)|
 |[Trip Planning](https://open.kattis.com/problems/tripplanning)| tripplanning |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Trip%20Planning/tripplanning.py)|
