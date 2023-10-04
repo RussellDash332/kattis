@@ -1,7 +1,7 @@
 # Kattis Solutions
 ![Visitors](https://count.getloli.com/get/@RussellDash332)
 
-## Total problems solved: 1827
+## Total problems solved: 1828
 
 Note that the table below is auto-generated. There might be slight inaccuracies.
 
@@ -899,6 +899,7 @@ Note that the table below is auto-generated. There might be slight inaccuracies.
 |[Just Do It](https://open.kattis.com/problems/justdoit)| justdoit |[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Just%20Do%20It/justdoit.cpp)|
 |[Just for Sidekicks](https://open.kattis.com/problems/justforsidekicks)| justforsidekicks |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Just%20for%20Sidekicks/justforsidekicks.py)|
 |[Kafkaesque](https://open.kattis.com/problems/kafkaesque)| kafkaesque |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Kafkaesque/kafkaesque.py)|
+|[Kaleidoscopic Palindromes](https://open.kattis.com/problems/kaleidoscopicpalindromes)| kaleidoscopicpalindromes |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Kaleidoscopic%20Palindromes/kaleidoscopicpalindromes.py)|
 |[Kanna's Friendship](https://open.kattis.com/problems/kannafriendship)| kannafriendship |[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Kanna's%20Friendship/kannafriendship.cpp)[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Kanna's%20Friendship/kannafriendship.py)|
 |[Running Race](https://open.kattis.com/problems/kaploeb)| kaploeb |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Running%20Race/kaploeb.py)|
 |[Karte](https://open.kattis.com/problems/karte)| karte |[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Karte/karte.cpp)|
