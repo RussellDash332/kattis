@@ -1,7 +1,7 @@
 # Kattis Solutions
 ![Visitors](https://count.getloli.com/get/@RussellDash332)
 
-## Total problems solved: 1833
+## Total problems solved: 1834
 
 Note that the table below is auto-generated. There might be slight inaccuracies.
 
@@ -588,6 +588,7 @@ Note that the table below is auto-generated. There might be slight inaccuracies.
 |[Exponial](https://open.kattis.com/problems/exponial)| exponial |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Exponial/exponial.py)|
 |[Eye of Sauron](https://open.kattis.com/problems/eyeofsauron)| eyeofsauron |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Eye%20of%20Sauron/eyeofsauron.py)|
 |[Factor-Free Tree](https://open.kattis.com/problems/factorfree)| factorfree |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Factor-Free%20Tree/factorfree.py)|
+|[Factor-Full Tree](https://open.kattis.com/problems/factorfulltree)| factorfulltree |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Factor-Full%20Tree/factorfulltree.py)|
 |[Factorial Power](https://open.kattis.com/problems/factorialpower)| factorialpower |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Factorial%20Power/factorialpower.py)|
 |[Factors](https://open.kattis.com/problems/factors)| factors |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Factors/factors.py)|
 |[Factovisors](https://open.kattis.com/problems/factovisors)| factovisors |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Factovisors/factovisors.py)|
