@@ -1,7 +1,7 @@
 # Kattis Solutions
 ![Visitors](https://count.getloli.com/get/@RussellDash332)
 
-## Total problems solved: 1834
+## Total problems solved: 1837
 
 Note that the table below is auto-generated. There might be slight inaccuracies.
 
@@ -311,6 +311,7 @@ Note that the table below is auto-generated. There might be slight inaccuracies.
 |[Chinese Remainder](https://open.kattis.com/problems/chineseremainder)| chineseremainder |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Chinese%20Remainder/chineseremainder.py)|
 |[Chocolate Division](https://open.kattis.com/problems/chocolatedivision)| chocolatedivision |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Chocolate%20Division/chocolatedivision.py)|
 |[Chocolates](https://open.kattis.com/problems/chocolates)| chocolates |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Chocolates/chocolates.py)|
+|[Choosing Numbers](https://open.kattis.com/problems/choosingnumbers)| choosingnumbers |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Choosing%20Numbers/choosingnumbers.py)|
 |[Preludes](https://open.kattis.com/problems/chopin)| chopin |[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Preludes/chopin.cpp)|
 |[Cinema Crowds](https://open.kattis.com/problems/cinema)| cinema |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Cinema%20Crowds/cinema.py)|
 |[Cinema Crowds 2](https://open.kattis.com/problems/cinema2)| cinema2 |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Cinema%20Crowds%202/cinema2.py)|
@@ -1243,6 +1244,7 @@ Note that the table below is auto-generated. There might be slight inaccuracies.
 |[Playfair Cipher](https://open.kattis.com/problems/playfair)| playfair |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Playfair%20Cipher/playfair.py)|
 |[Playground](https://open.kattis.com/problems/playground)| playground |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Playground/playground.py)|
 |[Playing the Slots](https://open.kattis.com/problems/playingtheslots)| playingtheslots |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Playing%20the%20Slots/playingtheslots.py)|
+|[Playing with Numbers](https://open.kattis.com/problems/playingwithnumbers)| playingwithnumbers |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Playing%20with%20Numbers/playingwithnumbers.py)|
 |[Please, Go First](https://open.kattis.com/problems/pleasegofirst)| pleasegofirst |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Please,%20Go%20First/pleasegofirst.py)|
 |[Plotting Polynomials](https://open.kattis.com/problems/plot)| plot |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Plotting%20Polynomials/plot.py)|
 |[Point in Polygon](https://open.kattis.com/problems/pointinpolygon)| pointinpolygon |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Point%20in%20Polygon/pointinpolygon.py)|
@@ -1759,6 +1761,7 @@ Note that the table below is auto-generated. There might be slight inaccuracies.
 |[Widget Tree](https://open.kattis.com/problems/widgettree)| widgettree |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Widget%20Tree/widgettree.py)|
 |[Wi-Fi](https://open.kattis.com/problems/wifi)| wifi |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Wi-Fi/wifi.py)|
 |[Wimbledon](https://open.kattis.com/problems/wimbledon)| wimbledon |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Wimbledon/wimbledon.py)|
+|[Wipe Your Whiteboards](https://open.kattis.com/problems/wipeyourwhiteboards)| wipeyourwhiteboards |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Wipe%20Your%20Whiteboards/wipeyourwhiteboards.py)|
 |[Wizard of Odds](https://open.kattis.com/problems/wizardofodds)| wizardofodds |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Wizard%20of%20Odds/wizardofodds.py)|
 |[Wood Cutting](https://open.kattis.com/problems/woodcutting)| woodcutting |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Wood%20Cutting/woodcutting.py)|
 |[Word Cloud](https://open.kattis.com/problems/wordcloud)| wordcloud |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Word%20Cloud/wordcloud.py)|
