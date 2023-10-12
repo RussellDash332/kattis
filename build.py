@@ -1,5 +1,8 @@
 import os
 
+try: from ak import diff_mapper
+except: diff_mapper = None
+
 file_whitelist = {'bnn_accuracy.py', 'testing_tool.py', 'unununion_find.py', 'comp.py'}
 image_src = 'https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/' # hey this a credit!
 image_mapper = {
@@ -40,15 +43,19 @@ for path, dirs, files in os.walk('src'):
 
     if nus:
         url = url.replace('open.kattis.com', 'nus.kattis.com').replace('problems/', 'problems/nus.')
-        contents.append([f'!nus.{pid}', f"|[[NUS] {path}]({url})| nus.{pid} |{''.join(hyps).replace(' ','%20')}|\n"]) # NUS-exclusive problems first
+        # NUS-exclusive problems first
+        if diff_mapper: contents.append([f'!nus.{pid}', f"|[[NUS] {path}]({url})| nus.{pid} |N/A|{''.join(hyps).replace(' ','%20')}|\n"])
+        else:           contents.append([f'!nus.{pid}', f"|[[NUS] {path}]({url})| nus.{pid} |{''.join(hyps).replace(' ','%20')}|\n"]) 
     else:
-        contents.append([pid, f"|[{path}]({url})| {pid} |{''.join(hyps).replace(' ','%20')}|\n"])
+        if diff_mapper: contents.append([pid, f"|[{path}]({url})| {pid} |{diff_mapper[pid]}|{''.join(hyps).replace(' ','%20')}|\n"])
+        else:           contents.append([pid, f"|[{path}]({url})| {pid} |{''.join(hyps).replace(' ','%20')}|\n"])
 
-HIDDEN = 19 + 37 + 4 + 1136
+HIDDEN = 19 + 37 + 4 + 1140
 lines = open('README.md', 'r').readlines()[:3]
 with open('README.md', 'w+') as f:
     for line in lines: f.write(line)
     f.write(f'## Total problems solved: {len(contents) + HIDDEN}\n\n')
-    f.write(f'Note that the table below is auto-generated. There might be slight inaccuracies.\n\n')
-    f.write('|Problem Name|Problem ID|Languages|\n|:---|:---|:---|\n')
+    f.write(f'Note that the table below is auto-generated. There might be slight inaccuracies.\n\nYou might find [this link](https://stackoverflow.com/questions/42843288/is-there-any-way-to-make-markdown-tables-sortable) useful to interact with the table.\n\n')
+    if diff_mapper: f.write('|Problem Name|Problem ID|Difficulty|Languages|\n|:---|:---|:---|:---|\n')
+    else:           f.write('|Problem Name|Problem ID|Languages|\n|:---|:---|:---|\n')
     for key, content in sorted(contents): f.write(content)
