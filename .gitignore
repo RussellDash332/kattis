@@ -9,5 +9,6 @@ Secret/
 input
 output
 test
+ak.py
 *.class
 __pycache__/
