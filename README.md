@@ -1,7 +1,7 @@
 # Kattis Solutions
 ![Visitors](https://count.getloli.com/get/@RussellDash332)
 
-## Total problems solved: 1854
+## Total problems solved: 1867
 
 Note that the table below is auto-generated. There might be slight inaccuracies.
 
@@ -128,6 +128,7 @@ You might find [this link](https://stackoverflow.com/questions/42843288/is-there
 |[Chinese Remainder](https://open.kattis.com/problems/chineseremainder)| chineseremainder |5.0|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Chinese%20Remainder/chineseremainder.py)|
 |[Chocolates](https://open.kattis.com/problems/chocolates)| chocolates |5.8|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Chocolates/chocolates.py)|
 |[Choosing Numbers](https://open.kattis.com/problems/choosingnumbers)| choosingnumbers |7.0|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Choosing%20Numbers/choosingnumbers.py)|
+|[Circle Bounce](https://open.kattis.com/problems/circlebounce)| circlebounce |4.8|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Circle%20Bounce/circlebounce.py)|
 |[Circumsphere](https://open.kattis.com/problems/circumsphere)| circumsphere |5.1|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Circumsphere/circumsphere.py)|
 |[City Numbers](https://open.kattis.com/problems/citynumbers)| citynumbers |4.5|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/City%20Numbers/citynumbers.py)|
 |[City Park](https://open.kattis.com/problems/citypark)| citypark |7.7|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/City%20Park/citypark.py)|
@@ -147,6 +148,7 @@ You might find [this link](https://stackoverflow.com/questions/42843288/is-there
 |[Collatz Conjecture (2)](https://open.kattis.com/problems/collatzconjecture)| collatzconjecture |7.1|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Collatz%20Conjecture%20(2)/collatzconjecture.py)|
 |[Colliding Traffic](https://open.kattis.com/problems/collidingtraffic)| collidingtraffic |7.1|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Colliding%20Traffic/collidingtraffic.py)|
 |[Colorland](https://open.kattis.com/problems/colorland)| colorland |4.2|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Colorland/colorland.py)|
+|[Comma Sprinkler](https://open.kattis.com/problems/comma)| comma |4.4|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Comma%20Sprinkler/comma.py)|
 |[Common Factors](https://open.kattis.com/problems/commonfactors)| commonfactors |4.9|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Common%20Factors/commonfactors.py)|
 |[Sums](https://open.kattis.com/problems/consecutivesums)| consecutivesums |4.2|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Sums/consecutivesums.py)|
 |[Conservation](https://open.kattis.com/problems/conservation)| conservation |4.9|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Conservation/conservation.py)|
@@ -207,6 +209,7 @@ You might find [this link](https://stackoverflow.com/questions/42843288/is-there
 |[Dyson Circle](https://open.kattis.com/problems/dysoncircle)| dysoncircle |4.8|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Dyson%20Circle/dysoncircle.py)|
 |[Easter Eggs](https://open.kattis.com/problems/eastereggs)| eastereggs |5.3|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Easter%20Eggs/eastereggs.py)|
 |[e-Coins](https://open.kattis.com/problems/ecoins)| ecoins |5.0|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/e-Coins/ecoins.py)|
+|[Eindahraðall](https://open.kattis.com/problems/eindahradall)| eindahradall |6.4|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Eindahraðall/eindahradall.py)|
 |[Election (1)](https://open.kattis.com/problems/election)| election |5.9|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Election%20(1)/election.py)|
 |[Elementary Math](https://open.kattis.com/problems/elementarymath)| elementarymath |5.2|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Elementary%20Math/elementarymath.py)|
 |[Emergency Contest Running](https://open.kattis.com/problems/emergency)| emergency |4.1|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Emergency%20Contest%20Running/emergency.py)|
@@ -215,6 +218,7 @@ You might find [this link](https://stackoverflow.com/questions/42843288/is-there
 |[The End of the World](https://open.kattis.com/problems/endoftheworld)| endoftheworld |4.8|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/The%20End%20of%20the%20World/endoftheworld.py)|
 |[Enemy Division](https://open.kattis.com/problems/enemydivision)| enemydivision |6.2|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Enemy%20Division/enemydivision.py)|
 |[Entertainment Box](https://open.kattis.com/problems/entertainmentbox)| entertainmentbox |6.0|[![java](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/java/java_24x24.png)](src/Entertainment%20Box/EntertainmentBox.java)|
+|[Entirely Unsorted Sequences](https://open.kattis.com/problems/entirelyunsortedsequences)| entirelyunsortedsequences |4.1|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Entirely%20Unsorted%20Sequences/entirelyunsortedsequences.py)|
 |[Envious Exponents](https://open.kattis.com/problems/enviousexponents)| enviousexponents |5.0|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Envious%20Exponents/enviousexponents.py)|
 |[Equations](https://open.kattis.com/problems/equations)| equations |6.9|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Equations/equations.py)|
 |[Linear Equation Solver](https://open.kattis.com/problems/equationsolver)| equationsolver |6.4|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Linear%20Equation%20Solver/equationsolver.py)|
@@ -345,6 +349,7 @@ You might find [this link](https://stackoverflow.com/questions/42843288/is-there
 |[Jelly Raid](https://open.kattis.com/problems/jellyraid)| jellyraid |5.7|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Jelly%20Raid/jellyraid.py)|
 |[Jetpack](https://open.kattis.com/problems/jetpack)| jetpack |5.7|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Jetpack/jetpack.py)|
 |[Jet Set](https://open.kattis.com/problems/jetset)| jetset |4.3|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Jet%20Set/jetset.py)|
+|[Jigsaw](https://open.kattis.com/problems/jigsaw)| jigsaw |4.6|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Jigsaw/jigsaw.py)|
 |[Jogging Trails](https://open.kattis.com/problems/joggingtrails)| joggingtrails |5.0|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Jogging%20Trails/joggingtrails.py)|
 |[Jogurt](https://open.kattis.com/problems/jogurt)| jogurt |7.4|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Jogurt/jogurt.py)|
 |[John's Book Stack](https://open.kattis.com/problems/johnsstack)| johnsstack |6.9|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/John's%20Book%20Stack/johnsstack.py)|
@@ -398,11 +403,13 @@ You might find [this link](https://stackoverflow.com/questions/42843288/is-there
 |[Mahjong Madness](https://open.kattis.com/problems/mahjongmadness)| mahjongmadness |4.6|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Mahjong%20Madness/mahjongmadness.py)|
 |[Majority Card](https://open.kattis.com/problems/majoritycard)| majoritycard |7.1|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Majority%20Card/majoritycard.cpp)|
 |[Majór Skýrsla](https://open.kattis.com/problems/majorskyrsla)| majorskyrsla |5.9|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Majór%20Skýrsla/majorskyrsla.py)|
+|[Making Palindromes](https://open.kattis.com/problems/makingpalindromes)| makingpalindromes |5.8|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Making%20Palindromes/makingpalindromes.py)|
 |[Mall Mania](https://open.kattis.com/problems/mallmania)| mallmania |5.1|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Mall%20Mania/mallmania.py)|
 |[Managing Packaging](https://open.kattis.com/problems/managingpackaging)| managingpackaging |5.2|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Managing%20Packaging/managingpackaging.py)|
 |[Manhattan Mornings](https://open.kattis.com/problems/manhattanmornings)| manhattanmornings |5.1|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Manhattan%20Mornings/manhattanmornings.py)|
 |[Mårten's DFS](https://open.kattis.com/problems/martensdfs)| martensdfs |6.4|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Mårten's%20DFS/martensdfs.py)|
 |[Matarinnkaup](https://open.kattis.com/problems/matarinnkaup)| matarinnkaup |4.4|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Matarinnkaup/matarinnkaup.py)|
+|[Match Game](https://open.kattis.com/problems/matchgame)| matchgame |4.8|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Match%20Game/matchgame.py)|
 |[Matchsticks](https://open.kattis.com/problems/matchsticks)| matchsticks |4.1|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Matchsticks/matchsticks.py)|
 |[Mathemagicians](https://open.kattis.com/problems/mathemagicians)| mathemagicians |4.9|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Mathemagicians/mathemagicians.py)|
 |[Math Worksheet](https://open.kattis.com/problems/mathworksheet)| mathworksheet |5.5|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Math%20Worksheet/mathworksheet.py)|
@@ -472,6 +479,7 @@ You might find [this link](https://stackoverflow.com/questions/42843288/is-there
 |[Persistent Numbers](https://open.kattis.com/problems/persistent)| persistent |4.4|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Persistent%20Numbers/persistent.py)|
 |[Pick up sticks](https://open.kattis.com/problems/pickupsticks)| pickupsticks |5.0|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Pick%20up%20sticks/pickupsticks.py)|
 |[Piece of Cake](https://open.kattis.com/problems/pieceofcake)| pieceofcake |8.5|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Piece%20of%20Cake/pieceofcake.py)|
+|[Pitch Performance](https://open.kattis.com/problems/pitchperformance)| pitchperformance |4.9|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Pitch%20Performance/pitchperformance.py)|
 |[Pizza Delivery](https://open.kattis.com/problems/pizza)| pizza |4.6|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Pizza%20Delivery/pizza.py)|
 |[Pizzastrengur](https://open.kattis.com/problems/pizzastrengur)| pizzastrengur |5.0|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Pizzastrengur/pizzastrengur.py)|
 |[Planet Destruction](https://open.kattis.com/problems/planetdestruction)| planetdestruction |5.6|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Planet%20Destruction/planetdestruction.py)|
