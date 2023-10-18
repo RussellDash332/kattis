@@ -50,7 +50,7 @@ for path, dirs, files in os.walk('src'):
         if diff_mapper: contents.append([pid, f"|[{path}]({url})| {pid} |{diff_mapper[pid]}|{''.join(hyps).replace(' ','%20')}|\n"])
         else:           contents.append([pid, f"|[{path}]({url})| {pid} |{''.join(hyps).replace(' ','%20')}|\n"])
 
-HIDDEN = 19 + 37 + 4 + 1140
+HIDDEN = 19 + 37 + 5 + 1151
 lines = open('README.md', 'r').readlines()[:3]
 with open('README.md', 'w+') as f:
     for line in lines: f.write(line)
