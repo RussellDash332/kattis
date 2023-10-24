@@ -76,3 +76,4 @@ with open('README.md', 'w+') as f:
     if diff_mapper: f.write('|Problem Name|Problem ID|Difficulty|Languages|\n|:---|:---|:---|:---|\n')
     else:           f.write('|Problem Name|Problem ID|Languages|\n|:---|:---|:---|\n')
     for key, content in sorted(contents): f.write(content)
+print('Build done! Mapper exists:', diff_mapper != None)
