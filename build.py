@@ -61,7 +61,7 @@ for main_dir in ['src', 'Secret']:
             if diff_mapper: contents.append([f'!nus.{pid}', f"|[[NUS] {path}]({url})| nus.{pid} |N/A|{''.join(hyps).replace(' ','%20')}|\n"])
             else:           contents.append([f'!nus.{pid}', f"|[[NUS] {path}]({url})| nus.{pid} |{''.join(hyps).replace(' ','%20')}|\n"]) 
         else:
-            if diff_mapper: contents.append([pid, f"|[{path}]({url})| {pid} |{diff_mapper[pid]}|{''.join(hyps).replace(' ','%20')}|\n"])
+            if diff_mapper: contents.append([pid, f"|[{path}]({url})| {pid} |{diff_mapper[pid]}|{''.join(hyps).replace(' ','%20')}|\n"]); diff_mapper.pop(pid)
             else:           contents.append([pid, f"|[{path}]({url})| {pid} |{''.join(hyps).replace(' ','%20')}|\n"])
 
 lines = open('README.md', 'r').readlines()[:3]
@@ -76,4 +76,5 @@ with open('README.md', 'w+') as f:
     if diff_mapper: f.write('|Problem Name|Problem ID|Difficulty|Languages|\n|:---|:---|:---|:---|\n')
     else:           f.write('|Problem Name|Problem ID|Languages|\n|:---|:---|:---|\n')
     for key, content in sorted(contents): f.write(content)
+assert not diff_mapper, diff_mapper
 print('Build done! Mapper exists:', diff_mapper != None)
