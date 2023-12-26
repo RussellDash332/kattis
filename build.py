@@ -65,6 +65,7 @@ for main_dir in ['src', 'Secret']:
             else:           contents.append([pid, f"|[{path}]({url})| {pid} |{''.join(hyps).replace(' ','%20')}|\n"])
 
 lines = open('README.md', 'r').readlines()[:3]
+assert not diff_mapper, diff_mapper
 with open('README.md', 'w+') as f:
     for line in lines: f.write(line)
     f.write(f'## Total problems solved: {len(contents)}\n\n')
@@ -73,8 +74,7 @@ with open('README.md', 'w+') as f:
         'You might find [this link](https://stackoverflow.com/questions/42843288/is-there-any-way-to-make-markdown-tables-sortable) useful to interact with the table.',
         'For more Python data structure implementations, head over to [pytils](https://github.com/RussellDash332/pytils).'
     ])+'\n\n')
-    if diff_mapper: f.write('|Problem Name|Problem ID|Difficulty|Languages|\n|:---|:---|:---|:---|\n')
-    else:           f.write('|Problem Name|Problem ID|Languages|\n|:---|:---|:---|\n')
+    if diff_mapper != None: f.write('|Problem Name|Problem ID|Difficulty|Languages|\n|:---|:---|:---|:---|\n')
+    else:                   f.write('|Problem Name|Problem ID|Languages|\n|:---|:---|:---|\n')
     for key, content in sorted(contents): f.write(content)
-assert not diff_mapper, diff_mapper
 print('Build done! Mapper exists:', diff_mapper != None)
