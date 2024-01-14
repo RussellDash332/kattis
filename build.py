@@ -4,7 +4,8 @@ try: from ak import diff_mapper
 except: diff_mapper = None
 
 file_whitelist = {'bnn_accuracy.py', 'testing_tool.py', 'unununion_find.py', 'comp.py'}
-image_src = 'https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/' # hey this a credit!
+
+# Image credits to https://languages.abranhe.com/
 image_mapper = {
     'py':   'python',
     'c':    'c',
@@ -18,7 +19,7 @@ image_mapper = {
     'rb':   'ruby',
     'js':   'javascript'
 }
-get_image = lambda e,s=24: f'{image_src}{image_mapper[e]}/{image_mapper[e]}_{s}x{s}.png'
+get_image = lambda e: f'images/{image_mapper[e]}.png'
 
 contents = []
 for main_dir in ['src', 'Secret']:
