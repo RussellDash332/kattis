@@ -24,6 +24,8 @@ get_image = lambda e: f'images/{image_mapper[e]}.png'
 contents = []
 for main_dir in ['src', 'Secret']:
     for path, dirs, files in os.walk(main_dir):
+        if os.path.join('Secret', '.git') in path: continue
+
         ori_path, path = path, path.split(os.sep)
 
         if main_dir == 'src':
