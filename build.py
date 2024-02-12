@@ -1,7 +1,7 @@
 import os
 
-try: from ak import diff_mapper
-except: diff_mapper = None
+try: from ak import diff_mapper, nus_problems
+except: diff_mapper = nus_problems = None
 
 file_whitelist = {'bnn_accuracy.py', 'testing_tool.py', 'unununion_find.py', 'comp.py'}
 
@@ -22,6 +22,7 @@ image_mapper = {
 get_image = lambda e: f'images/{image_mapper[e]}.png'
 
 contents = []
+nus_contents = []
 for main_dir in ['src', 'Secret']:
     for path, dirs, files in os.walk(main_dir):
         if os.path.join('Secret', '.git') in path: continue
@@ -55,20 +56,21 @@ for main_dir in ['src', 'Secret']:
         # special cases
         if path == '99 Problems (2)': has_py = has_cpp = has_java = '99problems2'
         elif path == '10 Kinds of People': has_py = has_cpp = has_java = '10kindsofpeople'
-        pid = (has_py or has_cpp or has_java).split('.')[0].split('-')[0] # another split to handle /autori
 
-        url = f"https://open.kattis.com/problems/{pid}"
+        pid = (has_py or has_cpp or has_java).split('.')[0].split('-')[0] # another split to handle /autori
+        
         if nus:
-            url = url.replace('open.kattis.com', 'nus.kattis.com').replace('problems/', 'problems/nus.')
-            # NUS-exclusive problems first
-            if diff_mapper: contents.append([f'!nus.{pid}', f"|[[NUS] {path}]({url})| nus.{pid} |N/A|{''.join(hyps).replace(' ','%20')}|\n"])
-            else:           contents.append([f'!nus.{pid}', f"|[[NUS] {path}]({url})| nus.{pid} |{''.join(hyps).replace(' ','%20')}|\n"]) 
+            url = f"https://nus.kattis.com/problems/{pid}"
+            nus_contents.append([pid, f"|[{path}]({url})| {pid} |{''.join(hyps).replace(' ','%20')}|\n"])
+            if nus_problems != None: nus_problems.remove(pid)
         else:
+            url = f"https://open.kattis.com/problems/{pid}"
             if diff_mapper: contents.append([pid, f"|[{path}]({url})| {pid} |{diff_mapper[pid]}|{''.join(hyps).replace(' ','%20')}|\n"]); diff_mapper.pop(pid)
             else:           contents.append([pid, f"|[{path}]({url})| {pid} |{''.join(hyps).replace(' ','%20')}|\n"])
 
 lines = open('README.md', 'r').readlines()[:3]
 assert not diff_mapper, diff_mapper
+assert not nus_problems, nus_problems
 with open('README.md', 'w+') as f:
     for line in lines: f.write(line)
     f.write(f'## Total problems solved: {len(contents)}\n\n')
@@ -80,4 +82,11 @@ with open('README.md', 'w+') as f:
     if diff_mapper != None: f.write('|Problem Name|Problem ID|Difficulty|Languages|\n|:---|:---|:---|:---|\n')
     else:                   f.write('|Problem Name|Problem ID|Languages|\n|:---|:---|:---|\n')
     for key, content in sorted(contents): f.write(content)
+
+    f.write('\n\n'.join([
+        '\n## NUS-exclusive problems',
+        'These problems can only be found in NUS Kattis and therefore do not contribute to the number of problems solved.',
+        '|Problem Name|Problem ID|Languages|\n|:---|:---|:---|'
+    ])+'\n')
+    for key, content in sorted(nus_contents): f.write(content)
 print('Build done! Mapper exists:', diff_mapper != None)
