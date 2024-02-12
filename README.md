@@ -2005,3 +2005,16 @@ For more Python data structure implementations, head over to [pytils](https://gi
 |[Un-bear-able Zoo](https://open.kattis.com/problems/zoo)| zoo |1.9|[![java](images/java.png)]()|
 |[Zoom](https://open.kattis.com/problems/zoom)| zoom |1.5|[![py](images/python.png)]()|
 |[Zyxab](https://open.kattis.com/problems/zyxab)| zyxab |2.5|[![py](images/python.png)]()|
+
+## NUS-exclusive problems
+
+These problems can only be found in NUS Kattis and therefore do not contribute to the number of problems solved.
+
+|Problem Name|Problem ID|Languages|
+|:---|:---|:---|
+|[Going to Seed (2)](https://nus.kattis.com/problems/goingtoseed2)| goingtoseed2 |[![py](images/python.png)]()|
+|[Graph Data Structure 1](https://nus.kattis.com/problems/graphds1)| graphds1 |[![py](images/python.png)]()|
+|[Master Theorem](https://nus.kattis.com/problems/mastertheorem)| mastertheorem |[![py](images/python.png)]()|
+|[One-Punch Wall](https://nus.kattis.com/problems/onepunch)| onepunch |[![py](images/python.png)]()|
+|[Racing Game](https://nus.kattis.com/problems/racinggame)| racinggame |[![py](images/python.png)]()|
+|[Beautiful Subarrays](https://nus.kattis.com/problems/subarrays)| subarrays |[![py](images/python.png)]()|
