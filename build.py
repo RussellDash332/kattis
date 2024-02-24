@@ -77,16 +77,20 @@ with open('README.md', 'w+') as f:
     f.write('\n\n'.join([
         'Note that the table below is auto-generated using [autokattis](https://github.com/RussellDash332/autokattis).',
         'You might find [this link](https://stackoverflow.com/questions/42843288/is-there-any-way-to-make-markdown-tables-sortable) useful to interact with the table.',
-        'For more Python data structure implementations, head over to [pytils](https://github.com/RussellDash332/pytils).'
+        'For more Python data structure implementations, head over to [pytils](https://github.com/RussellDash332/pytils).',
+        '<div class="datatable-begin"></div>'
     ])+'\n\n')
     if diff_mapper != None: f.write('|Problem Name|Problem ID|Difficulty|Languages|\n|:---|:---|:---|:---|\n')
     else:                   f.write('|Problem Name|Problem ID|Languages|\n|:---|:---|:---|\n')
     for key, content in sorted(contents): f.write(content)
+    f.write('\n<div class="datatable-end"></div>\n')
 
     f.write('\n\n'.join([
         '\n## NUS-exclusive problems',
         'These problems can only be found in NUS Kattis and therefore do not contribute to the number of problems solved.',
+        '<div class="datatable-begin"></div>',
         '|Problem Name|Problem ID|Languages|\n|:---|:---|:---|'
     ])+'\n')
     for key, content in sorted(nus_contents): f.write(content)
+    f.write('\n<div class="datatable-end"></div>\n')
 print('Build done! Mapper exists:', diff_mapper != None)
