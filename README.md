@@ -2060,6 +2060,7 @@ These problems can only be found in NUS Kattis and therefore do not contribute t
 |[Interval Scheduling](https://nus.kattis.com/problems/intervalscheduling2)| intervalscheduling2 |[![py](images/python.png)]()|
 |[Joining Points](https://nus.kattis.com/problems/joiningpoints)| joiningpoints |[![py](images/python.png)]()|
 |[Key Item Recovery](https://nus.kattis.com/problems/keyitemrecovery)| keyitemrecovery |[![py](images/python.png)]()|
+|[Large Differences](https://nus.kattis.com/problems/largedifferences)| largedifferences |[![py](images/python.png)]()|
 |[Master Theorem](https://nus.kattis.com/problems/mastertheorem)| mastertheorem |[![py](images/python.png)]()|
 |[Matrix Multiplication](https://nus.kattis.com/problems/matrixmultiplication)| matrixmultiplication |[![c](images/c.png)]()[![cpp](images/cpp.png)]()[![java](images/java.png)]()[![py](images/python.png)]()|
 |[One-Punch Wall](https://nus.kattis.com/problems/onepunch)| onepunch |[![py](images/python.png)]()|
