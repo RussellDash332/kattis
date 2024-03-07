@@ -25,18 +25,18 @@ const int BUF = 1<<15;
 
 char inbuf[BUF]; int inpos, inlen;
 char next() {
-	if (inpos==inlen) {
-		inpos=0; inlen=(int)fread(inbuf,1,BUF,stdin);
-		//if (!inlen) return EOF;
-	}
-	return inbuf[inpos++];
+    if (inpos==inlen) {
+        inpos=0; inlen=(int)fread(inbuf,1,BUF,stdin);
+        //if (!inlen) return EOF;
+    }
+    return inbuf[inpos++];
 }
 int read() {
-	int sgn=1; char c;
-	while (!isdigit(c=next())) if (c==45) sgn *= -1;
-	int x=c-48;
-	while (isdigit(c=next())) x = x*10+(c-48);
-	return x*sgn;
+    int sgn=1; char c;
+    while (!isdigit(c=next())) if (c==45) sgn *= -1;
+    int x=c-48;
+    while (isdigit(c=next())) x = x*10+(c-48);
+    return x*sgn;
 }
 int read_positive() {
     char c;
@@ -53,29 +53,29 @@ int read_one_digit() {
 
 char outbuf[BUF], nbuf[20]; int outpos;
 void flush_out() {
-	fwrite(outbuf, 1, outpos, stdout); outpos = 0;
+    fwrite(outbuf, 1, outpos, stdout); outpos = 0;
 }
 void wchar(char c) {
-	if (outpos==BUF) flush_out();
-	outbuf[outpos++] = c;
+    if (outpos==BUF) flush_out();
+    outbuf[outpos++] = c;
 }
 void write(int x) {
-	if (x<0) { wchar('-'); x *= -1; }
-	int len = 0;
-	for (; x>9; x/=10) nbuf[len++] = (char)(48+(x%10));
-	wchar((char)(48+x));
-	while (len) wchar(nbuf[--len]);
-	wchar('\n');
+    if (x<0) { wchar('-'); x *= -1; }
+    int len = 0;
+    for (; x>9; x/=10) nbuf[len++] = (char)(48+(x%10));
+    wchar((char)(48+x));
+    while (len) wchar(nbuf[--len]);
+    wchar('\n');
 }
 void write_positive(int x) {
-	int len = 0;
-	for (; x>9; x/=10) nbuf[len++] = (char)(48+(x%10));
-	wchar((char)(48+x));
-	while (len) wchar(nbuf[--len]);
-	wchar('\n');
+    int len = 0;
+    for (; x>9; x/=10) nbuf[len++] = (char)(48+(x%10));
+    wchar((char)(48+x));
+    while (len) wchar(nbuf[--len]);
+    wchar('\n');
 }
 void write_one_digit(int x) {
-	wchar((char)(48+x)); wchar('\n');
+    wchar((char)(48+x)); wchar('\n');
 }
 
 // 23 -34567 12332 9
