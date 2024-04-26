@@ -1,0 +1,1 @@
+import sys; input = sys.stdin.readline; n = int(input()); x, y = zip(*(map(int, input().split()) for _ in range(n))); sx, sy, sxy, sx2, sy2 = sum(x), sum(y), sum(x[i]*y[i] for i in range(n)), sum(i*i for i in x), sum(i*i for i in y); s = n*sx2*sy2-n*sxy**2+2*sx*sy*sxy-sx2*sy*sy-sy2*sx*sx; print(str(s//4)+{0:'.0000',1:'.2500',2:'.5000',3:'.7500'}[s%4])
