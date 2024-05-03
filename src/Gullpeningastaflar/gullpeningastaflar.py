@@ -1,0 +1,1 @@
+n=int(input());print('?',*range(n));print('!',int(input())-n*n*(n-1)//2+1)
