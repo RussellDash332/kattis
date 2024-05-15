@@ -1,0 +1,1 @@
+while(n:=int(input())):a=sorted(map(int,input().split()));print(*[f'{a[-i]}-{"AB"[i%2]}'for i in range(n)])
