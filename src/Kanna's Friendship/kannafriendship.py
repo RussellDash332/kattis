@@ -24,8 +24,7 @@ def modify(l, r, v):
         if cr and (not cl or l != r): t[r] = d[r]*k if d[r] else t[2*r] + t[2*r+1]
         l //= 2; r //= 2; k *= 2
 
-import sys, os, io
-input = io.BytesIO(os.read(0, os.fstat(0).st_size)).readline
+import sys, os, io; input = io.BytesIO(os.read(0, os.fstat(0).st_size)).readline
 N, Q = map(int, input().split())
 ops, ints = [], {0, N}
 for _ in range(Q):

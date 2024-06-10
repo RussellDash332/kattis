@@ -7,10 +7,9 @@ while i < n:
         while i < n and a[i] == 1: c += 1; i += 1
         b.append(c); v.append(1)
 
-def sol(k, ux, uy): # surprisingly fast enough
-    w = 0
-    for x in range(ux+1): w += 0 <= k-x <= uy
-    return w
+def sol(k, ux, uy):
+    if ux+uy >= k >= 0: return min(ux, k)+min(uy, k)-k+1
+    return 0
 
 for i in range(len(b)):
     ss = (1, b[i])[v[i]>1]; se = b[i]; t = v[i]
