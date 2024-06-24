@@ -38,6 +38,7 @@ open_readme_contents = []
 nus_readme_contents = []
 open_html_contents = []
 nus_html_contents = []
+paths = set(); duplicate_paths = set()
 
 # Go through local files
 for main_dir in ['src', 'Secret']:
@@ -104,8 +105,11 @@ for main_dir in ['src', 'Secret']:
             else:
                 open_readme_contents.append([pid, f"|[{path}]({url})| {pid} |{''.join(readme_image_links).replace(' ','%20')}|\n"])
                 open_html_contents.append([pid, url, path, html_image_links])
+        if path in paths: duplicate_paths.add(path)
+        paths.add(path)
 
 # Sanity check before writing
+assert not duplicate_paths, duplicate_paths
 assert not diff_mapper, diff_mapper
 assert not nus_problems, nus_problems
 print('Mapper exists:', diff_mapper != None)

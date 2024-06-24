@@ -1,17 +1,12 @@
 import sys; input = sys.stdin.readline
-p, q, n = map(int, input().split()); r = [[] for _ in range(p)]
-for _ in range(n): a, b = map(int, input().split()); r[a-1].append(b-1)
-for i in r: i.sort()
-sr = 0
-while True:
-    cr = sr
-    while cr < p and not r[cr]: cr += 1
-    if cr == p: break
-    cr2 = cr+1
-    while cr2 < p and not r[cr2]: cr2 += 1
-    cs = cr if cr2 < p else p-1; x = 0
-    for i in r[cr][:-1]: print(sr+1, x+1, cs+1, i+1); x = i+1
-    if r[cr]: print(sr+1, x+1, cs+1, q)
-    sr = cr+1
-    if sr == p: break
+X, Y, N = map(int, input().split()); R = {}
+for _ in range(N):
+    a, b = map(int, input().split())
+    if a not in R: R[a] = []
+    R[a].append(b)
+sx = 1; mx = max(R)
+for x in sorted(R):
+    ex = x if x != mx else X; sy = 1; my = max(R[x])
+    for y in sorted(R[x]): print(sx, sy, ex, y if y != my else Y); sy = y+1
+    sx = x+1
 print(0)
