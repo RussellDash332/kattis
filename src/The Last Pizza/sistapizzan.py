@@ -1,1 +1,1 @@
-N=int(input());A=sum(int(input())%2for _ in'.'*N);print('NJeaj'[(N==1>A)|(N==2>2-A)|(N==3>A)::2])
+N=int(input());print('NJeaj'[any((N-int(input()))%2for _ in'.'*N)::2])
