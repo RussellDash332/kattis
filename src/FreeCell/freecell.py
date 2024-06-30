@@ -1,0 +1,1 @@
+n,m,k=map(int,input().split());print('yneos'[n+1<<m<k::2])
