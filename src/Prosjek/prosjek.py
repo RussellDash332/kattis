@@ -1,0 +1,1 @@
+from fractions import*;f=int(p:=Fraction(input()));n,d=p.as_integer_ratio();a=[0]*6;a[f]=n%d;a[f-1]=d-n%d;print(*a[:5])
