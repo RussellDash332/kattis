@@ -1,1 +1,1 @@
-n,*a=map(int,open(0).readlines());print(sum(map(max,zip(a,a[1:]))))
+n,*a=map(int,open(0));print(sum(map(max,zip(a,a[1:]))))
