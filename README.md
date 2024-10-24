@@ -1,7 +1,7 @@
 # Kattis Solutions
 ![Visitors](https://count.getloli.com/get/@RussellDash332)
 
-## Total problems solved: 2634
+## Total problems solved: 2635
 
 Note that the tables below are auto-generated using [autokattis](https://github.com/RussellDash332/autokattis).
 
@@ -2119,6 +2119,7 @@ For more Python data structure implementations, head over to [pytils](https://gi
 |[Secret Message](https://open.kattis.com/problems/secretmessage)| secretmessage |1.7|[![py](images/python.png)]()|
 |[Secret Santa](https://open.kattis.com/problems/secretsanta)| secretsanta |3.3|[![py](images/python.png)]()|
 |[Secret Santa Cycles](https://open.kattis.com/problems/secretsantacycles)| secretsantacycles |6.6|[![py](images/python.png)](src/Secret%20Santa%20Cycles/secretsantacycles.py)|
+|[Secret Sequence](https://open.kattis.com/problems/secretsequence)| secretsequence |5.7|[![py](images/python.png)](src/Secret%20Sequence/secretsequence.py)|
 |[Secure Doors](https://open.kattis.com/problems/securedoors)| securedoors |1.6|[![py](images/python.png)]()|
 |[Security Badge](https://open.kattis.com/problems/securitybadge)| securitybadge |7.6|[![py](images/python.png)](src/Security%20Badge/securitybadge.py)|
 |[Line Segment Distance](https://open.kattis.com/problems/segmentdistance)| segmentdistance |4.2|[![py](images/python.png)]()|
