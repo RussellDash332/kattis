@@ -20,6 +20,7 @@ pid_force_mapper = {
 # Image credits to https://languages.abranhe.com/
 image_mapper = {
     'py':   'python',
+    'sh':   'bash',
     'c':    'c',
     'cpp':  'cpp',
     'cs':   'csharp',
@@ -63,7 +64,7 @@ for main_dir in ['src', 'Secret']:
 
         readme_image_links = set()
         html_image_links = set()
-        has_py = has_cpp = False; has_java = []
+        has_py = has_cpp = has_sh = False; has_java = []
         for file in sorted(files):
             ext = file.split('.')[-1]
             if ext in image_mapper and file not in file_whitelist:
@@ -77,6 +78,8 @@ for main_dir in ['src', 'Secret']:
                 has_cpp = file
             if not has_java and ext == 'java':
                 has_java.append(file.lower())
+            if not has_sh and ext == 'sh':
+                has_sh = file
             if not has_py and file not in file_whitelist and ext == 'py':
                 has_py = file
         has_java = min(has_java) if has_java else []
@@ -85,11 +88,11 @@ for main_dir in ['src', 'Secret']:
 
         # Handle special cases
         if path in pid_force_mapper:
-            has_py = has_cpp = has_java = pid_force_mapper[path]
+            has_py = has_cpp = has_java = has_sh = pid_force_mapper[path]
 
         # Another split to handle variants like /autori
-        pid = (has_py or has_cpp or has_java).split('.')[0].split('-')[0]
-        
+        pid = (has_py or has_cpp or has_java or has_sh).split('.')[0].split('-')[0]
+
         if nus:
             url = f"https://nus.kattis.com/problems/{pid}"
             nus_readme_contents.append([pid, f"|[{path}]({url})| {pid} |{''.join(readme_image_links).replace(' ','%20')}|\n"])
