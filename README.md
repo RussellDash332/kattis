@@ -1,7 +1,7 @@
 # Kattis Solutions
 ![Visitors](https://count.getloli.com/get/@RussellDash332)
 
-## Total problems solved: 2773
+## Total problems solved: 2776
 
 Note that the tables below are auto-generated using [autokattis](https://github.com/RussellDash332/autokattis).
 
@@ -608,6 +608,7 @@ For more Python data structure implementations, head over to [pytils](https://gi
 |[Cracker Barrel Game](https://open.kattis.com/problems/crackerbarrel)| crackerbarrel |4.3|[![py](images/python.png)]()|
 |[Cracking RSA](https://open.kattis.com/problems/crackingrsa)| crackingrsa |2.0|[![cpp](images/cpp.png)]()|
 |[Cracking the Code](https://open.kattis.com/problems/crackingthecode)| crackingthecode |5.8|[![py](images/python.png)](src/Cracking%20the%20Code/crackingthecode.py)|
+|[Cramming for Finals](https://open.kattis.com/problems/crammingforfinals)| crammingforfinals |8.0|[![py](images/python.png)](src/Cramming%20for%20Finals/crammingforfinals.py)|
 |[Crane Balancing](https://open.kattis.com/problems/crane)| crane |4.9|[![py](images/python.png)]()|
 |[Crane](https://open.kattis.com/problems/crane2)| crane2 |5.1|[![py](images/python.png)]()|
 |[Cranes](https://open.kattis.com/problems/cranes)| cranes |4.0|[![py](images/python.png)]()|
@@ -920,6 +921,7 @@ For more Python data structure implementations, head over to [pytils](https://gi
 |[Expected Earnings](https://open.kattis.com/problems/expectedearnings)| expectedearnings |1.8|[![py](images/python.png)]()|
 |[Expeditious Cubing](https://open.kattis.com/problems/expeditiouscubing)| expeditiouscubing |5.1|[![py](images/python.png)]()|
 |[Explosion Exploit](https://open.kattis.com/problems/explosion)| explosion |4.9|[![py](images/python.png)]()|
+|[Exponentially Fun Problem](https://open.kattis.com/problems/exponentiallyfun)| exponentiallyfun |7.5|[![py](images/python.png)](src/Exponentially%20Fun%20Problem/exponentiallyfun.py)|
 |[Exponial](https://open.kattis.com/problems/exponial)| exponial |5.3|[![py](images/python.png)]()|
 |[Eye of Sauron](https://open.kattis.com/problems/eyeofsauron)| eyeofsauron |1.5|[![py](images/python.png)]()|
 |[Factor-Free Tree](https://open.kattis.com/problems/factorfree)| factorfree |5.8|[![py](images/python.png)]()|
@@ -1578,6 +1580,7 @@ For more Python data structure implementations, head over to [pytils](https://gi
 |[Longest Prime Sum](https://open.kattis.com/problems/longestprimesum)| longestprimesum |2.4|[![py](images/python.png)]()|
 |[Longest Increasing Subsequence](https://open.kattis.com/problems/longincsubseq)| longincsubseq |4.9|[![py](images/python.png)](src/Longest%20Increasing%20Subsequence/longincsubseq.py)|
 |[Long Swaps](https://open.kattis.com/problems/longswaps)| longswaps |3.6|[![py](images/python.png)]()|
+|[Long Walk](https://open.kattis.com/problems/longwalk)| longwalk |5.2|[![py](images/python.png)](src/Long%20Walk/longwalk.py)|
 |[Loopy Cab Drivers](https://open.kattis.com/problems/loopycabdrivers)| loopycabdrivers |6.2|[![py](images/python.png)](src/Loopy%20Cab%20Drivers/loopycabdrivers.py)|
 |[Loopy Transit](https://open.kattis.com/problems/loopytransit)| loopytransit |3.6|[![py](images/python.png)]()|
 |[Loo Rolls](https://open.kattis.com/problems/loorolls)| loorolls |2.1|[![py](images/python.png)]()|
