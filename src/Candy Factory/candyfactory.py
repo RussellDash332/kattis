@@ -1,0 +1,1 @@
+n,k,*a=map(int,open(0).read().split());s=sum(a);print(max(*a,(s+k-1)//k)*k-s)
