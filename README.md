@@ -1,7 +1,7 @@
 # Kattis Solutions
 ![Visitors](https://count.getloli.com/get/@RussellDash332)
 
-## Total problems solved: 2784
+## Total problems solved: 2795
 
 Note that the tables below are auto-generated using [autokattis](https://github.com/RussellDash332/autokattis).
 
@@ -22,11 +22,12 @@ For more Python data structure implementations, head over to [pytils](https://gi
 |[3D Printed Statues](https://open.kattis.com/problems/3dprinter)| 3dprinter |2.8|[![cpp](images/cpp.png)]()|
 |[3-Sided Dice](https://open.kattis.com/problems/3sideddice)| 3sideddice |8.1|[![py](images/python.png)](src/3-Sided%20Dice/3sideddice.py)|
 |[4 thought](https://open.kattis.com/problems/4thought)| 4thought |3.0|[![py](images/python.png)]()|
-|[Eight Queens](https://open.kattis.com/problems/8queens)| 8queens |2.9|[![py](images/python.png)]()|
+|[Eight Queens](https://open.kattis.com/problems/8queens)| 8queens |2.8|[![py](images/python.png)]()|
 |[99 Problems (1)](https://open.kattis.com/problems/99problems)| 99problems |3.7|[![py](images/python.png)]()|
 |[99 Problems (2)](https://open.kattis.com/problems/99problems2)| 99problems2 |4.5|[![java](images/java.png)]()[![py](images/python.png)]()|
 |[A1 Paper](https://open.kattis.com/problems/a1paper)| a1paper |4.1|[![py](images/python.png)]()|
-|[Aaah!](https://open.kattis.com/problems/aaah)| aaah |1.4|[![cpp](images/cpp.png)]()|
+|[Aaah!](https://open.kattis.com/problems/aaah)| aaah |1.5|[![cpp](images/cpp.png)]()|
+|[Åboulevarden](https://open.kattis.com/problems/aaboulevarden)| aaboulevarden |7.3|[![py](images/python.png)](src/Åboulevarden/aaboulevarden.py)|
 |[Abandoned Animal](https://open.kattis.com/problems/abandonedanimal)| abandonedanimal |5.2|[![py](images/python.png)]()|
 |[ABC](https://open.kattis.com/problems/abc)| abc |1.9|[![cpp](images/cpp.png)]()[![java](images/java.png)]()|
 |[Ab Initio](https://open.kattis.com/problems/abinitio)| abinitio |7.1|[![java](images/java.png)](src/Ab%20Initio/AbInitio.java)[![py](images/python.png)](src/Ab%20Initio/abinitio.py)|
@@ -39,7 +40,7 @@ For more Python data structure implementations, head over to [pytils](https://gi
 |[Absurdistan Roads III](https://open.kattis.com/problems/absurdistan3)| absurdistan3 |5.9|[![py](images/python.png)](src/Absurdistan%20Roads%20III/absurdistan3.py)|
 |[A Cappella Recording](https://open.kattis.com/problems/acappellarecording)| acappellarecording |2.8|[![py](images/python.png)]()|
 |[Access Denied](https://open.kattis.com/problems/accessdenied)| accessdenied |4.0|[![py](images/python.png)]()|
-|[ACM Contest Scoring](https://open.kattis.com/problems/acm)| acm |1.8|[![cpp](images/cpp.png)]()|
+|[ACM Contest Scoring](https://open.kattis.com/problems/acm)| acm |1.9|[![cpp](images/cpp.png)]()|
 |[Association for Computing Machinery](https://open.kattis.com/problems/acm2)| acm2 |2.7|[![py](images/python.png)]()|
 |[The Calculus of Ada](https://open.kattis.com/problems/ada)| ada |2.4|[![py](images/python.png)]()|
 |[Add 'Em Up!](https://open.kattis.com/problems/addemup)| addemup |6.1|[![py](images/python.png)]()|
@@ -68,6 +69,7 @@ For more Python data structure implementations, head over to [pytils](https://gi
 |[Á leið í bíó](https://open.kattis.com/problems/aleidibio)| aleidibio |1.1|[![py](images/python.png)]()|
 |[Alex and Barb](https://open.kattis.com/problems/alexandbarb)| alexandbarb |3.5|[![py](images/python.png)]()[![rb](images/ruby.png)]()|
 |[Alice in the Digital World](https://open.kattis.com/problems/alicedigital)| alicedigital |4.1|[![py](images/python.png)]()|
+|[Alien Codebreaking](https://open.kattis.com/problems/aliencodebreaking)| aliencodebreaking |8.6|[![py](images/python.png)](src/Alien%20Codebreaking/aliencodebreaking.py)|
 |[Alien Math](https://open.kattis.com/problems/alienmath)| alienmath |2.4|[![py](images/python.png)]()|
 |[Alien Numbers](https://open.kattis.com/problems/aliennumbers)| aliennumbers |2.4|[![py](images/python.png)]()|
 |[Stammering Aliens](https://open.kattis.com/problems/aliens)| aliens |6.1|[![py](images/python.png)](src/Stammering%20Aliens/aliens.py)|
@@ -84,8 +86,8 @@ For more Python data structure implementations, head over to [pytils](https://gi
 |[Almost Pythagorean](https://open.kattis.com/problems/almostpythagorean)| almostpythagorean |5.7|[![py](images/python.png)](src/Almost%20Pythagorean/almostpythagorean.py)|
 |[Almost Sorted (1)](https://open.kattis.com/problems/almostsorted)| almostsorted |6.6|[![py](images/python.png)](src/Almost%20Sorted%20(1)/almostsorted.py)|
 |[Almost Sorted (2)](https://open.kattis.com/problems/almostsorted2)| almostsorted2 |5.4|[![py](images/python.png)]()|
-|[Almost Union-Find](https://open.kattis.com/problems/almostunionfind)| almostunionfind |3.7|[![java](images/java.png)]()[![py](images/python.png)]()|
-|[Alphabet](https://open.kattis.com/problems/alphabet)| alphabet |2.9|[![py](images/python.png)]()|
+|[Almost Union-Find](https://open.kattis.com/problems/almostunionfind)| almostunionfind |3.8|[![java](images/java.png)]()[![py](images/python.png)]()|
+|[Alphabet](https://open.kattis.com/problems/alphabet)| alphabet |3.0|[![py](images/python.png)]()|
 |[Alphabet Animals](https://open.kattis.com/problems/alphabetanimals)| alphabetanimals |3.6|[![py](images/python.png)]()|
 |[Alphabet Spam](https://open.kattis.com/problems/alphabetspam)| alphabetspam |1.7|[![cpp](images/cpp.png)]()|
 |[Amanda Lounges](https://open.kattis.com/problems/amanda)| amanda |5.7|[![py](images/python.png)](src/Amanda%20Lounges/amanda.py)|
@@ -102,11 +104,11 @@ For more Python data structure implementations, head over to [pytils](https://gi
 |[An Easy Array Problem](https://open.kattis.com/problems/aneasyarray)| aneasyarray |8.3|[![cpp](images/cpp.png)]()|
 |[A New Adventure](https://open.kattis.com/problems/anewadventure)| anewadventure |6.2|[![py](images/python.png)](src/A%20New%20Adventure/anewadventure.py)|
 |[A New Alphabet](https://open.kattis.com/problems/anewalphabet)| anewalphabet |2.4|[![cpp](images/cpp.png)]()|
-|[Animal Classification](https://open.kattis.com/problems/animal)| animal |6.6|[![py](images/python.png)](src/Animal%20Classification/animal.py)|
-|[Alternative Anagram](https://open.kattis.com/problems/annorlundaanagram)| annorlundaanagram |5.5|[![py](images/python.png)]()|
+|[Animal Classification](https://open.kattis.com/problems/animal)| animal |6.5|[![py](images/python.png)](src/Animal%20Classification/animal.py)|
+|[Alternative Anagram](https://open.kattis.com/problems/annorlundaanagram)| annorlundaanagram |5.4|[![py](images/python.png)]()|
 |[Annoyed Coworkers](https://open.kattis.com/problems/annoyedcoworkers)| annoyedcoworkers |3.6|[![py](images/python.png)]()|
 |[Another Brick in the Wall](https://open.kattis.com/problems/anotherbrick)| anotherbrick |2.3|[![py](images/python.png)]()|
-|[Another Candies](https://open.kattis.com/problems/anothercandies)| anothercandies |2.6|[![py](images/python.png)]()|
+|[Another Candies](https://open.kattis.com/problems/anothercandies)| anothercandies |2.5|[![py](images/python.png)]()|
 |[Another Dice Game](https://open.kattis.com/problems/anotherdice)| anotherdice |4.7|[![py](images/python.png)]()|
 |[Another Substring Query Problem](https://open.kattis.com/problems/anothersubstringqueryproblem)| anothersubstringqueryproblem |8.2|[![cpp](images/cpp.png)](src/Another%20Substring%20Query%20Problem/anothersubstringqueryproblem.cpp)[![py](images/python.png)](src/Another%20Substring%20Query%20Problem/anothersubstringqueryproblem.py)|
 |[Antenna Analysis](https://open.kattis.com/problems/antennaanalysis)| antennaanalysis |5.3|[![py](images/python.png)](src/Antenna%20Analysis/antennaanalysis.py)|
@@ -119,11 +121,11 @@ For more Python data structure implementations, head over to [pytils](https://gi
 |[Anti-Palindrome](https://open.kattis.com/problems/antipalindrome)| antipalindrome |2.0|[![py](images/python.png)]()|
 |[Fancy Antiques](https://open.kattis.com/problems/antiques)| antiques |8.0|[![py](images/python.png)]()|
 |[Ants](https://open.kattis.com/problems/ants)| ants |2.3|[![py](images/python.png)]()|
-|[Any Pythagorean Triple](https://open.kattis.com/problems/anypythagorean)| anypythagorean |3.7|[![py](images/python.png)]()|
-|[Apaxiaaaaaaaaaaaans!](https://open.kattis.com/problems/apaxiaaans)| apaxiaaans |1.4|[![java](images/java.png)]()[![js](images/javascript.png)]()[![py](images/python.png)]()|
+|[Any Pythagorean Triple](https://open.kattis.com/problems/anypythagorean)| anypythagorean |3.6|[![py](images/python.png)]()|
+|[Apaxiaaaaaaaaaaaans!](https://open.kattis.com/problems/apaxiaaans)| apaxiaaans |1.5|[![java](images/java.png)]()[![js](images/javascript.png)]()[![py](images/python.png)]()|
 |[Honour Thy (Apaxian) Parent](https://open.kattis.com/problems/apaxianparent)| apaxianparent |1.8|[![cpp](images/cpp.png)]()|
 |[A Pivotal Question](https://open.kattis.com/problems/apivotalquestion)| apivotalquestion |4.4|[![py](images/python.png)]()|
-|[A+B Problem](https://open.kattis.com/problems/aplusb)| aplusb |6.6|[![py](images/python.png)](src/A+B%20Problem/aplusb.py)|
+|[A+B Problem](https://open.kattis.com/problems/aplusb)| aplusb |6.7|[![py](images/python.png)](src/A+B%20Problem/aplusb.py)|
 |[Appalling Architecture](https://open.kattis.com/problems/appallingarchitecture)| appallingarchitecture |4.1|[![py](images/python.png)]()|
 |[Appeal to the Audience](https://open.kattis.com/problems/appealtotheaudience)| appealtotheaudience |5.2|[![py](images/python.png)](src/Appeal%20to%20the%20Audience/appealtotheaudience.py)|
 |[The Apple Game](https://open.kattis.com/problems/appelspelet)| appelspelet |8.7|[![py](images/python.png)](src/The%20Apple%20Game/appelspelet.py)[![py](images/python.png)](src/The%20Apple%20Game/appelspelet_partial.py)|
@@ -136,10 +138,10 @@ For more Python data structure implementations, head over to [pytils](https://gi
 |[Arbitrage](https://open.kattis.com/problems/arbitrage)| arbitrage |3.8|[![py](images/python.png)]()|
 |[Archimedes](https://open.kattis.com/problems/archimedes)| archimedes |4.5|[![py](images/python.png)](src/Archimedes/archimedes.py)|
 |[Architecture](https://open.kattis.com/problems/architecture)| architecture |2.8|[![py](images/python.png)]()|
-|[Arctic Network](https://open.kattis.com/problems/arcticnetwork)| arcticnetwork |3.2|[![java](images/java.png)]()|
-|[A Real Challenge](https://open.kattis.com/problems/areal)| areal |2.1|[![cpp](images/cpp.png)]()|
+|[Arctic Network](https://open.kattis.com/problems/arcticnetwork)| arcticnetwork |3.1|[![java](images/java.png)]()|
+|[A Real Challenge](https://open.kattis.com/problems/areal)| areal |2.2|[![cpp](images/cpp.png)]()|
 |[Are You Listening](https://open.kattis.com/problems/areyoulistening)| areyoulistening |2.9|[![py](images/python.png)]()|
-|[Arithmetic](https://open.kattis.com/problems/arithmetic)| arithmetic |3.2|[![py](images/python.png)]()|
+|[Arithmetic](https://open.kattis.com/problems/arithmetic)| arithmetic |3.1|[![py](images/python.png)]()|
 |[Arithmetic Decoding](https://open.kattis.com/problems/arithmeticdecoding)| arithmeticdecoding |2.4|[![py](images/python.png)]()|
 |[Arithmetic Functions](https://open.kattis.com/problems/arithmeticfunctions)| arithmeticfunctions |1.6|[![cpp](images/cpp.png)]()|
 |[Arm Coordination](https://open.kattis.com/problems/armcoordination)| armcoordination |1.6|[![py](images/python.png)]()|
@@ -157,7 +159,7 @@ For more Python data structure implementations, head over to [pytils](https://gi
 |[ASCII Figure Rotation](https://open.kattis.com/problems/asciifigurerotation)| asciifigurerotation |3.4|[![py](images/python.png)]()|
 |[ASCII kassi](https://open.kattis.com/problems/asciikassi)| asciikassi |1.5|[![py](images/python.png)]()|
 |[ASCII Kassi 2](https://open.kattis.com/problems/asciikassi2)| asciikassi2 |2.1|[![py](images/python.png)]()|
-|[Ask Marilyn](https://open.kattis.com/problems/askmarilyn)| askmarilyn |4.1|[![py](images/python.png)]()|
+|[Ask Marilyn](https://open.kattis.com/problems/askmarilyn)| askmarilyn |4.2|[![py](images/python.png)]()|
 |[Aspen Avenue](https://open.kattis.com/problems/aspenavenue)| aspenavenue |6.3|[![py](images/python.png)](src/Aspen%20Avenue/aspenavenue.py)|
 |[Self-Assembly](https://open.kattis.com/problems/assembly)| assembly |4.2|[![py](images/python.png)]()|
 |[Assembly Line](https://open.kattis.com/problems/assemblyline)| assemblyline |6.9|[![cpp](images/cpp.png)](src/Assembly%20Line/assemblyline.cpp)|
@@ -174,12 +176,12 @@ For more Python data structure implementations, head over to [pytils](https://gi
 |[Autori](https://open.kattis.com/problems/autori)| autori |1.2|[![java](images/java.png)]()[![js](images/javascript.png)]()[![py](images/python.png)]()|
 |[Average Character](https://open.kattis.com/problems/averagecharacter)| averagecharacter |1.8|[![py](images/python.png)]()|
 |[Paradox With Averages](https://open.kattis.com/problems/averageseasy)| averageseasy |2.9|[![cpp](images/cpp.png)]()|
-|[Paradox With Averages (Hard)](https://open.kattis.com/problems/averageshard)| averageshard |2.9|[![cpp](images/cpp.png)]()|
+|[Paradox With Averages (Hard)](https://open.kattis.com/problems/averageshard)| averageshard |3.0|[![cpp](images/cpp.png)]()|
 |[Average Speed](https://open.kattis.com/problems/averagespeed)| averagespeed |3.5|[![py](images/python.png)]()|
 |[Avion](https://open.kattis.com/problems/avion)| avion |1.4|[![cpp](images/cpp.png)]()|
 |[Avoiding the Abyss](https://open.kattis.com/problems/avoidingtheabyss)| avoidingtheabyss |3.2|[![py](images/python.png)]()|
 |[Avoiding the Apocalypse](https://open.kattis.com/problems/avoidingtheapocalypse)| avoidingtheapocalypse |3.7|[![py](images/python.png)]()|
-|[Avoidland](https://open.kattis.com/problems/avoidland)| avoidland |3.1|[![py](images/python.png)]()|
+|[Avoidland](https://open.kattis.com/problems/avoidland)| avoidland |3.2|[![py](images/python.png)]()|
 |[Awkward Party](https://open.kattis.com/problems/awkwardparty)| awkwardparty |2.4|[![py](images/python.png)]()|
 |[Aww Man](https://open.kattis.com/problems/awwman)| awwman |3.8|[![py](images/python.png)](src/Aww%20Man/awwman.py)|
 |[BAAS](https://open.kattis.com/problems/baas)| baas |5.0|[![py](images/python.png)](src/BAAS/baas.py)|
@@ -209,12 +211,12 @@ For more Python data structure implementations, head over to [pytils](https://gi
 |[basic](https://open.kattis.com/problems/basic)| basic |8.3|[![py](images/python.png)](src/basic/basic.py)|
 |[BASIC Interpreter](https://open.kattis.com/problems/basicinterpreter)| basicinterpreter |5.3|[![py](images/python.png)](src/BASIC%20Interpreter/basicinterpreter.py)|
 |[Basic Programming 1](https://open.kattis.com/problems/basicprogramming1)| basicprogramming1 |4.8|[![cpp](images/cpp.png)]()|
-|[Basic Programming 2](https://open.kattis.com/problems/basicprogramming2)| basicprogramming2 |3.9|[![java](images/java.png)]()|
+|[Basic Programming 2](https://open.kattis.com/problems/basicprogramming2)| basicprogramming2 |3.8|[![java](images/java.png)]()|
 |[Basic Remains](https://open.kattis.com/problems/basicremains)| basicremains |3.5|[![py](images/python.png)]()|
 |[Basketball One-on-One](https://open.kattis.com/problems/basketballoneonone)| basketballoneonone |1.5|[![py](images/python.png)]()|
 |[Saunas](https://open.kattis.com/problems/bastubad)| bastubad |4.7|[![py](images/python.png)]()|
 |[Batch GCD](https://open.kattis.com/problems/batchgcd)| batchgcd |8.8|[![py](images/python.png)]()|
-|[Batmanacci](https://open.kattis.com/problems/batmanacci)| batmanacci |3.2|[![py](images/python.png)]()|
+|[Batmanacci](https://open.kattis.com/problems/batmanacci)| batmanacci |3.3|[![py](images/python.png)]()|
 |[Exploding Batteries](https://open.kattis.com/problems/batteries)| batteries |4.1|[![py](images/python.png)]()|
 |[Batter Up](https://open.kattis.com/problems/batterup)| batterup |1.4|[![cpp](images/cpp.png)]()|
 |[Battleship](https://open.kattis.com/problems/battleship)| battleship |4.7|[![py](images/python.png)](src/Battleship/battleship.py)|
@@ -227,16 +229,16 @@ For more Python data structure implementations, head over to [pytils](https://gi
 |[Beautiful Primes](https://open.kattis.com/problems/beautifulprimes)| beautifulprimes |4.0|[![py](images/python.png)]()|
 |[Beavergnaw](https://open.kattis.com/problems/beavergnaw)| beavergnaw |1.7|[![cpp](images/cpp.png)]()|
 |[Beehives (1)](https://open.kattis.com/problems/beehives)| beehives |2.1|[![py](images/python.png)]()|
-|[Beehives (2)](https://open.kattis.com/problems/beehives2)| beehives2 |5.3|[![py](images/python.png)](src/Beehives%20(2)/beehives2.py)|
+|[Beehives (2)](https://open.kattis.com/problems/beehives2)| beehives2 |5.2|[![py](images/python.png)](src/Beehives%20(2)/beehives2.py)|
 |[Bee House Perimeter](https://open.kattis.com/problems/beehouseperimeter)| beehouseperimeter |3.7|[![py](images/python.png)]()|
 |[Beekeeper](https://open.kattis.com/problems/beekeeper)| beekeeper |2.6|[![py](images/python.png)]()|
 |[Beep Code](https://open.kattis.com/problems/beepcode)| beepcode |4.0|[![py](images/python.png)]()|
 |[Collecting Beepers](https://open.kattis.com/problems/beepers)| beepers |4.0|[![py](images/python.png)]()|
-|[Bee Problem](https://open.kattis.com/problems/beeproblem)| beeproblem |4.2|[![py](images/python.png)]()|
+|[Bee Problem](https://open.kattis.com/problems/beeproblem)| beeproblem |4.1|[![py](images/python.png)]()|
 |[Bela](https://open.kattis.com/problems/bela)| bela |1.4|[![cpp](images/cpp.png)]()|
 |[Bell Ringing](https://open.kattis.com/problems/bells)| bells |4.7|[![py](images/python.png)]()|
 |[Bendilfærslur](https://open.kattis.com/problems/bendilfaerslur)| bendilfaerslur |2.5|[![py](images/python.png)]()|
-|[BergMál](https://open.kattis.com/problems/bergmal)| bergmal |1.1|[![py](images/python.png)]()[![sh](images/bash.png)]()|
+|[BergMál](https://open.kattis.com/problems/bergmal)| bergmal |1.2|[![py](images/python.png)]()[![sh](images/bash.png)]()|
 |[Bergur](https://open.kattis.com/problems/bergur)| bergur |2.0|[![py](images/python.png)]()|
 |[Besta gjöfin](https://open.kattis.com/problems/bestagjofin)| bestagjofin |1.3|[![py](images/python.png)]()|
 |[Best Before](https://open.kattis.com/problems/bestbefore)| bestbefore |3.8|[![py](images/python.png)]()|
@@ -248,12 +250,12 @@ For more Python data structure implementations, head over to [pytils](https://gi
 |[Bicikli](https://open.kattis.com/problems/bicikli)| bicikli |6.6|[![py](images/python.png)](src/Bicikli/bicikli.py)|
 |[Bið, endalaus bið](https://open.kattis.com/problems/bidendalausbid)| bidendalausbid |2.5|[![py](images/python.png)]()|
 |[Big Boxes](https://open.kattis.com/problems/bigboxes)| bigboxes |2.8|[![py](images/python.png)]()|
-|[Big Factoring](https://open.kattis.com/problems/bigfactoring)| bigfactoring |8.6|[![py](images/python.png)](src/Big%20Factoring/bigfactoring.py)[![sh](images/bash.png)](src/Big%20Factoring/bigfactoring.sh)|
+|[Big Factoring](https://open.kattis.com/problems/bigfactoring)| bigfactoring |8.5|[![py](images/python.png)](src/Big%20Factoring/bigfactoring.py)[![sh](images/bash.png)](src/Big%20Factoring/bigfactoring.sh)|
 |[Biggest Slice](https://open.kattis.com/problems/biggest)| biggest |6.1|[![py](images/python.png)](src/Biggest%20Slice/biggest.py)|
 |[The Biggest Triangle](https://open.kattis.com/problems/biggesttriangle)| biggesttriangle |4.7|[![py](images/python.png)]()|
-|[Big Integers](https://open.kattis.com/problems/bigintegers)| bigintegers |4.2|[![py](images/python.png)]()|
+|[Big Integers](https://open.kattis.com/problems/bigintegers)| bigintegers |5.0|[![py](images/python.png)]()|
 |[Big Totoro](https://open.kattis.com/problems/bigtotoro)| bigtotoro |3.5|[![py](images/python.png)]()|
-|[Big Truck](https://open.kattis.com/problems/bigtruck)| bigtruck |3.1|[![py](images/python.png)]()|
+|[Big Truck](https://open.kattis.com/problems/bigtruck)| bigtruck |3.0|[![py](images/python.png)]()|
 |[Bijele](https://open.kattis.com/problems/bijele)| bijele |1.3|[![cpp](images/cpp.png)]()[![java](images/java.png)]()|
 |[Bike Gears](https://open.kattis.com/problems/bikegears)| bikegears |4.9|[![py](images/python.png)]()|
 |[Bike Parking](https://open.kattis.com/problems/bikeparking)| bikeparking |5.4|[![py](images/python.png)](src/Bike%20Parking/bikeparking.py)|
@@ -263,10 +265,10 @@ For more Python data structure implementations, head over to [pytils](https://gi
 |[Billiard](https://open.kattis.com/problems/billiard)| billiard |2.3|[![java](images/java.png)]()|
 |[Bílskúrar](https://open.kattis.com/problems/bilskurar)| bilskurar |2.6|[![py](images/python.png)](src/Bílskúrar/bilskurar.py)|
 |[Binary Choosing](https://open.kattis.com/problems/binarychoosing)| binarychoosing |4.7|[![py](images/python.png)]()|
-|[Binary Exponentiation](https://open.kattis.com/problems/binaryexponentiation)| binaryexponentiation |2.6|[![py](images/python.png)]()|
+|[Binary Exponentiation](https://open.kattis.com/problems/binaryexponentiation)| binaryexponentiation |3.3|[![py](images/python.png)]()|
 |[Binary Voting](https://open.kattis.com/problems/binaryvoting)| binaryvoting |4.7|[![py](images/python.png)](src/Binary%20Voting/binaryvoting.py)|
 |[Bing It On](https://open.kattis.com/problems/bing)| bing |3.2|[![py](images/python.png)]()|
-|[Bingo for the Win!](https://open.kattis.com/problems/bingoforthewin)| bingoforthewin |3.3|[![py](images/python.png)]()|
+|[Bingo for the Win!](https://open.kattis.com/problems/bingoforthewin)| bingoforthewin |3.1|[![py](images/python.png)]()|
 |[Bíóferð](https://open.kattis.com/problems/bioferd)| bioferd |5.6|[![py](images/python.png)]()|
 |[Birds on a Wire](https://open.kattis.com/problems/birds)| birds |3.1|[![py](images/python.png)]()|
 |[Birthday Party](https://open.kattis.com/problems/birthday)| birthday |2.6|[![py](images/python.png)]()|
@@ -274,14 +276,14 @@ For more Python data structure implementations, head over to [pytils](https://gi
 |[Birthday Candles](https://open.kattis.com/problems/birthdaycandles)| birthdaycandles |3.2|[![py](images/python.png)]()|
 |[Birthday Paradox](https://open.kattis.com/problems/birthdayparadox)| birthdayparadox |5.3|[![py](images/python.png)]()|
 |[Bishops](https://open.kattis.com/problems/bishops)| bishops |2.4|[![py](images/python.png)]()|
-|[Bit by Bit](https://open.kattis.com/problems/bitbybit)| bitbybit |3.2|[![py](images/python.png)]()|
-|[Bitmask](https://open.kattis.com/problems/bitmask)| bitmask |3.7|[![py](images/python.png)]()|
+|[Bit by Bit](https://open.kattis.com/problems/bitbybit)| bitbybit |3.1|[![py](images/python.png)]()|
+|[Bitmask](https://open.kattis.com/problems/bitmask)| bitmask |3.8|[![py](images/python.png)]()|
 |[Bits](https://open.kattis.com/problems/bits)| bits |2.5|[![py](images/python.png)]()|
-|[Bits Equalizer](https://open.kattis.com/problems/bitsequalizer)| bitsequalizer |4.0|[![py](images/python.png)]()|
+|[Bits Equalizer](https://open.kattis.com/problems/bitsequalizer)| bitsequalizer |3.9|[![py](images/python.png)]()|
 |[Bitte ein Bit](https://open.kattis.com/problems/bitteeinbit)| bitteeinbit |1.3|[![py](images/python.png)]()|
 |[Bitwise](https://open.kattis.com/problems/bitwise)| bitwise |6.2|[![py](images/python.png)](src/Bitwise/bitwise.py)|
 |[BizzFuzz](https://open.kattis.com/problems/bizzfuzz)| bizzfuzz |4.4|[![py](images/python.png)]()|
-|[Bjagað Beðaltal](https://open.kattis.com/problems/bjagadbedaltal)| bjagadbedaltal |6.1|[![py](images/python.png)](src/Bjagað%20Beðaltal/bjagadbedaltal.py)|
+|[Bjagað Beðaltal](https://open.kattis.com/problems/bjagadbedaltal)| bjagadbedaltal |6.0|[![py](images/python.png)](src/Bjagað%20Beðaltal/bjagadbedaltal.py)|
 |[Black Friday](https://open.kattis.com/problems/blackfriday)| blackfriday |2.1|[![py](images/python.png)]()|
 |[Black Out](https://open.kattis.com/problems/blackout)| blackout |3.3|[![py](images/python.png)]()|
 |[Blaðra (1)](https://open.kattis.com/problems/bladra)| bladra |1.8|[![py](images/python.png)]()|
@@ -298,7 +300,7 @@ For more Python data structure implementations, head over to [pytils](https://gi
 |[Bobby's Bet](https://open.kattis.com/problems/bobby)| bobby |2.3|[![py](images/python.png)]()|
 |[Bocchi's Rocks](https://open.kattis.com/problems/bocchinorokku)| bocchinorokku |3.4|[![py](images/python.png)]()|
 |[Boggle](https://open.kattis.com/problems/boggle)| boggle |4.8|[![py](images/python.png)]()|
-|[Accounting](https://open.kattis.com/problems/bokforing)| bokforing |3.7|[![py](images/python.png)]()|
+|[Accounting](https://open.kattis.com/problems/bokforing)| bokforing |3.6|[![py](images/python.png)]()|
 |[Book Shelves](https://open.kattis.com/problems/bokhyllor)| bokhyllor |3.6|[![py](images/python.png)](src/Book%20Shelves/bokhyllor.py)|
 |[Bokstavstärningar](https://open.kattis.com/problems/bokstavstarningar)| bokstavstarningar |5.0|[![py](images/python.png)](src/Bokstavstärningar/bokstavstarningar.py)|
 |[Bond](https://open.kattis.com/problems/bond)| bond |5.8|[![py](images/python.png)](src/Bond/bond.py)|
@@ -323,7 +325,7 @@ For more Python data structure implementations, head over to [pytils](https://gi
 |[Boxes](https://open.kattis.com/problems/boxes)| boxes |3.4|[![py](images/python.png)]()|
 |[Bracket Matching](https://open.kattis.com/problems/bracketmatching)| bracketmatching |2.0|[![py](images/python.png)]()|
 |[Bracket Matrix](https://open.kattis.com/problems/bracketmatrix)| bracketmatrix |5.5|[![py](images/python.png)](src/Bracket%20Matrix/bracketmatrix.py)|
-|[Bracket Sequence](https://open.kattis.com/problems/bracketsequence)| bracketsequence |5.2|[![py](images/python.png)]()|
+|[Bracket Sequence](https://open.kattis.com/problems/bracketsequence)| bracketsequence |5.1|[![py](images/python.png)]()|
 |[The Board Game](https://open.kattis.com/problems/bradspelet)| bradspelet |3.9|[![py](images/python.png)]()|
 |[Brahmagupta-Fibonacci](https://open.kattis.com/problems/brahmaguptafibonacci)| brahmaguptafibonacci |3.8|[![py](images/python.png)]()|
 |[BrainFsckVM](https://open.kattis.com/problems/brainfsckvm)| brainfsckvm |6.0|[![py](images/python.png)](src/BrainFsckVM/brainfsckvm.py)|
@@ -340,20 +342,20 @@ For more Python data structure implementations, head over to [pytils](https://gi
 |[Bribe](https://open.kattis.com/problems/bribe)| bribe |5.3|[![py](images/python.png)](src/Bribe/bribe.py)|
 |[Brick Wall](https://open.kattis.com/problems/brickwall)| brickwall |5.1|[![py](images/python.png)]()|
 |[Bridge](https://open.kattis.com/problems/bridge)| bridge |5.7|[![py](images/python.png)]()|
-|[Bridge Automation](https://open.kattis.com/problems/bridgeautomation)| bridgeautomation |5.7|[![py](images/python.png)](src/Bridge%20Automation/bridgeautomation.py)|
+|[Bridge Automation](https://open.kattis.com/problems/bridgeautomation)| bridgeautomation |5.8|[![py](images/python.png)](src/Bridge%20Automation/bridgeautomation.py)|
 |[Bridges and Tunnels](https://open.kattis.com/problems/bridgesandtunnels)| bridgesandtunnels |2.7|[![java](images/java.png)]()[![py](images/python.png)]()|
 |[Brocard Point of a Triangle](https://open.kattis.com/problems/brocard)| brocard |4.6|[![cpp](images/cpp.png)]()|
-|[Broken Calculator](https://open.kattis.com/problems/brokencalculator)| brokencalculator |2.8|[![py](images/python.png)]()|
+|[Broken Calculator](https://open.kattis.com/problems/brokencalculator)| brokencalculator |2.7|[![py](images/python.png)]()|
 |[Broken Keypad](https://open.kattis.com/problems/brokenkeypad)| brokenkeypad |4.9|[![py](images/python.png)](src/Broken%20Keypad/brokenkeypad.py)|
 |[Broken Swords](https://open.kattis.com/problems/brokenswords)| brokenswords |1.9|[![py](images/python.png)]()|
 |[Brownie Points I](https://open.kattis.com/problems/browniepoints)| browniepoints |2.2|[![cpp](images/cpp.png)]()|
 |[Bridges](https://open.kattis.com/problems/bryr)| bryr |2.5|[![py](images/python.png)]()|
-|[Binary search tree](https://open.kattis.com/problems/bst)| bst |7.3|[![java](images/java.png)](src/Binary%20search%20tree/BST.java)[![java](images/java.png)](src/Binary%20search%20tree/BST2.java)|
+|[Binary search tree](https://open.kattis.com/problems/bst)| bst |7.4|[![java](images/java.png)](src/Binary%20search%20tree/BST.java)[![java](images/java.png)](src/Binary%20search%20tree/BST2.java)|
 |[Delicious Bubble Tea](https://open.kattis.com/problems/bubbletea)| bubbletea |2.6|[![py](images/python.png)]()|
 |[Bucket Brigade](https://open.kattis.com/problems/bucketbrigade)| bucketbrigade |3.9|[![py](images/python.png)]()|
 |[Budget](https://open.kattis.com/problems/budget)| budget |6.2|[![py](images/python.png)](src/Budget/budget.py)|
 |[Buggy Robot (1)](https://open.kattis.com/problems/buggyrobot)| buggyrobot |5.9|[![py](images/python.png)](src/Buggy%20Robot%20(1)/buggyrobot.py)|
-|[Buggy Robot (2)](https://open.kattis.com/problems/buggyrobot2)| buggyrobot2 |5.2|[![py](images/python.png)](src/Buggy%20Robot%20(2)/buggyrobot2.py)|
+|[Buggy Robot (2)](https://open.kattis.com/problems/buggyrobot2)| buggyrobot2 |5.1|[![py](images/python.png)](src/Buggy%20Robot%20(2)/buggyrobot2.py)|
 |[Build Dependencies](https://open.kattis.com/problems/builddeps)| builddeps |4.3|[![py](images/python.png)]()|
 |[Building Boundaries](https://open.kattis.com/problems/buildingboundaries)| buildingboundaries |3.8|[![py](images/python.png)]()|
 |[Building Highways](https://open.kattis.com/problems/buildinghighways)| buildinghighways |2.1|[![cpp](images/cpp.png)]()[![py](images/python.png)]()|
@@ -399,7 +401,7 @@ For more Python data structure implementations, head over to [pytils](https://gi
 |[Cantina of Babel](https://open.kattis.com/problems/cantinaofbabel)| cantinaofbabel |3.2|[![py](images/python.png)]()|
 |[Cantor](https://open.kattis.com/problems/cantor)| cantor |2.9|[![py](images/python.png)]()|
 |[Canvas Painting](https://open.kattis.com/problems/canvas)| canvas |3.8|[![py](images/python.png)]()|
-|[Canvas Line](https://open.kattis.com/problems/canvasline)| canvasline |5.2|[![py](images/python.png)]()|
+|[Canvas Line](https://open.kattis.com/problems/canvasline)| canvasline |5.1|[![py](images/python.png)]()|
 |[Canyon Crossing](https://open.kattis.com/problems/canyoncrossing)| canyoncrossing |5.9|[![py](images/python.png)](src/Canyon%20Crossing/canyoncrossing.py)|
 |[Capsules](https://open.kattis.com/problems/capsules)| capsules |3.1|[![py](images/python.png)]()|
 |[Captain Obvious and the Rabbit-Man](https://open.kattis.com/problems/captainobvious)| captainobvious |6.1|[![py](images/python.png)](src/Captain%20Obvious%20and%20the%20Rabbit-Man/captainobvious.py)|
@@ -420,19 +422,19 @@ For more Python data structure implementations, head over to [pytils](https://gi
 |[Solving for Carrots](https://open.kattis.com/problems/carrots)| carrots |1.3|[![java](images/java.png)]()[![js](images/javascript.png)]()[![py](images/python.png)]()|
 |[Car Trouble](https://open.kattis.com/problems/cartrouble)| cartrouble |4.8|[![py](images/python.png)]()|
 |[Car Vet](https://open.kattis.com/problems/carvet)| carvet |3.9|[![py](images/python.png)]()|
-|[Cascade Centrality](https://open.kattis.com/problems/cascadecentrality)| cascadecentrality |2.3|[![py](images/python.png)]()|
+|[Cascade Centrality](https://open.kattis.com/problems/cascadecentrality)| cascadecentrality |2.8|[![py](images/python.png)]()|
 |[Catalan Numbers](https://open.kattis.com/problems/catalan)| catalan |3.2|[![py](images/python.png)]()|
 |[Catalan Square](https://open.kattis.com/problems/catalansquare)| catalansquare |3.2|[![py](images/python.png)]()|
-|[Cat and Mice](https://open.kattis.com/problems/catandmice)| catandmice |4.3|[![py](images/python.png)]()|
+|[Cat and Mice](https://open.kattis.com/problems/catandmice)| catandmice |4.2|[![py](images/python.png)]()|
 |[Catching Noodles](https://open.kattis.com/problems/catchingnoodles)| catchingnoodles |6.3|[![py](images/python.png)](src/Catching%20Noodles/catchingnoodles.py)|
 |[Cat Coat Colors](https://open.kattis.com/problems/catcoat)| catcoat |3.1|[![py](images/python.png)]()|
 |[Catenyms](https://open.kattis.com/problems/catenyms)| catenyms |6.8|[![py](images/python.png)](src/Catenyms/catenyms.py)|
-|[Catering](https://open.kattis.com/problems/catering)| catering |4.0|[![py](images/python.png)]()|
+|[Catering](https://open.kattis.com/problems/catering)| catering |3.9|[![py](images/python.png)]()|
 |[A Feast For Cats](https://open.kattis.com/problems/cats)| cats |3.5|[![java](images/java.png)]()|
 |[Cat vs. Dog](https://open.kattis.com/problems/catvsdog)| catvsdog |5.9|[![py](images/python.png)](src/Cat%20vs.%20Dog/catvsdog.py)|
 |[Cave Exploration (1)](https://open.kattis.com/problems/caveexploration)| caveexploration |3.3|[![py](images/python.png)]()|
 |[Cave Exploration (2)](https://open.kattis.com/problems/caveexploration2)| caveexploration2 |3.8|[![py](images/python.png)]()|
-|[CD](https://open.kattis.com/problems/cd)| cd |4.1|[![py](images/python.png)]()|
+|[CD](https://open.kattis.com/problems/cd)| cd |4.0|[![py](images/python.png)]()|
 |[Ceiling Function](https://open.kattis.com/problems/ceiling)| ceiling |2.2|[![py](images/python.png)]()|
 |[Celebrity Split](https://open.kattis.com/problems/celebritysplit)| celebritysplit |8.2|[![py](images/python.png)](src/Celebrity%20Split/celebritysplit.py)|
 |[Cent Savings](https://open.kattis.com/problems/centsavings)| centsavings |4.7|[![py](images/python.png)]()|
@@ -450,17 +452,18 @@ For more Python data structure implementations, head over to [pytils](https://gi
 |[Charged](https://open.kattis.com/problems/charged)| charged |2.3|[![py](images/python.png)]()|
 |[Charles in Charge](https://open.kattis.com/problems/charlesincharge)| charlesincharge |5.0|[![py](images/python.png)](src/Charles%20in%20Charge/charlesincharge.py)|
 |[Charting Progress](https://open.kattis.com/problems/chartingprogress)| chartingprogress |2.1|[![py](images/python.png)]()|
-|[Chatter](https://open.kattis.com/problems/chatter)| chatter |3.9|[![py](images/python.png)]()|
+|[Chatter](https://open.kattis.com/problems/chatter)| chatter |4.0|[![py](images/python.png)]()|
 |[Cheating at War](https://open.kattis.com/problems/cheatingatwar)| cheatingatwar |5.5|[![py](images/python.png)]()|
 |[Cheating a Boolean Tree](https://open.kattis.com/problems/cheatingbooleantree)| cheatingbooleantree |3.8|[![py](images/python.png)]()|
 |[Cheating Students](https://open.kattis.com/problems/cheatingstudents)| cheatingstudents |2.9|[![py](images/python.png)]()|
 |[Checking Break](https://open.kattis.com/problems/checkingbreak)| checkingbreak |6.1|[![py](images/python.png)](src/Checking%20Break/checkingbreak.py)|
 |[Checking For Correctness](https://open.kattis.com/problems/checkingforcorrectness)| checkingforcorrectness |3.9|[![py](images/python.png)]()|
 |[Checkmate in One](https://open.kattis.com/problems/checkmateinone)| checkmateinone |4.4|[![py](images/python.png)](src/Checkmate%20in%20One/checkmateinone.py)|
-|[Cutting Cheese](https://open.kattis.com/problems/cheese)| cheese |3.0|[![py](images/python.png)]()|
+|[Checkout](https://open.kattis.com/problems/checkout)| checkout |5.3|[![py](images/python.png)](src/Checkout/checkout.py)|
+|[Cutting Cheese](https://open.kattis.com/problems/cheese)| cheese |2.9|[![py](images/python.png)]()|
 |[Cheese, If You Please](https://open.kattis.com/problems/cheeseifyouplease)| cheeseifyouplease |3.5|[![py](images/python.png)]()|
 |[Chemist's vows](https://open.kattis.com/problems/chemistsvows)| chemistsvows |3.0|[![py](images/python.png)]()|
-|[Chess](https://open.kattis.com/problems/chess)| chess |3.3|[![py](images/python.png)]()|
+|[Chess](https://open.kattis.com/problems/chess)| chess |3.2|[![py](images/python.png)]()|
 |[Chess Competition](https://open.kattis.com/problems/chesscompetition)| chesscompetition |6.3|[![py](images/python.png)](src/Chess%20Competition/chesscompetition.py)|
 |[Chess Tournament](https://open.kattis.com/problems/chesstournament)| chesstournament |5.6|[![py](images/python.png)](src/Chess%20Tournament/chesstournament.py)|
 |[Chewbacca](https://open.kattis.com/problems/chewbacca)| chewbacca |3.1|[![py](images/python.png)]()|
@@ -496,7 +499,7 @@ For more Python data structure implementations, head over to [pytils](https://gi
 |[Clock Breaking](https://open.kattis.com/problems/clock)| clock |3.8|[![py](images/python.png)]()|
 |[Clock Construction](https://open.kattis.com/problems/clockconstruction)| clockconstruction |4.6|[![py](images/python.png)]()|
 |[Clock Pictures](https://open.kattis.com/problems/clockpictures)| clockpictures |3.7|[![py](images/python.png)]()|
-|[Closeness Queries](https://open.kattis.com/problems/closenessqueries)| closenessqueries |8.5|[![py](images/python.png)](src/Closeness%20Queries/closenessqueries.py)|
+|[Closeness Queries](https://open.kattis.com/problems/closenessqueries)| closenessqueries |8.0|[![py](images/python.png)](src/Closeness%20Queries/closenessqueries.py)|
 |[Closest Pair (Uniform)](https://open.kattis.com/problems/closestpair1)| closestpair1 |4.7|[![java](images/java.png)]()[![py](images/python.png)]()|
 |[Closest Pair](https://open.kattis.com/problems/closestpair2)| closestpair2 |6.6|[![java](images/java.png)](src/Closest%20Pair/ClosestPair2.java)|
 |[Closest Sums](https://open.kattis.com/problems/closestsums)| closestsums |2.7|[![py](images/python.png)]()|
@@ -539,32 +542,32 @@ For more Python data structure implementations, head over to [pytils](https://gi
 |[Jumbled Compass](https://open.kattis.com/problems/compass)| compass |2.0|[![cpp](images/cpp.png)]()|
 |[Competitive Arcade Basketball](https://open.kattis.com/problems/competitivearcadebasketball)| competitivearcadebasketball |2.2|[![py](images/python.png)]()|
 |[Completing the Square](https://open.kattis.com/problems/completingthesquare)| completingthesquare |2.1|[![cpp](images/cpp.png)]()|
-|[Composed Rhythms](https://open.kattis.com/problems/composedrhythms)| composedrhythms |1.4|[![py](images/python.png)]()|
+|[Composed Rhythms](https://open.kattis.com/problems/composedrhythms)| composedrhythms |1.5|[![py](images/python.png)]()|
 |[Compositions](https://open.kattis.com/problems/compositions)| compositions |2.4|[![py](images/python.png)]()|
 |[Compound Words](https://open.kattis.com/problems/compoundwords)| compoundwords |2.0|[![py](images/python.png)]()|
-|[Compression](https://open.kattis.com/problems/compression2)| compression2 |5.0|[![py](images/python.png)]()|
+|[Compression](https://open.kattis.com/problems/compression2)| compression2 |4.9|[![py](images/python.png)]()|
 |[Best Compromise](https://open.kattis.com/problems/compromise)| compromise |2.0|[![py](images/python.png)]()|
-|[Conformity](https://open.kattis.com/problems/conformity)| conformity |1.5|[![java](images/java.png)]()|
+|[Conformity](https://open.kattis.com/problems/conformity)| conformity |1.6|[![java](images/java.png)]()|
 |[Conga Line](https://open.kattis.com/problems/congaline)| congaline |5.1|[![py](images/python.png)]()|
 |[Surely You Congest](https://open.kattis.com/problems/congest)| congest |3.9|[![py](images/python.png)]()|
 |[Connect-N](https://open.kattis.com/problems/connectn)| connectn |3.6|[![py](images/python.png)]()|
 |[Connect the Dots](https://open.kattis.com/problems/connectthedots)| connectthedots |3.6|[![py](images/python.png)]()|
 |[Conquest](https://open.kattis.com/problems/conquest)| conquest |2.9|[![py](images/python.png)]()|
 |[Conquest Campaign](https://open.kattis.com/problems/conquestcampaign)| conquestcampaign |2.2|[![py](images/python.png)]()|
-|[Consecutive Prime Sums](https://open.kattis.com/problems/consecutiveprimesums)| consecutiveprimesums |3.3|[![py](images/python.png)]()|
+|[Consecutive Prime Sums](https://open.kattis.com/problems/consecutiveprimesums)| consecutiveprimesums |3.2|[![py](images/python.png)]()|
 |[Sums](https://open.kattis.com/problems/consecutivesums)| consecutivesums |3.3|[![py](images/python.png)]()|
 |[Conservation](https://open.kattis.com/problems/conservation)| conservation |4.9|[![py](images/python.png)]()|
 |[Constellation Creation](https://open.kattis.com/problems/constellationcreation)| constellationcreation |4.7|[![py](images/python.png)](src/Constellation%20Creation/constellationcreation.py)|
 |[Constrained Freedom of Choice](https://open.kattis.com/problems/constrainedfreedomofchoice)| constrainedfreedomofchoice |4.8|[![py](images/python.png)]()|
 |[Contact Tracing](https://open.kattis.com/problems/contacttracing)| contacttracing |5.1|[![py](images/python.png)]()|
-|[Contest Advancement](https://open.kattis.com/problems/contestadvancement)| contestadvancement |4.3|[![py](images/python.png)](src/Contest%20Advancement/contestadvancement.py)|
+|[Contest Advancement](https://open.kattis.com/problems/contestadvancement)| contestadvancement |4.2|[![py](images/python.png)](src/Contest%20Advancement/contestadvancement.py)|
 |[Multi-Year Contest Scheduling](https://open.kattis.com/problems/contestscheduling)| contestscheduling |4.2|[![py](images/python.png)]()|
 |[Contest Struggles](https://open.kattis.com/problems/conteststruggles)| conteststruggles |2.2|[![cpp](images/cpp.png)]()|
 |[Contingency Planning](https://open.kattis.com/problems/contingencyplanning)| contingencyplanning |2.1|[![py](images/python.png)]()|
-|[Continuous Median](https://open.kattis.com/problems/continuousmedian)| continuousmedian |3.1|[![java](images/java.png)]()|
+|[Continuous Median](https://open.kattis.com/problems/continuousmedian)| continuousmedian |3.0|[![java](images/java.png)]()|
 |[Association for Control Over Minds](https://open.kattis.com/problems/control)| control |4.2|[![py](images/python.png)]()|
 |[Cryptographer's Conundrum](https://open.kattis.com/problems/conundrum)| conundrum |1.5|[![cpp](images/cpp.png)]()|
-|[Conversation Log](https://open.kattis.com/problems/conversationlog)| conversationlog |2.9|[![py](images/python.png)]()|
+|[Conversation Log](https://open.kattis.com/problems/conversationlog)| conversationlog |2.8|[![py](images/python.png)]()|
 |[Floating-Point Format Conversion](https://open.kattis.com/problems/conversion)| conversion |6.9|[![py](images/python.png)](src/Floating-Point%20Format%20Conversion/conversion.py)|
 |[Converting Romans](https://open.kattis.com/problems/convertingromans)| convertingromans |3.7|[![py](images/python.png)]()|
 |[Association for Convex Main Office](https://open.kattis.com/problems/convex)| convex |6.2|[![py](images/python.png)](src/Association%20for%20Convex%20Main%20Office/convex.py)|
@@ -594,7 +597,8 @@ For more Python data structure implementations, head over to [pytils](https://gi
 |[Counting Chocolate](https://open.kattis.com/problems/countingchocolate)| countingchocolate |4.0|[![py](images/python.png)]()|
 |[Counting Clauses](https://open.kattis.com/problems/countingclauses)| countingclauses |1.6|[![py](images/python.png)]()|
 |[Counting Days](https://open.kattis.com/problems/countingdays)| countingdays |2.9|[![cpp](images/cpp.png)]()|
-|[Counting Satellites](https://open.kattis.com/problems/countingsatellites)| countingsatellites |6.9|[![py](images/python.png)](src/Counting%20Satellites/countingsatellites.py)|
+|[Counting Greedily Increasing Supersequences](https://open.kattis.com/problems/countinggis)| countinggis |5.7|[![py](images/python.png)](src/Counting%20Greedily%20Increasing%20Supersequences/countinggis.py)|
+|[Counting Satellites](https://open.kattis.com/problems/countingsatellites)| countingsatellites |6.8|[![py](images/python.png)](src/Counting%20Satellites/countingsatellites.py)|
 |[Counting Staircases](https://open.kattis.com/problems/countingstaircases)| countingstaircases |4.9|[![py](images/python.png)](src/Counting%20Staircases/countingstaircases.py)|
 |[Counting Stars](https://open.kattis.com/problems/countingstars)| countingstars |2.6|[![java](images/java.png)]()|
 |[Counting Trees](https://open.kattis.com/problems/countingtrees)| countingtrees |5.7|[![py](images/python.png)](src/Counting%20Trees/countingtrees.py)|
@@ -631,12 +635,13 @@ For more Python data structure implementations, head over to [pytils](https://gi
 |[Cu Chi Tunnels](https://open.kattis.com/problems/cuchitunnels)| cuchitunnels |3.4|[![py](images/python.png)]()|
 |[Cuckoo Hashing](https://open.kattis.com/problems/cuckoo)| cuckoo |4.1|[![py](images/python.png)](src/Cuckoo%20Hashing/cuckoo.py)|
 |[Cuckoo! Cuckoo!](https://open.kattis.com/problems/cuckoocuckoo)| cuckoocuckoo |3.8|[![py](images/python.png)]()|
+|[Cucumber Conundrum](https://open.kattis.com/problems/cucumberconundrum)| cucumberconundrum |6.4|[![py](images/python.png)](src/Cucumber%20Conundrum/cucumberconundrum.py)|
 |[Cudak](https://open.kattis.com/problems/cudak)| cudak |6.6|[![py](images/python.png)](src/Cudak/cudak.py)|
 |[Cudoviste](https://open.kattis.com/problems/cudoviste)| cudoviste |1.5|[![cpp](images/cpp.png)]()|
 |[Stacking Cups](https://open.kattis.com/problems/cups)| cups |1.6|[![py](images/python.png)]()|
 |[Curse the Darkness](https://open.kattis.com/problems/cursethedarkness)| cursethedarkness |2.6|[![cpp](images/cpp.png)]()|
 |[Curve Knights](https://open.kattis.com/problems/curveknights)| curveknights |3.7|[![py](images/python.png)]()|
-|[Curve Speed](https://open.kattis.com/problems/curvespeed)| curvespeed |2.4|[![py](images/python.png)]()|
+|[Curve Speed](https://open.kattis.com/problems/curvespeed)| curvespeed |2.3|[![py](images/python.png)]()|
 |[Stacking Curvy Blocks](https://open.kattis.com/problems/curvyblocks)| curvyblocks |4.8|[![cpp](images/cpp.png)]()|
 |[Cut in Line](https://open.kattis.com/problems/cutinline)| cutinline |1.6|[![py](images/python.png)]()|
 |[Cut the Negativity](https://open.kattis.com/problems/cutthenegativity)| cutthenegativity |1.4|[![py](images/python.png)]()|
@@ -650,7 +655,7 @@ For more Python data structure implementations, head over to [pytils](https://gi
 |[Dacey the Dice](https://open.kattis.com/problems/daceydice)| daceydice |3.6|[![py](images/python.png)]()|
 |[Dagatal](https://open.kattis.com/problems/dagatal)| dagatal |1.2|[![py](images/python.png)]()|
 |[Daily Division](https://open.kattis.com/problems/dailydivision)| dailydivision |7.2|[![py](images/python.png)](src/Daily%20Division/dailydivision.py)|
-|[Damaged Equation](https://open.kattis.com/problems/damagedequation)| damagedequation |2.5|[![cpp](images/cpp.png)]()|
+|[Damaged Equation](https://open.kattis.com/problems/damagedequation)| damagedequation |2.4|[![cpp](images/cpp.png)]()|
 |[Dams in Distress](https://open.kattis.com/problems/damsindistress)| damsindistress |3.7|[![py](images/python.png)]()|
 |[Dance Recital](https://open.kattis.com/problems/dancerecital)| dancerecital |3.8|[![py](images/python.png)]()|
 |[Dansgólf](https://open.kattis.com/problems/dansgolf)| dansgolf |2.2|[![py](images/python.png)]()|
@@ -661,7 +666,7 @@ For more Python data structure implementations, head over to [pytils](https://gi
 |[Dart Scoring](https://open.kattis.com/problems/dartscoring)| dartscoring |4.2|[![py](images/python.png)]()|
 |[Das Blinkenlights](https://open.kattis.com/problems/dasblinkenlights)| dasblinkenlights |1.7|[![cpp](images/cpp.png)]()|
 |[DA-Sort](https://open.kattis.com/problems/dasort)| dasort |3.4|[![cpp](images/cpp.png)]()|
-|[Big Data](https://open.kattis.com/problems/data)| data |5.3|[![py](images/python.png)](src/Big%20Data/data.py)|
+|[Big Data](https://open.kattis.com/problems/data)| data |5.2|[![py](images/python.png)](src/Big%20Data/data.py)|
 |[Dating time](https://open.kattis.com/problems/datingtime)| datingtime |4.4|[![py](images/python.png)]()|
 |[Datum](https://open.kattis.com/problems/datum)| datum |1.6|[![cpp](images/cpp.png)]()|
 |[Dead-End Detector](https://open.kattis.com/problems/deadend)| deadend |4.0|[![py](images/python.png)]()|
@@ -675,7 +680,7 @@ For more Python data structure implementations, head over to [pytils](https://gi
 |[Deceptive Dice](https://open.kattis.com/problems/deceptivedice)| deceptivedice |3.1|[![py](images/python.png)]()|
 |[Decimal deletion](https://open.kattis.com/problems/decimaldeletion)| decimaldeletion |1.3|[![py](images/python.png)]()|
 |[Decisions, Decisions](https://open.kattis.com/problems/decisions)| decisions |2.9|[![py](images/python.png)]()|
-|[Deck Randomisation](https://open.kattis.com/problems/deckrandomisation)| deckrandomisation |8.1|[![py](images/python.png)](src/Deck%20Randomisation/deckrandomisation.py)|
+|[Deck Randomisation](https://open.kattis.com/problems/deckrandomisation)| deckrandomisation |8.0|[![py](images/python.png)](src/Deck%20Randomisation/deckrandomisation.py)|
 |[Deduplicating Files](https://open.kattis.com/problems/deduplicatingfiles)| deduplicatingfiles |4.4|[![py](images/python.png)]()|
 |[Deildadrottnun](https://open.kattis.com/problems/deildadrottnun)| deildadrottnun |3.0|[![py](images/python.png)]()|
 |[Deildajöfnuður](https://open.kattis.com/problems/deildajofnudur)| deildajofnudur |2.2|[![py](images/python.png)]()|
@@ -701,7 +706,7 @@ For more Python data structure implementations, head over to [pytils](https://gi
 |[Deterministic Finite Automata - Kleene Star](https://open.kattis.com/problems/dfakleenestar)| dfakleenestar |6.7|[![py](images/python.png)](src/Deterministic%20Finite%20Automata%20-%20Kleene%20Star/dfakleenestar.py)|
 |[Deterministic Finite Automata - Maximum Word Length](https://open.kattis.com/problems/dfamaximumwordlength)| dfamaximumwordlength |4.3|[![py](images/python.png)]()|
 |[Deterministic Finite Automata - Minimum Word Length](https://open.kattis.com/problems/dfaminimumwordlength)| dfaminimumwordlength |3.5|[![py](images/python.png)]()|
-|[Deterministic Finite Automata - Read](https://open.kattis.com/problems/dfaread)| dfaread |2.8|[![py](images/python.png)]()|
+|[Deterministic Finite Automata - Read](https://open.kattis.com/problems/dfaread)| dfaread |2.7|[![py](images/python.png)]()|
 |[Deterministic Finite Automata - Symmetric Difference](https://open.kattis.com/problems/dfasymmetricdifference)| dfasymmetricdifference |3.8|[![py](images/python.png)]()|
 |[Deterministic Finite Automata - Union](https://open.kattis.com/problems/dfaunion)| dfaunion |4.0|[![py](images/python.png)]()|
 |[D Fyrir Dreki](https://open.kattis.com/problems/dfyrirdreki)| dfyrirdreki |1.4|[![py](images/python.png)]()|
@@ -715,7 +720,7 @@ For more Python data structure implementations, head over to [pytils](https://gi
 |[Dictionary Attack](https://open.kattis.com/problems/dictionaryattack)| dictionaryattack |6.8|[![py](images/python.png)](src/Dictionary%20Attack/dictionaryattack.py)|
 |[Die Hard](https://open.kattis.com/problems/diehard)| diehard |3.1|[![py](images/python.png)]()|
 |[Difference](https://open.kattis.com/problems/difference)| difference |6.7|[![py](images/python.png)](src/Difference/difference.py)|
-|[A Different Problem](https://open.kattis.com/problems/different)| different |2.7|[![c](images/c.png)]()[![cpp](images/cpp.png)]()[![cs](images/csharp.png)]()[![go](images/go.png)]()[![hs](images/haskell.png)]()[![java](images/java.png)]()[![js](images/javascript.png)]()[![kt](images/kotlin.png)]()[![php](images/php.png)]()[![py](images/python.png)]()[![rb](images/ruby.png)]()|
+|[A Different Problem](https://open.kattis.com/problems/different)| different |2.6|[![c](images/c.png)]()[![cpp](images/cpp.png)]()[![cs](images/csharp.png)]()[![go](images/go.png)]()[![hs](images/haskell.png)]()[![java](images/java.png)]()[![js](images/javascript.png)]()[![kt](images/kotlin.png)]()[![php](images/php.png)]()[![py](images/python.png)]()[![rb](images/ruby.png)]()|
 |[Different Distances](https://open.kattis.com/problems/differentdistances)| differentdistances |1.7|[![cpp](images/cpp.png)]()|
 |[Digbuild](https://open.kattis.com/problems/digbuild)| digbuild |4.3|[![py](images/python.png)]()|
 |[Digi Comp II](https://open.kattis.com/problems/digicomp2)| digicomp2 |5.9|[![py](images/python.png)](src/Digi%20Comp%20II/digicomp2.py)|
@@ -747,9 +752,9 @@ For more Python data structure implementations, head over to [pytils](https://gi
 |[Divisible Subsequences](https://open.kattis.com/problems/divisible)| divisible |2.9|[![py](images/python.png)]()|
 |[Division](https://open.kattis.com/problems/division)| division |7.3|[![py](images/python.png)](src/Division/division.py)|
 |[Divisor Counts](https://open.kattis.com/problems/divisorcounts)| divisorcounts |4.3|[![py](images/python.png)]()|
-|[Divisors](https://open.kattis.com/problems/divisors)| divisors |5.4|[![py](images/python.png)](src/Divisors/divisors.py)|
+|[Divisors](https://open.kattis.com/problems/divisors)| divisors |5.5|[![py](images/python.png)](src/Divisors/divisors.py)|
 |[Divisor Shuffle](https://open.kattis.com/problems/divisorshuffle)| divisorshuffle |5.4|[![py](images/python.png)]()|
-|[Divisors of a sum](https://open.kattis.com/problems/divisorsofasum)| divisorsofasum |6.8|[![py](images/python.png)](src/Divisors%20of%20a%20sum/divisorsofasum.py)|
+|[Divisors of a sum](https://open.kattis.com/problems/divisorsofasum)| divisorsofasum |7.1|[![py](images/python.png)](src/Divisors%20of%20a%20sum/divisorsofasum.py)|
 |[Divvying Up](https://open.kattis.com/problems/divvyingup)| divvyingup |1.4|[![py](images/python.png)]()|
 |[DNA](https://open.kattis.com/problems/dna)| dna |4.8|[![py](images/python.png)]()|
 |[Dobra](https://open.kattis.com/problems/dobra)| dobra |4.0|[![py](images/python.png)]()|
@@ -758,7 +763,7 @@ For more Python data structure implementations, head over to [pytils](https://gi
 |[Dog & Gopher](https://open.kattis.com/problems/doggopher)| doggopher |2.4|[![py](images/python.png)]()|
 |[Doing the Container Shuffle](https://open.kattis.com/problems/doingthecontainershuffle)| doingthecontainershuffle |4.2|[![py](images/python.png)]()|
 |[Dominating Duos](https://open.kattis.com/problems/dominatingduos)| dominatingduos |6.6|[![py](images/python.png)](src/Dominating%20Duos/dominatingduos.py)|
-|[Dominoes 2](https://open.kattis.com/problems/dominoes2)| dominoes2 |2.8|[![java](images/java.png)]()|
+|[Dominoes 2](https://open.kattis.com/problems/dominoes2)| dominoes2 |2.9|[![java](images/java.png)]()|
 |[Dominos](https://open.kattis.com/problems/dominos)| dominos |4.9|[![java](images/java.png)]()[![py](images/python.png)]()|
 |[Don't Be Fake](https://open.kattis.com/problems/dontbefake)| dontbefake |2.2|[![py](images/python.png)]()|
 |[Don't Fall Down Stairs](https://open.kattis.com/problems/dontfalldownstairs)| dontfalldownstairs |2.1|[![py](images/python.png)]()|
@@ -792,7 +797,7 @@ For more Python data structure implementations, head over to [pytils](https://gi
 |[DRM Messages](https://open.kattis.com/problems/drmmessages)| drmmessages |1.6|[![cpp](images/cpp.png)]()|
 |[Dropping Ball](https://open.kattis.com/problems/droppingball2)| droppingball2 |4.5|[![py](images/python.png)]()|
 |[Dropping Directions](https://open.kattis.com/problems/droppingdirections)| droppingdirections |3.9|[![py](images/python.png)]()|
-|[Drunk Texting](https://open.kattis.com/problems/drunktexting)| drunktexting |3.7|[![py](images/python.png)]()|
+|[Drunk Texting](https://open.kattis.com/problems/drunktexting)| drunktexting |3.5|[![py](images/python.png)]()|
 |[Drunk Vigenère](https://open.kattis.com/problems/drunkvigenere)| drunkvigenere |1.6|[![cpp](images/cpp.png)]()|
 |[Daylight Saving Time](https://open.kattis.com/problems/dst)| dst |2.1|[![py](images/python.png)]()|
 |[Dual Divisibility](https://open.kattis.com/problems/dualdivisibility)| dualdivisibility |4.1|[![py](images/python.png)]()|
@@ -807,7 +812,7 @@ For more Python data structure implementations, head over to [pytils](https://gi
 |[Dvoniz](https://open.kattis.com/problems/dvoniz)| dvoniz |7.0|[![py](images/python.png)](src/Dvoniz/dvoniz.py)[![py](images/python.png)](src/Dvoniz/dvoniz2.py)|
 |[Dyslectionary](https://open.kattis.com/problems/dyslectionary)| dyslectionary |2.9|[![py](images/python.png)]()|
 |[Dyson Circle](https://open.kattis.com/problems/dysoncircle)| dysoncircle |6.1|[![py](images/python.png)]()|
-|[Early Termination](https://open.kattis.com/problems/earlytermination)| earlytermination |3.5|[![py](images/python.png)]()|
+|[Early Termination](https://open.kattis.com/problems/earlytermination)| earlytermination |3.3|[![py](images/python.png)]()|
 |[Early Winter](https://open.kattis.com/problems/earlywinter)| earlywinter |1.9|[![py](images/python.png)]()|
 |[The Easiest Problem Is This One](https://open.kattis.com/problems/easiest)| easiest |1.6|[![cpp](images/cpp.png)]()|
 |[Easter Eggs](https://open.kattis.com/problems/eastereggs)| eastereggs |5.2|[![py](images/python.png)]()|
@@ -823,7 +828,7 @@ For more Python data structure implementations, head over to [pytils](https://gi
 |[Efficient Exchange](https://open.kattis.com/problems/efficientexchange)| efficientexchange |5.1|[![py](images/python.png)]()|
 |[Ég elska hann](https://open.kattis.com/problems/egelskahann)| egelskahann |1.8|[![py](images/python.png)]()|
 |[Egypt](https://open.kattis.com/problems/egypt)| egypt |1.9|[![cpp](images/cpp.png)]()|
-|[Eidam-Sand Lair](https://open.kattis.com/problems/eidamsandlair)| eidamsandlair |5.5|[![py](images/python.png)]()|
+|[Eidam-Sand Lair](https://open.kattis.com/problems/eidamsandlair)| eidamsandlair |5.6|[![py](images/python.png)]()|
 |[Eiginnöfn](https://open.kattis.com/problems/eiginnofn)| eiginnofn |2.0|[![py](images/python.png)]()|
 |[Eilíf æska](https://open.kattis.com/problems/eilifaeska)| eilifaeska |5.9|[![py](images/python.png)](src/Eilíf%20æska/eilifaeska.py)|
 |[Eindahraðall](https://open.kattis.com/problems/eindahradall)| eindahradall |6.6|[![py](images/python.png)]()|
@@ -831,7 +836,7 @@ For more Python data structure implementations, head over to [pytils](https://gi
 |[Einkunnir](https://open.kattis.com/problems/einkunnir)| einkunnir |3.4|[![py](images/python.png)]()|
 |[Einvigi](https://open.kattis.com/problems/einvigi)| einvigi |3.3|[![py](images/python.png)]()|
 |[Ekki dauði opna inni](https://open.kattis.com/problems/ekkidaudi)| ekkidaudi |1.4|[![py](images/python.png)]()|
-|[Ekki minn forseti](https://open.kattis.com/problems/ekkiminnforseti)| ekkiminnforseti |7.6|[![py](images/python.png)]()|
+|[Ekki minn forseti](https://open.kattis.com/problems/ekkiminnforseti)| ekkiminnforseti |7.3|[![py](images/python.png)]()|
 |[Eko](https://open.kattis.com/problems/eko)| eko |3.7|[![py](images/python.png)]()|
 |[Eksplozija](https://open.kattis.com/problems/eksplozija)| eksplozija |6.7|[![py](images/python.png)](src/Eksplozija/eksplozija.py)|
 |[Eldspýtur](https://open.kattis.com/problems/eldspytur)| eldspytur |2.2|[![py](images/python.png)]()|
@@ -841,7 +846,7 @@ For more Python data structure implementations, head over to [pytils](https://gi
 |[Electrical Outlets](https://open.kattis.com/problems/electricaloutlets)| electricaloutlets |1.5|[![java](images/java.png)]()|
 |[Elementary Math](https://open.kattis.com/problems/elementarymath)| elementarymath |4.3|[![py](images/python.png)]()|
 |[Elevating the Prank](https://open.kattis.com/problems/elevatingtheprank)| elevatingtheprank |1.6|[![py](images/python.png)]()|
-|[Elevator Trouble](https://open.kattis.com/problems/elevatortrouble)| elevatortrouble |2.0|[![py](images/python.png)]()|
+|[Elevator Trouble](https://open.kattis.com/problems/elevatortrouble)| elevatortrouble |2.1|[![py](images/python.png)]()|
 |[Eligibility](https://open.kattis.com/problems/eligibility)| eligibility |1.6|[![py](images/python.png)]()|
 |[Elliptic Curve Addition](https://open.kattis.com/problems/ellipticcurveaddition)| ellipticcurveaddition |6.2|[![py](images/python.png)](src/Elliptic%20Curve%20Addition/ellipticcurveaddition.py)|
 |[Elliptic Curve Point Multiplication](https://open.kattis.com/problems/ellipticcurvemultiplication)| ellipticcurvemultiplication |4.7|[![py](images/python.png)](src/Elliptic%20Curve%20Point%20Multiplication/ellipticcurvemultiplication.py)|
@@ -888,13 +893,13 @@ For more Python data structure implementations, head over to [pytils](https://gi
 |[Esoteric Spells](https://open.kattis.com/problems/esotericspells)| esotericspells |4.0|[![py](images/python.png)]()|
 |[Espresso!](https://open.kattis.com/problems/espresso)| espresso |2.1|[![py](images/python.png)]()|
 |[Espresso Bucks](https://open.kattis.com/problems/espressobucks)| espressobucks |2.2|[![py](images/python.png)]()|
-|[Integer Estate Agent](https://open.kattis.com/problems/estate)| estate |5.2|[![py](images/python.png)]()|
+|[Integer Estate Agent](https://open.kattis.com/problems/estate)| estate |5.1|[![py](images/python.png)]()|
 |[Estimating the Area of a Circle](https://open.kattis.com/problems/estimatingtheareaofacircle)| estimatingtheareaofacircle |1.6|[![cpp](images/cpp.png)]()|
 |[Estimation](https://open.kattis.com/problems/estimation)| estimation |4.3|[![py](images/python.png)]()|
 |[ETA](https://open.kattis.com/problems/eta)| eta |3.9|[![py](images/python.png)]()|
 |[Ethanol](https://open.kattis.com/problems/ethanol)| ethanol |1.4|[![py](images/python.png)]()|
 |[Euclidean TSP](https://open.kattis.com/problems/euclideantsp)| euclideantsp |2.3|[![py](images/python.png)]()|
-|[Euclid's Algorithm](https://open.kattis.com/problems/euclidsalgorithm)| euclidsalgorithm |2.4|[![py](images/python.png)]()|
+|[Euclid's Algorithm](https://open.kattis.com/problems/euclidsalgorithm)| euclidsalgorithm |2.3|[![py](images/python.png)]()|
 |[Euclid's Game](https://open.kattis.com/problems/euclidsgame)| euclidsgame |4.2|[![py](images/python.png)]()|
 |[Eulerian Graphs](https://open.kattis.com/problems/eulerian)| eulerian |2.6|[![py](images/python.png)]()|
 |[Eulerian Graphs 2](https://open.kattis.com/problems/eulerian2)| eulerian2 |3.6|[![py](images/python.png)]()|
@@ -964,7 +969,7 @@ For more Python data structure implementations, head over to [pytils](https://gi
 |[FBI Universal Control Numbers](https://open.kattis.com/problems/fbiuniversal)| fbiuniversal |2.2|[![py](images/python.png)]()|
 |[Feistel Fun](https://open.kattis.com/problems/feistelfun)| feistelfun |7.9|[![py](images/python.png)](src/Feistel%20Fun/feistelfun.py)|
 |[Fence Bowling](https://open.kattis.com/problems/fencebowling)| fencebowling |3.0|[![py](images/python.png)]()|
-|[Fend Off Titan](https://open.kattis.com/problems/fendofftitan)| fendofftitan |2.5|[![py](images/python.png)]()|
+|[Fend Off Titan](https://open.kattis.com/problems/fendofftitan)| fendofftitan |2.4|[![py](images/python.png)]()|
 |[Fenwick Tree](https://open.kattis.com/problems/fenwick)| fenwick |4.0|[![py](images/python.png)]()|
 |[Ferry Loading III](https://open.kattis.com/problems/ferryloading3)| ferryloading3 |4.9|[![py](images/python.png)]()|
 |[Ferry Loading IV](https://open.kattis.com/problems/ferryloading4)| ferryloading4 |2.4|[![java](images/java.png)]()|
@@ -986,7 +991,7 @@ For more Python data structure implementations, head over to [pytils](https://gi
 |[Final Exam (2)](https://open.kattis.com/problems/finalexam2)| finalexam2 |1.5|[![cpp](images/cpp.png)]()|
 |[Financial Planning](https://open.kattis.com/problems/financialplanning)| financialplanning |4.3|[![py](images/python.png)]()|
 |[Finding an A](https://open.kattis.com/problems/findingana)| findingana |1.3|[![py](images/python.png)]()|
-|[Finding Lines](https://open.kattis.com/problems/findinglines)| findinglines |5.4|[![py](images/python.png)](src/Finding%20Lines/findinglines.py)|
+|[Finding Lines](https://open.kattis.com/problems/findinglines)| findinglines |5.6|[![py](images/python.png)](src/Finding%20Lines/findinglines.py)|
 |[Find my Family](https://open.kattis.com/problems/findmyfamily)| findmyfamily |4.1|[![py](images/python.png)]()|
 |[Find Poly](https://open.kattis.com/problems/findpoly)| findpoly |2.9|[![py](images/python.png)]()|
 |[Find the Graph](https://open.kattis.com/problems/findthegraph)| findthegraph |3.5|[![py](images/python.png)]()|
@@ -998,6 +1003,7 @@ For more Python data structure implementations, head over to [pytils](https://gi
 |[Firetrucks Are Red](https://open.kattis.com/problems/firetrucksarered)| firetrucksarered |4.2|[![py](images/python.png)]()|
 |[First of Her Name](https://open.kattis.com/problems/firstofhername)| firstofhername |5.8|[![py](images/python.png)](src/First%20of%20Her%20Name/firstofhername.py)|
 |[Fishmongers](https://open.kattis.com/problems/fishmongers)| fishmongers |3.2|[![cpp](images/cpp.png)]()|
+|[Fitting Cans](https://open.kattis.com/problems/fittingcans)| fittingcans |5.0|[![py](images/python.png)](src/Fitting%20Cans/fittingcans.py)|
 |[FizzBuzz (1)](https://open.kattis.com/problems/fizzbuzz)| fizzbuzz |1.6|[![java](images/java.png)]()[![js](images/javascript.png)]()[![py](images/python.png)]()|
 |[FizzBuzz (2)](https://open.kattis.com/problems/fizzbuzz2)| fizzbuzz2 |2.9|[![py](images/python.png)]()|
 |[Fizz Buzz](https://open.kattis.com/problems/fizzbuzz3)| fizzbuzz3 |8.0|[![py](images/python.png)](src/Fizz%20Buzz/fizzbuzz3.py)|
@@ -1022,10 +1028,10 @@ For more Python data structure implementations, head over to [pytils](https://gi
 |[Flow Free](https://open.kattis.com/problems/flowfree)| flowfree |3.7|[![py](images/python.png)]()|
 |[Flow Layout](https://open.kattis.com/problems/flowlayout)| flowlayout |1.8|[![py](images/python.png)]()|
 |[Flow Shop](https://open.kattis.com/problems/flowshop)| flowshop |2.2|[![py](images/python.png)]()|
-|[Fluortanten](https://open.kattis.com/problems/fluortanten)| fluortanten |3.3|[![py](images/python.png)]()|
+|[Fluortanten](https://open.kattis.com/problems/fluortanten)| fluortanten |3.2|[![py](images/python.png)]()|
 |[Flygskam](https://open.kattis.com/problems/flygskam)| flygskam |4.0|[![py](images/python.png)]()|
 |[Flying Safely](https://open.kattis.com/problems/flyingsafely)| flyingsafely |1.7|[![cpp](images/cpp.png)]()|
-|[Fly Swatter](https://open.kattis.com/problems/flyswatter)| flyswatter |5.8|[![py](images/python.png)](src/Fly%20Swatter/flyswatter.py)|
+|[Fly Swatter](https://open.kattis.com/problems/flyswatter)| flyswatter |6.3|[![py](images/python.png)](src/Fly%20Swatter/flyswatter.py)|
 |[Flýtibaka](https://open.kattis.com/problems/flytibaka)| flytibaka |1.4|[![py](images/python.png)]()|
 |[Birthday Memorization](https://open.kattis.com/problems/fodelsedagsmemorisering)| fodelsedagsmemorisering |1.6|[![py](images/python.png)]()|
 |[Folded Map](https://open.kattis.com/problems/foldedmap)| foldedmap |5.3|[![py](images/python.png)]()|
@@ -1065,7 +1071,7 @@ For more Python data structure implementations, head over to [pytils](https://gi
 |[Frosting on the Cake](https://open.kattis.com/problems/frosting)| frosting |4.0|[![cpp](images/cpp.png)]()|
 |[Frozen Rose-Heads](https://open.kattis.com/problems/frozenrose)| frozenrose |4.6|[![py](images/python.png)](src/Frozen%20Rose-Heads/frozenrose.py)|
 |[Fruit Baskets](https://open.kattis.com/problems/fruitbaskets)| fruitbaskets |4.5|[![py](images/python.png)]()|
-|[Frumtölur](https://open.kattis.com/problems/frumtolur)| frumtolur |1.6|[![py](images/python.png)]()|
+|[Frumtölur](https://open.kattis.com/problems/frumtolur)| frumtolur |1.7|[![py](images/python.png)]()|
 |[Frumtölutalning](https://open.kattis.com/problems/frumtolutalning)| frumtolutalning |8.8|[![py](images/python.png)](src/Frumtölutalning/frumtolutalning.py)|
 |[Frustrated Queue](https://open.kattis.com/problems/frustratedqueue)| frustratedqueue |5.0|[![py](images/python.png)](src/Frustrated%20Queue/frustratedqueue.py)|
 |[Full Tank](https://open.kattis.com/problems/fulltank)| fulltank |5.2|[![py](images/python.png)]()|
@@ -1078,6 +1084,7 @@ For more Python data structure implementations, head over to [pytils](https://gi
 |[Galactic Warlords](https://open.kattis.com/problems/galactic)| galactic |6.8|[![py](images/python.png)](src/Galactic%20Warlords/galactic.py)|
 |[Galactic Sabotage](https://open.kattis.com/problems/galacticsabotage)| galacticsabotage |7.7|[![cpp](images/cpp.png)]()|
 |[Game Night](https://open.kattis.com/problems/gamenight)| gamenight |4.9|[![py](images/python.png)]()|
+|[Game of Dice](https://open.kattis.com/problems/gameofdice)| gameofdice |3.9|[![py](images/python.png)]()|
 |[Game of Gnomes](https://open.kattis.com/problems/gameofgnomes)| gameofgnomes |7.7|[![py](images/python.png)](src/Game%20of%20Gnomes/gameofgnomes.py)|
 |[Game Rank](https://open.kattis.com/problems/gamerank)| gamerank |3.7|[![py](images/python.png)]()|
 |[Game Suggestions](https://open.kattis.com/problems/gamesuggestions)| gamesuggestions |5.2|[![py](images/python.png)]()|
@@ -1087,12 +1094,12 @@ For more Python data structure implementations, head over to [pytils](https://gi
 |[Garage Door Code](https://open.kattis.com/problems/garagedoorcode)| garagedoorcode |3.1|[![py](images/python.png)]()|
 |[Gas Station Numbers](https://open.kattis.com/problems/gasstationnumbers)| gasstationnumbers |7.7|[![py](images/python.png)](src/Gas%20Station%20Numbers/gasstationnumbers.py)|
 |[Gathering in Yorknew](https://open.kattis.com/problems/gatheringinyorknew)| gatheringinyorknew |5.7|[![py](images/python.png)](src/Gathering%20in%20Yorknew/gatheringinyorknew.py)|
-|[Gatnamót](https://open.kattis.com/problems/gatnamot)| gatnamot |3.2|[![py](images/python.png)]()|
+|[Gatnamót](https://open.kattis.com/problems/gatnamot)| gatnamot |3.1|[![py](images/python.png)]()|
 |[Gauss Squares](https://open.kattis.com/problems/gausssquares)| gausssquares |4.9|[![py](images/python.png)]()|
 |[GCD](https://open.kattis.com/problems/gcd)| gcd |1.5|[![py](images/python.png)]()|
 |[GCD and LCM](https://open.kattis.com/problems/gcdandlcm)| gcdandlcm |5.3|[![py](images/python.png)](src/GCD%20and%20LCM/gcdandlcm.py)|
 |[GCD Pairs](https://open.kattis.com/problems/gcdpairs)| gcdpairs |7.1|[![py](images/python.png)](src/GCD%20Pairs/gcdpairs.py)|
-|[GCDs](https://open.kattis.com/problems/gcds)| gcds |4.7|[![py](images/python.png)]()|
+|[GCDs](https://open.kattis.com/problems/gcds)| gcds |4.6|[![py](images/python.png)]()|
 |[GCD Sum](https://open.kattis.com/problems/gcdsum)| gcdsum |7.9|[![py](images/python.png)](src/GCD%20Sum/gcdsum.py)|
 |[GCD Sum 2](https://open.kattis.com/problems/gcdsum2)| gcdsum2 |6.5|[![py](images/python.png)]()|
 |[Galactic Collegiate Programming Contest](https://open.kattis.com/problems/gcpc)| gcpc |5.2|[![java](images/java.png)]()|
@@ -1115,7 +1122,7 @@ For more Python data structure implementations, head over to [pytils](https://gi
 |[George](https://open.kattis.com/problems/george)| george |2.1|[![py](images/python.png)]()|
 |[Geppetto](https://open.kattis.com/problems/geppetto)| geppetto |2.3|[![py](images/python.png)]()|
 |[Gerrymandering](https://open.kattis.com/problems/gerrymandering)| gerrymandering |1.6|[![cpp](images/cpp.png)]()|
-|[Get Shorty](https://open.kattis.com/problems/getshorty)| getshorty |3.3|[![java](images/java.png)]()|
+|[Get Shorty](https://open.kattis.com/problems/getshorty)| getshorty |3.2|[![java](images/java.png)]()|
 |[Getting Through](https://open.kattis.com/problems/gettingthrough)| gettingthrough |5.8|[![py](images/python.png)](src/Getting%20Through/gettingthrough.py)|
 |[Get to Work](https://open.kattis.com/problems/gettowork)| gettowork |2.6|[![py](images/python.png)]()|
 |[Ghostbusters 3](https://open.kattis.com/problems/ghostbusters3)| ghostbusters3 |4.0|[![py](images/python.png)]()|
@@ -1138,10 +1145,10 @@ For more Python data structure implementations, head over to [pytils](https://gi
 |[Godzilla](https://open.kattis.com/problems/godzilla)| godzilla |5.8|[![py](images/python.png)](src/Godzilla/godzilla.py)|
 |[Going Dutch](https://open.kattis.com/problems/goingdutch)| goingdutch |7.3|[![py](images/python.png)](src/Going%20Dutch/goingdutch.py)|
 |[Going to Seed (1)](https://open.kattis.com/problems/goingtoseed)| goingtoseed |6.3|[![py](images/python.png)]()|
-|[Getting Gold](https://open.kattis.com/problems/gold)| gold |2.7|[![py](images/python.png)]()|
+|[Getting Gold](https://open.kattis.com/problems/gold)| gold |2.8|[![py](images/python.png)]()|
 |[Goldbach's Conjecture](https://open.kattis.com/problems/goldbach2)| goldbach2 |2.0|[![cpp](images/cpp.png)]()|
 |[Önnur tilgáta Goldbachs (1)](https://open.kattis.com/problems/goldbach3)| goldbach3 |4.1|[![py](images/python.png)](src/Önnur%20tilgáta%20Goldbachs%20(1)/goldbach3.py)|
-|[Önnur tilgáta Goldbachs (2)](https://open.kattis.com/problems/goldbach4)| goldbach4 |5.8|[![py](images/python.png)](src/Önnur%20tilgáta%20Goldbachs%20(2)/goldbach4.py)|
+|[Önnur tilgáta Goldbachs (2)](https://open.kattis.com/problems/goldbach4)| goldbach4 |5.7|[![py](images/python.png)](src/Önnur%20tilgáta%20Goldbachs%20(2)/goldbach4.py)|
 |[Golf Bot](https://open.kattis.com/problems/golfbot)| golfbot |5.9|[![cpp](images/cpp.png)](src/Golf%20Bot/golfbot.cpp)|
 |[Golomb Rulers](https://open.kattis.com/problems/golombrulers)| golombrulers |2.9|[![py](images/python.png)]()|
 |[Floor Area](https://open.kattis.com/problems/golvyta)| golvyta |5.1|[![py](images/python.png)]()|
@@ -1155,9 +1162,9 @@ For more Python data structure implementations, head over to [pytils](https://gi
 |[Grade Curving](https://open.kattis.com/problems/gradecurving)| gradecurving |4.8|[![py](images/python.png)]()|
 |[Grading](https://open.kattis.com/problems/grading)| grading |1.5|[![py](images/python.png)]()|
 |[Grading on a Curve](https://open.kattis.com/problems/gradingonacurve)| gradingonacurve |5.3|[![py](images/python.png)]()|
-|[Graduation Guarantee](https://open.kattis.com/problems/graduationguarantee)| graduationguarantee |3.7|[![py](images/python.png)]()|
+|[Graduation Guarantee](https://open.kattis.com/problems/graduationguarantee)| graduationguarantee |3.6|[![py](images/python.png)]()|
 |[Grand Opening](https://open.kattis.com/problems/grandopening)| grandopening |6.1|[![py](images/python.png)](src/Grand%20Opening/grandopening.py)|
-|[Grandpa Bernie](https://open.kattis.com/problems/grandpabernie)| grandpabernie |2.7|[![java](images/java.png)]()|
+|[Grandpa Bernie](https://open.kattis.com/problems/grandpabernie)| grandpabernie |2.6|[![java](images/java.png)]()|
 |[Granica](https://open.kattis.com/problems/granica)| granica |4.9|[![py](images/python.png)](src/Granica/granica.py)|
 |[Through the Grapevine](https://open.kattis.com/problems/grapevine)| grapevine |2.9|[![py](images/python.png)]()|
 |[Watering Grass](https://open.kattis.com/problems/grass)| grass |4.3|[![py](images/python.png)]()|
@@ -1202,6 +1209,7 @@ For more Python data structure implementations, head over to [pytils](https://gi
 |[Hamming Ellipses](https://open.kattis.com/problems/hammingellipses)| hammingellipses |2.9|[![py](images/python.png)]()|
 |[Han](https://open.kattis.com/problems/han)| han |4.2|[![java](images/java.png)]()|
 |[Handheld Fan](https://open.kattis.com/problems/handheldfan)| handheldfan |2.2|[![py](images/python.png)]()|
+|[Handy Beer](https://open.kattis.com/problems/handybeer)| handybeer |5.7|[![py](images/python.png)](src/Handy%20Beer/handybeer.py)|
 |[Hanging Out on the Terrace](https://open.kattis.com/problems/hangingout)| hangingout |1.4|[![cpp](images/cpp.png)]()|
 |[Hangman](https://open.kattis.com/problems/hangman)| hangman |1.6|[![cpp](images/cpp.png)]()|
 |[Happy and Unhappy Numbers](https://open.kattis.com/problems/happyandunhappynumbers)| happyandunhappynumbers |6.9|[![py](images/python.png)]()|
@@ -1212,19 +1220,19 @@ For more Python data structure implementations, head over to [pytils](https://gi
 |[Hardware](https://open.kattis.com/problems/hardware)| hardware |2.1|[![py](images/python.png)]()|
 |[Hardwood Species](https://open.kattis.com/problems/hardwoodspecies)| hardwoodspecies |2.6|[![py](images/python.png)]()|
 |[Harshad Numbers](https://open.kattis.com/problems/harshadnumbers)| harshadnumbers |1.4|[![cpp](images/cpp.png)]()|
-|[Hash](https://open.kattis.com/problems/hash)| hash |8.9|[![py](images/python.png)](src/Hash/hash.py)|
+|[Hash](https://open.kattis.com/problems/hash)| hash |8.8|[![py](images/python.png)](src/Hash/hash.py)|
 |[String Hashing](https://open.kattis.com/problems/hashing)| hashing |5.1|[![py](images/python.png)](src/String%20Hashing/hashing.py)|
 |[Haughty Cuisine](https://open.kattis.com/problems/haughtycuisine)| haughtycuisine |1.7|[![py](images/python.png)]()|
-|[Haunted Graveyard](https://open.kattis.com/problems/hauntedgraveyard)| hauntedgraveyard |5.9|[![java](images/java.png)](src/Haunted%20Graveyard/HauntedGraveyard.java)|
+|[Haunted Graveyard](https://open.kattis.com/problems/hauntedgraveyard)| hauntedgraveyard |6.0|[![java](images/java.png)](src/Haunted%20Graveyard/HauntedGraveyard.java)|
 |[Hay Bales](https://open.kattis.com/problems/haybales)| haybales |5.7|[![py](images/python.png)](src/Hay%20Bales/haybales.py)|
 |[Hay Points](https://open.kattis.com/problems/haypoints)| haypoints |2.1|[![py](images/python.png)]()|
 |[Head Guard](https://open.kattis.com/problems/headguard)| headguard |2.3|[![py](images/python.png)]()|
 |[Binary Heap](https://open.kattis.com/problems/heap)| heap |2.2|[![cpp](images/cpp.png)]()|
 |[Heart Rate](https://open.kattis.com/problems/heartrate)| heartrate |1.5|[![cpp](images/cpp.png)]()|
-|[Heating Up](https://open.kattis.com/problems/heatingup)| heatingup |6.8|[![py](images/python.png)]()|
+|[Heating Up](https://open.kattis.com/problems/heatingup)| heatingup |6.7|[![py](images/python.png)]()|
 |[Height Ordering](https://open.kattis.com/problems/height)| height |1.8|[![py](images/python.png)]()|
 |[Heiltölusumma](https://open.kattis.com/problems/heiltolusumma)| heiltolusumma |3.8|[![py](images/python.png)]()|
-|[Homework (1)](https://open.kattis.com/problems/heimavinna)| heimavinna |1.5|[![cpp](images/cpp.png)]()|
+|[Homework (1)](https://open.kattis.com/problems/heimavinna)| heimavinna |1.6|[![cpp](images/cpp.png)]()|
 |[Heimilisverk](https://open.kattis.com/problems/heimilisverk)| heimilisverk |1.9|[![py](images/python.png)]()|
 |[Heir's Dilemma](https://open.kattis.com/problems/heirsdilemma)| heirsdilemma |1.5|[![py](images/python.png)]()|
 |[Heliocentric](https://open.kattis.com/problems/heliocentric)| heliocentric |2.0|[![py](images/python.png)]()|
@@ -1235,7 +1243,7 @@ For more Python data structure implementations, head over to [pytils](https://gi
 |[Helpful Currents](https://open.kattis.com/problems/helpfulcurrents)| helpfulcurrents |6.9|[![py](images/python.png)](src/Helpful%20Currents/helpfulcurrents.py)|
 |[Help Me With The Game](https://open.kattis.com/problems/helpme)| helpme |2.9|[![java](images/java.png)]()|
 |[Herb Mixing](https://open.kattis.com/problems/herbmixing)| herbmixing |1.4|[![py](images/python.png)]()|
-|[What Does It Mean](https://open.kattis.com/problems/heritage)| heritage |4.8|[![py](images/python.png)]()|
+|[What Does It Mean](https://open.kattis.com/problems/heritage)| heritage |4.9|[![py](images/python.png)]()|
 |[Herman](https://open.kattis.com/problems/herman)| herman |1.8|[![cpp](images/cpp.png)]()|
 |[Hermits](https://open.kattis.com/problems/hermits)| hermits |2.9|[![py](images/python.png)]()|
 |[Heroes of Velmar](https://open.kattis.com/problems/heroesofvelmar)| heroesofvelmar |2.1|[![py](images/python.png)]()|
@@ -1245,10 +1253,11 @@ For more Python data structure implementations, head over to [pytils](https://gi
 |[Heysáta](https://open.kattis.com/problems/heysata)| heysata |1.3|[![py](images/python.png)]()|
 |[Hidden Password](https://open.kattis.com/problems/hidden)| hidden |2.4|[![py](images/python.png)]()|
 |[Hidden Words](https://open.kattis.com/problems/hiddenwords)| hiddenwords |6.4|[![py](images/python.png)](src/Hidden%20Words/hiddenwords.py)|
+|[Hide and Seek](https://open.kattis.com/problems/hideandseek)| hideandseek |7.2|[![py](images/python.png)](src/Hide%20and%20Seek/hideandseek.py)|
 |[Hiding Chickens](https://open.kattis.com/problems/hidingchickens)| hidingchickens |6.1|[![py](images/python.png)](src/Hiding%20Chickens/hidingchickens.py)|
 |[Hiding Places](https://open.kattis.com/problems/hidingplaces)| hidingplaces |1.7|[![py](images/python.png)]()|
 |[Highest Hill](https://open.kattis.com/problems/highesthill)| highesthill |4.1|[![py](images/python.png)]()|
-|[High Score](https://open.kattis.com/problems/highscore2)| highscore2 |5.8|[![py](images/python.png)](src/High%20Score/highscore2.py)|
+|[High Score](https://open.kattis.com/problems/highscore2)| highscore2 |5.7|[![py](images/python.png)](src/High%20Score/highscore2.py)|
 |[Highway to Mount Fansipan](https://open.kattis.com/problems/highwaytomountfansipan)| highwaytomountfansipan |4.1|[![py](images/python.png)]()|
 |[Hill Number](https://open.kattis.com/problems/hillnumbers)| hillnumbers |5.3|[![py](images/python.png)](src/Hill%20Number/hillnumbers.py)|
 |[Hills in Gothenburg](https://open.kattis.com/problems/hillsingothenburg)| hillsingothenburg |3.7|[![py](images/python.png)]()|
@@ -1267,7 +1276,7 @@ For more Python data structure implementations, head over to [pytils](https://gi
 |[Hnappasetningaskipti](https://open.kattis.com/problems/hnappasetningaskipti)| hnappasetningaskipti |2.0|[![py](images/python.png)]()|
 |[Semi-prime H-numbers](https://open.kattis.com/problems/hnumbers)| hnumbers |5.1|[![py](images/python.png)]()|
 |[Höfundaleit](https://open.kattis.com/problems/hofundaleit)| hofundaleit |2.4|[![py](images/python.png)]()|
-|[Hogwarts](https://open.kattis.com/problems/hogwarts2)| hogwarts2 |5.2|[![py](images/python.png)]()|
+|[Hogwarts](https://open.kattis.com/problems/hogwarts2)| hogwarts2 |5.3|[![py](images/python.png)]()|
 |[Holey N-Queens (Batman)](https://open.kattis.com/problems/holeynqueensbatman)| holeynqueensbatman |2.7|[![py](images/python.png)]()|
 |[Holiday Stars](https://open.kattis.com/problems/holidaystars)| holidaystars |6.2|[![py](images/python.png)](src/Holiday%20Stars/holidaystars.py)|
 |[Homework (2)](https://open.kattis.com/problems/homework)| homework |7.1|[![py](images/python.png)](src/Homework%20(2)/homework.py)|
@@ -1283,7 +1292,7 @@ For more Python data structure implementations, head over to [pytils](https://gi
 |[Horror List](https://open.kattis.com/problems/horror)| horror |2.7|[![py](images/python.png)]()|
 |[Horror Film Night](https://open.kattis.com/problems/horrorfilmnight)| horrorfilmnight |3.3|[![py](images/python.png)]()|
 |[Höskuldarháska](https://open.kattis.com/problems/hoskuldarhaska)| hoskuldarhaska |2.0|[![py](images/python.png)]()|
-|[Hot Dogs in Manhattan](https://open.kattis.com/problems/hotdogs)| hotdogs |5.9|[![cpp](images/cpp.png)](src/Hot%20Dogs%20in%20Manhattan/hotdogs.cpp)|
+|[Hot Dogs in Manhattan](https://open.kattis.com/problems/hotdogs)| hotdogs |5.8|[![cpp](images/cpp.png)](src/Hot%20Dogs%20in%20Manhattan/hotdogs.cpp)|
 |[Hot Hike](https://open.kattis.com/problems/hothike)| hothike |1.8|[![py](images/python.png)]()|
 |[Hot Springs](https://open.kattis.com/problems/hotsprings)| hotsprings |2.6|[![py](images/python.png)]()|
 |[House Lawn](https://open.kattis.com/problems/houselawn)| houselawn |4.1|[![py](images/python.png)]()|
@@ -1299,14 +1308,14 @@ For more Python data structure implementations, head over to [pytils](https://gi
 |[Hungarian Services](https://open.kattis.com/problems/hungarianservices)| hungarianservices |4.2|[![py](images/python.png)]()|
 |[Hunt the Wumpus](https://open.kattis.com/problems/huntthewumpus)| huntthewumpus |2.1|[![py](images/python.png)]()|
 |[Hurricane Danger!](https://open.kattis.com/problems/hurricanedanger)| hurricanedanger |3.6|[![cpp](images/cpp.png)]()|
-|[House Building](https://open.kattis.com/problems/husbygge)| husbygge |9.6|[![py](images/python.png)]()|
+|[House Building](https://open.kattis.com/problems/husbygge)| husbygge |9.4|[![py](images/python.png)]()|
 |[Hvert Skal Mæta](https://open.kattis.com/problems/hvertskalmaeta)| hvertskalmaeta |1.5|[![py](images/python.png)]()|
 |[Hyacinth](https://open.kattis.com/problems/hyacinth)| hyacinth |5.3|[![java](images/java.png)]()|
 |[Hydra's Heads](https://open.kattis.com/problems/hydrasheads)| hydrasheads |1.9|[![py](images/python.png)]()|
 |[Hamiltonian Hypercube](https://open.kattis.com/problems/hypercube)| hypercube |3.4|[![py](images/python.png)]()|
 |[Pascal Hyper-Pyramids](https://open.kattis.com/problems/hyperpyramids)| hyperpyramids |4.5|[![py](images/python.png)]()|
 |[iBoard](https://open.kattis.com/problems/iboard)| iboard |2.4|[![py](images/python.png)]()|
-|[Ice Cream](https://open.kattis.com/problems/icecream2)| icecream2 |5.9|[![py](images/python.png)]()|
+|[Ice Cream](https://open.kattis.com/problems/icecream2)| icecream2 |5.8|[![py](images/python.png)]()|
 |[Ice Cream Machines](https://open.kattis.com/problems/icecreammachines)| icecreammachines |7.4|[![py](images/python.png)](src/Ice%20Cream%20Machines/icecreammachines.py)|
 |[Icons in the Toolbar](https://open.kattis.com/problems/icons)| icons |7.8|[![py](images/python.png)](src/Icons%20in%20the%20Toolbar/icons.py)|
 |[I Could Have Won](https://open.kattis.com/problems/icouldhavewon)| icouldhavewon |3.3|[![py](images/python.png)]()|
@@ -1315,20 +1324,20 @@ For more Python data structure implementations, head over to [pytils](https://gi
 |[ICPC Record Matching](https://open.kattis.com/problems/icpcrecordmatching)| icpcrecordmatching |4.5|[![py](images/python.png)]()|
 |[ICPC Team Generation](https://open.kattis.com/problems/icpcteamgeneration)| icpcteamgeneration |4.8|[![py](images/python.png)]()|
 |[ICPC Team Selection](https://open.kattis.com/problems/icpcteamselection)| icpcteamselection |3.0|[![py](images/python.png)]()|
-|[An I for An Eye](https://open.kattis.com/problems/iforaneye)| iforaneye |4.2|[![py](images/python.png)]()|
+|[An I for An Eye](https://open.kattis.com/problems/iforaneye)| iforaneye |4.1|[![py](images/python.png)]()|
 |[Ignore the Garbage](https://open.kattis.com/problems/ignore)| ignore |3.1|[![py](images/python.png)]()|
 |[Iks](https://open.kattis.com/problems/iks)| iks |3.1|[![py](images/python.png)]()|
 |[Illiteracy](https://open.kattis.com/problems/illiteracy)| illiteracy |3.2|[![py](images/python.png)]()|
 |[Illumination](https://open.kattis.com/problems/illumination)| illumination |3.7|[![py](images/python.png)]()|
 |[Illuminati Spotti](https://open.kattis.com/problems/illuminatispotti)| illuminatispotti |2.1|[![py](images/python.png)]()|
 |[Image Decoding](https://open.kattis.com/problems/imagedecoding)| imagedecoding |3.3|[![py](images/python.png)]()|
-|[Image Processing](https://open.kattis.com/problems/imageprocessing)| imageprocessing |2.0|[![py](images/python.png)]()|
+|[Image Processing](https://open.kattis.com/problems/imageprocessing)| imageprocessing |1.9|[![py](images/python.png)]()|
 |[IMO Harder Problem](https://open.kattis.com/problems/imoharderproblem)| imoharderproblem |6.5|[![py](images/python.png)](src/IMO%20Harder%20Problem/imoharderproblem.py)|
 |[Imperfect GPS](https://open.kattis.com/problems/imperfectgps)| imperfectgps |3.9|[![cpp](images/cpp.png)]()|
 |[Implementation Irregularities](https://open.kattis.com/problems/implementationirregularities)| implementationirregularities |3.2|[![py](images/python.png)]()|
 |[Import Spaghetti](https://open.kattis.com/problems/importspaghetti)| importspaghetti |5.2|[![py](images/python.png)](src/Import%20Spaghetti/importspaghetti.py)|
 |[Mission Improbable](https://open.kattis.com/problems/improbable)| improbable |4.4|[![py](images/python.png)]()|
-|[#includescoring](https://open.kattis.com/problems/includescoring)| includescoring |6.1|[![py](images/python.png)]()|
+|[#includescoring](https://open.kattis.com/problems/includescoring)| includescoring |6.2|[![py](images/python.png)]()|
 |[Incognito](https://open.kattis.com/problems/incognito)| incognito |2.8|[![py](images/python.png)]()|
 |[Increasing Subsequence](https://open.kattis.com/problems/increasingsubsequence)| increasingsubsequence |3.4|[![py](images/python.png)]()|
 |[Indoorienteering](https://open.kattis.com/problems/indoorienteering)| indoorienteering |6.8|[![py](images/python.png)]()|
@@ -1339,7 +1348,7 @@ For more Python data structure implementations, head over to [pytils](https://gi
 |[In Flagrante Delicto](https://open.kattis.com/problems/inflagrantedelicto)| inflagrantedelicto |4.4|[![py](images/python.png)]()|
 |[Inflation (1)](https://open.kattis.com/problems/inflation)| inflation |2.0|[![py](images/python.png)]()|
 |[Inflation (2)](https://open.kattis.com/problems/inflation2)| inflation2 |3.2|[![py](images/python.png)]()|
-|[A Question of Ingestion](https://open.kattis.com/problems/ingestion)| ingestion |5.3|[![py](images/python.png)](src/A%20Question%20of%20Ingestion/ingestion.py)|
+|[A Question of Ingestion](https://open.kattis.com/problems/ingestion)| ingestion |5.4|[![py](images/python.png)](src/A%20Question%20of%20Ingestion/ingestion.py)|
 |[Inheritance](https://open.kattis.com/problems/inheritance)| inheritance |3.3|[![py](images/python.png)]()|
 |[Innvolsarinnihaldslýsing](https://open.kattis.com/problems/innvols)| innvols |3.1|[![py](images/python.png)]()|
 |[Input Scandal](https://open.kattis.com/problems/inputscandal)| inputscandal |1.8|[![py](images/python.png)]()|
@@ -1369,7 +1378,7 @@ For more Python data structure implementations, head over to [pytils](https://gi
 |[Inventing Test Data](https://open.kattis.com/problems/inventing)| inventing |5.2|[![py](images/python.png)]()|
 |[Inverse Factorial](https://open.kattis.com/problems/inversefactorial)| inversefactorial |5.7|[![cpp](images/cpp.png)]()[![java](images/java.png)]()[![py](images/python.png)]()|
 |[Inverse Totient](https://open.kattis.com/problems/inversetotient)| inversetotient |8.7|[![py](images/python.png)](src/Inverse%20Totient/inversetotient.py)|
-|[Inverted Deck](https://open.kattis.com/problems/inverteddeck)| inverteddeck |4.4|[![py](images/python.png)]()|
+|[Inverted Deck](https://open.kattis.com/problems/inverteddeck)| inverteddeck |4.3|[![py](images/python.png)]()|
 |[Invoker (Easy)](https://open.kattis.com/problems/invokereasy)| invokereasy |2.3|[![py](images/python.png)]()|
 |[Invoker (Hard)](https://open.kattis.com/problems/invokerhard)| invokerhard |2.9|[![py](images/python.png)]()|
 |[IOU](https://open.kattis.com/problems/iou)| iou |4.1|[![py](images/python.png)]()|
@@ -1382,7 +1391,7 @@ For more Python data structure implementations, head over to [pytils](https://gi
 |[IsItHalloween.com](https://open.kattis.com/problems/isithalloween)| isithalloween |1.4|[![cpp](images/cpp.png)]()[![java](images/java.png)]()[![js](images/javascript.png)]()[![py](images/python.png)]()|
 |[Island Buses](https://open.kattis.com/problems/island)| island |6.3|[![py](images/python.png)](src/Island%20Buses/island.py)|
 |[Island Alliances](https://open.kattis.com/problems/islandalliances)| islandalliances |6.6|[![py](images/python.png)](src/Island%20Alliances/islandalliances.py)|
-|[Island Hopping](https://open.kattis.com/problems/islandhopping)| islandhopping |2.5|[![java](images/java.png)]()|
+|[Island Hopping](https://open.kattis.com/problems/islandhopping)| islandhopping |2.4|[![java](images/java.png)]()|
 |[Islands in the Data Stream](https://open.kattis.com/problems/islands)| islands |3.0|[![py](images/python.png)]()|
 |[Islands](https://open.kattis.com/problems/islands3)| islands3 |1.6|[![java](images/java.png)]()|
 |[Isomorphic Inversion](https://open.kattis.com/problems/isomorphicinversion)| isomorphicinversion |6.2|[![py](images/python.png)](src/Isomorphic%20Inversion/isomorphicinversion.py)|
@@ -1406,7 +1415,7 @@ For more Python data structure implementations, head over to [pytils](https://gi
 |[Jazz It Up!](https://open.kattis.com/problems/jazzitup)| jazzitup |2.2|[![py](images/python.png)]()|
 |[Jelly Raid](https://open.kattis.com/problems/jellyraid)| jellyraid |5.9|[![py](images/python.png)](src/Jelly%20Raid/jellyraid.py)|
 |[Jet Lag](https://open.kattis.com/problems/jetlag)| jetlag |6.0|[![py](images/python.png)]()|
-|[Jetpack](https://open.kattis.com/problems/jetpack)| jetpack |5.7|[![py](images/python.png)](src/Jetpack/jetpack.py)|
+|[Jetpack](https://open.kattis.com/problems/jetpack)| jetpack |5.6|[![py](images/python.png)](src/Jetpack/jetpack.py)|
 |[Jet Set](https://open.kattis.com/problems/jetset)| jetset |4.4|[![py](images/python.png)]()|
 |[Jewelry Box](https://open.kattis.com/problems/jewelrybox)| jewelrybox |1.8|[![cpp](images/cpp.png)]()|
 |[Jigsaw](https://open.kattis.com/problems/jigsaw)| jigsaw |4.1|[![py](images/python.png)]()|
@@ -1421,7 +1430,7 @@ For more Python data structure implementations, head over to [pytils](https://gi
 |[Join Strings](https://open.kattis.com/problems/joinstrings)| joinstrings |4.4|[![java](images/java.png)]()|
 |[Joint Attack](https://open.kattis.com/problems/jointattack)| jointattack |2.5|[![py](images/python.png)]()|
 |[Joint Jog Jam](https://open.kattis.com/problems/jointjogjam)| jointjogjam |1.7|[![py](images/python.png)]()|
-|[Jolly Jumpers](https://open.kattis.com/problems/jollyjumpers)| jollyjumpers |2.8|[![py](images/python.png)]()|
+|[Jolly Jumpers](https://open.kattis.com/problems/jollyjumpers)| jollyjumpers |2.7|[![py](images/python.png)]()|
 |[Journey of the Repetitor](https://open.kattis.com/problems/journeyoftherepetitor)| journeyoftherepetitor |5.5|[![py](images/python.png)]()|
 |[Joyless Game](https://open.kattis.com/problems/joylessgame)| joylessgame |4.1|[![py](images/python.png)]()|
 |[Judging Troubles](https://open.kattis.com/problems/judging)| judging |2.3|[![java](images/java.png)]()|
@@ -1448,9 +1457,9 @@ For more Python data structure implementations, head over to [pytils](https://gi
 |[Running Race](https://open.kattis.com/problems/kaploeb)| kaploeb |3.0|[![py](images/python.png)]()|
 |[Karl Coder](https://open.kattis.com/problems/karlcoder)| karlcoder |3.9|[![py](images/python.png)]()|
 |[Karte](https://open.kattis.com/problems/karte)| karte |1.5|[![cpp](images/cpp.png)]()|
-|[Throwing bridges](https://open.kattis.com/problems/kastabroar)| kastabroar |6.9|[![py](images/python.png)]()|
+|[Throwing bridges](https://open.kattis.com/problems/kastabroar)| kastabroar |6.6|[![py](images/python.png)]()|
 |[Kastenlauf](https://open.kattis.com/problems/kastenlauf)| kastenlauf |3.0|[![py](images/python.png)]()|
-|[Kattis Speedrun](https://open.kattis.com/problems/kattisspeedrun)| kattisspeedrun |4.1|[![py](images/python.png)]()|
+|[Kattis Speedrun](https://open.kattis.com/problems/kattisspeedrun)| kattisspeedrun |3.5|[![py](images/python.png)]()|
 |[Kattis's Quest](https://open.kattis.com/problems/kattissquest)| kattissquest |3.5|[![java](images/java.png)]()|
 |[Kayaking Trip](https://open.kattis.com/problems/kayaking)| kayaking |4.8|[![py](images/python.png)]()|
 |[kcuD dlanoD](https://open.kattis.com/problems/kcuddlanod)| kcuddlanod |1.8|[![py](images/python.png)]()|
@@ -1468,13 +1477,13 @@ For more Python data structure implementations, head over to [pytils](https://gi
 |[Key to Knowledge](https://open.kattis.com/problems/keytoknowledge)| keytoknowledge |7.9|[![py](images/python.png)](src/Key%20to%20Knowledge/keytoknowledge.py)|
 |[Keywords](https://open.kattis.com/problems/keywords)| keywords |1.9|[![py](images/python.png)]()|
 |[Kiki Boba](https://open.kattis.com/problems/kikiboba)| kikiboba |1.3|[![py](images/python.png)]()|
-|[Killing Chaos](https://open.kattis.com/problems/killingchaos)| killingchaos |5.7|[![py](images/python.png)](src/Killing%20Chaos/killingchaos.py)|
+|[Killing Chaos](https://open.kattis.com/problems/killingchaos)| killingchaos |5.6|[![py](images/python.png)](src/Killing%20Chaos/killingchaos.py)|
 |[Kínahvísl](https://open.kattis.com/problems/kinahvisl)| kinahvisl |1.4|[![py](images/python.png)]()|
 |[K-In-A-Row](https://open.kattis.com/problems/kinarow)| kinarow |3.9|[![py](images/python.png)]()|
 |[Kinda Ok Array Problem](https://open.kattis.com/problems/kindaokarray)| kindaokarray |8.6|[![py](images/python.png)]()|
 |[Kindergarten](https://open.kattis.com/problems/kindergarten)| kindergarten |5.1|[![py](images/python.png)](src/Kindergarten/kindergarten.py)|
 |[Kingdom of Ants](https://open.kattis.com/problems/kingdomofants)| kingdomofants |6.4|[![py](images/python.png)](src/Kingdom%20of%20Ants/kingdomofants.py)|
-|[King of the Waves](https://open.kattis.com/problems/kingofthewaves)| kingofthewaves |4.9|[![py](images/python.png)]()|
+|[King of the Waves](https://open.kattis.com/problems/kingofthewaves)| kingofthewaves |4.8|[![py](images/python.png)]()|
 |[Kingpin Escape](https://open.kattis.com/problems/kingpinescape)| kingpinescape |6.9|[![py](images/python.png)](src/Kingpin%20Escape/kingpinescape.py)|
 |[King's Colors](https://open.kattis.com/problems/kingscolors)| kingscolors |4.3|[![py](images/python.png)]()|
 |[King's Decree](https://open.kattis.com/problems/kingsdecree)| kingsdecree |4.2|[![py](images/python.png)](src/King's%20Decree/kingsdecree.py)|
@@ -1526,18 +1535,19 @@ For more Python data structure implementations, head over to [pytils](https://gi
 |[Largest Factor](https://open.kattis.com/problems/largestfactor)| largestfactor |2.4|[![sh](images/bash.png)]()|
 |[Largest Hoarding](https://open.kattis.com/problems/largesthoarding)| largesthoarding |3.6|[![py](images/python.png)]()|
 |[Largest Triangle](https://open.kattis.com/problems/largesttriangle)| largesttriangle |7.0|[![py](images/python.png)](src/Largest%20Triangle/largesttriangle.py)|
+|[Ferry Loading](https://open.kattis.com/problems/lastafarjan)| lastafarjan |5.6|[![py](images/python.png)](src/Ferry%20Loading/lastafarjan.py)|
 |[Last Factorial Digit](https://open.kattis.com/problems/lastfactorialdigit)| lastfactorialdigit |1.4|[![java](images/java.png)]()[![js](images/javascript.png)]()[![py](images/python.png)]()|
-|[Last Minute](https://open.kattis.com/problems/lastminute)| lastminute |2.6|[![py](images/python.png)]()|
+|[Last Minute](https://open.kattis.com/problems/lastminute)| lastminute |2.7|[![py](images/python.png)]()|
 |[Latin Square](https://open.kattis.com/problems/latinsquare)| latinsquare |6.6|[![py](images/python.png)]()|
-|[Lava](https://open.kattis.com/problems/lava)| lava |6.1|[![py](images/python.png)](src/Lava/lava.py)|
+|[Lava](https://open.kattis.com/problems/lava)| lava |6.0|[![py](images/python.png)](src/Lava/lava.py)|
 |[Lawn Mower](https://open.kattis.com/problems/lawnmower)| lawnmower |1.9|[![py](images/python.png)]()|
 |[LCM Pair Sum](https://open.kattis.com/problems/lcmpairsum)| lcmpairsum |5.1|[![py](images/python.png)]()|
 |[LCM Thief](https://open.kattis.com/problems/lcmthief)| lcmthief |5.9|[![py](images/python.png)](src/LCM%20Thief/lcmthief.py)|
-|[Leapfrog Encryption](https://open.kattis.com/problems/leapfrogencryption)| leapfrogencryption |2.6|[![py](images/python.png)]()|
+|[Leapfrog Encryption](https://open.kattis.com/problems/leapfrogencryption)| leapfrogencryption |2.7|[![py](images/python.png)]()|
 |[Learning to code](https://open.kattis.com/problems/learningtocode)| learningtocode |7.4|[![py](images/python.png)](src/Learning%20to%20code/learningtocode.py)|
 |[Left and Right](https://open.kattis.com/problems/leftandright)| leftandright |3.0|[![py](images/python.png)]()|
 |[Left Beehind](https://open.kattis.com/problems/leftbeehind)| leftbeehind |1.7|[![cpp](images/cpp.png)]()|
-|[Leggja saman](https://open.kattis.com/problems/leggjasaman)| leggjasaman |1.2|[![py](images/python.png)]()|
+|[Leggja saman](https://open.kattis.com/problems/leggjasaman)| leggjasaman |1.1|[![py](images/python.png)]()|
 |[Leiðangur](https://open.kattis.com/problems/leidangur)| leidangur |2.1|[![py](images/python.png)]()|
 |[Lektira](https://open.kattis.com/problems/lektira)| lektira |2.7|[![py](images/python.png)]()|
 |[Lemonade Trade](https://open.kattis.com/problems/lemonadetrade)| lemonadetrade |5.7|[![py](images/python.png)](src/Lemonade%20Trade/lemonadetrade.py)|
@@ -1550,7 +1560,7 @@ For more Python data structure implementations, head over to [pytils](https://gi
 |[Liðaskipting 2](https://open.kattis.com/problems/lidaskipting2)| lidaskipting2 |2.5|[![py](images/python.png)]()|
 |[Life Forms](https://open.kattis.com/problems/lifeforms)| lifeforms |7.1|[![py](images/python.png)](src/Life%20Forms/lifeforms.py)|
 |[Liga](https://open.kattis.com/problems/liga)| liga |7.3|[![py](images/python.png)](src/Liga/liga.py)|
-|[Light Bulbs](https://open.kattis.com/problems/lightbulbs)| lightbulbs |9.6|[![py](images/python.png)]()|
+|[Light Bulbs](https://open.kattis.com/problems/lightbulbs)| lightbulbs |9.7|[![py](images/python.png)]()|
 |[Lights](https://open.kattis.com/problems/lights)| lights |6.4|[![py](images/python.png)](src/Lights/lights.py)|
 |[Light Up](https://open.kattis.com/problems/lightup)| lightup |2.6|[![py](images/python.png)]()|
 |[Limbo - Part 1](https://open.kattis.com/problems/limbo1)| limbo1 |3.7|[![py](images/python.png)]()|
@@ -1571,15 +1581,15 @@ For more Python data structure implementations, head over to [pytils](https://gi
 |[Locked Treasure](https://open.kattis.com/problems/lockedtreasure)| lockedtreasure |2.3|[![cpp](images/cpp.png)]()|
 |[Lockout](https://open.kattis.com/problems/lockout)| lockout |4.3|[![py](images/python.png)]()|
 |[Locust Locus](https://open.kattis.com/problems/locustlocus)| locustlocus |1.8|[![py](images/python.png)]()|
-|[LogDB](https://open.kattis.com/problems/logdb)| logdb |3.7|[![py](images/python.png)]()|
+|[LogDB](https://open.kattis.com/problems/logdb)| logdb |3.6|[![py](images/python.png)]()|
 |[Logic Functions](https://open.kattis.com/problems/logicfunctions)| logicfunctions |1.6|[![cpp](images/cpp.png)]()|
 |[Logland](https://open.kattis.com/problems/logland)| logland |5.9|[![py](images/python.png)]()|
 |[Logo](https://open.kattis.com/problems/logo)| logo |2.1|[![py](images/python.png)]()|
 |[Logo 2](https://open.kattis.com/problems/logo2)| logo2 |5.5|[![py](images/python.png)](src/Logo%202/logo2.py)|
 |[Lög um lög](https://open.kattis.com/problems/logumlog)| logumlog |4.6|[![py](images/python.png)]()|
 |[Lone Rook](https://open.kattis.com/problems/lonerook)| lonerook |8.3|[![py](images/python.png)](src/Lone%20Rook/lonerook.py)|
-|[Longest Collatz Chain](https://open.kattis.com/problems/longestcollatz)| longestcollatz |3.8|[![py](images/python.png)]()|
-|[Longest Common Subsequence](https://open.kattis.com/problems/longestcommonsubsequence)| longestcommonsubsequence |5.2|[![py](images/python.png)](src/Longest%20Common%20Subsequence/longestcommonsubsequence.py)|
+|[Longest Collatz Chain](https://open.kattis.com/problems/longestcollatz)| longestcollatz |3.4|[![py](images/python.png)]()|
+|[Longest Common Subsequence](https://open.kattis.com/problems/longestcommonsubsequence)| longestcommonsubsequence |5.1|[![py](images/python.png)](src/Longest%20Common%20Subsequence/longestcommonsubsequence.py)|
 |[Longest Common Substring](https://open.kattis.com/problems/longestcommonsubstring)| longestcommonsubstring |4.4|[![py](images/python.png)]()|
 |[Longest path in a DAG](https://open.kattis.com/problems/longestpathinadag)| longestpathinadag |4.2|[![py](images/python.png)]()|
 |[Longest Prime Sum](https://open.kattis.com/problems/longestprimesum)| longestprimesum |2.5|[![py](images/python.png)]()|
@@ -1636,7 +1646,7 @@ For more Python data structure implementations, head over to [pytils](https://gi
 |[Mandelbrot](https://open.kattis.com/problems/mandelbrot)| mandelbrot |2.8|[![py](images/python.png)]()|
 |[Manhattan Mornings](https://open.kattis.com/problems/manhattanmornings)| manhattanmornings |5.1|[![py](images/python.png)]()|
 |[Manhattan Positioning System](https://open.kattis.com/problems/manhattanpositioningsystem)| manhattanpositioningsystem |7.2|[![py](images/python.png)](src/Manhattan%20Positioning%20System/manhattanpositioningsystem.py)|
-|[Manhattan Walk](https://open.kattis.com/problems/manhattanwalk)| manhattanwalk |3.7|[![py](images/python.png)]()|
+|[Manhattan Walk](https://open.kattis.com/problems/manhattanwalk)| manhattanwalk |3.6|[![py](images/python.png)]()|
 |[Map Colouring](https://open.kattis.com/problems/mapcolouring)| mapcolouring |5.1|[![py](images/python.png)](src/Map%20Colouring/mapcolouring.py)|
 |[Identifying Map Tiles](https://open.kattis.com/problems/maptiles2)| maptiles2 |1.6|[![cpp](images/cpp.png)]()|
 |[Marbles On A Tree](https://open.kattis.com/problems/marblestree)| marblestree |3.0|[![py](images/python.png)]()|
@@ -1651,7 +1661,7 @@ For more Python data structure implementations, head over to [pytils](https://gi
 |[Mastering Mastermind](https://open.kattis.com/problems/mastermind)| mastermind |2.2|[![py](images/python.png)]()|
 |[Matarinnkaup](https://open.kattis.com/problems/matarinnkaup)| matarinnkaup |4.7|[![py](images/python.png)]()|
 |[Match Game](https://open.kattis.com/problems/matchgame)| matchgame |4.6|[![py](images/python.png)]()|
-|[Matchsticks](https://open.kattis.com/problems/matchsticks)| matchsticks |3.9|[![py](images/python.png)]()|
+|[Matchsticks](https://open.kattis.com/problems/matchsticks)| matchsticks |4.0|[![py](images/python.png)]()|
 |[Mathemagicians](https://open.kattis.com/problems/mathemagicians)| mathemagicians |4.9|[![py](images/python.png)]()|
 |[Math Homework](https://open.kattis.com/problems/mathhomework)| mathhomework |1.8|[![cpp](images/cpp.png)]()|
 |[Math Trade](https://open.kattis.com/problems/mathtrade)| mathtrade |3.2|[![py](images/python.png)]()|
@@ -1680,7 +1690,7 @@ For more Python data structure implementations, head over to [pytils](https://gi
 |[Three-State Memory](https://open.kattis.com/problems/memory)| memory |7.9|[![py](images/python.png)](src/Three-State%20Memory/memory.py)|
 |[Memory Game](https://open.kattis.com/problems/memorygame)| memorygame |6.1|[![py](images/python.png)]()|
 |[Memory Match](https://open.kattis.com/problems/memorymatch)| memorymatch |4.1|[![py](images/python.png)]()|
-|[Menu Updates](https://open.kattis.com/problems/menuupdates)| menuupdates |4.1|[![py](images/python.png)]()|
+|[Menu Updates](https://open.kattis.com/problems/menuupdates)| menuupdates |4.3|[![py](images/python.png)]()|
 |[Meow Factor](https://open.kattis.com/problems/meowfactor)| meowfactor |3.3|[![cpp](images/cpp.png)]()|
 |[Meow Factor 2](https://open.kattis.com/problems/meowfactor2)| meowfactor2 |5.6|[![py](images/python.png)](src/Meow%20Factor%202/meowfactor2.py)|
 |[Mergjað Mál](https://open.kattis.com/problems/mergjadmal)| mergjadmal |1.5|[![py](images/python.png)]()|
@@ -1700,7 +1710,7 @@ For more Python data structure implementations, head over to [pytils](https://gi
 |[Mini Battleship](https://open.kattis.com/problems/minibattleship)| minibattleship |4.5|[![py](images/python.png)]()|
 |[Minimum Scalar Product](https://open.kattis.com/problems/minimumscalar)| minimumscalar |1.9|[![py](images/python.png)]()|
 |[Mining Race](https://open.kattis.com/problems/miningrace)| miningrace |4.4|[![py](images/python.png)]()|
-|[The Calculator](https://open.kattis.com/problems/miniraknaren)| miniraknaren |5.2|[![py](images/python.png)]()|
+|[The Calculator](https://open.kattis.com/problems/miniraknaren)| miniraknaren |5.3|[![py](images/python.png)]()|
 |[Ministry of Magic](https://open.kattis.com/problems/ministryofmagic)| ministryofmagic |6.5|[![py](images/python.png)](src/Ministry%20of%20Magic/ministryofmagic.py)|
 |[Minor Setback](https://open.kattis.com/problems/minorsetback)| minorsetback |3.7|[![py](images/python.png)]()|
 |[Minimum Spanning Tree](https://open.kattis.com/problems/minspantree)| minspantree |3.8|[![java](images/java.png)]()|
@@ -1713,13 +1723,14 @@ For more Python data structure implementations, head over to [pytils](https://gi
 |[Missing Numbers](https://open.kattis.com/problems/missingnumbers)| missingnumbers |1.8|[![cpp](images/cpp.png)]()|
 |[Mixed-Base Arithmetic](https://open.kattis.com/problems/mixedbasearithmetic)| mixedbasearithmetic |5.7|[![py](images/python.png)](src/Mixed-Base%20Arithmetic/mixedbasearithmetic.py)|
 |[Mixed Fractions](https://open.kattis.com/problems/mixedfractions)| mixedfractions |1.5|[![cpp](images/cpp.png)]()|
+|[Mixing Drinks](https://open.kattis.com/problems/mixingdrinks)| mixingdrinks |5.1|[![py](images/python.png)](src/Mixing%20Drinks/mixingdrinks.py)|
 |[Mixtape Management](https://open.kattis.com/problems/mixtapemanagement)| mixtapemanagement |3.9|[![py](images/python.png)]()|
 |[Mjehuric](https://open.kattis.com/problems/mjehuric)| mjehuric |1.7|[![py](images/python.png)]()|
 |[Multi-Class Binary Neural Network for Handwritten Digits](https://open.kattis.com/problems/mnist10class)| mnist10class |9.6|[![py](images/python.png)](src/Multi-Class%20Binary%20Neural%20Network%20for%20Handwritten%20Digits/mnist10class.py)|
 |[Two-Class Binary Neural Network for Handwritten Digits](https://open.kattis.com/problems/mnist2class)| mnist2class |9.4|[![py](images/python.png)](src/Two-Class%20Binary%20Neural%20Network%20for%20Handwritten%20Digits/mnist2class.py)|
 |[Mobilization](https://open.kattis.com/problems/mobilization)| mobilization |5.7|[![py](images/python.png)](src/Mobilization/mobilization.py)|
 |[Moderate Pace](https://open.kattis.com/problems/moderatepace)| moderatepace |1.5|[![py](images/python.png)]()|
-|[Modified Gray Code](https://open.kattis.com/problems/modifiedgraycode)| modifiedgraycode |3.5|[![py](images/python.png)]()|
+|[Modified Gray Code](https://open.kattis.com/problems/modifiedgraycode)| modifiedgraycode |3.6|[![py](images/python.png)]()|
 |[Modular Arithmetic](https://open.kattis.com/problems/modulararithmetic)| modulararithmetic |2.9|[![py](images/python.png)]()|
 |[Modulo](https://open.kattis.com/problems/modulo)| modulo |1.4|[![cpp](images/cpp.png)]()|
 |[Modulo Data Structures](https://open.kattis.com/problems/modulodatastructures)| modulodatastructures |5.1|[![py](images/python.png)]()|
@@ -1734,7 +1745,7 @@ For more Python data structure implementations, head over to [pytils](https://gi
 |[Monopoly](https://open.kattis.com/problems/monopol)| monopol |1.3|[![py](images/python.png)]()|
 |[Let's Play Monopoly!](https://open.kattis.com/problems/monopoly)| monopoly |5.0|[![py](images/python.png)]()|
 |[Monument Maker](https://open.kattis.com/problems/monumentmaker)| monumentmaker |4.2|[![py](images/python.png)]()|
-|[Moonfrost Canyon](https://open.kattis.com/problems/moonfrostcanyon)| moonfrostcanyon |5.2|[![py](images/python.png)]()|
+|[Moonfrost Canyon](https://open.kattis.com/problems/moonfrostcanyon)| moonfrostcanyon |5.6|[![py](images/python.png)]()|
 |[Mårten's Theorem](https://open.kattis.com/problems/more10)| more10 |6.6|[![py](images/python.png)](src/Mårten's%20Theorem/more10.py)|
 |[Just A Few More Triangles!](https://open.kattis.com/problems/moretriangles)| moretriangles |6.2|[![cpp](images/cpp.png)](src/Just%20A%20Few%20More%20Triangles!/moretriangles.cpp)|
 |[Mörk](https://open.kattis.com/problems/mork)| mork |2.1|[![py](images/python.png)]()|
@@ -1742,8 +1753,8 @@ For more Python data structure implementations, head over to [pytils](https://gi
 |[Intergalactic Mortgage](https://open.kattis.com/problems/mortgage)| mortgage |6.1|[![cpp](images/cpp.png)](src/Intergalactic%20Mortgage/mortgage.cpp)|
 |[Moscow Dream](https://open.kattis.com/problems/moscowdream)| moscowdream |1.8|[![cpp](images/cpp.png)]()|
 |[Mosquito Multiplication](https://open.kattis.com/problems/mosquito)| mosquito |1.9|[![py](images/python.png)]()|
-|[Most Difficult](https://open.kattis.com/problems/mostdifficult)| mostdifficult |3.8|[![py](images/python.png)]()|
-|[Mountain Biking](https://open.kattis.com/problems/mountainbiking)| mountainbiking |3.1|[![py](images/python.png)]()|
+|[Most Difficult](https://open.kattis.com/problems/mostdifficult)| mostdifficult |3.9|[![py](images/python.png)]()|
+|[Mountain Biking](https://open.kattis.com/problems/mountainbiking)| mountainbiking |3.0|[![py](images/python.png)]()|
 |[Mountainous Palindromic Subarray](https://open.kattis.com/problems/mountainouspalindromesubarray)| mountainouspalindromesubarray |3.9|[![py](images/python.png)]()|
 |[Mountain Village](https://open.kattis.com/problems/mountainvillage)| mountainvillage |5.1|[![java](images/java.png)]()|
 |[Mouse Pursuit](https://open.kattis.com/problems/mousepursuit)| mousepursuit |3.9|[![py](images/python.png)]()|
@@ -1768,13 +1779,13 @@ For more Python data structure implementations, head over to [pytils](https://gi
 |[Musical Trees](https://open.kattis.com/problems/musicaltrees)| musicaltrees |3.1|[![py](images/python.png)]()|
 |[Music Collection](https://open.kattis.com/problems/musiccollection)| musiccollection |4.2|[![py](images/python.png)]()|
 |[Music Your Way](https://open.kattis.com/problems/musicyourway)| musicyourway |2.2|[![py](images/python.png)]()|
-|[Muzicari](https://open.kattis.com/problems/muzicari)| muzicari |4.8|[![py](images/python.png)]()|
-|[Minimum Weighted Vertex Cover](https://open.kattis.com/problems/mwvc)| mwvc |7.8|[![py](images/python.png)]()|
+|[Muzicari](https://open.kattis.com/problems/muzicari)| muzicari |4.7|[![py](images/python.png)]()|
+|[Minimum Weighted Vertex Cover](https://open.kattis.com/problems/mwvc)| mwvc |8.6|[![py](images/python.png)]()|
 |[Fullkomin mylla](https://open.kattis.com/problems/mylla)| mylla |1.6|[![py](images/python.png)]()|
 |[Mylla](https://open.kattis.com/problems/mylla2)| mylla2 |1.5|[![py](images/python.png)]()|
 |[Mysterious Tower](https://open.kattis.com/problems/mysterioustower)| mysterioustower |4.8|[![py](images/python.png)]()|
 |[Nafnagift](https://open.kattis.com/problems/nafnagift)| nafnagift |1.9|[![py](images/python.png)](src/Nafnagift/nafnagift.py)|
-|[Nafnatalning](https://open.kattis.com/problems/nafnatalning)| nafnatalning |2.9|[![py](images/python.png)]()|
+|[Nafnatalning](https://open.kattis.com/problems/nafnatalning)| nafnatalning |3.1|[![py](images/python.png)]()|
 |[Naïve Convolution](https://open.kattis.com/problems/naiveconvolution)| naiveconvolution |3.1|[![py](images/python.png)]()|
 |[Name Generation](https://open.kattis.com/problems/namegeneration)| namegeneration |2.7|[![py](images/python.png)]()|
 |[Palindrome Names](https://open.kattis.com/problems/names)| names |4.1|[![py](images/python.png)]()|
@@ -1784,7 +1795,7 @@ For more Python data structure implementations, head over to [pytils](https://gi
 |[Narrow Art Gallery](https://open.kattis.com/problems/narrowartgallery)| narrowartgallery |3.5|[![py](images/python.png)]()|
 |[Nasty Hacks](https://open.kattis.com/problems/nastyhacks)| nastyhacks |1.3|[![java](images/java.png)]()|
 |[Natjecanje](https://open.kattis.com/problems/natjecanje)| natjecanje |1.9|[![py](images/python.png)]()|
-|[Natrij](https://open.kattis.com/problems/natrij)| natrij |2.9|[![py](images/python.png)]()|
+|[Natrij](https://open.kattis.com/problems/natrij)| natrij |2.8|[![py](images/python.png)]()|
 |[Nature Reserve](https://open.kattis.com/problems/naturereserve)| naturereserve |4.3|[![java](images/java.png)]()|
 |[Neighborhood Watch](https://open.kattis.com/problems/neighborhoodwatch)| neighborhoodwatch |3.1|[![py](images/python.png)]()|
 |[Nered](https://open.kattis.com/problems/nered)| nered |3.7|[![py](images/python.png)]()|
@@ -1794,7 +1805,7 @@ For more Python data structure implementations, head over to [pytils](https://gi
 |[Neutral Ground](https://open.kattis.com/problems/neutralground)| neutralground |3.3|[![py](images/python.png)]()|
 |[Never Give Up](https://open.kattis.com/problems/nevergiveup)| nevergiveup |5.9|[![py](images/python.png)]()|
 |[Wireless is the New Fiber](https://open.kattis.com/problems/newfiber)| newfiber |3.3|[![py](images/python.png)]()|
-|[Nicknames](https://open.kattis.com/problems/nicknames)| nicknames |2.6|[![java](images/java.png)]()[![py](images/python.png)]()|
+|[Nicknames](https://open.kattis.com/problems/nicknames)| nicknames |2.7|[![java](images/java.png)]()[![py](images/python.png)]()|
 |[Nikola](https://open.kattis.com/problems/nikola)| nikola |4.2|[![py](images/python.png)]()|
 |[Nimionese](https://open.kattis.com/problems/nimionese)| nimionese |2.3|[![py](images/python.png)]()|
 |[I Hate The Number Nine](https://open.kattis.com/problems/nine)| nine |2.9|[![py](images/python.png)]()|
@@ -1841,7 +1852,7 @@ For more Python data structure implementations, head over to [pytils](https://gi
 |[Office Number](https://open.kattis.com/problems/officenumber)| officenumber |5.1|[![py](images/python.png)]()|
 |[Office Space](https://open.kattis.com/problems/officespace)| officespace |4.5|[![py](images/python.png)]()|
 |[Off-World Records](https://open.kattis.com/problems/offworldrecords)| offworldrecords |1.6|[![py](images/python.png)]()|
-|[Reverse](https://open.kattis.com/problems/ofugsnuid)| ofugsnuid |1.4|[![cpp](images/cpp.png)]()|
+|[Reverse](https://open.kattis.com/problems/ofugsnuid)| ofugsnuid |1.3|[![cpp](images/cpp.png)]()|
 |[Oktalni](https://open.kattis.com/problems/oktalni)| oktalni |1.8|[![py](images/python.png)]()|
 |[Okvir](https://open.kattis.com/problems/okvir)| okvir |2.1|[![py](images/python.png)]()|
 |[Okviri](https://open.kattis.com/problems/okviri)| okviri |2.2|[![py](images/python.png)]()|
@@ -1862,7 +1873,7 @@ For more Python data structure implementations, head over to [pytils](https://gi
 |[Restaurant Orders](https://open.kattis.com/problems/orders)| orders |4.9|[![py](images/python.png)](src/Restaurant%20Orders/orders.py)|
 |[Ordinals](https://open.kattis.com/problems/ordinals)| ordinals |1.9|[![py](images/python.png)]()|
 |[Ordinary Ordinals](https://open.kattis.com/problems/ordinaryordinals)| ordinaryordinals |4.6|[![py](images/python.png)]()|
-|[Orðla](https://open.kattis.com/problems/ordla)| ordla |6.9|[![py](images/python.png)](src/Orðla/ordla.py)|
+|[Orðla](https://open.kattis.com/problems/ordla)| ordla |7.1|[![py](images/python.png)](src/Orðla/ordla.py)|
 |[Organ-free Man](https://open.kattis.com/problems/organfreeman)| organfreeman |5.3|[![py](images/python.png)]()|
 |[Ornaments](https://open.kattis.com/problems/ornaments)| ornaments |2.6|[![cpp](images/cpp.png)]()|
 |[Orphan Backups](https://open.kattis.com/problems/orphanbackups)| orphanbackups |6.1|[![py](images/python.png)](src/Orphan%20Backups/orphanbackups.py)|
@@ -1895,7 +1906,7 @@ For more Python data structure implementations, head over to [pytils](https://gi
 |[Pallatölur](https://open.kattis.com/problems/pallatolur)| pallatolur |1.8|[![py](images/python.png)]()|
 |[Panda Chess](https://open.kattis.com/problems/pandachess)| pandachess |6.0|[![py](images/python.png)](src/Panda%20Chess/pandachess.py)|
 |[Paper Snowflakes](https://open.kattis.com/problems/papersnowflakes)| papersnowflakes |6.4|[![py](images/python.png)](src/Paper%20Snowflakes/papersnowflakes.py)|
-|[Parakoopa Projectile](https://open.kattis.com/problems/parakoopaprojectile)| parakoopaprojectile |8.7|[![py](images/python.png)](src/Parakoopa%20Projectile/parakoopaprojectile.py)|
+|[Parakoopa Projectile](https://open.kattis.com/problems/parakoopaprojectile)| parakoopaprojectile |8.8|[![py](images/python.png)](src/Parakoopa%20Projectile/parakoopaprojectile.py)|
 |[Parallel Analysis](https://open.kattis.com/problems/parallelanalysis)| parallelanalysis |4.6|[![py](images/python.png)]()|
 |[Parent Gap](https://open.kattis.com/problems/parentgap)| parentgap |2.5|[![py](images/python.png)]()|
 |[Parket](https://open.kattis.com/problems/parket)| parket |2.3|[![py](images/python.png)]()|
@@ -1907,7 +1918,7 @@ For more Python data structure implementations, head over to [pytils](https://gi
 |[Pascal](https://open.kattis.com/problems/pascal)| pascal |3.8|[![cpp](images/cpp.png)]()|
 |[Pascal Multiple](https://open.kattis.com/problems/pascalmultiple)| pascalmultiple |2.7|[![py](images/python.png)]()|
 |[Passing Secrets](https://open.kattis.com/problems/passingsecrets)| passingsecrets |5.0|[![py](images/python.png)]()|
-|[Passport Stamps](https://open.kattis.com/problems/passportstamps)| passportstamps |5.4|[![py](images/python.png)]()|
+|[Passport Stamps](https://open.kattis.com/problems/passportstamps)| passportstamps |5.5|[![py](images/python.png)]()|
 |[Password Hacking](https://open.kattis.com/problems/password)| password |1.9|[![java](images/java.png)]()|
 |[Patchwork](https://open.kattis.com/problems/patchwork)| patchwork |2.1|[![py](images/python.png)]()|
 |[Path Crossings](https://open.kattis.com/problems/pathcrossings)| pathcrossings |3.0|[![py](images/python.png)]()|
@@ -1977,7 +1988,7 @@ For more Python data structure implementations, head over to [pytils](https://gi
 |[Playing with Numbers](https://open.kattis.com/problems/playingwithnumbers)| playingwithnumbers |4.8|[![py](images/python.png)]()|
 |[Please, Go First](https://open.kattis.com/problems/pleasegofirst)| pleasegofirst |3.4|[![py](images/python.png)]()|
 |[Plotting Polynomials](https://open.kattis.com/problems/plot)| plot |2.5|[![py](images/python.png)]()|
-|[Mr. Plow King](https://open.kattis.com/problems/plowking)| plowking |3.2|[![py](images/python.png)]()|
+|[Mr. Plow King](https://open.kattis.com/problems/plowking)| plowking |3.1|[![py](images/python.png)]()|
 |[Programmeringsolympiaden's Budget](https://open.kattis.com/problems/pobudget)| pobudget |1.4|[![py](images/python.png)]()|
 |[Point in Polygon](https://open.kattis.com/problems/pointinpolygon)| pointinpolygon |5.1|[![py](images/python.png)](src/Point%20in%20Polygon/pointinpolygon.py)|
 |[Pokeball Fever](https://open.kattis.com/problems/pokeball)| pokeball |5.9|[![py](images/python.png)](src/Pokeball%20Fever/pokeball.py)|
@@ -1992,7 +2003,7 @@ For more Python data structure implementations, head over to [pytils](https://gi
 |[Polygon Game](https://open.kattis.com/problems/polygongame)| polygongame |5.4|[![py](images/python.png)](src/Polygon%20Game/polygongame.py)|
 |[Polynomial Multiplication 1](https://open.kattis.com/problems/polymul1)| polymul1 |1.8|[![cpp](images/cpp.png)]()|
 |[Polynomial Multiplication 2](https://open.kattis.com/problems/polymul2)| polymul2 |5.9|[![cpp](images/cpp.png)](src/Polynomial%20Multiplication%202/polymul2.cpp)|
-|[Pönnukökur](https://open.kattis.com/problems/ponnukokur)| ponnukokur |5.2|[![py](images/python.png)](src/Pönnukökur/ponnukokur.py)|
+|[Pönnukökur](https://open.kattis.com/problems/ponnukokur)| ponnukokur |5.5|[![py](images/python.png)](src/Pönnukökur/ponnukokur.py)|
 |[Pop!](https://open.kattis.com/problems/pop)| pop |3.7|[![py](images/python.png)]()|
 |[Popcorn](https://open.kattis.com/problems/popkorn)| popkorn |3.1|[![py](images/python.png)]()|
 |[Poplava](https://open.kattis.com/problems/poplava)| poplava |4.1|[![py](images/python.png)]()|
@@ -2067,7 +2078,7 @@ For more Python data structure implementations, head over to [pytils](https://gi
 |[Quadratic Dissonance](https://open.kattis.com/problems/quadraticdissonance)| quadraticdissonance |4.0|[![py](images/python.png)]()|
 |[Quadratic Residues](https://open.kattis.com/problems/quadres)| quadres |5.1|[![py](images/python.png)](src/Quadratic%20Residues/quadres.py)|
 |[Quantum](https://open.kattis.com/problems/quantum)| quantum |3.7|[![py](images/python.png)]()|
-|[Quantum Superposition](https://open.kattis.com/problems/quantumsuperposition)| quantumsuperposition |3.0|[![py](images/python.png)]()|
+|[Quantum Superposition](https://open.kattis.com/problems/quantumsuperposition)| quantumsuperposition |3.1|[![py](images/python.png)]()|
 |[Verify This, Your Majesty](https://open.kattis.com/problems/queens)| queens |2.5|[![py](images/python.png)]()|
 |[The Queen's Super-circular Patio](https://open.kattis.com/problems/queenspatio)| queenspatio |3.3|[![py](images/python.png)]()|
 |[Another Query on Array Problem](https://open.kattis.com/problems/queryonarray)| queryonarray |7.8|[![py](images/python.png)](src/Another%20Query%20on%20Array%20Problem/queryonarray.py)|
@@ -2160,7 +2171,7 @@ For more Python data structure implementations, head over to [pytils](https://gi
 |[Riječi](https://open.kattis.com/problems/rijeci)| rijeci |1.8|[![cpp](images/cpp.png)]()|
 |[Ríkjafræði](https://open.kattis.com/problems/rikjafraedi)| rikjafraedi |4.8|[![py](images/python.png)]()|
 |[Rimski](https://open.kattis.com/problems/rimski)| rimski |3.7|[![py](images/python.png)]()|
-|[Rhyme Power](https://open.kattis.com/problems/rimstyrka)| rimstyrka |4.1|[![py](images/python.png)]()|
+|[Rhyme Power](https://open.kattis.com/problems/rimstyrka)| rimstyrka |4.0|[![py](images/python.png)]()|
 |[Rings (1)](https://open.kattis.com/problems/rings)| rings |4.8|[![py](images/python.png)]()|
 |[Rings (2)](https://open.kattis.com/problems/rings2)| rings2 |4.0|[![py](images/python.png)]()|
 |[Rice judge](https://open.kattis.com/problems/risdomare)| risdomare |2.0|[![py](images/python.png)]()|
@@ -2196,7 +2207,7 @@ For more Python data structure implementations, head over to [pytils](https://gi
 |[Rounded Buttons](https://open.kattis.com/problems/roundedbuttons)| roundedbuttons |3.4|[![py](images/python.png)]()|
 |[Royal Routing](https://open.kattis.com/problems/royalrouting)| royalrouting |3.9|[![py](images/python.png)]()|
 |[RSA Mistake](https://open.kattis.com/problems/rsamistake)| rsamistake |4.3|[![py](images/python.png)]()|
-|[Ruffians](https://open.kattis.com/problems/ruffians)| ruffians |2.6|[![py](images/python.png)]()|
+|[Ruffians](https://open.kattis.com/problems/ruffians)| ruffians |2.7|[![py](images/python.png)]()|
 |[Ruglaður listi](https://open.kattis.com/problems/rugladurlisti)| rugladurlisti |4.8|[![py](images/python.png)](src/Ruglaður%20listi/rugladurlisti.py)|
 |[Rule N](https://open.kattis.com/problems/rulen)| rulen |3.9|[![py](images/python.png)]()|
 |[Run-Length Encoding, Run!](https://open.kattis.com/problems/runlengthencodingrun)| runlengthencodingrun |1.8|[![py](images/python.png)]()|
@@ -2215,7 +2226,7 @@ For more Python data structure implementations, head over to [pytils](https://gi
 |[Same Digits (Easy)](https://open.kattis.com/problems/samedigitseasy)| samedigitseasy |2.4|[![py](images/python.png)]()|
 |[Same Digits (Hard)](https://open.kattis.com/problems/samedigitshard)| samedigitshard |2.5|[![py](images/python.png)]()|
 |[Samhverfudulritun](https://open.kattis.com/problems/samhverfur)| samhverfur |5.9|[![py](images/python.png)](src/Samhverfudulritun/samhverfur.py)|
-|[Samlokur](https://open.kattis.com/problems/samlokur)| samlokur |5.6|[![py](images/python.png)](src/Samlokur/samlokur.py)|
+|[Samlokur](https://open.kattis.com/problems/samlokur)| samlokur |5.8|[![py](images/python.png)](src/Samlokur/samlokur.py)|
 |[Sammaeining](https://open.kattis.com/problems/sammaeining)| sammaeining |6.1|[![py](images/python.png)](src/Sammaeining/sammaeining.py)|
 |[Songbook](https://open.kattis.com/problems/sangbok)| sangbok |2.0|[![py](images/python.png)]()|
 |[Sanic](https://open.kattis.com/problems/sanic)| sanic |2.6|[![py](images/python.png)]()|
@@ -2247,7 +2258,7 @@ For more Python data structure implementations, head over to [pytils](https://gi
 |[Segment Monitoring](https://open.kattis.com/problems/segmentovervakning)| segmentovervakning |5.0|[![py](images/python.png)](src/Segment%20Monitoring/segmentovervakning.py)|
 |[Select Group](https://open.kattis.com/problems/selectgroup)| selectgroup |4.1|[![py](images/python.png)]()|
 |[Self-Similar Strings](https://open.kattis.com/problems/selfsimilarstrings)| selfsimilarstrings |3.2|[![py](images/python.png)]()|
-|[Selling Land](https://open.kattis.com/problems/sellingland)| sellingland |7.6|[![py](images/python.png)](src/Selling%20Land/sellingland.py)|
+|[Selling Land](https://open.kattis.com/problems/sellingland)| sellingland |7.7|[![py](images/python.png)](src/Selling%20Land/sellingland.py)|
 |[Selling Spatulas](https://open.kattis.com/problems/sellingspatulas)| sellingspatulas |7.2|[![py](images/python.png)](src/Selling%20Spatulas/sellingspatulas.py)|
 |[Semafori](https://open.kattis.com/problems/semafori)| semafori |1.9|[![py](images/python.png)]()|
 |[Send More Money](https://open.kattis.com/problems/sendmoremoney)| sendmoremoney |7.1|[![py](images/python.png)](src/Send%20More%20Money/sendmoremoney.py)|
@@ -2264,7 +2275,7 @@ For more Python data structure implementations, head over to [pytils](https://gi
 |[The SetStack Computer](https://open.kattis.com/problems/setstack)| setstack |5.7|[![py](images/python.png)](src/The%20SetStack%20Computer/setstack.py)[![py](images/python.png)](src/The%20SetStack%20Computer/setstack2.py)|
 |[Settlers of Catan](https://open.kattis.com/problems/settlers2)| settlers2 |4.2|[![py](images/python.png)]()|
 |[Seven Wonders](https://open.kattis.com/problems/sevenwonders)| sevenwonders |1.5|[![cpp](images/cpp.png)]()|
-|[SG Coin](https://open.kattis.com/problems/sgcoin)| sgcoin |2.6|[![py](images/python.png)]()|
+|[SG Coin](https://open.kattis.com/problems/sgcoin)| sgcoin |2.7|[![py](images/python.png)]()|
 |[Shandy](https://open.kattis.com/problems/shandy)| shandy |1.3|[![py](images/python.png)]()|
 |[Sharing Candies](https://open.kattis.com/problems/sharingcandies)| sharingcandies |4.8|[![py](images/python.png)]()|
 |[Shattered Cake](https://open.kattis.com/problems/shatteredcake)| shatteredcake |1.4|[![cpp](images/cpp.png)]()[![java](images/java.png)]()[![js](images/javascript.png)]()[![py](images/python.png)]()|
@@ -2273,7 +2284,7 @@ For more Python data structure implementations, head over to [pytils](https://gi
 |[Shiritori](https://open.kattis.com/problems/shiritori)| shiritori |2.4|[![py](images/python.png)]()|
 |[Shopaholic](https://open.kattis.com/problems/shopaholic)| shopaholic |2.1|[![py](images/python.png)]()|
 |[Shopping](https://open.kattis.com/problems/shopping)| shopping |5.0|[![py](images/python.png)]()|
-|[Shopping List](https://open.kattis.com/problems/shoppinglist)| shoppinglist |2.9|[![py](images/python.png)]()|
+|[Shopping List](https://open.kattis.com/problems/shoppinglist)| shoppinglist |2.8|[![py](images/python.png)]()|
 |[Shopping List (Easy)](https://open.kattis.com/problems/shoppinglisteasy)| shoppinglisteasy |1.8|[![py](images/python.png)]()|
 |[Shopping Malls](https://open.kattis.com/problems/shoppingmalls)| shoppingmalls |3.9|[![py](images/python.png)]()|
 |[Divisibility Shortcut](https://open.kattis.com/problems/shortcut)| shortcut |4.0|[![py](images/python.png)]()|
@@ -2292,12 +2303,12 @@ For more Python data structure implementations, head over to [pytils](https://gi
 |[Sideways Sorting](https://open.kattis.com/problems/sidewayssorting)| sidewayssorting |2.0|[![py](images/python.png)]()|
 |[Digit Product](https://open.kattis.com/problems/sifferprodukt)| sifferprodukt |1.5|[![cpp](images/cpp.png)]()|
 |[Digit Sum (2)](https://open.kattis.com/problems/siffersumma)| siffersumma |4.9|[![py](images/python.png)](src/Digit%20Sum%20(2)/siffersumma.py)|
-|[Siffrid's Digit Sum](https://open.kattis.com/problems/siffrid)| siffrid |2.8|[![py](images/python.png)]()|
+|[Siffrid's Digit Sum](https://open.kattis.com/problems/siffrid)| siffrid |2.5|[![py](images/python.png)]()|
 |[Bridging Signals](https://open.kattis.com/problems/signals)| signals |2.9|[![py](images/python.png)]()|
 |[Silueta](https://open.kattis.com/problems/silueta)| silueta |5.1|[![py](images/python.png)](src/Silueta/silueta.py)|
 |[Silver Star Stands Alone](https://open.kattis.com/problems/silverstarstandsalone)| silverstarstandsalone |2.8|[![py](images/python.png)]()|
 |[Sim](https://open.kattis.com/problems/sim)| sim |3.5|[![py](images/python.png)]()|
-|[Símanúmer](https://open.kattis.com/problems/simanumer)| simanumer |3.7|[![py](images/python.png)]()|
+|[Símanúmer](https://open.kattis.com/problems/simanumer)| simanumer |3.6|[![py](images/python.png)]()|
 |[Simon Says (1)](https://open.kattis.com/problems/simon)| simon |2.2|[![py](images/python.png)]()|
 |[Simone](https://open.kattis.com/problems/simone)| simone |1.9|[![py](images/python.png)]()|
 |[Simon Says (2)](https://open.kattis.com/problems/simonsays)| simonsays |1.5|[![cpp](images/cpp.png)]()|
@@ -2307,7 +2318,7 @@ For more Python data structure implementations, head over to [pytils](https://gi
 |[Simple Factoring](https://open.kattis.com/problems/simplefactoring)| simplefactoring |2.5|[![py](images/python.png)]()|
 |[Simple Polygon](https://open.kattis.com/problems/simplepolygon)| simplepolygon |5.0|[![py](images/python.png)]()|
 |[Simple Solitaire](https://open.kattis.com/problems/simplesolitaire)| simplesolitaire |4.7|[![py](images/python.png)]()|
-|[Simplicity](https://open.kattis.com/problems/simplicity)| simplicity |2.7|[![py](images/python.png)]()|
+|[Simplicity](https://open.kattis.com/problems/simplicity)| simplicity |2.8|[![py](images/python.png)]()|
 |[Polyline Simplification](https://open.kattis.com/problems/simplification)| simplification |6.1|[![py](images/python.png)](src/Polyline%20Simplification/simplification.py)|
 |[Simply Sudoku](https://open.kattis.com/problems/simplysudoku)| simplysudoku |3.8|[![py](images/python.png)]()|
 |[The Last Pizza](https://open.kattis.com/problems/sistapizzan)| sistapizzan |4.8|[![cpp](images/cpp.png)](src/The%20Last%20Pizza/sistapizzan.cpp)[![py](images/python.png)](src/The%20Last%20Pizza/sistapizzan.py)[![rb](images/ruby.png)](src/The%20Last%20Pizza/sistapizzan.rb)|
@@ -2339,7 +2350,7 @@ For more Python data structure implementations, head over to [pytils](https://gi
 |[Smallest Multiple](https://open.kattis.com/problems/smallestmultiple)| smallestmultiple |3.3|[![py](images/python.png)]()|
 |[Small Schedule](https://open.kattis.com/problems/smallschedule)| smallschedule |3.2|[![py](images/python.png)]()|
 |[Smart Phone](https://open.kattis.com/problems/smartphone)| smartphone |2.7|[![py](images/python.png)]()|
-|[SMIL](https://open.kattis.com/problems/smil)| smil |1.5|[![py](images/python.png)]()|
+|[SMIL](https://open.kattis.com/problems/smil)| smil |1.6|[![py](images/python.png)]()|
 |[Smoothie Stand](https://open.kattis.com/problems/smoothiestand)| smoothiestand |2.3|[![py](images/python.png)]()|
 |[Snakes and Masters](https://open.kattis.com/problems/snakesandmasters)| snakesandmasters |3.2|[![py](images/python.png)]()|
 |[Snapper Chain (Easy)](https://open.kattis.com/problems/snappereasy)| snappereasy |2.6|[![cpp](images/cpp.png)]()[![py](images/python.png)]()|
@@ -2364,9 +2375,9 @@ For more Python data structure implementations, head over to [pytils](https://gi
 |[Sóttkví](https://open.kattis.com/problems/sottkvi)| sottkvi |1.5|[![py](images/python.png)]()|
 |[The Sound of Silence](https://open.kattis.com/problems/sound)| sound |4.1|[![py](images/python.png)]()|
 |[Soundex](https://open.kattis.com/problems/soundex)| soundex |2.5|[![py](images/python.png)]()|
-|[Soylent](https://open.kattis.com/problems/soylent)| soylent |2.1|[![cpp](images/cpp.png)]()|
+|[Soylent](https://open.kattis.com/problems/soylent)| soylent |2.0|[![cpp](images/cpp.png)]()|
 |[So You Like Your Food Hot](https://open.kattis.com/problems/soyoulikeyourfoodhot)| soyoulikeyourfoodhot |5.0|[![py](images/python.png)]()|
-|[Space Mail](https://open.kattis.com/problems/spacemail)| spacemail |3.7|[![cpp](images/cpp.png)]()[![java](images/java.png)]()[![py](images/python.png)]()|
+|[Space Mail](https://open.kattis.com/problems/spacemail)| spacemail |3.8|[![cpp](images/cpp.png)]()[![java](images/java.png)]()[![py](images/python.png)]()|
 |[Space Race](https://open.kattis.com/problems/spacerace)| spacerace |2.1|[![py](images/python.png)]()|
 |[Sparkle's Seven](https://open.kattis.com/problems/sparklesseven)| sparklesseven |5.3|[![py](images/python.png)](src/Sparkle's%20Seven/sparklesseven.py)|
 |[Spavanac](https://open.kattis.com/problems/spavanac)| spavanac |1.4|[![cpp](images/cpp.png)]()|
@@ -2385,7 +2396,7 @@ For more Python data structure implementations, head over to [pytils](https://gi
 |[Splat](https://open.kattis.com/problems/splat)| splat |2.6|[![py](images/python.png)]()|
 |[Split Decisions](https://open.kattis.com/problems/splitdecisions)| splitdecisions |6.8|[![py](images/python.png)](src/Split%20Decisions/splitdecisions.py)|
 |[Spritt](https://open.kattis.com/problems/spritt)| spritt |1.3|[![py](images/python.png)]()|
-|[Sprocket Science](https://open.kattis.com/problems/sprocketscience)| sprocketscience |6.4|[![py](images/python.png)](src/Sprocket%20Science/sprocketscience.py)|
+|[Sprocket Science](https://open.kattis.com/problems/sprocketscience)| sprocketscience |6.3|[![py](images/python.png)](src/Sprocket%20Science/sprocketscience.py)|
 |[Square Deal](https://open.kattis.com/problems/squaredeal)| squaredeal |3.8|[![py](images/python.png)]()|
 |[Square Peg](https://open.kattis.com/problems/squarepeg)| squarepeg |1.6|[![py](images/python.png)]()|
 |[Square Peg in a Round Hole](https://open.kattis.com/problems/squarepegs)| squarepegs |2.7|[![py](images/python.png)]()|
@@ -2398,7 +2409,7 @@ For more Python data structure implementations, head over to [pytils](https://gi
 |[Stafsetning](https://open.kattis.com/problems/stafsetning)| stafsetning |3.2|[![py](images/python.png)]()|
 |[Stafur](https://open.kattis.com/problems/stafur)| stafur |1.6|[![py](images/python.png)]()|
 |[Staggering to the Finish](https://open.kattis.com/problems/staggeringtothefinish)| staggeringtothefinish |4.0|[![py](images/python.png)]()|
-|[Stalínröðun](https://open.kattis.com/problems/stalinrodun)| stalinrodun |5.5|[![py](images/python.png)](src/Stalínröðun/stalinrodun.py)|
+|[Stalínröðun](https://open.kattis.com/problems/stalinrodun)| stalinrodun |5.8|[![py](images/python.png)](src/Stalínröðun/stalinrodun.py)|
 |[Stamp Combinations](https://open.kattis.com/problems/stampcombinations)| stampcombinations |5.6|[![py](images/python.png)]()|
 |[Biased Standings](https://open.kattis.com/problems/standings)| standings |3.5|[![py](images/python.png)]()|
 |[Star Arrangements](https://open.kattis.com/problems/stararrangements)| stararrangements |1.8|[![cpp](images/cpp.png)]()|
@@ -2412,10 +2423,10 @@ For more Python data structure implementations, head over to [pytils](https://gi
 |[Sticky Keys](https://open.kattis.com/problems/stickykeys)| stickykeys |1.5|[![py](images/python.png)]()|
 |[Sticky Situation](https://open.kattis.com/problems/stickysituation)| stickysituation |2.5|[![py](images/python.png)]()|
 |[Stikl](https://open.kattis.com/problems/stikl)| stikl |5.6|[![py](images/python.png)](src/Stikl/stikl.py)|
-|[Stirling's Approximation](https://open.kattis.com/problems/stirlingsapproximation)| stirlingsapproximation |4.5|[![py](images/python.png)]()|
+|[Stirling's Approximation](https://open.kattis.com/problems/stirlingsapproximation)| stirlingsapproximation |4.4|[![py](images/python.png)]()|
 |[Daydreaming Stockbroker](https://open.kattis.com/problems/stockbroker)| stockbroker |3.1|[![py](images/python.png)]()|
 |[Stock Prices](https://open.kattis.com/problems/stockprices)| stockprices |3.7|[![py](images/python.png)]()|
-|[Stoichiometry](https://open.kattis.com/problems/stoichiometry)| stoichiometry |4.7|[![py](images/python.png)]()|
+|[Stoichiometry](https://open.kattis.com/problems/stoichiometry)| stoichiometry |4.6|[![py](images/python.png)]()|
 |[Messy lists](https://open.kattis.com/problems/stokigalistor)| stokigalistor |2.1|[![py](images/python.png)]()|
 |[Stol](https://open.kattis.com/problems/stol)| stol |5.5|[![py](images/python.png)](src/Stol/stol.py)|
 |[Stop Counting!](https://open.kattis.com/problems/stopcounting)| stopcounting |5.1|[![cpp](images/cpp.png)]()|
@@ -2440,7 +2451,7 @@ For more Python data structure implementations, head over to [pytils](https://gi
 |[Subtraction Plus Plus](https://open.kattis.com/problems/subtractionplusplus)| subtractionplusplus |5.2|[![py](images/python.png)]()|
 |[Subtraction Plus Plus Plus](https://open.kattis.com/problems/subtractionplusplusplus)| subtractionplusplusplus |4.2|[![py](images/python.png)]()|
 |[Subway Tree System](https://open.kattis.com/problems/subway)| subway |4.6|[![py](images/python.png)]()|
-|[Subway](https://open.kattis.com/problems/subway2)| subway2 |5.2|[![java](images/java.png)]()|
+|[Subway](https://open.kattis.com/problems/subway2)| subway2 |5.3|[![java](images/java.png)]()|
 |[Subway Planning](https://open.kattis.com/problems/subwayplanning)| subwayplanning |2.2|[![py](images/python.png)]()|
 |[Successful Zoom](https://open.kattis.com/problems/successfulzoom)| successfulzoom |2.6|[![py](images/python.png)]()|
 |[Succession](https://open.kattis.com/problems/succession)| succession |3.0|[![py](images/python.png)]()|
@@ -2454,7 +2465,7 @@ For more Python data structure implementations, head over to [pytils](https://gi
 |[Summer Trip](https://open.kattis.com/problems/summertrip)| summertrip |3.3|[![py](images/python.png)]()|
 |[Sum of the Others](https://open.kattis.com/problems/sumoftheothers)| sumoftheothers |2.3|[![java](images/java.png)]()|
 |[Sumsets](https://open.kattis.com/problems/sumsets)| sumsets |7.1|[![py](images/python.png)](src/Sumsets/sumsets.py)|
-|[Sums of Primes](https://open.kattis.com/problems/sumsofprimes)| sumsofprimes |3.9|[![py](images/python.png)]()|
+|[Sums of Primes](https://open.kattis.com/problems/sumsofprimes)| sumsofprimes |3.7|[![py](images/python.png)]()|
 |[Sum Squared Digits Function](https://open.kattis.com/problems/sumsquareddigits)| sumsquareddigits |1.5|[![cpp](images/cpp.png)]()|
 |[Sun and Moon](https://open.kattis.com/problems/sunandmoon)| sunandmoon |2.1|[![py](images/python.png)]()|
 |[Supercomputer](https://open.kattis.com/problems/supercomputer)| supercomputer |2.6|[![py](images/python.png)]()|
@@ -2484,17 +2495,17 @@ For more Python data structure implementations, head over to [pytils](https://gi
 |[Target Practice (2)](https://open.kattis.com/problems/targetpractice)| targetpractice |4.5|[![py](images/python.png)]()|
 |[Tarifa](https://open.kattis.com/problems/tarifa)| tarifa |1.3|[![java](images/java.png)]()[![py](images/python.png)]()|
 |[Tautology](https://open.kattis.com/problems/tautology)| tautology |2.8|[![py](images/python.png)]()|
-|[Taxi Cab Scheme](https://open.kattis.com/problems/taxicab)| taxicab |5.9|[![py](images/python.png)](src/Taxi%20Cab%20Scheme/taxicab.py)|
+|[Taxi Cab Scheme](https://open.kattis.com/problems/taxicab)| taxicab |6.0|[![py](images/python.png)](src/Taxi%20Cab%20Scheme/taxicab.py)|
 |[Taxing Problem](https://open.kattis.com/problems/taxing)| taxing |4.8|[![py](images/python.png)]()|
 |[Tax the Rich](https://open.kattis.com/problems/taxtherich)| taxtherich |5.7|[![py](images/python.png)]()|
 |[Teacher Evaluation](https://open.kattis.com/problems/teacherevaluation)| teacherevaluation |2.7|[![py](images/python.png)]()|
 |[Happy Telephones](https://open.kattis.com/problems/telephones)| telephones |2.8|[![py](images/python.png)]()|
 |[Telja](https://open.kattis.com/problems/telja)| telja |1.2|[![py](images/python.png)]()|
-|[Time Travelling Temperatures](https://open.kattis.com/problems/temperature)| temperature |2.3|[![cpp](images/cpp.png)]()|
+|[Time Travelling Temperatures](https://open.kattis.com/problems/temperature)| temperature |2.2|[![cpp](images/cpp.png)]()|
 |[Temperature Confusion](https://open.kattis.com/problems/temperatureconfusion)| temperatureconfusion |2.8|[![py](images/python.png)]()|
 |[Teningasafn](https://open.kattis.com/problems/teningasafn)| teningasafn |6.2|[![py](images/python.png)]()|
-|[Tenis](https://open.kattis.com/problems/tenis)| tenis |3.9|[![py](images/python.png)]()|
-|[Tenkici](https://open.kattis.com/problems/tenkici)| tenkici |6.6|[![py](images/python.png)](src/Tenkici/tenkici.py)|
+|[Tenis](https://open.kattis.com/problems/tenis)| tenis |3.8|[![py](images/python.png)]()|
+|[Tenkici](https://open.kattis.com/problems/tenkici)| tenkici |6.5|[![py](images/python.png)](src/Tenkici/tenkici.py)|
 |[Teque](https://open.kattis.com/problems/teque)| teque |4.6|[![java](images/java.png)]()[![py](images/python.png)]()|
 |[Ternarian Weights](https://open.kattis.com/problems/ternarianweights)| ternarianweights |3.2|[![py](images/python.png)]()|
 |[Terrace Hill](https://open.kattis.com/problems/terracehill)| terracehill |3.4|[![py](images/python.png)]()|
@@ -2512,8 +2523,8 @@ For more Python data structure implementations, head over to [pytils](https://gi
 |[Thanos the Hero](https://open.kattis.com/problems/thanosthehero)| thanosthehero |3.0|[![py](images/python.png)]()|
 |[The Backslash Problem](https://open.kattis.com/problems/thebackslashproblem)| thebackslashproblem |2.3|[![py](images/python.png)]()|
 |[The Deal of the Day](https://open.kattis.com/problems/thedealoftheday)| thedealoftheday |2.2|[![py](images/python.png)]()|
-|[The Grand Adventure](https://open.kattis.com/problems/thegrandadventure)| thegrandadventure |2.0|[![py](images/python.png)]()|
-|[The King of the North](https://open.kattis.com/problems/thekingofthenorth)| thekingofthenorth |4.2|[![py](images/python.png)]()|
+|[The Grand Adventure](https://open.kattis.com/problems/thegrandadventure)| thegrandadventure |1.9|[![py](images/python.png)]()|
+|[The King of the North](https://open.kattis.com/problems/thekingofthenorth)| thekingofthenorth |4.1|[![py](images/python.png)]()|
 |[The Last Problem](https://open.kattis.com/problems/thelastproblem)| thelastproblem |1.5|[![cpp](images/cpp.png)]()|
 |[The N Days of Christmas](https://open.kattis.com/problems/thendaysofchristmas)| thendaysofchristmas |1.5|[![py](images/python.png)]()|
 |[Theodor the Wizard](https://open.kattis.com/problems/theodortrollkarlen)| theodortrollkarlen |5.2|[![py](images/python.png)](src/Theodor%20the%20Wizard/theodortrollkarlen.py)|
@@ -2527,8 +2538,8 @@ For more Python data structure implementations, head over to [pytils](https://gi
 |[Three Digits](https://open.kattis.com/problems/threedigits)| threedigits |6.2|[![py](images/python.png)](src/Three%20Digits/threedigits.py)|
 |[3D Printer](https://open.kattis.com/problems/threedprinter)| threedprinter |8.5|[![py](images/python.png)](src/3D%20Printer/threedprinter.py)|
 |[Three Powers](https://open.kattis.com/problems/threepowers)| threepowers |2.4|[![py](images/python.png)]()|
-|[Threes and Fives](https://open.kattis.com/problems/threesandfives)| threesandfives |2.4|[![py](images/python.png)]()|
-|[Game of Throwns](https://open.kattis.com/problems/throwns)| throwns |2.7|[![py](images/python.png)]()|
+|[Threes and Fives](https://open.kattis.com/problems/threesandfives)| threesandfives |2.8|[![py](images/python.png)]()|
+|[Game of Throwns](https://open.kattis.com/problems/throwns)| throwns |2.6|[![py](images/python.png)]()|
 |[Ticket Completed](https://open.kattis.com/problems/ticketcompleted)| ticketcompleted |3.4|[![java](images/java.png)]()|
 |[Plane Ticket Pricing](https://open.kattis.com/problems/ticketpricing)| ticketpricing |4.1|[![py](images/python.png)]()|
 |[Tic-Tac State](https://open.kattis.com/problems/tictacstate)| tictacstate |2.4|[![py](images/python.png)]()|
@@ -2573,9 +2584,9 @@ For more Python data structure implementations, head over to [pytils](https://gi
 |[Trailing Digits (1)](https://open.kattis.com/problems/trailingdigits)| trailingdigits |6.8|[![py](images/python.png)](src/Trailing%20Digits%20(1)/trailingdigits.py)|
 |[Trailing Digits (2)](https://open.kattis.com/problems/trailingdigits2)| trailingdigits2 |3.3|[![py](images/python.png)]()|
 |[Train Boarding](https://open.kattis.com/problems/trainboarding)| trainboarding |4.2|[![py](images/python.png)]()|
-|[Training](https://open.kattis.com/problems/training)| training |1.6|[![py](images/python.png)]()|
+|[Training](https://open.kattis.com/problems/training)| training |1.5|[![py](images/python.png)]()|
 |[Train Passengers](https://open.kattis.com/problems/trainpassengers)| trainpassengers |2.5|[![java](images/java.png)]()[![py](images/python.png)]()|
-|[Train Sorting](https://open.kattis.com/problems/trainsorting)| trainsorting |5.0|[![py](images/python.png)](src/Train%20Sorting/trainsorting.py)|
+|[Train Sorting](https://open.kattis.com/problems/trainsorting)| trainsorting |5.1|[![py](images/python.png)](src/Train%20Sorting/trainsorting.py)|
 |[Train Timetables](https://open.kattis.com/problems/traintimetables)| traintimetables |3.4|[![py](images/python.png)]()|
 |[Tram](https://open.kattis.com/problems/tram)| tram |2.2|[![py](images/python.png)]()|
 |[Transit Woes](https://open.kattis.com/problems/transitwoes)| transitwoes |1.5|[![cpp](images/cpp.png)]()|
@@ -2596,7 +2607,7 @@ For more Python data structure implementations, head over to [pytils](https://gi
 |[Three in a Row](https://open.kattis.com/problems/treirad)| treirad |1.6|[![py](images/python.png)]()|
 |[Trending Topic](https://open.kattis.com/problems/trendingtopic)| trendingtopic |4.9|[![py](images/python.png)](src/Trending%20Topic/trendingtopic.py)|
 |[Tri](https://open.kattis.com/problems/tri)| tri |1.9|[![cpp](images/cpp.png)]()|
-|[The Triangle Factory](https://open.kattis.com/problems/triangelfabriken)| triangelfabriken |3.0|[![py](images/python.png)]()|
+|[The Triangle Factory](https://open.kattis.com/problems/triangelfabriken)| triangelfabriken |2.9|[![py](images/python.png)]()|
 |[Sierpiński Circumference](https://open.kattis.com/problems/triangle)| triangle |3.0|[![py](images/python.png)]()|
 |[Triangle To Hexagon](https://open.kattis.com/problems/triangle2hexagon)| triangle2hexagon |3.9|[![py](images/python.png)]()|
 |[Triangle Containment](https://open.kattis.com/problems/trianglecontainment)| trianglecontainment |6.5|[![py](images/python.png)](src/Triangle%20Containment/trianglecontainment.py)|
@@ -2623,8 +2634,8 @@ For more Python data structure implementations, head over to [pytils](https://gi
 |[Tri Tiling](https://open.kattis.com/problems/tritiling)| tritiling |2.9|[![py](images/python.png)]()|
 |[Trojke](https://open.kattis.com/problems/trojke)| trojke |3.4|[![py](images/python.png)]()|
 |[Troll Hunt](https://open.kattis.com/problems/trollhunt)| trollhunt |2.5|[![py](images/python.png)]()|
-|[The Wizard Theodor](https://open.kattis.com/problems/trollkarlentheodor)| trollkarlentheodor |6.0|[![py](images/python.png)](src/The%20Wizard%20Theodor/trollkarlentheodor.py)|
-|[Truls' Troubles](https://open.kattis.com/problems/trulstrubbel)| trulstrubbel |2.9|[![py](images/python.png)]()|
+|[The Wizard Theodor](https://open.kattis.com/problems/trollkarlentheodor)| trollkarlentheodor |5.4|[![py](images/python.png)](src/The%20Wizard%20Theodor/trollkarlentheodor.py)|
+|[Truls' Troubles](https://open.kattis.com/problems/trulstrubbel)| trulstrubbel |2.8|[![py](images/python.png)]()|
 |[T-shirts](https://open.kattis.com/problems/tshirts)| tshirts |4.8|[![py](images/python.png)](src/T-shirts/tshirts.py)|
 |[Travelling Salesperson 2D](https://open.kattis.com/problems/tsp)| tsp |9.5|[![py](images/python.png)]()|
 |[Tug of War](https://open.kattis.com/problems/tugofwar)| tugofwar |7.1|[![py](images/python.png)](src/Tug%20of%20War/tugofwar.py)|
@@ -2639,7 +2650,7 @@ For more Python data structure implementations, head over to [pytils](https://gi
 |[Úllen dúllen doff](https://open.kattis.com/problems/ullendullendoff)| ullendullendoff |1.7|[![py](images/python.png)]()|
 |[Úllen Dúllen Doff 2](https://open.kattis.com/problems/ullendullendoff2)| ullendullendoff2 |2.5|[![py](images/python.png)]()|
 |[Ultimate Binary Watch](https://open.kattis.com/problems/ultimatebinarywatch)| ultimatebinarywatch |2.0|[![py](images/python.png)]()|
-|[Ultra-QuickSort](https://open.kattis.com/problems/ultraquicksort)| ultraquicksort |4.5|[![py](images/python.png)]()|
+|[Ultra-QuickSort](https://open.kattis.com/problems/ultraquicksort)| ultraquicksort |4.4|[![py](images/python.png)]()|
 |[Umbral Decoding](https://open.kattis.com/problems/umbraldecoding)| umbraldecoding |7.6|[![py](images/python.png)](src/Umbral%20Decoding/umbraldecoding.py)|
 |[Umferð](https://open.kattis.com/problems/umferd)| umferd |1.3|[![py](images/python.png)]()|
 |[Umm Code](https://open.kattis.com/problems/ummcode)| ummcode |3.4|[![py](images/python.png)]()|
@@ -2655,7 +2666,7 @@ For more Python data structure implementations, head over to [pytils](https://gi
 |[University Zoning](https://open.kattis.com/problems/universityzoning)| universityzoning |2.9|[![py](images/python.png)]()|
 |[Unlock Pattern](https://open.kattis.com/problems/unlockpattern)| unlockpattern |1.8|[![py](images/python.png)]()|
 |[Unlock Pattern II](https://open.kattis.com/problems/unlockpattern2)| unlockpattern2 |7.1|[![py](images/python.png)](src/Unlock%20Pattern%20II/unlockpattern2.py)|
-|[Unown Code](https://open.kattis.com/problems/unowncode)| unowncode |8.4|[![py](images/python.png)](src/Unown%20Code/unowncode.py)|
+|[Unown Code](https://open.kattis.com/problems/unowncode)| unowncode |8.5|[![py](images/python.png)](src/Unown%20Code/unowncode.py)|
 |[Unown Code (Easy)](https://open.kattis.com/problems/unowncodeeasy)| unowncodeeasy |3.6|[![py](images/python.png)]()|
 |[Unread Messages](https://open.kattis.com/problems/unreadmessages)| unreadmessages |4.5|[![py](images/python.png)]()|
 |[Unusual Darts](https://open.kattis.com/problems/unusualdarts)| unusualdarts |4.8|[![py](images/python.png)]()|
@@ -2677,7 +2688,7 @@ For more Python data structure implementations, head over to [pytils](https://gi
 |[Vasaloppet](https://open.kattis.com/problems/vasaloppet)| vasaloppet |5.0|[![py](images/python.png)](src/Vasaloppet/vasaloppet.py)|
 |[Vauvau](https://open.kattis.com/problems/vauvau)| vauvau |2.0|[![py](images/python.png)]()|
 |[Veci](https://open.kattis.com/problems/veci)| veci |1.7|[![py](images/python.png)]()|
-|[What's Our Vector, Victor](https://open.kattis.com/problems/vector)| vector |6.7|[![py](images/python.png)](src/What's%20Our%20Vector,%20Victor/vector.py)|
+|[What's Our Vector, Victor](https://open.kattis.com/problems/vector)| vector |7.0|[![py](images/python.png)](src/What's%20Our%20Vector,%20Victor/vector.py)|
 |[Vector Functions](https://open.kattis.com/problems/vectorfunctions)| vectorfunctions |3.0|[![cpp](images/cpp.png)]()|
 |[Veður - Lokaðar heiðar](https://open.kattis.com/problems/vedurheidar)| vedurheidar |1.3|[![py](images/python.png)]()|
 |[Veður - Vindhraði](https://open.kattis.com/problems/vedurvindhradi)| vedurvindhradi |1.6|[![py](images/python.png)]()|
@@ -2689,7 +2700,7 @@ For more Python data structure implementations, head over to [pytils](https://gi
 |[Who wins](https://open.kattis.com/problems/vemvinner)| vemvinner |1.8|[![py](images/python.png)]()|
 |[Victory Through Synergy](https://open.kattis.com/problems/victorythroughsynergy)| victorythroughsynergy |4.4|[![py](images/python.png)]()|
 |[Video Speedup](https://open.kattis.com/problems/videospeedup)| videospeedup |1.8|[![py](images/python.png)]()|
-|[Viðsnúningur](https://open.kattis.com/problems/vidsnuningur)| vidsnuningur |1.2|[![py](images/python.png)]()[![sh](images/bash.png)]()|
+|[Viðsnúningur](https://open.kattis.com/problems/vidsnuningur)| vidsnuningur |1.1|[![py](images/python.png)]()[![sh](images/bash.png)]()|
 |[Villager Trading](https://open.kattis.com/problems/villagertrading)| villagertrading |6.9|[![py](images/python.png)](src/Villager%20Trading/villagertrading.py)|
 |[Vin Diagrams](https://open.kattis.com/problems/vindiagrams)| vindiagrams |5.2|[![py](images/python.png)](src/Vin%20Diagrams/vindiagrams.py)|
 |[Vinir](https://open.kattis.com/problems/vinir)| vinir |2.0|[![py](images/python.png)]()|
@@ -2723,11 +2734,11 @@ For more Python data structure implementations, head over to [pytils](https://gi
 |[The Weight Of Words](https://open.kattis.com/problems/weightofwords)| weightofwords |2.4|[![py](images/python.png)]()|
 |[Welcome to Code Jam (Easy)](https://open.kattis.com/problems/welcomeeasy)| welcomeeasy |2.0|[![py](images/python.png)]()|
 |[Welcome to Code Jam (Hard)](https://open.kattis.com/problems/welcomehard)| welcomehard |3.8|[![py](images/python.png)]()|
-|[Welcome Sign](https://open.kattis.com/problems/welcomesign)| welcomesign |1.7|[![py](images/python.png)]()|
+|[Welcome Sign](https://open.kattis.com/problems/welcomesign)| welcomesign |1.8|[![py](images/python.png)]()|
 |[WERTYU](https://open.kattis.com/problems/wertyu)| wertyu |2.9|[![py](images/python.png)]()|
 |[Wet Tiles](https://open.kattis.com/problems/wettiles)| wettiles |4.0|[![py](images/python.png)]()|
 |[WFF 'N PROOF](https://open.kattis.com/problems/wffnproof)| wffnproof |2.9|[![py](images/python.png)]()|
-|[Whac-a-Mole](https://open.kattis.com/problems/whacamole)| whacamole |6.0|[![py](images/python.png)]()|
+|[Whac-a-Mole](https://open.kattis.com/problems/whacamole)| whacamole |6.1|[![py](images/python.png)]()|
 |[What does the fox say](https://open.kattis.com/problems/whatdoesthefoxsay)| whatdoesthefoxsay |2.1|[![java](images/java.png)]()[![py](images/python.png)]()|
 |[What's In It For Me](https://open.kattis.com/problems/whatsinit)| whatsinit |6.7|[![py](images/python.png)](src/What's%20In%20It%20For%20Me/whatsinit.py)|
 |[Wheels](https://open.kattis.com/problems/wheels)| wheels |3.5|[![py](images/python.png)]()|
@@ -2744,13 +2755,13 @@ For more Python data structure implementations, head over to [pytils](https://gi
 |[Wider Digbuild](https://open.kattis.com/problems/widerdigbuild)| widerdigbuild |4.3|[![py](images/python.png)]()|
 |[Widget Tree](https://open.kattis.com/problems/widgettree)| widgettree |6.9|[![py](images/python.png)](src/Widget%20Tree/widgettree.py)|
 |[Wi-Fi](https://open.kattis.com/problems/wifi)| wifi |3.9|[![py](images/python.png)]()|
-|[Wimbledon](https://open.kattis.com/problems/wimbledon)| wimbledon |4.9|[![py](images/python.png)]()|
+|[Wimbledon](https://open.kattis.com/problems/wimbledon)| wimbledon |5.0|[![py](images/python.png)]()|
 |[Window Manager](https://open.kattis.com/problems/windows)| windows |8.0|[![py](images/python.png)](src/Window%20Manager/windows.py)|
 |[Wipe Your Whiteboards](https://open.kattis.com/problems/wipeyourwhiteboards)| wipeyourwhiteboards |5.5|[![py](images/python.png)](src/Wipe%20Your%20Whiteboards/wipeyourwhiteboards.py)|
 |[Witch Dance](https://open.kattis.com/problems/witchdance)| witchdance |3.7|[![py](images/python.png)]()|
 |[Witchwood](https://open.kattis.com/problems/witchwood)| witchwood |3.9|[![py](images/python.png)]()|
 |[Wizard of Odds](https://open.kattis.com/problems/wizardofodds)| wizardofodds |2.4|[![py](images/python.png)]()|
-|[Wolf](https://open.kattis.com/problems/wolf)| wolf |4.9|[![py](images/python.png)]()|
+|[Wolf](https://open.kattis.com/problems/wolf)| wolf |4.8|[![py](images/python.png)]()|
 |[Wood Cutting](https://open.kattis.com/problems/woodcutting)| woodcutting |3.1|[![py](images/python.png)]()|
 |[Wooden Signs](https://open.kattis.com/problems/woodensigns)| woodensigns |3.2|[![py](images/python.png)]()|
 |[Word Cloud](https://open.kattis.com/problems/wordcloud)| wordcloud |2.4|[![py](images/python.png)]()|
@@ -2758,7 +2769,7 @@ For more Python data structure implementations, head over to [pytils](https://gi
 |[Word Game](https://open.kattis.com/problems/wordgame2)| wordgame2 |4.7|[![py](images/python.png)]()|
 |[Word Ladder (1)](https://open.kattis.com/problems/wordladder2)| wordladder2 |7.1|[![py](images/python.png)](src/Word%20Ladder%20(1)/wordladder2.py)|
 |[Word Ladder (2)](https://open.kattis.com/problems/wordladder3)| wordladder3 |6.0|[![py](images/python.png)](src/Word%20Ladder%20(2)/wordladder3.py)|
-|[Wordle Feedback](https://open.kattis.com/problems/wordlefeedback)| wordlefeedback |3.3|[![py](images/python.png)]()|
+|[Wordle Feedback](https://open.kattis.com/problems/wordlefeedback)| wordlefeedback |3.2|[![py](images/python.png)]()|
 |[Wordle with Friends](https://open.kattis.com/problems/wordlewithfriends)| wordlewithfriends |5.0|[![py](images/python.png)](src/Wordle%20with%20Friends/wordlewithfriends.py)|
 |[Words for Numbers](https://open.kattis.com/problems/wordsfornumbers)| wordsfornumbers |2.9|[![py](images/python.png)]()|
 |[WordSpin](https://open.kattis.com/problems/wordspin)| wordspin |5.2|[![py](images/python.png)](src/WordSpin/wordspin.py)|
@@ -2766,7 +2777,7 @@ For more Python data structure implementations, head over to [pytils](https://gi
 |[Workout for a Dumbbell](https://open.kattis.com/problems/workout)| workout |5.4|[![py](images/python.png)](src/Workout%20for%20a%20Dumbbell/workout.py)|
 |[Assigning Workstations](https://open.kattis.com/problems/workstations)| workstations |2.4|[![java](images/java.png)]()|
 |[The Worm in the Apple](https://open.kattis.com/problems/worminapple)| worminapple |3.7|[![py](images/python.png)]()|
-|[Worst Weather Ever](https://open.kattis.com/problems/worstweather)| worstweather |6.8|[![py](images/python.png)](src/Worst%20Weather%20Ever/worstweather.py)|
+|[Worst Weather Ever](https://open.kattis.com/problems/worstweather)| worstweather |6.9|[![py](images/python.png)](src/Worst%20Weather%20Ever/worstweather.py)|
 |[Board Wrapping](https://open.kattis.com/problems/wrapping)| wrapping |3.7|[![py](images/python.png)]()|
 |[Tima goes to Xentopia](https://open.kattis.com/problems/xentopia)| xentopia |4.5|[![py](images/python.png)]()|
 |[XOR Equation](https://open.kattis.com/problems/xorequation)| xorequation |4.9|[![py](images/python.png)]()|
@@ -2789,7 +2800,7 @@ For more Python data structure implementations, head over to [pytils](https://gi
 |[Zigzag](https://open.kattis.com/problems/zigzag2)| zigzag2 |4.8|[![py](images/python.png)]()|
 |[Zipf's Law](https://open.kattis.com/problems/zipfslaw)| zipfslaw |5.6|[![py](images/python.png)](src/Zipf's%20Law/zipfslaw.py)|
 |[Zipf's Song](https://open.kattis.com/problems/zipfsong)| zipfsong |5.0|[![java](images/java.png)]()|
-|[Zipline](https://open.kattis.com/problems/zipline)| zipline |3.7|[![cpp](images/cpp.png)]()|
+|[Zipline](https://open.kattis.com/problems/zipline)| zipline |3.6|[![cpp](images/cpp.png)]()|
 |[Znanstvenik](https://open.kattis.com/problems/znanstvenik)| znanstvenik |3.7|[![py](images/python.png)]()|
 |[Zoning](https://open.kattis.com/problems/zoning)| zoning |5.2|[![py](images/python.png)]()|
 |[Un-bear-able Zoo](https://open.kattis.com/problems/zoo)| zoo |1.7|[![java](images/java.png)]()|
