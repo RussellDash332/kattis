@@ -1,7 +1,7 @@
 class Vertex:
-    def __init__(self, v, count=1):
+    def __init__(self, v):
         self.key, self.left, self.right, self.parent = v, None, None, None
-        self.height, self.size, self.count = 0, 1, count
+        self.height, self.size, self.count = 0, 1, 1
 
 class AVL:
     def __init__(self):
@@ -17,8 +17,8 @@ class AVL:
     def find_min(self):
         return self.helper_find_min(self.root)
     def helper_find_min(self, t):
-        if t == None: return -10
-        if t.left == None: return t.key
+        if t == None: return None
+        if t.left == None: return t
         return self.helper_find_min(t.left)
     def successor(self, v):
         self.insert(v); k = self.helper_successor_plus(self.helper_search(self.root, v)); self.delete(v); return k
@@ -27,8 +27,7 @@ class AVL:
         else:
             par, cur = t.parent, t
             while par != None and cur == par.right: cur, par = par, par.parent
-            if par == None: return -10
-            else: return par.key
+            return par
     def update_height(self, t):
         if t.left != None and t.right != None: t.height = max(t.left.height, t.right.height) + 1
         elif t.left != None: t.height = t.left.height + 1
@@ -46,28 +45,27 @@ class AVL:
         return 0
     def insert(self, v, count=1):
         def helper(t, v):
-            if t == None: return Vertex(v, count)
+            if t == None: x = Vertex(v); x.count = count; return x
             if t.key < v: t.right = helper(t.right, v); t.right.parent = t
             elif t.key > v: t.left = helper(t.left, v); t.left.parent = t
             else: t.count += count
             self.update_height(t), self.update_size(t); t = self.rebalance(t); return t
         self.root = helper(self.root, v)
-    def delete(self, v):
-        def helper(t, v):
+    def delete(self, v, count=1):
+        def helper(t, v, count):
             if t == None: return t
-            if t.key < v: t.right = helper(t.right, v)
-            elif t.key > v: t.left = helper(t.left, v)
+            if t.key < v: t.right = helper(t.right, v, count)
+            elif t.key > v: t.left = helper(t.left, v, count)
             else:
-                if t.count == 1:
+                if t.count <= count:
                     if t.left == None and t.right == None:      t = None
                     elif t.left == None and t.right != None:    t.right.parent = t.parent; t = t.right
                     elif t.left != None and t.right == None:    t.left.parent = t.parent; t = t.left
-                    else:
-                        successor_v = self.successor(v); t.key = successor_v; t.right = helper(t.right, successor_v)
-                else: t.count -= 1
+                    else: successor_v = self.successor(v); t.key = successor_v.key; t.count = successor_v.count; t.right = helper(t.right, successor_v.key, successor_v.count)
+                else: t.count -= count
             if t != None: self.update_height(t), self.update_size(t); t = self.rebalance(t)
             return t
-        self.root = helper(self.root, v)
+        self.root = helper(self.root, v, count)
     def rebalance(self, t):
         if t == None: return t
         if self.balance_factor(t) == 2:
@@ -91,5 +89,5 @@ avl = AVL(); n, r, c = map(int, input().split()); A = array('i', [0]*r); Q = []
 for _ in range(n): a, _, s = map(int, input().split()); Q.append((max(min(a-1+s, r-1), 0), max(min(a-1-s, r-1), 0)))
 for i in range(r): avl.insert(i, c)
 for y, x in sorted(Q):
-    if avl.search(z:=x) == x or -1 < (z:=avl.successor(x)) <= y: A[z] += 1; avl.delete(z)
+    if avl.search(z:=x) == x or -1 < (z:=z.key if (z:=avl.successor(x)) else -10) <= y: A[z] += 1; avl.delete(z)
 print(sum(A))

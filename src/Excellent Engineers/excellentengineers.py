@@ -3,7 +3,7 @@ import sys; input = sys.stdin.readline; from array import *; INF = 10**9
 class Vertex:
     def __init__(self, v):
         self.key, self.left, self.right, self.parent = v, None, None, None
-        self.height, self.size, self.count = 0, 1, 1
+        self.height, self.size = 0, 1
 
 class AVL:
     def __init__(self):
@@ -52,10 +52,10 @@ class AVL:
         elif t.right != None: t.height = t.right.height + 1
         else: t.height = 1
     def update_size(self, t):
-        if t.left != None and t.right != None: t.size = t.left.size + t.right.size + t.count
-        elif t.left != None: t.size = t.left.size + t.count
-        elif t.right != None: t.size = t.right.size + t.count
-        else: t.size = t.count
+        if t.left != None and t.right != None: t.size = t.left.size + t.right.size + 1
+        elif t.left != None: t.size = t.left.size + 1
+        elif t.right != None: t.size = t.right.size + 1
+        else: t.size = 1
     def balance_factor(self, t):
         if t.left != None and t.right != None: return t.left.height - t.right.height
         if t.left != None: return t.left.height + 1
@@ -66,7 +66,6 @@ class AVL:
             if t == None: return Vertex(v)
             if t.key < v: t.right = helper(t.right, v); t.right.parent = t
             elif t.key > v: t.left = helper(t.left, v); t.left.parent = t
-            else: t.count += 1
             self.update_height(t), self.update_size(t); t = self.rebalance(t); return t
         self.root = helper(self.root, v)
     def delete(self, v):
@@ -75,12 +74,10 @@ class AVL:
             if t.key < v: t.right = helper(t.right, v)
             elif t.key > v: t.left = helper(t.left, v)
             else:
-                if t.count == 1:
-                    if t.left == None and t.right == None:      t = None
-                    elif t.left == None and t.right != None:    t.right.parent = t.parent; t = t.right
-                    elif t.left != None and t.right == None:    t.left.parent = t.parent; t = t.left
-                    else: successor_v = self.successor(v); t.key = successor_v; t.right = helper(t.right, successor_v)
-                else: t.count -= 1
+                if t.left == None and t.right == None:      t = None
+                elif t.left == None and t.right != None:    t.right.parent = t.parent; t = t.right
+                elif t.left != None and t.right == None:    t.left.parent = t.parent; t = t.left
+                else: successor_v = self.successor(v); t.key = successor_v; t.right = helper(t.right, successor_v)
             if t != None: self.update_height(t), self.update_size(t); t = self.rebalance(t)
             return t
         self.root = helper(self.root, v)
