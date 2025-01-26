@@ -1,0 +1,1 @@
+A={e-1:i for i,e in enumerate(map(int,open(0).read().split()[1:]))};s=sum(A[i+1]<A[i]for i in range(len(A)-1));print(s and len(bin(s))-2)

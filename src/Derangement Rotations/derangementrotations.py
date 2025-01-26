@@ -1,0 +1,1 @@
+import math;n,p=map(int,input().split());print(sum(pow(2,math.gcd(i,n)-1,p)-1for i in range(1,n))*(n-2)%p)
