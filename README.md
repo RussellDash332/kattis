@@ -1,7 +1,7 @@
 # Kattis Solutions
 ![Visitors](https://count.getloli.com/get/@RussellDash332)
 
-## Total problems solved: 2887
+## Total problems solved: 2888
 
 Note that the tables below are auto-generated using [autokattis](https://github.com/RussellDash332/autokattis).
 
@@ -186,6 +186,7 @@ For more Python data structure implementations, head over to [pytils](https://gi
 |[Paradox With Averages (Hard)](https://open.kattis.com/problems/averageshard)| averageshard |2.9|[![cpp](images/cpp.png)]()|
 |[Average Speed](https://open.kattis.com/problems/averagespeed)| averagespeed |3.5|[![py](images/python.png)]()|
 |[Avion](https://open.kattis.com/problems/avion)| avion |1.4|[![cpp](images/cpp.png)]()|
+|[AVL++](https://open.kattis.com/problems/avlplusplus)| avlplusplus |5.3|[![py](images/python.png)](src/AVL++/avlplusplus.py)|
 |[Avoiding the Abyss](https://open.kattis.com/problems/avoidingtheabyss)| avoidingtheabyss |3.2|[![py](images/python.png)]()|
 |[Avoiding the Apocalypse](https://open.kattis.com/problems/avoidingtheapocalypse)| avoidingtheapocalypse |3.7|[![py](images/python.png)]()|
 |[Avoidland](https://open.kattis.com/problems/avoidland)| avoidland |3.2|[![py](images/python.png)]()|
