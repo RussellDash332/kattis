@@ -1,0 +1,1 @@
+from math import*;N,D,T=map(int,input().split());V=[0]+sorted(D/sin(pi*k/N)for k in range(1,N));print(V[-2*T//N-1],V[-2*T//N])

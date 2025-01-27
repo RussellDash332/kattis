@@ -1,0 +1,11 @@
+Connect (-l, A[0]+h) to (I, A[I])
+Gradient = (A[I]-A[0]-h)/(I+l)
+Intercept = (A[0]+h) + (A[I]-A[0]-h)*l/(I+l)
+
+For i in (0, I) we must have
+(A[I]-A[0]-h)/(I+l)*i + (A[0]+h) + (A[I]-A[0]-h)*l/(I+l) >= A[i]
+
+Multiply both sides by (I+l)
+(A[I]-A[0]-h)*i + A[0]*(I+l) + h*(I+l) + (A[I]-A[0]-h)*l >= A[i]*(I+l)
+-h*i+h*(I+l)-h*l >= A[i]*(I+l) - (A[I]-A[0])*i - A[0]*(I+l) - (A[I]-A[0])*l
+h*(I-i) >= (A[i]-A[0])*(I+l) - (A[I]-A[0])*(i+l)
