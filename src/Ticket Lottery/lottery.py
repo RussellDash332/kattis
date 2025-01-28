@@ -1,0 +1,1 @@
+from math import*;C=comb;m,n,t,p=map(int,input().split());print(sum(C(m-p,n-k)*C(p,k)for k in range(ceil(p/t),n+1))/C(m,n))
