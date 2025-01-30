@@ -1,0 +1,1 @@
+from subprocess import*;print(len(check_output("factor "+input(),shell=True).split()))

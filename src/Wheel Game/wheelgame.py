@@ -1,0 +1,1 @@
+n=int(input())-2;print(['Destroy the robot before it is too late','The robot is your friend'][((1<<n%34)&286261520>0)^(n in[14,34])])
