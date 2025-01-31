@@ -1,0 +1,1 @@
+N,A,B=map(int,open(0).read().split());S,T=divmod(A+B,N);print(max(max(A,B)-S-(0<T),0)+max(min(A,B)-S-(1<T),0))

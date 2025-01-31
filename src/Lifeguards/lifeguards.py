@@ -1,0 +1,1 @@
+S=10**16;N=int(input());P=sorted([*map(int,input().split())]for _ in'.'*N);X,Y=P[N//2];print(X-S,Y-1,X+S,Y+N%2)
