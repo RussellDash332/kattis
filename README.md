@@ -1,7 +1,7 @@
 # Kattis Solutions
 ![Visitors](https://count.getloli.com/get/@RussellDash332)
 
-## Total problems solved: 2916
+## Total problems solved: 2918
 
 Note that the tables below are auto-generated using [autokattis](https://github.com/RussellDash332/autokattis).
 
@@ -2731,6 +2731,7 @@ For more Python data structure implementations, head over to [pytils](https://gi
 |[Triangle Text](https://open.kattis.com/problems/triangulartext)| triangulartext |4.6|[![py](images/python.png)](src/Triangle%20Text/triangulartext.py)|
 |[Triangle Area](https://open.kattis.com/problems/triarea)| triarea |1.3|[![py](images/python.png)]()|
 |[Number Trick](https://open.kattis.com/problems/trick)| trick |6.8|[![py](images/python.png)](src/Number%20Trick/trick.py)|
+|[Trick and Treat](https://open.kattis.com/problems/trickandtreat)| trickandtreat |7.0|[![py](images/python.png)](src/Trick%20and%20Treat/trickandtreat.py)|
 |[Trick or Treat](https://open.kattis.com/problems/tricktreat)| tricktreat |3.3|[![py](images/python.png)]()|
 |[Tricky Factoring](https://open.kattis.com/problems/trickyfactoring)| trickyfactoring |6.3|[![py](images/python.png)](src/Tricky%20Factoring/trickyfactoring.py)|
 |[Tricky Triangulation](https://open.kattis.com/problems/trickytriangulation)| trickytriangulation |7.1|[![py](images/python.png)](src/Tricky%20Triangulation/trickytriangulation.py)|
@@ -2753,6 +2754,7 @@ For more Python data structure implementations, head over to [pytils](https://gi
 |[Tug of War](https://open.kattis.com/problems/tugofwar)| tugofwar |7.0|[![py](images/python.png)](src/Tug%20of%20War/tugofwar.py)|
 |[Tunnelling the Earth](https://open.kattis.com/problems/tunnelingtheearth)| tunnelingtheearth |3.0|[![py](images/python.png)]()|
 |[Turbo](https://open.kattis.com/problems/turbo)| turbo |4.7|[![py](images/python.png)]()|
+|[Turning Trominos](https://open.kattis.com/problems/turningtrominos)| turningtrominos |4.9|[![py](images/python.png)](src/Turning%20Trominos/turningtrominos.py)|
 |[Turtle Master](https://open.kattis.com/problems/turtlemaster)| turtlemaster |2.9|[![py](images/python.png)]()|
 |[ICPC Tutorial](https://open.kattis.com/problems/tutorial)| tutorial |3.2|[![cpp](images/cpp.png)]()|
 |[Twenty Four, Again](https://open.kattis.com/problems/twentyfour)| twentyfour |6.7|[![py](images/python.png)](src/Twenty%20Four,%20Again/twentyfour.py)|
