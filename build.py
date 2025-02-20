@@ -2,7 +2,7 @@ import os
 from datetime import datetime
 from bs4 import BeautifulSoup as bs
 
-# Set up autokattis
+# Set up autokattis (hidden file)
 try:
     from ak import diff_mapper, nus_problems
 except:
@@ -35,8 +35,6 @@ image_mapper = {
 get_image = lambda e: f'images/{image_mapper[e]}.png'
 
 # Set up contents
-open_readme_contents = []
-nus_readme_contents = []
 open_html_contents = []
 nus_html_contents = []
 paths = set(); duplicate_paths = set()
@@ -69,10 +67,8 @@ for main_dir in ['src', 'Secret']:
             ext = file.split('.')[-1]
             if ext in image_mapper and file not in file_whitelist:
                 if main_dir == 'src':
-                    readme_image_links.add(f"[![{ext}]({get_image(ext)})]({ori_path}/{file})")
                     html_image_links.add((ext, f'https://raw.githubusercontent.com/RussellDash332/kattis/main/{ori_path}/{file}'))
                 else:
-                    readme_image_links.add(f"[![{ext}]({get_image(ext)})]()")
                     html_image_links.add((ext, '#'))
             if not has_cpp and ext == 'cpp':
                 has_cpp = file
@@ -83,7 +79,6 @@ for main_dir in ['src', 'Secret']:
             if not has_py and file not in file_whitelist and ext == 'py':
                 has_py = file
         has_java = min(has_java) if has_java else []
-        readme_image_links = sorted(readme_image_links)
         html_image_links = sorted(html_image_links)
 
         # Handle special cases
@@ -95,18 +90,15 @@ for main_dir in ['src', 'Secret']:
 
         if nus:
             url = f"https://nus.kattis.com/problems/{pid}"
-            nus_readme_contents.append([pid, f"|[{path}]({url})| {pid} |{''.join(readme_image_links).replace(' ','%20')}|\n"])
             nus_html_contents.append([pid, url, path, html_image_links])
             if nus_problems != None:
                 nus_problems.remove(pid)
         else:
             url = f"https://open.kattis.com/problems/{pid}"
             if diff_mapper != None:
-                open_readme_contents.append([pid, f"|[{path}]({url})| {pid} |{diff_mapper[pid]}|{''.join(readme_image_links).replace(' ','%20')}|\n"])
                 open_html_contents.append([pid, url, path, diff_mapper[pid], html_image_links])
                 diff_mapper.pop(pid)
             else:
-                open_readme_contents.append([pid, f"|[{path}]({url})| {pid} |{''.join(readme_image_links).replace(' ','%20')}|\n"])
                 open_html_contents.append([pid, url, path, html_image_links])
         if path in paths: duplicate_paths.add(path)
         paths.add(path)
@@ -119,9 +111,7 @@ print('Mapper exists:', diff_mapper != None)
 today = datetime.today().strftime('%d %B %Y')
 
 # Sort them all
-open_readme_contents.sort()
 open_html_contents.sort()
-nus_readme_contents.sort()
 nus_html_contents.sort()
 
 # For HTML
@@ -169,7 +159,15 @@ with open('docs/index.html') as html:
         # third column: difficulty
         if diff_mapper != None:
             td = soup.new_tag('td')
-            td.string = str(diff)
+            def get_square(diff):
+                try:
+                    diff = float(diff)
+                    if diff < 2.8: return '🟩'
+                    if diff < 5.5: return '🟨'
+                    return '🟥'
+                except:
+                    return '⬛'
+            td.string = str(diff) + ' ' + get_square(diff)
             tr.append(td)
 
         # fourth column: languages
@@ -228,32 +226,19 @@ with open('docs/index.html', 'w+', encoding='utf-8') as new_html:
 print('HTML build done!')
 
 # For README
+# Tables moved to HTML since the contents are now too big :)
 with open('README.md', 'r') as readme:
     lines = readme.readlines()[:3]
 with open('README.md', 'w+') as new_readme:
     for line in lines:
         new_readme.write(line)
-    new_readme.write(f'## Total problems solved: {len(open_readme_contents)}\n\n')
+    new_readme.write(f'## Total problems solved: {len(open_html_contents)}\n\n')
     new_readme.write('\n\n'.join([
-        'Note that the tables below are auto-generated using [autokattis](https://github.com/RussellDash332/autokattis).',
-        'You might find [this link](https://stackoverflow.com/questions/42843288/is-there-any-way-to-make-markdown-tables-sortable) useful to interact with the table.',
-        'For more Python data structure implementations, head over to [pytils](https://github.com/RussellDash332/pytils).'
+        '**For the full table of solved problems, refer to [this page](https://russelldash332.github.io/kattis) instead.**',
+        'Note that the tables there are auto-generated using [autokattis](https://github.com/RussellDash332/autokattis).',
+        '[![autokattis](https://github-readme-stats.vercel.app/api/pin/?theme=react&username=RussellDash332&repo=autokattis)](https://github.com/RussellDash332/autokattis)',
+        'For more Python data structure implementations, head over to [pytils](https://github.com/RussellDash332/pytils).',
+        '[![pytils](https://github-readme-stats.vercel.app/api/pin/?theme=react&username=RussellDash332&repo=pytils)](https://github.com/RussellDash332/pytils)'
     ])+'\n\n')
-
-    # Open Kattis
-    if diff_mapper != None:
-        new_readme.write('|Problem Name|Problem ID|Difficulty|Languages|\n|:---|:---|:---|:---|\n')
-    else:
-        new_readme.write('|Problem Name|Problem ID|Languages|\n|:---|:---|:---|\n')
-    for key, content in open_readme_contents:
-        new_readme.write(content)
-
-    # NUS Kattis
-    new_readme.write('\n\n'.join([
-        '\n## NUS-exclusive problems',
-        'These problems can only be found in NUS Kattis and therefore do not contribute to the number of problems solved.',
-        '|Problem Name|Problem ID|Languages|\n|:---|:---|:---|'
-    ])+'\n')
-    for key, content in nus_readme_contents:
-        new_readme.write(content)
+    new_readme.write(f'Last updated {today}, **plagiarize at your own risk**.')
 print('README build done!')
