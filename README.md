@@ -1,7 +1,7 @@
 # Kattis Solutions
 ![Visitors](https://count.getloli.com/get/@RussellDash332)
 
-## Total problems solved: 3049
+## Total problems solved: 3055
 
 **For the full table of solved problems, refer to [this page](https://russelldash332.github.io/kattis) instead.**
 
@@ -13,4 +13,4 @@ For more Python data structure implementations, head over to [pytils](https://gi
 
 [![pytils](https://github-readme-stats.vercel.app/api/pin/?theme=react&username=RussellDash332&repo=pytils)](https://github.com/RussellDash332/pytils)
 
-Last updated 08 March 2025, **plagiarize at your own risk**.
+Last updated 10 March 2025, **plagiarize at your own risk**.
