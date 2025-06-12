@@ -1,0 +1,2 @@
+import re; E = [r'"', r'\*', r"'"]
+for _ in range(int(input())): r, _ = map(int, input().split()); s = ''.join(input() for _ in range(r)); print(*(len(re.findall(r'(?=><([{(])\1*'+E[i]+r'>)', s))+len(re.findall(r'(?=<'+E[i]+r'([})])\1*><)', s)) for i in range(3)))

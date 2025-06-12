@@ -4,9 +4,9 @@ from bs4 import BeautifulSoup as bs
 
 # Set up autokattis (hidden file)
 try:
-    from ak import diff_mapper, nus_problems
+    from ak import diff_mapper, iceland_diff_mapper, nus_problems
 except:
-    diff_mapper = nus_problems = None
+    diff_mapper = iceland_diff_mapper = nus_problems = None
 
 # Files that do not contribute to the problem ID extraction
 file_whitelist = {'bnn_accuracy.py', 'testing_tool.py', 'unununion_find.py', 'comp.py'}
@@ -37,6 +37,7 @@ get_image = lambda e: f'images/{image_mapper[e]}.png'
 # Set up contents
 open_html_contents = []
 nus_html_contents = []
+iceland_html_contents = []
 paths = set(); duplicate_paths = set()
 
 # Go through local files
@@ -49,18 +50,17 @@ for main_dir in ['src', 'Secret']:
 
         # Black magic!
         if main_dir == 'src':
-            if len(path) == 2 and path[1] != '.nus':    path, nus = path[1], False
-            elif len(path) == 3 and path[1] == '.nus':  path, nus = path[2], True
+            if len(path) == 2 and path[1][0] != '.':    path, domain = path[1], 'open'
+            elif len(path) == 3 and path[1][0] == '.':  path, domain = path[2], path[1][1:] # .nus, .iceland
             else: continue
         else:
             if not files or path[-1] in ['TLE', 'WA', 'RTE', 'MLE', 'OLE', 'CE', 'Secret']: continue
-            elif len(path) == 5 and path[3] == '.nus':  path, nus = path[4], True
-            elif len(path) == 4 and path[2] == '.nus':  path, nus = path[3], True
-            elif len(path) == 4 and path[3] != '.nus':  path, nus = path[3], False
-            elif len(path) == 3 and path[2] != '.nus':  path, nus = path[2], False
+            elif len(path) == 5 and path[3][0] == '.':  path, domain = path[4], path[3][1:]
+            elif len(path) == 4 and path[2][0] == '.':  path, domain = path[3], path[2][1:]
+            elif len(path) == 4 and path[3][0] != '.':  path, domain = path[3], 'open'
+            elif len(path) == 3 and path[2][0] != '.':  path, domain = path[2], 'open'
             else: continue
 
-        readme_image_links = set()
         html_image_links = set()
         has_py = has_cpp = has_sh = False; has_java = []
         for file in sorted(files):
@@ -83,16 +83,24 @@ for main_dir in ['src', 'Secret']:
 
         # Handle special cases
         if path in pid_force_mapper:
-            has_py = has_cpp = has_java = has_sh = pid_force_mapper[path]
+            has_py = has_cpp = has_java = has_sh = pid_force_mapper[path] + '.dummy'
 
-        # Another split to handle variants like /autori
-        pid = (has_py or has_cpp or has_java or has_sh).split('.')[0].split('-')[0]
+        # Another split to handle variants
+        # e.g. autori-regex.py -> autori, iceland.test.py -> iceland.test
+        pid = '.'.join((has_py or has_cpp or has_java or has_sh).split('.')[:-1]).split('-')[0]
 
-        if nus:
+        if domain == 'nus':
             url = f"https://nus.kattis.com/problems/{pid}"
             nus_html_contents.append([pid, url, path, html_image_links])
             if nus_problems != None:
                 nus_problems.remove(pid)
+        elif domain == 'iceland':
+            url = f"https://iceland.kattis.com/problems/{pid}"
+            if iceland_diff_mapper != None:
+                iceland_html_contents.append([pid, url, path, iceland_diff_mapper[pid], html_image_links])
+                iceland_diff_mapper.pop(pid)
+            else:
+                iceland_html_contents.append([pid, url, path, html_image_links])
         else:
             url = f"https://open.kattis.com/problems/{pid}"
             if diff_mapper != None:
@@ -105,39 +113,34 @@ for main_dir in ['src', 'Secret']:
 
 # Sanity check before writing
 assert not duplicate_paths, duplicate_paths
+assert not iceland_diff_mapper, iceland_diff_mapper
 assert not diff_mapper, diff_mapper
 assert not nus_problems, nus_problems
-print('Mapper exists:', diff_mapper != None)
+print('Mapper exists:', f'(open: {diff_mapper != None}, iceland: {iceland_diff_mapper != None})')
 today = datetime.today().strftime('%d %B %Y')
 
 # Sort them all
 open_html_contents.sort()
 nus_html_contents.sort()
+iceland_html_contents.sort()
 
-# For HTML
-with open('docs/index.html') as html:
-    soup = bs(html, 'html.parser')
-    open_table = soup.find('table', {'id': 'open-kattis-table'})
-    nus_table = soup.find('table', {'id': 'nus-kattis-table'})
-
-    # Last updated
-    last_updated = soup.find('p', {'id': 'last-updated'})
-    last_updated.string = f'Last updated: {today}'
-
-    # Open Kattis
-    open_table.clear()
+def build_table(table, html_contents, diff_mapper):
+    table.clear()
     thead = soup.new_tag('thead')
     tr = soup.new_tag('tr')
+
     columns = ['Problem Name', 'Problem ID', 'Difficulty', 'Languages']
     if diff_mapper == None:
         columns.remove('Difficulty')
+
     for column in columns:
         th = soup.new_tag('th')
         th.string = column
         tr.append(th)
     thead.append(tr)
     tbody = soup.new_tag('tbody')
-    for row  in open_html_contents:
+
+    for row in html_contents:
         tr = soup.new_tag('tr')
         if diff_mapper == None:
             pid, url, path, image_links = row
@@ -156,7 +159,7 @@ with open('docs/index.html') as html:
         td.string = pid
         tr.append(td)
 
-        # third column: difficulty
+        # third column: difficulty?
         if diff_mapper != None:
             td = soup.new_tag('td')
             def get_square(diff):
@@ -170,7 +173,7 @@ with open('docs/index.html') as html:
             td.string = str(diff) + ' ' + get_square(diff)
             tr.append(td)
 
-        # fourth column: languages
+        # fourth (or third?) column: languages
         td = soup.new_tag('td')
         for ext, link in image_links:
             img = soup.new_tag('img', src=get_image(ext), alt=ext)
@@ -180,47 +183,30 @@ with open('docs/index.html') as html:
         tr.append(td)
 
         tbody.append(tr)
-    open_table.append(thead)
-    open_table.append(tbody)
+
+    table.append(thead)
+    table.append(tbody)
+
+# For HTML
+with open('docs/index.html') as html:
+    soup = bs(html, 'html.parser')
+    open_table = soup.find('table', {'id': 'open-kattis-table'})
+    nus_table = soup.find('table', {'id': 'nus-kattis-table'})
+    iceland_table = soup.find('table', {'id': 'iceland-kattis-table'})
+
+    # Last updated
+    last_updated = soup.find('p', {'id': 'last-updated'})
+    last_updated.string = f'Last updated: {today}'
+
+    # Open Kattis
+    build_table(open_table, open_html_contents, diff_mapper)
 
     # NUS Kattis
-    nus_table.clear()
-    thead = soup.new_tag('thead')
-    tr = soup.new_tag('tr')
-    columns = ['Problem Name', 'Problem ID', 'Languages']
-    for column in columns:
-        th = soup.new_tag('th')
-        th.string = column
-        tr.append(th)
-    thead.append(tr)
-    tbody = soup.new_tag('tbody')
-    for pid, url, path, image_links in nus_html_contents:
-        tr = soup.new_tag('tr')
+    build_table(nus_table, nus_html_contents, None)
 
-        # first column: problem name
-        td = soup.new_tag('td')
-        a = soup.new_tag('a', href=url)
-        a.string = path
-        td.append(a)
-        tr.append(td)
+    # Iceland Kattis
+    build_table(iceland_table, iceland_html_contents, iceland_diff_mapper)
 
-        # second column: problem ID
-        td = soup.new_tag('td')
-        td.string = pid
-        tr.append(td)
-
-        # third column: languages
-        td = soup.new_tag('td')
-        for ext, link in image_links:
-            img = soup.new_tag('img', src=get_image(ext), alt=ext)
-            a = soup.new_tag('a', href=link)
-            a.append(img)
-            td.append(a)
-        tr.append(td)
-
-        tbody.append(tr)
-    nus_table.append(thead)
-    nus_table.append(tbody)
 with open('docs/index.html', 'w+', encoding='utf-8') as new_html:
     new_html.write(str(soup.prettify()))
 print('HTML build done!')

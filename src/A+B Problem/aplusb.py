@@ -1,27 +1,25 @@
-from math import *
-
+import sys; input = sys.stdin.readline
 n = int(input())
 arr = list(map(int, input().split()))
 offset = -min(min(arr), 0)
 
+from cmath import *
 def fft(v, inv=False):
-    n = len(v)
-    if n == 1: return v
-    ye, yo = fft(v[::2], inv), fft(v[1::2], inv) 
-    y, a, wj = [0]*n, (2-4*inv)*pi/n, 1
-    w = complex(cos(a), sin(a))
-    for i in range(n//2):
-        y[i] = ye[i] + wj * yo[i]
-        y[i + n//2] = ye[i] - wj * yo[i]
-        wj *= w
-    return y
+    stack = [(2*len(v), v)]; tmp = []
+    while stack:
+        nb, v = stack.pop(); n, b = nb//2, nb%2
+        if b == 0:
+            if n == 1: tmp.append(v)
+            else: stack.append((2*n+1, v)), stack.append((n, v[1::2])), stack.append((n, v[::2]))
+        else:
+            yo, ye = tmp.pop(), tmp.pop(); y, wj = [0]*n, 1; w = exp(-1j*(2-4*inv)*pi/n)
+            for i in range(n//2): y[i] = ye[i]+wj*yo[i]; y[i+n//2] = ye[i]-wj*yo[i]; wj *= w
+            tmp.append(y)
+    return tmp[0]
 
-def mult(p1, p2):
-    n = 2**(len(bin(len(p1) + len(p2) - 1)) - 2)
-    p1 = p1 + [0]*(n - len(p1))
-    p2 = p2 + [0]*(n - len(p2))
-    fft1, fft2 = fft(p1), fft(p2)
-    return [round(t.real/n) for t in fft([fft1[i]*fft2[i] for i in range(n)], inv=True)]
+def sq(p):
+    n = 2**(len(bin(m:=2*len(p)-1))-2); tmp = fft(p+[0]*(n-len(p)))
+    return [round(t.real/n) for t in fft([tmp[i]**2 for i in range(n)], inv=True)][:m]
 
 p = [0]*(max(arr)+offset+1)
 for i in arr: p[i+offset] += 1
@@ -36,7 +34,8 @@ Handle the polynomial this way
 In case of 0's, decrease ans by 2z(n-1)
 """
 
-prod = mult(p, p)
+prod = sq(p)
+while len(prod) < 2*len(p): prod.append(0)
 for i in range(len(p)): prod[2*i] -= p[i]
 ans -= 2*z*(n-1)
 

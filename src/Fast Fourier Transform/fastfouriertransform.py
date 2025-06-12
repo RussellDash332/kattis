@@ -18,4 +18,6 @@ def mult(p1, p2):
     while len(p) > 1 and p[-1] == 0: p.pop()
     return p
 
-input(); print(*mult([*map(int, input().split())], [*map(int, input().split())]))
+import sys, os, io; input = io.BytesIO(os.read(0, os.fstat(0).st_size)).readline
+input()
+for i in mult([*map(int, input().split())], [*map(int, input().split())]): sys.stdout.write(str(i)+' ')

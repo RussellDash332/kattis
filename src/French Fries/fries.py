@@ -1,47 +1,21 @@
-import sys; input = sys.stdin.readline
-from cmath import *; from array import *
-
-# Want to evaluate P(x) * (x/2 + 1/(2x))^T
-# Aiming for partial (54/100) :)
-
-def fft(v, inv=False):
-    stack = [(2*len(v), v)]; tmp = []
-    while stack:
-        nb, v = stack.pop(); n, b = nb//2, nb%2
-        if b == 0:
-            if n == 1: tmp.append(v)
-            else: stack.append((2*n+1, v)), stack.append((n, v[1::2])), stack.append((n, v[::2]))
-        else:
-            yo, ye = tmp.pop(), tmp.pop(); y, wj = [0]*n, 1; w = exp(-1j*(2-4*inv)*pi/n)
-            for i in range(n//2): y[i] = ye[i]+wj*yo[i]; y[i+n//2] = ye[i]-wj*yo[i]; wj *= w
-            tmp.append(y)
-    return tmp[0]
-
-def mult(p1, p2):
-    if len(p2) < 4:
-        # brute-force it
-        q = [0]*(len(p1)+len(p2)-1)
-        for i in range(len(p1)):
-            for j in range(len(p2)): q[i+j] += p1[i]*p2[j]
-        return q
-    n = 2**(len(bin(m:=len(p1)+len(p2)-1))-2); fft1, fft2 = fft(p1+[0]*(n-len(p1))), fft(p2+[0]*(n-len(p2)))
-    return [t.real/n for t in fft([fft1[i]*fft2[i] for i in range(n)], inv=True)][:m]
-
-def mult_sparse(sp, p):
-    q = [0]*(max(sp)+len(p))
-    for i in sp:
-        for j in range(len(p)): q[i+j] += p[j]
-    return q
-
-def polypow(p, n):
-    while len(p) > 1 and abs(p[-1]) < 5e-12: p.pop()
-    if n == 1: return p
-    elif n%2: return mult(polypow(p, n-1), p)
-    return mult(q:=polypow(p, n//2), q)
-
-P, T, L = map(float, input().split()); P = round(P); T = round(T)
-X = array('i', map(int, input().split()))
-C = [0]*(max(X)+1)
-for i in X: C[i] = 1
-U = polypow([0.5, 0, 0.5], T)
-print(sum(i>=L for i in (mult(U, C) if P*T > 10**8 else mult_sparse({*X}, U))))
+import os, io; input = io.BytesIO(os.read(0, os.fstat(0).st_size)).readline; from math import *; from array import *
+W = 27500
+P, T, L = map(float, input().split()); P = round(P); T = round(T); X = array('I', map(int, input().split()))
+Z = array('f', [0]*(10**7+2*W+5)); D = array('f', [0]*(W//2+3))
+for i in range(min((T+1)//2, W//2)+1): D[i] = exp(lgamma(T+1)-lgamma(T//2+i+1)-lgamma((T+1)//2-i+1)-T*log(2))
+K = tuple((w, D[(abs(w)+1)//2]) for w in range(-W-T%2, W+1, 2) if D[(abs(w)+1)//2]); M = 5/4; Gp = array('f'); Go = array('I')
+for k in range(len(D)):
+    if 4*M/5 > D[k]: Gp.append(M:=D[k]); Go.append(k)
+if len(K) < 2*len(Gp):
+    for x in X:
+        for w, v in K: Z[x+w] += v
+    print(sum(i>=L for i in Z))
+else:
+    G = array('f', (Gp[i]-Gp[i-1] for i in range(len(Gp))))
+    for i in range(P): X[i] += W
+    for x in X:
+        for i in range(len(Gp)): Z[x-2*Go[~i+1]] -= G[-i]; Z[x+2*Go[i]-2] += G[i]
+        Z[x+2*Go[-1]] -= Gp[-1]
+    O = E = z = 0
+    for i in range(0, len(Z)-1, 2): z += (E>=L)+(O>=L); E += Z[i]; O += Z[i+1]
+    print(z)

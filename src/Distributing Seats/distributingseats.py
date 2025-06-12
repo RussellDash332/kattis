@@ -1,93 +1,107 @@
-class Vertex:
-    def __init__(self, v):
-        self.key, self.left, self.right, self.parent = v, None, None, None
-        self.height, self.size, self.count = 0, 1, 1
-
-class AVL:
-    def __init__(self):
-        self.root = None
-    def search(self, v):
-        res = self.helper_search(self.root, v)
-        return res.key if res != None else -10
-    def helper_search(self, t, v):
-        if t == None: return None
-        elif t.key == v: return t
-        elif t.key < v: return self.helper_search(t.right, v)
-        return self.helper_search(t.left, v)
-    def find_min(self):
-        return self.helper_find_min(self.root)
-    def helper_find_min(self, t):
-        if t == None: return None
-        if t.left == None: return t
-        return self.helper_find_min(t.left)
-    def successor(self, v):
-        self.insert(v); k = self.helper_successor_plus(self.helper_search(self.root, v)); self.delete(v); return k
-    def helper_successor_plus(self, t):
-        if t.right != None: return self.helper_find_min(t.right)
-        else:
-            par, cur = t.parent, t
-            while par != None and cur == par.right: cur, par = par, par.parent
-            return par
-    def update_height(self, t):
-        if t.left != None and t.right != None: t.height = max(t.left.height, t.right.height) + 1
-        elif t.left != None: t.height = t.left.height + 1
-        elif t.right != None: t.height = t.right.height + 1
-        else: t.height = 1
-    def update_size(self, t):
-        if t.left != None and t.right != None: t.size = t.left.size + t.right.size + t.count
-        elif t.left != None: t.size = t.left.size + t.count
-        elif t.right != None: t.size = t.right.size + t.count
-        else: t.size = t.count
-    def balance_factor(self, t):
-        if t.left != None and t.right != None: return t.left.height - t.right.height
-        elif t.left != None: return t.left.height + 1
-        elif t.right != None: return -1 - t.right.height
-        return 0
-    def insert(self, v, count=1):
-        def helper(t, v):
-            if t == None: x = Vertex(v); x.count = count; return x
-            if t.key < v: t.right = helper(t.right, v); t.right.parent = t
-            elif t.key > v: t.left = helper(t.left, v); t.left.parent = t
-            else: t.count += count
-            self.update_height(t), self.update_size(t); t = self.rebalance(t); return t
-        self.root = helper(self.root, v)
-    def delete(self, v, count=1):
-        def helper(t, v, count):
-            if t == None: return t
-            if t.key < v: t.right = helper(t.right, v, count)
-            elif t.key > v: t.left = helper(t.left, v, count)
-            else:
-                if t.count <= count:
-                    if t.left == None and t.right == None:      t = None
-                    elif t.left == None and t.right != None:    t.right.parent = t.parent; t = t.right
-                    elif t.left != None and t.right == None:    t.left.parent = t.parent; t = t.left
-                    else: successor_v = self.successor(v); t.key = successor_v.key; t.count = successor_v.count; t.right = helper(t.right, successor_v.key, successor_v.count)
-                else: t.count -= count
-            if t != None: self.update_height(t), self.update_size(t); t = self.rebalance(t)
-            return t
-        self.root = helper(self.root, v, count)
-    def rebalance(self, t):
-        if t == None: return t
-        if self.balance_factor(t) == 2:
-            if self.balance_factor(t.left) == -1: t.left = self.left_rotate(t.left)
-            t = self.right_rotate(t)
-        elif self.balance_factor(t) == -2:
-            if self.balance_factor(t.right) == 1: t.right = self.right_rotate(t.right)
-            t = self.left_rotate(t)
-        return t
-    def left_rotate(self, t):
-        w = t.right; w.parent = t.parent; t.parent = w; t.right = w.left
-        if w.left != None: w.left.parent = t
-        w.left = t; self.update_height(t), self.update_size(t), self.update_height(w), self.update_size(w); return w
-    def right_rotate(self, t):
-        w = t.left; w.parent = t.parent; t.parent = w; t.left = w.right
-        if w.right != None: w.right.parent = t
-        w.right = t; self.update_height(t), self.update_size(t), self.update_height(w), self.update_size(w); return w
-
 import sys; input = sys.stdin.readline; from array import *
-avl = AVL(); n, r, c = map(int, input().split()); A = array('i', [0]*r); Q = []
+from bisect import *
+class SortedList:
+    def __init__(s, A=None, l1=200, l2=64, mv=~(1<<30)):
+        s.l1 = l1; s.l2 = l2; s.x1 = s.l1*2; s.x2 = s.l2*2; s.g1 = len(bin(s.x1))-3; s.g2 = len(bin(s.x2))-3; s.mv = mv; s.clear()
+        if not A: return
+        s.cnt = len(A:=sorted(A))
+        for l in range(0, s.cnt, s.l1): s.b.append(A[l:min(l+s.l1, s.cnt)])
+        s._ex()
+    def clear(s): s.b = [[]]; s.bc = [0]; s.bm = [0]; s.sm = []; s.ss = []; s.cnt = 0
+    def __len__(s): return s.cnt
+    def _ex(s):
+        bo = [*s.b]; c = sum(map(bool, bo)); sn = (c+s.l2-1)//s.l2; ec = s.cnt; s.clear(); s.cnt = ec; s.sm.extend([s.mv]*sn); s.ss.extend([0]*sn); i = 0
+        for bk in bo:
+            if bk:
+                s.sm[i>>s.g2-1] = bk[-1]; s.ss[i>>s.g2-1] += 1; s.bm.append(bk[-1]); s.bc.append(len(bk)); s.b.append(bk); i += 1
+                if i&(s.l2-1) == 0 and i < c: s.b.extend([] for _ in range(s.l2)); s.bc.extend([0]*s.l2); s.bm.extend([0]*s.l2)
+        for i in range(1, len(s.bc)):
+            if i+(i&-i) < len(s.bc): s.bc[i+(i&-i)] += s.bc[i]
+    def __getitem__(s, k):
+        assert -s.cnt <= k < s.cnt; k %= s.cnt; bi = 0; i = 1<<(len(bin(len(s.bc)-1))-3)
+        while i:
+            if bi|i < len(s.bc) and k >= s.bc[bi|i]: k -= s.bc[bi:=bi|i]
+            i >>= 1
+        return s.b[bi+1][k]
+    def _lb(s, x):
+        if not s.ss: return (0, len(s.b[0]))
+        l = -1; r = len(s.ss)-1
+        while r-l > 1:
+            if s.sm[m:=(l+r)>>1] >= x: r = m
+            else: l = m
+        l = r<<s.g2; r = r<<s.g2|s.ss[r]
+        while r-l > 1:
+            if s.bm[m:=(l+r)>>1] >= x: r = m
+            else: l = m
+        return (r, bisect_left(s.b[r], x))
+    def _ub(s, x):
+        if not s.ss: return (0, len(s.b[0]))
+        l = -1; r = len(s.ss)-1
+        while r-l > 1:
+            if s.sm[m:=(l+r)>>1] >= x: r = m
+            else: l = m
+        l = r<<s.g2; r = r<<s.g2|s.ss[r]
+        while r-l > 1:
+            if s.bm[m:=(l+r)>>1] >= x: r = m
+            else: l = m
+        return (r, bisect(s.b[r], x))
+    def _rbm(s, b1, b2):
+        for i in range(b1, b2+1): s.bc[i] = 0
+        for i in range(b1, b2+1):
+            if s.b[i]: s.bc[i] += len(s.b[i]); s.bm[i] = s.b[i][-1]
+            if i+(i&-i) <= b2: s.bc[i+(i&-i)] += s.bc[i]
+        lo = (-b2&b2)//2
+        while lo >= s.x2: s.bc[b2] += s.bc[b2-lo]; lo >>= 1
+    def index(s, x):
+        if not s.ss: return 0
+        bi, rk = s._lb(x); i = bi-1
+        while i: rk += s.bc[i]; i ^= i&-i
+        return rk
+    def append(s, x):
+        s.cnt += 1
+        if not s.ss: s.b.append([x]); s.bc.append(1); s.bm.append(x); s.sm.append(x); s.ss.append(1); return
+        bi, it = s._lb(x); i = bi
+        while i < len(s.bc): s.bc[i] += 1; i += i&-i
+        s.b[bi].insert(it, x)
+        si = (bi-1)>>s.g2; s.bm[bi] = max(s.bm[bi], x); s.sm[si] = max(s.sm[si], x)
+        if len(s.b[bi]) >= s.x1:
+            bj = (si<<s.g2)|s.ss[si]; bn = si+1<<s.g2
+            if len(s.b) <= bn: s.b.insert(bi+1, s.b[bi][s.l1:]); s.bc.append(0); s.bm.append(0)
+            else: s.b[bi+2:bj+2] = s.b[bi+1:bj+1]; s.b[bi+1] = s.b[bi][s.l1:]
+            s.b[bi] = s.b[bi][:s.l1]; s.ss[si] += 1
+            if s.ss[si] == s.x2: s._ex()
+            else: s._rbm(si<<s.g2|1, min(bn, len(s.bc)-1))
+    def remove(s, x):
+        if not s.sm or s.sm[-1] < x: return
+        bi, it = s._lb(x)
+        if it == len(s.b[bi]) or s.b[bi][it] > x: return
+        s.cnt -= 1; i = bi
+        while i < len(s.bc): s.bc[i] -= 1; i += i&-i
+        s.b[bi].pop(it); si = (bi-1)>>s.g2; bj = (si<<s.g2)|s.ss[si]
+        if s.b[bi]:
+            s.bm[bi] = s.b[bi][-1]
+            if bi == bj: s.sm[si] = s.b[bi][-1]
+        else:
+            if len(s.b) <= (bn:=si+1<<s.g2):
+                s.b.pop(bi); s.bm.pop(bi); s.bc.pop(); s.ss[si] -= 1
+                if s.ss[si] == 0: s.sm.pop(); s.ss.pop()
+                else:
+                    s._rbm(si<<s.g2|1, len(s.bc)-1)
+                    if bi == bj: s.sm[si] = s.b[bj-1][-1]
+            else:
+                s.ss[si] -= 1
+                if s.ss[si] == 0: s._ex()
+                else:
+                    s.b[bi:bj] = s.b[bi+1:bj+1]; s.b[bj] = []; s._rbm(si<<s.g2|1, bn)
+                    if bi == bj: s.sm[si] = s.b[bj-1][-1]
+    def pop(s, k=-1): s.remove(v:=s[k]); return v
+
+n, r, c = map(int, input().split()); A = array('i', [0]*r); Q = []
 for _ in range(n): a, _, s = map(int, input().split()); Q.append((max(min(a-1+s, r-1), 0), max(min(a-1-s, r-1), 0)))
-for i in range(r): avl.insert(i, c)
+H = array('i', [c]*r)
+T = SortedList([*range(r)])
 for y, x in sorted(Q):
-    if avl.search(z:=x) == x or -1 < (z:=z.key if (z:=avl.successor(x)) else -10) <= y: A[z] += 1; avl.delete(z)
+    if ((idx:=T.index(z:=x)) < len(T) and T[idx] == x) or -1 < (z:=T[z] if (z:=T.index(x+1)) < len(T) else -10) <= y:
+        A[z] += 1
+        if A[z] == c: T.remove(z)
 print(sum(A))

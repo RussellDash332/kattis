@@ -42,19 +42,6 @@ def rref(A):
     #check_rref(A)
     return A
 
-def dist(a, b):
-    return hypot(a[0]-b[0], a[1]-b[1])
-
-def dot(a, b):
-    return a[0]*b[0] + a[1]*b[1]
-
-def norm(a):
-    return hypot(*a)
-
-def angle(a, o, b):
-    v1, v2 = (a[0]-o[0], a[1]-o[1]), (b[0]-o[0], b[1]-o[1])
-    return acos(dot(v1, v2)/(norm(v1)*norm(v2)))
-
 def ccw(p, q, r):
     return (q[0]-p[0])*(r[1]-p[1]) > (r[0]-p[0])*(q[1]-p[1])
 
@@ -70,12 +57,14 @@ def chull(pts):
         lower.append(pts[i])
     return upper[:-1] + lower[:-1]
 
-def pip(poly, p):
-    if not poly: return False
-    for i in range(len(poly)-1):
-        if abs(dist(poly[i], p) + dist(p, poly[i+1]) - dist(poly[i], poly[i+1])) < PREC: return True
-    s = sum((2*ccw(p, poly[i], poly[i+1])-1) * angle(poly[i], p, poly[i+1]) for i in range(len(poly)-1))
-    return abs(abs(s) - 2*pi) < PREC
+def pip(P, p):
+    z = False; n = len(P)
+    for i in range(n):
+        a = (P[i][0]-p[0], P[i][1]-p[1]); b = (P[(i+1)%n][0]-p[0], P[(i+1)%n][1]-p[1])
+        if a[1] > b[1]: a, b = b, a
+        if a[1] <= 0 and b[1] > 0 and a[0]*b[1] < a[1]*b[0]: z = not z
+        if a[0]*b[1] == a[1]*b[0] and a[0]*b[0]+a[1]*b[1] <= 0: return True
+    return z
 
 def check(ans):
     assert abs(sum(ans[i]*pp[i][0] for i in range(n))-x)<PREC

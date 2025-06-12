@@ -1,21 +1,19 @@
-def ntt(v, inv=False):
-    stack = [(2*len(v), v)]; tmp = []
-    while stack:
-        nb, v = stack.pop(); n, b = nb//2, nb%2
-        if b == 0:
-            if n == 1: tmp.append(v)
-            else: stack.append((2*n+1, v)), stack.append((n, v[1::2])), stack.append((n, v[::2]))
-        else:
-            yo, ye = tmp.pop(), tmp.pop(); y, wj = [0]*n, 1; w = pow(3, (M-1)//n*(1-2*inv), M) # 3 is a primitive root of M
-            for i in range(n//2): y[i] = (ye[i]+wj*yo[i])%M; y[i+n//2] = (ye[i]-wj*yo[i])%M; wj *= w; wj %= M
-            tmp.append(y)
-    return tmp[0]
+M = 998244353; R = [1]
+def ntt(P):
+    n = k = len(P); P = [*P]; Z = [0]*n
+    while 2*len(R) < n: u = pow(3, M//(4*len(R)), M); R.extend([r*u%M for r in R]) # 3 is a primitive root of M
+    while k > 1:
+        for i in range(n//k):
+            r = R[i]
+            for j in range(i*k, i*k+k//2): z = r*P[j+k//2]; P[j+k//2] = (P[j]-z)%M; P[j] = (P[j]+z)%M
+        k >>= 1
+    for i in range(1, n): Z[i] = Z[i//2]//2+(i&1)*n//2
+    return [P[r] for r in Z]
 
 def mult(p1, p2):
-    n = 2**(len(bin(m:=len(p1)+len(p2)-1))-2)
-    p1 += [0]*(n-len(p1)); p2 += [0]*(n-len(p2))
-    z = pow(n, -1, M); ntt1, ntt2 = ntt(p1), ntt(p2)
-    return [t*z%M for t in ntt([ntt1[i]*ntt2[i]%M for i in range(n)], inv=True)][:m]
+    m = len(p1)+len(p2)-1; n = 1
+    while n < m: n *= 2
+    p1 += [0]*(n-len(p1)); p2 += [0]*(n-len(p2)); ntt1 = ntt(p1); ntt2 = ntt(p2)
+    z = pow(n, -1, M); return ntt([ntt1[-i]*ntt2[-i]%M*z%M for i in range(n)])[:m]
 
-M = 998244353 # 2^23 * 7 * 17 + 1
 input(); print(*mult([*map(int, input().split())], [*map(int, input().split())]))

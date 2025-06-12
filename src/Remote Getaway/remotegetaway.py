@@ -1,0 +1,1 @@
+v,h,s,g=map(float,input().split());print('YNEOS'[s*s/g+2*v<g*h*h/s/s::2])

@@ -1,0 +1,1 @@
+F,G,T=map(int,input().split());from math import*;R=6378137;print(hypot(R*cos(a:=G*T/R)-R,R*sin(a)-F*T))

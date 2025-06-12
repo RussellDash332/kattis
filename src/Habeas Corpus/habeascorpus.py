@@ -1,0 +1,1 @@
+R,C,K=map(int,input().split());M=10**11+3;f=lambda x:x*(x+1)*(2*x+1)//3;g=lambda x:(x**3-x)*(x+2)//6;print((R*C*(R*C-2*K*(K+1)-1)+C*(f(K)-f(U:=max(K-R,0)))+R*(f(K)-f(V:=max(K-C,0)))-g(K)+g(U)+g(V)-g(max(K-R-C,0)))*pow(R*R*C*C,-1,M)%M)

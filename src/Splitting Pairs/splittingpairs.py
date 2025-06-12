@@ -1,0 +1,1 @@
+for _ in'.'*int(input()):n=int(input());a=[*map(int,input().split())];print(int([any(x%2<1for x in a),len({x&-x for x in a})>1][n%2]))

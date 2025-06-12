@@ -1,0 +1,1 @@
+exec("_,t,j=map(int,input().split());print('YNEOS'[j/t>4.6033::2]);"*int(input()))
