@@ -42,24 +42,23 @@ class State:
                     if self.O_left: result.append(State(self.board[:i]+'O'+self.board[i+1:], self.x_left, self.X_left, self.o_left, self.O_left-1, 1-self.turn))
         # replace any lowercase with new/existing uppercase
         # no use replacing own lowercase, so only consider o->X and x->O
-        ups = []; downs = []; b = [*self.board]; U = 'XO'[self.turn]; D = 'ox'[self.turn]
+        ups = []; downs = []; b = [*self.board]; U = 'XO'[self.turn]
         for i in range(9):
             if self.board[i] == U: ups.append(i)
-            if self.board[i] == D: downs.append(i)
+            if self.board[i] in 'ox': downs.append(i)
         for u in ups:
-            for d in downs: b[u], b[d] = '.', U; result.append(State(''.join(b), self.x_left, self.X_left, self.o_left, self.O_left, 1-self.turn)); b[u], b[d] = U, D
+            for d in downs: z = b[d]; b[u], b[d] = '.', U; result.append(State(''.join(b), self.x_left, self.X_left, self.o_left, self.O_left, 1-self.turn)); b[u], b[d] = U, z
         for d in downs:
             if self.turn == 0 and self.X_left: result.append(State(self.board[:d]+'X'+self.board[d+1:], self.x_left, self.X_left-1, self.o_left, self.O_left, 1-self.turn))
             if self.turn == 1 and self.O_left: result.append(State(self.board[:d]+'O'+self.board[d+1:], self.x_left, self.X_left, self.o_left, self.O_left-1, 1-self.turn))
         NEXT_CACHE[key] = result; return result
 
 def mm(state, depth=0):
-    if depth == 5: return 0
+    if depth == 2: return 0
     key = (state.board, state.x_left, state.X_left, state.o_left, state.O_left, state.turn)
     if key in MM_CACHE: return MM_CACHE[key]
     v = state.check()
-    if v:
-        MM_CACHE[key] = v; return v
+    if v: MM_CACHE[key] = v; return v
     z = -10**9 if state.turn == 0 else 10**9
     for s in state.next():
         if state.turn == 0:
@@ -78,21 +77,18 @@ def best(state):
     return b
 
 MM_CACHE = {}
-state = State()
-state = best(state)
+state = State().next()[9] # X in the middle
 state.print()
 while True:
-    b = input()
-    if '!' in b:
-        if b == 'Tap!':
-            1/0 # RTE bomb
-            while 1: 1 # TLE bomb
-        break # game over, win
-    b += input()+input()
-    f = state.next; state = None
-    for s in f():
-        if s.board == b: state = s; break
-    assert state, b
+    try:
+        b = input()
+        if '!' in b: break # game over, win
+        b += input()+input()
+    except:
+        break
+    nxt = None
+    for s in state.next():
+        if s.board == b: nxt = s; break
     MM_CACHE = {}
-    state = best(state)
+    state = best(nxt)
     state.print()

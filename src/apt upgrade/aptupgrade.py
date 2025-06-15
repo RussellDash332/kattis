@@ -1,0 +1,1 @@
+n,m,k,*s=map(int,open(0).read().split());s.sort();print(sum(s[-m-k:])/sum(s[-n:])*100)
