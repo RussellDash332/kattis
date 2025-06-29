@@ -11,10 +11,9 @@ def chull(pts):
         while len(lower) > 1 and not ccw(lower[-2], lower[-1], pts[i]): lower.pop()
         lower.append(pts[i])
     return upper[:-1] + lower[:-1]
-def area(p):
-    a, n = 0, len(p)
-    for i in range(n): a += p[i][0]*p[(i+1)%n][1]-p[i][1]*p[(i+1)%n][0]
-    return abs(a)
-import sys; input = sys.stdin.readline; P = []
-for _ in range(int(input())): x, y = map(int, input().split()); P.append((x, y))
-print(area(chull(P)))
+import sys; input = sys.stdin.readline; N = int(input()); V = {}
+for _ in range(N):
+    x, y = map(int, input().split())
+    if (x, y) in V: continue
+    V[(x, y)] = _+1
+C = [V[x] for x in chull([*V])]; m = C.index(min(C)); print(len(C)); print(*(C[m:]+C[:m]))
