@@ -1,0 +1,1 @@
+N,K,*A=map(int,open(0).read().split());A.sort();print(sum(A[(K//2+1)*(N//K)-1]<=x<=A[-(K//2+1)]for x in A))
