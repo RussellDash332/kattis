@@ -1,0 +1,1 @@
+n,*v,p=map(int,open(0));k=p+sum(v);print(*[z:=[~-k//n-i+1for i in v],['not possible']][min(z)<0])

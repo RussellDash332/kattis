@@ -1,0 +1,1 @@
+b=1;exec("print('?',b);x=int(input());x<b!=print('!',b-x)<exit();b*=2;"*42)

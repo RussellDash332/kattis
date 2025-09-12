@@ -1,0 +1,1 @@
+import re;print(int(eval(''.join(str([eval,str][x in'*/'](x))for x in re.split('([\*/])',input())))//1))

@@ -1,0 +1,1 @@
+print('YNeos'[(len(a:=[*map(int,open(0).read().split())])==180)*any([*(a.count(x)-3or x<1or x>60for x in a),*(a[2*i]==a[2*i+1]for i in range(len(a)//2))])::2])
