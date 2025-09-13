@@ -1,0 +1,1 @@
+n,*a=map(eval,open(0));m=sum(a)/(n or 1);print(sum(abs(v-m)>10for v in a))

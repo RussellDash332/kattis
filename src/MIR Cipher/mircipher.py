@@ -1,0 +1,1 @@
+_,s=input().split();print(''.join(chr((ord(i)-65+2**k)%26+65)for k,i in enumerate(s)))

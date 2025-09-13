@@ -1,0 +1,1 @@
+from math import*;s,r,m=map(int,input().split());v=ceil(log(~-s*m/r/s+1)/log(s));f=lambda t:min(r*(s**t-1)/~-s,m)/t;print(max(range(max(v-3,1),v+5),key=f)-1)

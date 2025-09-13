@@ -1,0 +1,1 @@
+n=int(input());k=int(n**.5);print(2*sum(n//i for i in range(1,k+1))-k*k)
