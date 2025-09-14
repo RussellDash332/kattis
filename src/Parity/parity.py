@@ -1,0 +1,1 @@
+while(s:=input().strip())>'#':print(s[:-1]+'01'[(sum(map(int,s[:-1]))%2)^(s[-1]>'e')])

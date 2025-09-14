@@ -1,0 +1,1 @@
+N,*A=map(int,open(0).read().split());print(sum(max(b-a,0)for a,b in zip(A,A[1:])))
