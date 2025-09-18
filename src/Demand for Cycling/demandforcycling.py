@@ -1,0 +1,1 @@
+P=[tuple(map(int,s.split()))for s in open(0)][1:];a,b,c,d=[f(p[g]for p in P)for f in(max,min)for g in(0,1)];print(4,a,b,c,b,c,d,a,d)

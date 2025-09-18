@@ -1,0 +1,1 @@
+l,r=map(int,input().split());n=l+r;print({0:n+n//2,1:n,2:n+n//2}.get(l-r,2*n))
