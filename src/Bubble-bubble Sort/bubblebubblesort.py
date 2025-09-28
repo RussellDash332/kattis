@@ -1,0 +1,1 @@
+n,k,*a=map(int,open(0).read().split());p,q=[{e:i for i,e in enumerate(k)}for k in[a,sorted(a)]];print(~-max(p[i]-q[i]for i in p)//~-k+1)

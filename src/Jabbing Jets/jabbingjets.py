@@ -1,0 +1,1 @@
+from math import*;n,e,*r=map(int,open(0).read().split());print(sum(1if e>x*2else int(pi/asin(e/2/x)+5e-6)for x in r))
