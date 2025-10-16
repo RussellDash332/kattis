@@ -1,0 +1,1 @@
+C=complex;P=[C(*map(int,s.split()))for s in[*open(0)][1:]];M=C(*max((abs(p-P[0]),p.real,p.imag)for p in P)[1:]);P.sort(key=lambda p:abs(p-M));print(sum(abs(a-b)for a,b in zip(P,P[1:])))
