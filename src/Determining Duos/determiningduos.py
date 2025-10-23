@@ -1,0 +1,1 @@
+R=range;n,m,*a=map(int,open(0).read().split());print('im'*any([x^1for x in k]!=[*k[::-1]]for k in zip(*sorted([[n<a[2*n*j+i]for j in R(m)]for i in R(2*n)])))+'possible')
