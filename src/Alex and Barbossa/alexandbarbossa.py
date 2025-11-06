@@ -1,0 +1,1 @@
+k,m,n=map(int,input().split());k%=m+n;print(['Barbossa','Alex'][[1,(k//m)%2][k<n]])

@@ -1,0 +1,1 @@
+n,*a=map(int,open(0).read().split());p=[s:=0]+[s:=s+i for i in a];print(max(max(p[(n+i+1)//2]-p[i],p[i+1]-p[i-i//2])for i in range(n)))
