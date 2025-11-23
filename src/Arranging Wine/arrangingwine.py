@@ -1,0 +1,1 @@
+M=10**9+7;R,W,d=map(int,input().split());F=[f:=1]+[f:=f*-~i%M for i in range(W+R)];print(sum((-1)**i*F[x+W]*pow(F[i]*F[W+1-i]*F[x]%M,-1,M)for i in range(W+2)if(x:=R+i*~d)>=0)*-~W%M)

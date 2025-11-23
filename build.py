@@ -14,7 +14,7 @@ file_whitelist = {'bnn_accuracy.py', 'testing_tool.py', 'unununion_find.py', 'co
 # Force-map problem name to problem ID due to filename issues
 pid_force_mapper = {
     '99 Problems (2)': '99problems2',
-    '10 Kinds of People': '10kindsofpeople'
+    '10 Kinds of People (1)': '10kindsofpeople'
 }
 
 # Image credits to https://languages.abranhe.com/
