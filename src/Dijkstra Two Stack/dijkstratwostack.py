@@ -1,0 +1,1 @@
+M=10**9+7;add=lambda x,y:(x+y)%M;sqr=lambda x:x*x%M;print(eval(input()))
