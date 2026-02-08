@@ -1,0 +1,1 @@
+from bisect import*;n,k,*a=map(int,open(0).read().split());p=sorted([s:=0]+[s:=min(s+i,0)for i in a[:n]]);print(*(bisect(p,-5*i)for i in a[n:]))

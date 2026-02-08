@@ -1,0 +1,1 @@
+from collections import*;A,B,K,*V=map(int,open(0).read().split());print(max(K-(Counter(V[10:])-Counter((V[j]+[A,B][i&(1<<j)>0])>>1for j in range(10))).total()for i in range(1024)))
