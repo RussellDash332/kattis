@@ -1,0 +1,1 @@
+from math import*;m,h,v,x,a,k=map(int,input().split());T=hypot(m+h*k-x,v*k-16*k*k)/a;print(*[['start running'],[k-T,acos((m+h*k-x)/a/T)*180/pi]][0<T<k<v/16])
