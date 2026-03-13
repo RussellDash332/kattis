@@ -7,4 +7,4 @@ if n%8 == 7: print(-1); exit()
 for i in range(n):
     z = n-i*i; m = 1
     while z%2 == 0: z //= 2; m *= 2
-    if all(k%4==1 for k in map(int, subprocess.check_output(f"factor {z}|cut -d':' -f2",shell=True).split())): find(z*m, i, f)
+    if all(k%4==1 for k in map(int, subprocess.check_output(f"factor {z}",shell=1).split()[1:])): find(z*m, i, f)

@@ -21,7 +21,6 @@ def pollard_rho_brent(n):
         y = randint(1, n-1); c = randint(1, n-1); m = randint(1, n-1); g = r = q = 1
         while g == 1:
             x = y; k = 0
-            for _ in range(r): y = (y*y+c)%n
             while k < r and g == 1:
                 s = y
                 for _ in range(min(m, r-k)): y = (y*y+c)%n; q = q*abs(x-y)%n

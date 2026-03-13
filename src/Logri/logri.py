@@ -1,1 +1,1 @@
-import subprocess;print(max(map(int,subprocess.check_output(f"factor {int(input())-1}|cut -d':' -f2",shell=True).split())))
+import subprocess;print(int(subprocess.check_output(f"factor {int(input())-1}",shell=1).split()[-1]))

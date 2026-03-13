@@ -1,7 +1,7 @@
 import os, subprocess; from collections import *; from random import *; from bisect import *
 def div(n):
     D = [1]
-    for k, v in Counter(map(int, subprocess.check_output(f"factor {n}|cut -d':' -f2",shell=True).split())).items():
+    for k, v in Counter(map(int, subprocess.check_output(f"factor {n}|cut -d':' -f2",shell=1).split())).items():
         d = len(D); p = 1
         for _ in range(v):
             p *= k

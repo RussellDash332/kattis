@@ -17,7 +17,7 @@ def corn(p):
 import subprocess
 p=int(input());z=[];k=1
 if p==0:print('1\n0^2 + 0^2 = 0'),exit(0)
-for f in map(int, subprocess.check_output(f"factor {p}|cut -d':' -f2",shell=True).split()):
+for f in map(int,subprocess.check_output(f"factor {p}",shell=1).split()[1:]):
  if f%4==3:k*=f
  else:z.append(corn(f))
 Z={(0,1)};g=lambda x:f'({x})'if x<0else x
