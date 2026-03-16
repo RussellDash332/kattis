@@ -1,0 +1,1 @@
+n=int(input());s=input();t=[i for i in range(n)if'#'<s[i]];print(min(b-a-1for a,b in zip(t,t[1:])))

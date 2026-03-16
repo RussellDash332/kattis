@@ -1,0 +1,1 @@
+A,P=map(int,input().split());S=7*A-13*P;print('PlAeixtkerala'[(S>0)+(S>=0)::3])

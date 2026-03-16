@@ -4,9 +4,9 @@ from bs4 import BeautifulSoup as bs
 
 # Set up autokattis (hidden file)
 try:
-    from ak import diff_mapper, iceland_diff_mapper, nus_problems
+    from ak import diff_mapper, iceland_diff_mapper, po2punkt0_diff_mapper, nus_problems
 except:
-    diff_mapper = iceland_diff_mapper = nus_problems = None
+    diff_mapper = iceland_diff_mapper = po2punkt0_diff_mapper = nus_problems = None
 
 # Files that do not contribute to the problem ID extraction
 file_whitelist = {'bnn_accuracy.py', 'testing_tool.py', 'unununion_find.py', 'comp.py'}
@@ -38,6 +38,7 @@ get_image = lambda e: f'images/{image_mapper[e]}.png'
 open_html_contents = []
 nus_html_contents = []
 iceland_html_contents = []
+po2punkt0_html_contents = []
 paths = set(); duplicate_paths = set()
 
 # Go through local files
@@ -101,6 +102,13 @@ for main_dir in ['src', 'Secret']:
                 iceland_diff_mapper.pop(pid)
             else:
                 iceland_html_contents.append([pid, url, path, html_image_links])
+        elif domain == 'po2punkt0':
+            url = f"https://po2punkt0.kattis.com/problems/{pid}"
+            if po2punkt0_diff_mapper != None:
+                po2punkt0_html_contents.append([pid, url, path, po2punkt0_diff_mapper[pid], html_image_links])
+                po2punkt0_diff_mapper.pop(pid)
+            else:
+                po2punkt0_html_contents.append([pid, url, path, html_image_links])
         else:
             url = f"https://open.kattis.com/problems/{pid}"
             if diff_mapper != None:
@@ -113,16 +121,20 @@ for main_dir in ['src', 'Secret']:
 
 # Sanity check before writing
 assert not duplicate_paths, duplicate_paths
-assert not iceland_diff_mapper, iceland_diff_mapper
-assert not diff_mapper, diff_mapper
-assert not nus_problems, nus_problems
-print('Mapper exists:', f'(open: {diff_mapper != None}, iceland: {iceland_diff_mapper != None})')
+assert not any([iceland_diff_mapper, po2punkt0_diff_mapper, diff_mapper, nus_problems]), {
+    'iceland': iceland_diff_mapper,
+    'po2punkt0': po2punkt0_diff_mapper,
+    'open': diff_mapper,
+    'nus': nus_problems
+}
+print('Mapper exists:', f'(open: {diff_mapper != None}, iceland: {iceland_diff_mapper != None}, po2punkt0: {po2punkt0_diff_mapper != None})')
 today = datetime.today().strftime('%d %B %Y')
 
 # Sort them all
 open_html_contents.sort()
 nus_html_contents.sort()
 iceland_html_contents.sort()
+po2punkt0_html_contents.sort()
 
 def build_table(table, html_contents, diff_mapper):
     table.clear()
@@ -193,6 +205,7 @@ with open('docs/index.html') as html:
     open_table = soup.find('table', {'id': 'open-kattis-table'})
     nus_table = soup.find('table', {'id': 'nus-kattis-table'})
     iceland_table = soup.find('table', {'id': 'iceland-kattis-table'})
+    po2punkt0_table = soup.find('table', {'id': 'po2punkt0-kattis-table'})
 
     # Last updated
     last_updated = soup.find('p', {'id': 'last-updated'})
@@ -206,6 +219,9 @@ with open('docs/index.html') as html:
 
     # Iceland Kattis
     build_table(iceland_table, iceland_html_contents, iceland_diff_mapper)
+
+    # Sweden PO2.0 Kattis
+    build_table(po2punkt0_table, po2punkt0_html_contents, po2punkt0_diff_mapper)
 
 with open('docs/index.html', 'w+', encoding='utf-8') as new_html:
     new_html.write(str(soup.prettify()))

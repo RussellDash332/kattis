@@ -1,0 +1,1 @@
+print('NLoitt e1r9a8l4l.y. .1 9y8e4t'[int(input())==1984::2])
