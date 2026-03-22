@@ -1,0 +1,1 @@
+from math import*;n,k=map(int,input().split());print(comb(n+k-1,k))

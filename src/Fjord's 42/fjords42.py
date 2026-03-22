@@ -1,0 +1,1 @@
+M=10**9+7;n,m=map(int,input().split());print((pow(3,m,M)*pow(2,n-2*m,M)-1)%M)

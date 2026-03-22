@@ -42,6 +42,7 @@ po2punkt0_html_contents = []
 paths = set(); duplicate_paths = set()
 
 # Go through local files
+key_errors = []
 for main_dir in ['src', 'Secret']:
     for path, dirs, files in os.walk(main_dir):
         if os.path.join('Secret', '.git') in path:
@@ -97,29 +98,39 @@ for main_dir in ['src', 'Secret']:
                 nus_problems.remove(pid)
         elif domain == 'iceland':
             url = f"https://iceland.kattis.com/problems/{pid}"
-            if iceland_diff_mapper != None:
-                iceland_html_contents.append([pid, url, path, iceland_diff_mapper[pid], html_image_links])
-                iceland_diff_mapper.pop(pid)
-            else:
-                iceland_html_contents.append([pid, url, path, html_image_links])
+            try:
+                if iceland_diff_mapper != None:
+                    iceland_html_contents.append([pid, url, path, iceland_diff_mapper[pid], html_image_links])
+                    iceland_diff_mapper.pop(pid)
+                else:
+                    iceland_html_contents.append([pid, url, path, html_image_links])
+            except:
+                key_errors.append(pid)
         elif domain == 'po2punkt0':
             url = f"https://po2punkt0.kattis.com/problems/{pid}"
-            if po2punkt0_diff_mapper != None:
-                po2punkt0_html_contents.append([pid, url, path, po2punkt0_diff_mapper[pid], html_image_links])
-                po2punkt0_diff_mapper.pop(pid)
-            else:
-                po2punkt0_html_contents.append([pid, url, path, html_image_links])
+            try:
+                if po2punkt0_diff_mapper != None:
+                    po2punkt0_html_contents.append([pid, url, path, po2punkt0_diff_mapper[pid], html_image_links])
+                    po2punkt0_diff_mapper.pop(pid)
+                else:
+                    po2punkt0_html_contents.append([pid, url, path, html_image_links])
+            except:
+                key_errors.append(pid)
         else:
             url = f"https://open.kattis.com/problems/{pid}"
-            if diff_mapper != None:
-                open_html_contents.append([pid, url, path, diff_mapper[pid], html_image_links])
-                diff_mapper.pop(pid)
-            else:
-                open_html_contents.append([pid, url, path, html_image_links])
+            try:
+                if diff_mapper != None:
+                    open_html_contents.append([pid, url, path, diff_mapper[pid], html_image_links])
+                    diff_mapper.pop(pid)
+                else:
+                    open_html_contents.append([pid, url, path, html_image_links])
+            except:
+                key_errors.append(pid)
         if path in paths: duplicate_paths.add(path)
         paths.add(path)
 
 # Sanity check before writing
+assert not key_errors, key_errors
 assert not duplicate_paths, duplicate_paths
 assert not any([iceland_diff_mapper, po2punkt0_diff_mapper, diff_mapper, nus_problems]), {
     'iceland': iceland_diff_mapper,

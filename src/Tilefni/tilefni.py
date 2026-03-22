@@ -1,0 +1,1 @@
+import subprocess,collections;print(min(collections.Counter(map(int,subprocess.check_output(f"factor {int(input())}",shell=True).split()[1:])).values()))

@@ -1,0 +1,1 @@
+n,*a=map(int,open(0).read().split());print(k:=a.index(max(a)),k)
