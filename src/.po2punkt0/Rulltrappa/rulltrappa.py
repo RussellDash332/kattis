@@ -1,0 +1,1 @@
+m,s,g,a,b,l,r=map(eval,open(0).read().split());print('lfartimsaksuks'[m/g+l/a<m/s+r/b::2])
