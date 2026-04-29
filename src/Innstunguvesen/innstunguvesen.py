@@ -1,0 +1,1 @@
+n,r,*b=map(eval,open(s:=0).read().split());p=[0]+[s:=s+i for i in sorted(b)];print(min([p[k]/(k-r-1)for k in range(n+1)if k>r+1],default='Endalaust rafmagn'))

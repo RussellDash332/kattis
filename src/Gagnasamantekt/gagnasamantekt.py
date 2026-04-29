@@ -1,0 +1,1 @@
+from statistics import*;N,*A=map(int,open(0).read().split());print(min(A),max(A),mode(A),median_high(A),mean(A))

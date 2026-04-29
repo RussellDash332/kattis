@@ -1,0 +1,1 @@
+x,n,p=map(int,input().split());p/=1e4;print(x*p/(1-(1+p)**-n))

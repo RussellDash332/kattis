@@ -1,1 +1,1 @@
-from math import*;m,h,v,x,a,k=map(int,input().split());T=hypot(m+h*k-x,v*k-16*k*k)/a;print(*[['start running'],[k-T,acos((m+h*k-x)/a/T)*180/pi]][0<T<k<v/16])
+from cmath import*;m,h,v,x,a,k=map(int,input().split());r,p=polar(m-x+(h+v*1j-16j*k)*k);print(*[['start running'],[T:=k-r/a,p*57.3]][p>0<T])
