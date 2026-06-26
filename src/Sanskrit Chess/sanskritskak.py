@@ -1,0 +1,1 @@
+s=open(0).read();print(['Spennan er i hámarki!','Hvítur','Svartur'][('k'in s)-('K'in s)])

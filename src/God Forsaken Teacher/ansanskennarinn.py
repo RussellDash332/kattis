@@ -1,0 +1,1 @@
+from math import*;n,*a=map(int,open(0).read().split());g=gcd(*(a[i+1]-a[i]for i in range(n-1)));s={*a};print(g:=(-g,g)[a[1]>a[0]],*sorted(i for i in range(a[0],a[-1],g)if i not in s))

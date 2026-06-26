@@ -1,1 +1,0 @@
-x,y,z=map(int,open(0));print('NJeeibbbb'[x*x<=y*y*z::2])

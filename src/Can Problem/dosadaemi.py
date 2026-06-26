@@ -1,0 +1,1 @@
+from math import*;a,b,c,d,e,f,g,h=map(int,open(0).read().split());t=2*((a-e)*(g-e)+(b-f)*(h-f))/hypot(g-e,h-f)**2;print([hypot(c-a,d-b),hypot(2*e+t*(g-e)-a-c,2*f+t*(h-f)-b-d)][((b-f)*(g-e)-(a-e)*(h-f))*((d-f)*(g-e)-(c-e)*(h-f))>0])
