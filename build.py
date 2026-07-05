@@ -9,7 +9,7 @@ except:
     diff_mapper = iceland_diff_mapper = po2punkt0_diff_mapper = nus_problems = None
 
 # Files that do not contribute to the problem ID extraction
-file_whitelist = {'bnn_accuracy.py', 'testing_tool.py', 'unununion_find.py', 'comp.py'}
+file_whitelist = {'bnn_accuracy.py', 'testing_tool.py', 'unununion_find.py', 'comp.py', 'catchtest.py'}
 
 # Force-map problem name to problem ID due to filename issues
 pid_force_mapper = {
