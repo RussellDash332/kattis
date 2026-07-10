@@ -1,0 +1,1 @@
+for _ in'.'*int(input()):N,M=map(int,input().split());K,L=divmod(N+M,N-1);print((~-N*~-K+L+L)*K//2)
