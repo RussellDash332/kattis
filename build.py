@@ -249,9 +249,9 @@ with open('README.md', 'w+') as new_readme:
     new_readme.write('\n\n'.join([
         '**For the full table of solved problems, refer to [this page](https://russelldash332.github.io/kattis) instead.**',
         'Note that the tables there are auto-generated using [autokattis](https://github.com/RussellDash332/autokattis).',
-        '[![autokattis](https://github-readme-stats.vercel.app/api/pin/?theme=react&username=RussellDash332&repo=autokattis)](https://github.com/RussellDash332/autokattis)',
+        '[![autokattis](https://github-stats-extended.vercel.app/api/pin/?theme=react&username=RussellDash332&repo=autokattis)](https://github.com/RussellDash332/autokattis)',
         'For more Python data structure implementations, head over to [pytils](https://github.com/RussellDash332/pytils).',
-        '[![pytils](https://github-readme-stats.vercel.app/api/pin/?theme=react&username=RussellDash332&repo=pytils)](https://github.com/RussellDash332/pytils)'
+        '[![pytils](https://github-stats-extended.vercel.app/api/pin/?theme=react&username=RussellDash332&repo=pytils)](https://github.com/RussellDash332/pytils)'
     ])+'\n\n')
     new_readme.write(f'Last updated {today}, **plagiarize at your own risk**.')
 print('README build done!')
