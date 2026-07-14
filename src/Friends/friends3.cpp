@@ -2,34 +2,39 @@
 #define lb lower_bound
 #define FOR(n) for(int i = 0; i < n; ++i)
 using namespace std;
+#define ll long long
 
-const long M = 1e9+7;
-static set<long> T;
-static long Z;
+const ll M = 1e9+7;
+static set<ll> T;
+static ll Z;
 
-void add(long x) {
+void add(ll x) {
     auto s = T.lb(x*M+x);
     auto p = T.lb(x*M+x);
-    long a = x, b = x;
+    ll a = x, b = x;
     if (p != T.begin()) p--;
     if (p != T.end() && (*p)%M == x-1) {
+        ll v = *p;
         T.erase(p);
-        Z -= ((*p)%M-(*p)/M+1)*((*p)%M-(*p)/M+1);
-        a = (*p)/M;
+        Z -= (v%M-v/M+1)*(v%M-v/M+1);
+        a = v/M;
     }
     if (s != T.end() && (*s)/M == x+1) {
+        ll v = *s;
         T.erase(s);
-        Z -= ((*s)%M-(*s)/M+1)*((*s)%M-(*s)/M+1);
-        b = (*s)%M;
+        Z -= (v%M-v/M+1)*(v%M-v/M+1);
+        b = v%M;
     }
     T.insert(a*M+b);
     Z += (b-a+1)*(b-a+1);
 }
-void remove(long x) {
+
+void remove(ll x) {
     auto p = T.lb(x*M+M-1);
     p--;
+    ll v = *p;
     T.erase(p);
-    long a = (*p)/M, b = (*p)%M;
+    ll a = v/M, b = v%M;
     Z -= (b-a+1)*(b-a+1);
     if (x > a) {
         Z += (x-a)*(x-a);
@@ -49,6 +54,6 @@ void jump(int A, int B) {
     remove(A); add(B);
 }
 
-long long score() {
-	return Z;
+ll score() {
+    return Z;
 }
