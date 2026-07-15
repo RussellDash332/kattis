@@ -8,7 +8,7 @@ while q:
         a[i] -= u; z += u; ok = 1; r, m = divmod(u, w>>i)
         if h-(r+(m>0)<<i): heappush(q, (-w, h-(r+(m>0)<<i)))
         if m: heappush(q, (-w+(m<<i), 1<<i))
-        if w-(w>>i<<i): heappush(q, (-w+(w>>i<<i), r<<i))
+        if r and w-(w>>i<<i): heappush(q, (-w+(w>>i<<i), r<<i))
         break
     if not ok: print(-1); exit()
 print(z)
