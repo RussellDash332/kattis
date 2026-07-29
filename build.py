@@ -5,9 +5,9 @@ from bs4 import BeautifulSoup as bs
 
 # Set up autokattis (hidden file)
 try:
-    from ak import diff_mapper, iceland_diff_mapper, po_diff_mapper, nus_problems
+    from ak import diff_mapper, iceland_diff_mapper, po_diff_mapper, saio_diff_mapper, nus_problems
 except:
-    diff_mapper = iceland_diff_mapper = po_diff_mapper = nus_problems = None
+    diff_mapper = iceland_diff_mapper = po_diff_mapper = saio_diff_mapper = nus_problems = None
 
 # Files that do not contribute to the problem ID extraction
 file_whitelist = {'bnn_accuracy.py', 'testing_tool.py', 'unununion_find.py', 'comp.py', 'catchtest.py'}
@@ -40,6 +40,7 @@ open_html_contents = []
 nus_html_contents = []
 iceland_html_contents = []
 po_html_contents = []
+saio_html_contents = []
 paths = set(); duplicate_paths = set()
 
 # Go through local files
@@ -58,8 +59,10 @@ for main_dir in ['src', 'Secret']:
             else: continue
         else:
             if not files or path[-1] in ['TLE', 'WA', 'RTE', 'MLE', 'OLE', 'CE', 'Secret']: continue
-            elif len(path) == 5 and path[3][0] == '.':  path, domain = path[4], path[3][1:]
+            if len(path) == 5 and path[3][0] == '.':  path, domain = path[4], path[3][1:]
             elif len(path) == 4 and path[2][0] == '.':  path, domain = path[3], path[2][1:]
+            elif len(path) == 3 and path[1][0] == '.': path, domain = path[2], path[1][1:] # .saio
+            elif len(path) > 3 and path[1][0] == '.': continue
             elif len(path) == 4 and path[3][0] != '.':  path, domain = path[3], 'open'
             elif len(path) == 3 and path[2][0] != '.':  path, domain = path[2], 'open'
             else: continue
@@ -117,6 +120,16 @@ for main_dir in ['src', 'Secret']:
                     po_html_contents.append([pid, url, path, html_image_links])
             except:
                 key_errors.append(pid)
+        elif domain == 'saio':
+            url = f"https://saio.kattis.com/problems/{pid}"
+            try:
+                if saio_diff_mapper != None:
+                    saio_html_contents.append([pid, url, path, saio_diff_mapper[pid], html_image_links])
+                    saio_diff_mapper.pop(pid)
+                else:
+                    saio_html_contents.append([pid, url, path, html_image_links])
+            except:
+                key_errors.append(pid)
         else:
             url = f"https://open.kattis.com/problems/{pid}"
             try:
@@ -133,13 +146,14 @@ for main_dir in ['src', 'Secret']:
 # Sanity check before writing
 assert not key_errors, key_errors
 assert not duplicate_paths, duplicate_paths
-assert not any([iceland_diff_mapper, po_diff_mapper, diff_mapper, nus_problems]), {
+assert not any([iceland_diff_mapper, po_diff_mapper, saio_diff_mapper, diff_mapper, nus_problems]), {
     'iceland': iceland_diff_mapper,
     'po': po_diff_mapper,
+    'saio': saio_diff_mapper,
     'open': diff_mapper,
     'nus': nus_problems
 }
-print('Mapper exists:', f'(open: {diff_mapper != None}, iceland: {iceland_diff_mapper != None}, po: {po_diff_mapper != None})')
+print('Mapper exists:', f'(open: {diff_mapper != None}, iceland: {iceland_diff_mapper != None}, po: {po_diff_mapper != None}, saio: {saio_diff_mapper != None})')
 today = datetime.today().strftime('%d %B %Y')
 
 # Sort them all
@@ -147,6 +161,7 @@ open_html_contents.sort()
 nus_html_contents.sort()
 iceland_html_contents.sort()
 po_html_contents.sort()
+saio_html_contents.sort()
 
 def build_table(table, html_contents, diff_mapper):
     table.clear()
@@ -218,6 +233,7 @@ with open('docs/index.html') as html:
     nus_table = soup.find('table', {'id': 'nus-kattis-table'})
     iceland_table = soup.find('table', {'id': 'iceland-kattis-table'})
     po_table = soup.find('table', {'id': 'po-kattis-table'})
+    saio_table = soup.find('table', {'id': 'saio-kattis-table'})
 
     # Last updated
     last_updated = soup.find('p', {'id': 'last-updated'})
@@ -234,6 +250,9 @@ with open('docs/index.html') as html:
 
     # Sweden PO Kattis
     build_table(po_table, po_html_contents, po_diff_mapper)
+
+    # Svenska AI-olympiaden Kattis
+    build_table(saio_table, saio_html_contents, saio_diff_mapper)
 
 with open('docs/index.html', 'w+', encoding='utf-8') as new_html:
     new_html.write(str(soup.prettify()))
