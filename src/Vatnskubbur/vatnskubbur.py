@@ -1,0 +1,1 @@
+from subprocess import*;from collections import*;n=int(input());C=Counter(map(int,check_output(f"factor {n}",shell=1).split()[1:]));print(['Vonlaust!','Gengur!'][any(p*p<n>=1<C[p]for p in C)])
