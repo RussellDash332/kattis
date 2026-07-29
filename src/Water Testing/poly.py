@@ -1,0 +1,1 @@
+from math import*;N,*A=map(int,open(0).read().split());R=range(0,2*N,2);print((abs(sum(A[i]*A[i-1]-A[i-2]*A[i+1]for i in R))-sum(gcd(A[i]-A[i-2],A[i+1]-A[i-1])for i in R))//2+1)

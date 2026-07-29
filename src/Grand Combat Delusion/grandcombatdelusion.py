@@ -1,0 +1,1 @@
+from bisect import*;I=lambda:[*map(int,input().split())];n,m=I();h,d=I();c=[0]+sorted(I())+[10**18];s=I();f=lambda x:sum(~-i//(d+x)for i in s)<h;print(['Veski Eyleifs er bjargad',c[p:=bisect_left(c,1,key=f)],'Nu er Eyleifur i bobba'][~-min(i for i in range(max(p-1,0),min(p+2,n+2))if f(c[i]))//n+1])
