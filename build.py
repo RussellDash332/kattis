@@ -1,5 +1,6 @@
 import os
 from datetime import datetime
+from urllib.parse import quote
 from bs4 import BeautifulSoup as bs
 
 # Set up autokattis (hidden file)
@@ -69,7 +70,7 @@ for main_dir in ['src', 'Secret']:
             ext = file.split('.')[-1]
             if ext in image_mapper and file not in file_whitelist:
                 if main_dir == 'src':
-                    html_image_links.add((ext, f'https://raw.githubusercontent.com/RussellDash332/kattis/main/{ori_path}/{file}'))
+                    html_image_links.add((ext, f'https://raw.githubusercontent.com/RussellDash332/kattis/main/{quote(ori_path)}/{file}'))
                 else:
                     html_image_links.add((ext, '#'))
             if not has_cpp and ext == 'cpp':
