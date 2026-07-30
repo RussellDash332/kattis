@@ -1,21 +1,18 @@
-def mult(A, B):
-    C = [0]*(len(A)+len(B)-1)
-    for i in range(len(A)):
-        if A[i]:
-            for j in range(len(B)): C[i+j] += A[i]*B[j]; C[i+j] %= M
-    return C
-def rem(A, B):
-    Z = [*A]
-    for i in range(len(Z)-1, len(B)-2, -1):
-        if Z[i]:
-            for j in range(len(B)): Z[k:=i+j-len(B)+1] -= Z[i]*B[j]; Z[k] %= M
-    while Z and Z[-1] == 0: Z.pop()
-    return Z
 def kitamasa(c, a, n):
-    d = [1]; x = [0, 1]; f = [-i for i in c[::-1]]+[1]
+    k = len(c)
+    def m(x, y):
+        z = [0]*(2*k+1)
+        for i in range(k+1):
+            if x[i]:
+                for j in range(k+1): z[i+j] = (z[i+j]+x[i]*y[j])%M
+        for i in range(2*k, k, -1):
+            if z[i]:
+                for j in range(k): z[i-j-1] = (z[i-j-1]+z[i]*c[j])%M
+        return z[:k+1]
+    b = [0, 1]+[0]*~-k; v = [1]+[0]*k; n += 1
     while n:
-        if n%2: d = rem(mult(d, x), f)
-        n >>= 1; x = rem(mult(x, x), f)
-    return sum(p*q for p,q in zip(a,d))%M
+        if n%2: v = m(v, b)
+        b = m(b, b); n >>= 1
+    return sum(x*y for x,y in zip(a,v[1:]))%M
 M = 10**9+7; N, K = map(int, input().split()); K -= 1
 print(kitamasa([1]*K, [0]*~-K+[1], N+K-2))
