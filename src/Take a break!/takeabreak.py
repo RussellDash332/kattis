@@ -1,0 +1,1 @@
+n,*a=map(int,open(0).read().split());p=[s:=0]+[s:=s+i for i in sorted(a)[::-1]];print(min(sum((p[min(m*i+m,n)]-p[m*i])<<i for i in range(n//m+1))+~-m*3600for m in range(n//12+1,n+1)))

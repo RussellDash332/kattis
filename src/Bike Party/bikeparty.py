@@ -1,0 +1,1 @@
+N,*V=map(int,open(T:=0).read().split());Z=[T:=T+V[2*i]-V[2*i+1]for i in range(N)];print([-~max(range(N),key=lambda x:(-Z[x],x))%N+1,'impossible'][0>Z[-1]or Z.count(M:=min(Z))>1>Z[-1]**2])
