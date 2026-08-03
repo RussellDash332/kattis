@@ -1,4 +1,3 @@
-INF = 10**36
 def lapjv(mat):
     if len(mat) > len(mat[0]): mat = [*map(list, zip(*mat))]
     n, m = len(mat), len(mat[0]); D = [0]*m; P = [0]*m; mtc = [-1]*n; cm = [-1]*m; C = [*range(m)]; pr = [0]*m; d = 0
@@ -27,17 +26,6 @@ def lapjv(mat):
         r = -1
         while r != i: r = cm[c] = pr[c]; c, mtc[r] = mtc[r], c
     return sum(mat[i][mtc[i]] for i in range(n))
-n = int(input())
-A, B, C = map(int, input().split())
-x = [*map(int, input().split())]
-M = [[INF]*n for _ in range(n)]
-def f(X, Y):
-    b = 0; r = INF
-    while max(X, 1)<<b <= Y:
-        D = Y-(X<<b); a = 0
-        for c in range(b, -1, -1): a += D>>c; D -= (D>>c)<<c
-        r = min(r, A*a+B*b); b += 1
-    return r
-for i in range(n):
-    for j in range(n): M[i][j] = C+f(0, x[j]) if i >= j else min(C+f(0, x[j]), f(x[i], x[j]))
-print(lapjv(M)-C)
+n, m = map(int, input().split()); C = [[10**(9-3*(i==j)) for j in range(n)] for i in range(n)]
+for _ in  range(m): f, h, a = map(int, input().split()); C[f-1][h-1] = 10**6-a
+print((10**6*n-lapjv(C))/20)

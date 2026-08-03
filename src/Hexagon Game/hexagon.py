@@ -1,29 +1,33 @@
 import sys; input = sys.stdin.readline
-from array import *
 from collections import *
-def hungarian(mat):
-    INF = 10**9; n = len(mat)+1; m = len(mat[0])+1; ans = 0; ii = [0]*max(m, n)
-    mtc = array('i', ii); u = array('i', ii); v = array('i', ii); w = array('i', ii); c = 0
-    mat = [array('i', ii), *(array('i', [0]+r) for r in mat)]
-    for i in range(1, n):
-        mtc[0] = i; mi = array('i', [INF]*m); vis = array('i', ii)
-        while 1:
-            vis[c] = 1; d = INF; c2 = 0
-            for j in range(1, m):
-                if vis[j]: continue
-                if (cur:=mat[mtc[c]][j]-u[mtc[c]]-v[j]) < mi[j]: mi[j] = cur; w[j] = c
-                if mi[j] < d: d = mi[j]; c2 = j
-            for j in range(m):
-                if vis[j]: u[mtc[j]] += d; v[j] -= d
-                else: mi[j] -= d
-            if mtc[(c:=c2)] == 0: break
-        while 1:
-            mtc[c] = mtc[w[c]]
-            if (c:=w[c]) == 0: break
-    for i in range(1, m):
-        if mtc[i]: ans += mat[mtc[i]][i]
-    return ans
-
+def lapjv(mat):
+    if len(mat) > len(mat[0]): mat = [*map(list, zip(*mat))]
+    n, m = len(mat), len(mat[0]); D = [0]*m; P = [0]*m; mtc = [-1]*n; cm = [-1]*m; C = [*range(m)]; pr = [0]*m; d = 0
+    for i in range(n):
+        for c in range(m): D[c] = mat[i][c]-P[c]; pr[c] = i
+        s = t = x = z = 0
+        while z^1:
+            if s == t:
+                x = s; d = D[C[t]]; t += 1
+                for j in range(t, m):
+                    if d < D[c:=C[j]]: continue
+                    if d > D[c]: d = D[c]; t = s
+                    C[j], C[t] = C[t], C[j]; t += 1
+                for j in range(s, t):
+                    if cm[c:=C[j]] < 0: z = 1; break
+                if z: break
+            r = cm[e:=C[s]]; s += 1
+            for j in range(t, m):
+                if D[c:=C[j]] <= (v:=mat[r][c]-mat[r][e]+P[e]-P[c]+d): continue
+                D[c] = v; pr[c] = r
+                if v == d:
+                    if cm[c] < 0: z = 1; break
+                    C[j], C[t] = C[t], C[j]; t += 1
+            if z: break
+        for j in range(x): P[C[j]] += D[C[j]]-d
+        r = -1
+        while r != i: r = cm[c] = pr[c]; c, mtc[r] = mtc[r], c
+    return sum(mat[i][mtc[i]] for i in range(n))
 for tc in range(1, int(input())+1):
     p = [*map(int, input().split())]; v = [*map(int, input().split())]; s = len(p)
     mat1 = [[1000]*s for _ in range(s)]; mat2 = [[1000]*s for _ in range(s)]; mat3 = [[1000]*s for _ in range(s)]
@@ -49,4 +53,4 @@ for tc in range(1, int(input())+1):
             mat1[i][j] = v[i]*D[hexa[(s-1)//2][j]]
             mat2[i][j] = v[i]*D[hexa[j][min((s-1)//2, j)]]
             mat3[i][j] = v[i]*D[hexa[j][len(hexa[j])-1-min((s-1)//2, j)]]
-    print(f'Case #{tc}:', min(map(hungarian, (mat1, mat2, mat3))))
+    print(f'Case #{tc}:', min(map(lapjv, (mat1, mat2, mat3))))
