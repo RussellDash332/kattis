@@ -1,0 +1,1 @@
+from array import*;N,*A=map(int,open(0).read().split());S=array('I',range(N));print(*[-~S.pop(~i+N-A[~i])for i in range(N)][::-1])
