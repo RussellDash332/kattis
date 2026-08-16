@@ -1,0 +1,1 @@
+from functools import*;q=lambda i,j:-int(input(f'? {i} {j}\n'));print('!',*sorted(range(1,int(input())+1),key=cmp_to_key(q)))
