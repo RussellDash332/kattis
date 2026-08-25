@@ -11,8 +11,9 @@ c[-1][-1] = 1
 
 def mul(a, b):
     c = [[0]*102 for _ in range(102)]
-    for i in range(102):
-        for j in range(102): c[i][j] = sum(a[i][k]*b[k][j] for k in range(102))
+    for i, ci in enumerate(c):
+        for j, ax in enumerate(a[i]):
+            for k, by in enumerate(b[j]): ci[k] += ax*by
     return c
 
 def pow(mat, n):

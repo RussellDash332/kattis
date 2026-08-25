@@ -12,11 +12,9 @@ def inv_mod(a, m):
 
 def mul(a, b):
     c = [[0]*n for _ in range(n)]
-    for i in range(n):
-        for j in range(n):
-            c[i][j] = a[i][0]*b[0][j]
-            for k in range(1, n): c[i][j] += a[i][k]*b[k][j]
-            c[i][j] %= 37
+    for i, ci in enumerate(c):
+        for j, ax in enumerate(a[i]):
+            for k, by in enumerate(b[j]): ci[k] = (ci[k]+ax*by)%37
     return c
 
 mem = {}

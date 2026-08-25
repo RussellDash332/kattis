@@ -1,8 +1,8 @@
 def mul(A, B):
     C = [[0]*len(B[0]) for _ in range(len(A))]
-    for i in range(len(A)):
-        for j in range(len(B[0])):
-            for k in range(len(A[0])): C[i][j] += A[i][k]*B[k][j]
+    for i, ci in enumerate(C):
+        for j, ax in enumerate(A[i]):
+            for k, by in enumerate(B[j]): ci[k] += ax*by
     return C
 
 def dot(u, v):

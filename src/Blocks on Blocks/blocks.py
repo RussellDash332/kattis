@@ -1,10 +1,8 @@
 def mul(a, b):
     c = [[0]*4 for _ in range(4)]
-    for i in range(4):
-        for j in range(4):
-            c[i][j] = 0
-            for k in range(4): c[i][j] += a[i][k]*b[k][j]
-            c[i][j] %= 10000
+    for i, ci in enumerate(c):
+        for j, ax in enumerate(a[i]):
+            for k, by in enumerate(b[j]): ci[k] = (ci[k]+ax*by)%10000
     return c
 
 def matpow(mat, n):

@@ -1,8 +1,8 @@
 def mul(a, b):
     c = [[0]*N for _ in range(N)]
-    for i in range(N):
-        for j in range(N):
-            for k in range(N): c[i][j] += a[i][k]*b[k][j]; c[i][j] %= M
+    for i, ci in enumerate(c):
+        for j, ax in enumerate(a[i]):
+            for k, by in enumerate(b[j]): ci[k] = (ci[k]+ax*by)%M
     return c
 
 def matpow(m, k):

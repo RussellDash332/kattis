@@ -1,10 +1,9 @@
 MOD = 10**9+7; L = 11; R = range
 def mul(a, b):
     c = [[0]*L for _ in R(L)]
-    for i in R(L):
-        for j in R(L):
-            for k in R(L): c[i][j] += a[i][k]*b[k][j]
-            c[i][j] %= MOD
+    for i, ci in enumerate(c):
+        for j, ax in enumerate(a[i]):
+            for k, by in enumerate(b[j]): ci[k] = (ci[k]+ax*by)%MOD
     return c
 def mp(m, n):
     if n == 1: return m
