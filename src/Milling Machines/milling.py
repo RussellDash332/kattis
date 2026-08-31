@@ -1,0 +1,1 @@
+I=lambda:[*map(int,input().split())];W,S=I();X,Y=I();U=[I()for _ in'.'*W];V=[*map(max,zip(*(I()for _ in'.'*S)))];print(*(min(x,Y-y)for u in U for x,y in zip(u,V)))
