@@ -1,0 +1,1 @@
+n,*w=open(0);t=max(z:=[' dleouna'.index(i[2])for i in w]);print(sum(z)+t*z.count(1)if t>1else 1)

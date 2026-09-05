@@ -146,6 +146,7 @@ for main_dir in ['src', 'Secret']:
 # Sanity check before writing
 assert not key_errors, key_errors
 assert not duplicate_paths, duplicate_paths
+assert not (z:=[p for p in paths if p+' (1)' in p]), z
 assert not any([iceland_diff_mapper, po_diff_mapper, saio_diff_mapper, diff_mapper, nus_problems]), {
     'iceland': iceland_diff_mapper,
     'po': po_diff_mapper,

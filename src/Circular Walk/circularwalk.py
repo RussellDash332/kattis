@@ -1,1 +1,1 @@
-from math import*;n,b,k=map(int,input().split());d=gcd(n,k);print('YNEOS'[b%d>0::2])
+import math;n,b,k=map(int,input().split());print('YNEOS'[b%math.gcd(n,k)>0::2])
