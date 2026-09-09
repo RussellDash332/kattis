@@ -1,0 +1,1 @@
+from functools import*;f=cache(lambda n,k:(k>0)/2if n<2or k<1else(f(n-1,k-1)+f(n,k-1)+1)/2);print(f(*map(int,input().split())))
