@@ -1,0 +1,1 @@
+p,a,h,s,u=map(int,open(0).read().split());print([z:=(u**-~(~-a//(h*s))-1)//(u-1)*s,'no'][z>p])
