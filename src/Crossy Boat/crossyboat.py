@@ -1,0 +1,1 @@
+L,_,*P=map(int,open(0).read().split());T=max(P[::4]);V=[((A:=t+x-y-T)-L,max(A+w+1,0))for t,x,y,w in zip(*[iter(P)]*4)];print(min(e for _,e in V if 1-any(x<=e<y for x,y in V)))
