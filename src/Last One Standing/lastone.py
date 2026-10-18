@@ -1,0 +1,1 @@
+H,D,T,h,d,t=map(int,open(0).read().split());u=~-h//D*T-~-H//d*t;print(['draw','player one','player two'][(u<0)-(u>0)])
