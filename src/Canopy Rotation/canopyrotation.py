@@ -1,0 +1,1 @@
+from cmath import*;A,B,C,D=map(int,input().split());P=[x+y*1jfor x in(-C,C)for y in(-D,D)];M=6**7;print(sum(all((abs((q:=exp(x/M*pi*1j)*t).real)<=A)*(abs(q.imag)<=B)for t in P)for x in range(M))/M*100)
